@@ -1,0 +1,28 @@
+.grid1,
+.grid2,
+.grid3,
+.grid4,
+.grid5,
+.grid6,
+.grid7,
+.grid8,
+.grid9,
+.grid10,
+.grid11,
+.grid12, {
+  display: grid;
+}
+
+
+.grid1  { grid-template-columns: repeat(auto-fit, minmax(var(--space1 ), 1fr)); }
+.grid2  { grid-template-columns: repeat(auto-fit, minmax(var(--space2 ), 1fr)); }
+.grid3  { grid-template-columns: repeat(auto-fit, minmax(var(--space3 ), 1fr)); }
+.grid4  { grid-template-columns: repeat(auto-fit, minmax(var(--space4 ), 1fr)); }
+.grid5  { grid-template-columns: repeat(auto-fit, minmax(var(--space5 ), 1fr)); }
+.grid6  { grid-template-columns: repeat(auto-fit, minmax(var(--space6 ), 1fr)); }
+.grid7  { grid-template-columns: repeat(auto-fit, minmax(var(--space7 ), 1fr)); }
+.grid8  { grid-template-columns: repeat(auto-fit, minmax(var(--space8 ), 1fr)); }
+.grid9  { grid-template-columns: repeat(auto-fit, minmax(var(--space9 ), 1fr)); }
+.grid10 { grid-template-columns: repeat(auto-fit, minmax(var(--space10), 1fr)); }
+.grid11 { grid-template-columns: repeat(auto-fit, minmax(var(--space11), 1fr)); }
+.grid12 { grid-template-columns: repeat(auto-fit, minmax(var(--space12), 1fr)); }

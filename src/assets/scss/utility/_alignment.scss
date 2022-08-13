@@ -1,0 +1,34 @@
+/* Reverse */
+.rowreverse { flex-direction: row-reverse; }
+.colreverse { flex-direction: column-reverse, }
+
+
+/* Main axis */
+.jfycenter  { justify-content: center;        }
+.jfystart   { justify-content: flex-start;    }
+.jfyend     { justify-content: flex-end;      }
+.jfybetween { justify-content: space-between; }
+.jfyaround  { justify-content: space-around;  }
+.jfyevenly  { justify-content: space-evenly;  }
+
+
+/* Cross axis */
+.itemscenter  { align-items: center;     }
+.itemsstart   { align-items: flex-start; }
+.itemsend     { align-items: flex-end;   }
+.itemsbase    { align-items: baseline;   }
+.itemsstretch { align-items: stretch;    }
+
+.selfauto    { align-self: auto;       }
+.selfcenter  { align-self: center;     }
+.selfstart   { align-self: flex-start; }
+.selfend     { align-self: flex-end;   }
+.selfbase    { align-self: baseline;   }
+.selfstretch { align-self: stretch;    }
+
+
+/* Text align */
+.textcenter { text-align: center;  }
+.textend    { text-align: end;     }
+.textjfy    { text-align: justify; }
+

@@ -1,0 +1,97 @@
+/* for more ideas see: http://1mb.club/blog/hamburger-menu-alternative/
+   and https://lea.verou.me/2012/04/background-attachment-local/ */
+.reelauto,
+.reel3,
+.reel4,
+.reel5,
+.reel6,
+.reel7,
+.reel8,
+.reel9,
+.reel10,
+.reel11,
+.reel12 {
+  display: flex;
+  block-size: auto;
+  overflow-x: auto;
+  overflow-y: hidden;
+  /* First value: thumb; second value: track */
+  /* scrollbar-color: var(--clr-primary) var(--bg-secondary); */
+  /* scrollbar-width: none; removes scroller on firefox */
+}
+
+.reelauto::-webkit-scrollbar,
+.reel3::-webkit-scrollbar,
+.reel4::-webkit-scrollbar,
+.reel5::-webkit-scrollbar,
+.reel6::-webkit-scrollbar,
+.reel7::-webkit-scrollbar,
+.reel8::-webkit-scrollbar,
+.reel9::-webkit-scrollbar,
+.reel10::-webkit-scrollbar,
+.reel11::-webkit-scrollbar,
+.reel12::-webkit-scrollbar { block-size: 1rem; /* display: none; hides it */ }
+
+.reelauto::-webkit-scrollbar-track,
+.reel3::-webkit-scrollbar-track,
+.reel4::-webkit-scrollbar-track,
+.reel5::-webkit-scrollbar-track,
+.reel6::-webkit-scrollbar-track,
+.reel7::-webkit-scrollbar-track,
+.reel8::-webkit-scrollbar-track,
+.reel9::-webkit-scrollbar-track,
+.reel10::-webkit-scrollbar-track,
+.reel11::-webkit-scrollbar-track,
+.reel12::-webkit-scrollbar-track {
+  background-color: var(--bg-secondary);
+  border: 2px solid var(--clr-primary);
+}
+
+.reelauto::-webkit-scrollbar-thumb,
+.reel3::-webkit-scrollbar-thumb,
+.reel4::-webkit-scrollbar-thumb,
+.reel5::-webkit-scrollbar-thumb,
+.reel6::-webkit-scrollbar-thumb,
+.reel7::-webkit-scrollbar-thumb,
+.reel8::-webkit-scrollbar-thumb,
+.reel9::-webkit-scrollbar-thumb,
+.reel10::-webkit-scrollbar-thumb,
+.reel11::-webkit-scrollbar-thumb,
+.reel12::-webkit-scrollbar-thumb {
+  background-color: var(--clr-primary);
+  /* Insetting the thumb (top/bottom padding) */
+  /* background-image: linear-gradient(var(--bg-secondary) 0, 
+                                       var(--bg-secondary) 0.25rem,
+                                       var(--clr-primary) .25rem, 
+                                       var(--clr-primary) .75rem, 
+                                       var(--bg-secondary) 0.75rem);*/
+}
+
+/* Set a different width or reel slides */
+.reelauto > * { flex: 0 0 auto; }
+.reel3    > * { flex: 0 0 var(--space3); }
+.reel4    > * { flex: 0 0 var(--space4); }
+.reel5    > * { flex: 0 0 var(--space5); }
+.reel6    > * { flex: 0 0 var(--space6); }
+.reel7    > * { flex: 0 0 var(--space7); }
+.reel8    > * { flex: 0 0 var(--space8); }
+.reel9    > * { flex: 0 0 var(--space9); }
+.reel10   > * { flex: 0 0 var(--space10); }
+.reel11   > * { flex: 0 0 var(--space11); }
+.reel12   > * { flex: 0 0 var(--space12); }
+
+.reelauto > img,
+.reel3    > img,
+.reel4    > img,
+.reel5    > img,
+.reel6    > img,
+.reel7    > img,
+.reel8    > img,
+.reel9    > img,
+.reel10   > img,
+.reel11   > img,
+.reel12   > img {
+  block-size: 100%;
+  flex-basis: auto;
+  width: auto;
+}

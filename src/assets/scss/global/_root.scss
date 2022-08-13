@@ -1,0 +1,152 @@
+:root {
+
+  /* Color palette */
+  --primary50:  hsl();
+  --primary100: hsl();
+  --primary200: hsl();
+  --primary300: hsl();
+  --primary400: hsl();
+  --primary500: hsl();
+  --primary600: hsl();
+  --primary700: hsl();
+  --primary800: hsl();
+  --primary900: hsl();
+
+  --neutral50:  hsl();
+  --neutral100: hsl();
+  --neutral100: hsl();
+  --neutral200: hsl();
+  --neutral300: hsl();
+  --neutral400: hsl();
+  --neutral500: hsl();
+  --neutral600: hsl();
+  --neutral700: hsl();
+  --neutral800: hsl();
+  --neutral900: hsl();
+
+  --accent50:  hsl();
+  --accent100: hsl();
+  --accent200: hsl();
+  --accent300: hsl();
+  --accent400: hsl();
+  --accent500: hsl();
+  --accent600: hsl();
+  --accent700: hsl();
+  --accent800: hsl();
+  --accent900: hsl();
+
+
+
+  /* Font families */
+  --sans: sans-serif;
+  --serif: serif;
+
+
+  /* Font weights */
+  --weight400: 400;
+  --weight700: 700;
+
+  /* Line heights */
+  --linebody: 1.5;
+  --linehead: 1;
+
+
+  /* Font sizes
+     https://utopia.fyi/type/calculator?c=320,16,1.2,1200,24,1.333,7,2,&s=0.75|
+     0.5|0.25,1.5|2|3|4|6,s-l */
+  --step-2: clamp(0.69rem, calc(0.64rem + 0.27vw), 0.84rem);
+  --step-1: clamp(0.83rem, calc(0.73rem + 0.53vw), 1.13rem);
+  --step0: clamp(1.00rem, calc(0.82rem + 0.91vw), 1.50rem);
+  --step1: clamp(1.20rem, calc(0.91rem + 1.45vw), 2.00rem);
+  --step2: clamp(1.44rem, calc(0.99rem + 2.23vw), 2.67rem);
+  --step3: clamp(1.73rem, calc(1.06rem + 3.32vw), 3.55rem);
+  --step4: clamp(2.07rem, calc(1.11rem + 4.84vw), 4.74rem);
+  --step5: clamp(2.49rem, calc(1.10rem + 6.95vw), 6.31rem);
+  --step6: clamp(2.99rem, calc(1.01rem + 9.87vw), 8.42rem);
+  --step7: clamp(3.58rem, calc(0.81rem + 13.88vw), 11.22rem);
+
+
+  /* Spacing sizes
+     https://utopia.fyi/space/calculator?c=320,16,1.2,1200,20,1.414,5,2,&s=0.75|
+     0.5|0.25,1.5|2|3|4|6|8|12|16|24|32|40|48|60,s-l */
+  --3xs: clamp(0.25rem, calc(0.23rem + 0.11vw), 0.31rem);
+  --2xs: clamp(0.50rem, calc(0.45rem + 0.23vw), 0.63rem);
+  --xs: clamp(0.75rem, calc(0.68rem + 0.34vw), 0.94rem);
+  --s: clamp(1.00rem, calc(0.91rem + 0.45vw), 1.25rem);
+  --m: clamp(1.50rem, calc(1.36rem + 0.68vw), 1.88rem);
+  --l: clamp(2.00rem, calc(1.82rem + 0.91vw), 2.50rem);
+  --xl: clamp(3.00rem, calc(2.73rem + 1.36vw), 3.75rem);
+  --2xl: clamp(4.00rem, calc(3.64rem + 1.82vw), 5.00rem);
+  --3xl: clamp(6.00rem, calc(5.45rem + 2.73vw), 7.50rem);
+  --4xl: clamp(8.00rem, calc(7.27rem + 3.64vw), 10.00rem);
+  --5xl: clamp(12.00rem, calc(10.91rem + 5.45vw), 15.00rem);
+  --6xl: clamp(16.00rem, calc(14.55rem + 7.27vw), 20.00rem);
+  --7xl: clamp(24.00rem, calc(21.82rem + 10.91vw), 30.00rem);
+  --8xl: clamp(32.00rem, calc(29.09rem + 14.55vw), 40.00rem);
+  --9xl: clamp(40.00rem, calc(36.36rem + 18.18vw), 50.00rem);
+  --10xl: clamp(48.00rem, calc(43.64rem + 21.82vw), 60.00rem);
+  --11xl: clamp(60.00rem, calc(54.55rem + 27.27vw), 75.00rem);
+
+  /* Step-up spacing sizes (these are the ones that are used) */
+  --space-3: clamp(0.25rem, calc(0.11rem + 0.68vw), 0.63rem);
+  --space-2: clamp(0.50rem, calc(0.34rem + 0.80vw), 0.94rem);
+  --space-1: clamp(0.75rem, calc(0.57rem + 0.91vw), 1.25rem);
+  --space0: clamp(1.00rem, calc(0.68rem + 1.59vw), 1.88rem);
+  --space1: clamp(1.50rem, calc(1.14rem + 1.82vw), 2.50rem);
+  --space2: clamp(2.00rem, calc(1.36rem + 3.18vw), 3.75rem);
+  --space3: clamp(3.00rem, calc(2.27rem + 3.64vw), 5.00rem);
+  --space4: clamp(4.00rem, calc(2.73rem + 6.36vw), 7.50rem);
+  --space5: clamp(6.00rem, calc(4.55rem + 7.27vw), 10.00rem);
+  --space6: clamp(8.00rem, calc(5.45rem + 12.73vw), 15.00rem);
+  --space7: clamp(12.00rem, calc(9.09rem + 14.55vw), 20.00rem);
+  --space8: clamp(16.00rem, calc(10.91rem + 25.45vw), 30.00rem);
+  --space9: clamp(24.00rem, calc(18.18rem + 29.09vw), 40.00rem);
+  --space10: clamp(32.00rem, calc(25.45rem + 32.73vw), 50.00rem);
+  --space11: clamp(40.00rem, calc(32.73rem + 36.36vw), 60.00rem);
+  --space12: clamp(48.00rem, calc(38.18rem + 49.09vw), 75.00rem);
+
+
+  /* Border sizes */
+  --border-2: 2px;
+  --border-1: 3px;
+  --border0:  5px;
+  --border1:  8px;
+  --border2: 12px;
+
+
+  /* Border radius sizes */
+  --radius-2: 5px;
+  --radius-1: 8px;
+  --radius0: 12px;
+  --radius1: 16px;
+  --radius2: 22px;
+
+
+  /* Shadows */
+   --inblur-2: inset 0  1px  3px hsla(0, 0%, 0%, .12),
+                     0  1px  2px hsla(0, 0%, 0%, .24);
+  --outblur-2:       0  1px  3px hsla(0, 0%, 0%, .12),
+                     0  1px  2px hsla(0, 0%, 0%, .24);
+   --inblur-1: inset 0  3px  6px hsla(0, 0%, 0%, .15),
+                     0  2px  4px hsla(0, 0%, 0%, .12);
+  --outblur-1:       0  3px  6px hsla(0, 0%, 0%, .15),
+                     0  2px  4px hsla(0, 0%, 0%, .12);
+   --inblur0:  inset 0 10px 20px hsla(0, 0%, 0%, .15),
+                     0  3px  6px hsla(0, 0%, 0%,  .1);
+  --outblur0:        0 10px 20px hsla(0, 0%, 0%, .15),
+                     0  3px  6px hsla(0, 0%, 0%,  .1);
+   --inblur1:  inset 0 15px 25px hsla(0, 0%, 0%, .15),
+                     0  5px 10px hsla(0, 0%, 0%, .05);
+  --outblur1:        0 15px 25px hsla(0, 0%, 0%, .15),
+                     0  5px 10px hsla(0, 0%, 0%, .05);
+   --inblur2:  inset 0 15px 35px hsla(0, 0%, 0%,  .2);
+  --outblur2:        0 15px 35px hsla(0, 0%, 0%,  .2);
+
+  --outsolid-2: 0 3px 0 hsl(0, 0%, 0%, .05);
+  --outsolid-1: 0 3px 0 hsl(0, 0%, 0%,  .1);
+  --outsolid0:  0 3px 0 hsl(0, 0%, 0%,  .2);
+  --outsolid1:  0 3px 0 hsl(0, 0%, 0%, .35);
+  --outsolid2:  0 3px 0 hsl(0, 0%, 0%,  .5);
+
+
+}

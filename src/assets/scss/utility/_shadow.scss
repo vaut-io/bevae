@@ -1,0 +1,19 @@
+/* Shadow (blur) */
+.iblur-2 { box-shadow: var(--inblur-2 ); }
+.oblur-2 { box-shadow: var(--outblur-2); }
+.iblur-1 { box-shadow: var(--inblur-1 ); }
+.oblur-1 { box-shadow: var(--outblur-1); }
+.iblur0  { box-shadow: var(--inblur0  ); }
+.oblur0  { box-shadow: var(--outblur0 ); }
+.iblur1  { box-shadow: var(--inblur1  ); }
+.oblur1  { box-shadow: var(--outblur1 ); }
+.iblur2  { box-shadow: var(--inblur2  ); }
+.oblur2  { box-shadow: var(--outblur2 ); }
+
+
+/* Shadow (solid) */
+.osolid-2 { box-shadow: var(--outsolid-2); }
+.osolid-1 { box-shadow: var(--outsolid-1); }
+.osolid0  { box-shadow: var(--outsolid0 ); }
+.osolid1  { box-shadow: var(--outsolid1 ); }
+.osolid2  { box-shadow: var(--outsolid2 ); }

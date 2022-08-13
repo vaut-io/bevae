@@ -1,0 +1,83 @@
+body {
+  font-family: var(--sans);
+  font-size: var(--step0);
+  font-weight: var(--weight400);
+  letter-spacing: +.03ch;
+  line-height: var(--linebody);
+}
+
+::selection {
+}
+
+
+/*:focus { outline: var(--border-2) solid var(--primary600); outline-offset: -5px;}*/
+
+
+h3,
+h4,
+p,
+li,
+blockquote:not([class]),
+figcaption {
+  max-inline-size: 50ch;
+}
+
+
+
+h1,
+h2,
+h3,
+h4 {
+  font-weight: var(--weight700);
+  letter-spacing: -.02ch;
+  line-height: var(--linehead);
+
+}
+
+h1,
+h2 {
+  max-inline-size: 20ch;
+}
+
+h1 {
+  font-family: var(--serif);
+  font-size: var(--step5);
+}
+
+h2 {
+  font-size: var(--step3);
+}
+
+
+h3 {
+  font-size: var(--step2);
+}
+
+h4 {
+  font-size: var(--step1);
+}
+
+a,
+button {
+  cursor: pointer;
+}
+
+
+a {
+  &:hover {}
+  &:focus {}
+  &:link {}
+  &:visited {}
+}
+
+
+b,
+strong {}
+
+i,
+em {}
+
+
+li {}
+
+::marker {}

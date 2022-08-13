@@ -1,0 +1,25 @@
+.sidebar {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Set the sidebar flex-basis */
+.side1  { flex: 1 1 var(--space1 ); }
+.side2  { flex: 1 1 var(--space2 ); }
+.side3  { flex: 1 1 var(--space3 ); }
+.side4  { flex: 1 1 var(--space4 ); }
+.side5  { flex: 1 1 var(--space5 ); }
+.side6  { flex: 1 1 var(--space6 ); }
+.side7  { flex: 1 1 var(--space7 ); }
+.side8  { flex: 1 1 var(--space8 ); }
+.side9  { flex: 1 1 var(--space9 ); }
+.side10 { flex: 1 1 var(--space10); }
+.side11 { flex: 1 1 var(--space11); }
+.side12 { flex: 1 1 var(--space12); }
+
+/* Set the main section break-point */
+.main50\% { flex: 999 1   50%;}
+.main60\% { flex: 999 1   60%;}
+.main67\% { flex: 999 1 66.7%;}
+.main75\% { flex: 999 1   75%;}
+.main80\% { flex: 999 1   80%;}

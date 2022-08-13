@@ -1,0 +1,19 @@
+.box {
+  /* Accessibility outline for high-contrast mode */
+  outline: .25rem solid transparent; 
+  outline-offset: -.25rem;
+
+  border: var(--border-1) dashed #888;
+  color: #222;
+  background: #eee;
+
+  * {
+    color: inherit;
+  }
+
+  &.invert {
+    border: var(--border-1) dashed #ccc;
+    color: #eee;
+    background: #222;    
+  }
+}

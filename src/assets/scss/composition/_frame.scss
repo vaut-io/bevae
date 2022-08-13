@@ -1,0 +1,36 @@
+.frame3\:1,
+.frame2\:1,
+.frame16\:9,
+.frame3\:2,
+.frame4\:3,
+.frame1\:1,
+.frame3\:4,
+.frame2\:3,
+.frame9\:16,
+.frame1\:2,
+.frame1\:3 {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  img,
+  video {
+    inline-size: 100%;
+    block-size: 100%;
+    object-fit: cover;
+  }
+}
+
+
+.frame3\:1  img, .frame3\:1  video { aspect-ratio:  3 /  1; }
+.frame2\:1  img, .frame2\:1  video { aspect-ratio:  2 /  1; }
+.frame16\:9 img, .frame16\:9 video { aspect-ratio: 16 /  9; }
+.frame3\:2  img, .frame3\:2  video { aspect-ratio:  3 /  2; }
+.frame4\:3  img, .frame4\:3  video { aspect-ratio:  4 /  3; }
+.frame1\:1  img, .frame1\:1  video { aspect-ratio:  1 /  1; }
+.frame3\:4  img, .frame3\:4  video { aspect-ratio:  3 /  4; }
+.frame2\:3  img, .frame2\:3  video { aspect-ratio:  2 /  3; }
+.frame9\:16 img, .frame9\:16 video { aspect-ratio:  9 / 16; }
+.frame1\:2  img, .frame1\:2  video { aspect-ratio:  1 /  2; }
+.frame1\:3  img, .frame1\:3  video { aspect-ratio:  1 /  3; }
