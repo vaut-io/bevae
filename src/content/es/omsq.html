@@ -265,8 +265,7 @@ description:
   const form = document.querySelector('form');
   const totalField = document.createElement('input');
   totalField.name = 'total';
-  totalField.style.visibility = 'hidden';
-  totalField.style.position = 'absolute';
+  totalField.setAttribute('data-hidden', 'true');
   totalField.setAttribute('value', 0);
   form.appendChild(totalField);
   form.addEventListener('click', () => {
