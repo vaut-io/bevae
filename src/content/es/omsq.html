@@ -9,12 +9,11 @@ description:
   <h1 class="centerx">ÖMSQ-12</h1>
   <form netlify netlify-honeypot="bot-field" action="/exito/" class="stack g3 itemscenter" name="omsq-12_es">
     <div class="stack g0">
+      <input type="hidden" name="subject" value="[BEVAE] Formulario rellenado: ÖMSQ-12">
       <label data-hidden="true">¡No rellenes este campo si eres humano!
         <input name="bot-field">
       </label>
-      <label style="display:none">Fecha (no rellenar)
-        <input required name="fecha" type="date">
-      </label>
+      <input required name="fecha" type="date" style="display:none">
       <label>Nombre y apellidos<br>
         <input required name="nombre" type="text">
       </label>
@@ -250,9 +249,7 @@ description:
       </ol>
     </fieldset>
 
-    <label style="display:none">Total (no rellenar)
-      <input id="total" name="total" type="number" value="0">
-    </label>
+    <input id="total" name="total" type="number" value="0" style="display:none">
 
     <button class="px2 py-2 fs1 fw700" type="submit">Enviar</button>
 
