@@ -1,0 +1,4 @@
+{
+  "locale": "es",
+  "permalink": "/{{ locale }}/{{ page.fileSlug }}/"
+}

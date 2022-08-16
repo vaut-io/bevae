@@ -1,0 +1,9 @@
+form {
+  legend {
+    font-size: var(--step1);
+    font-weight: var(--weight700);
+  }
+  input[type="radio"] {
+    accent-color: orange;
+  }
+}
