@@ -263,32 +263,18 @@ description:
 
   // Get total score and export it with the form
   const form = document.querySelector('form');
-  form.addEventListener('submit', () => {
+  const totalField = document.createElement('input');
+  totalField.name = 'total';
+  totalField.style.display = 'none';
+  form.appendChild(totalField);
+  form.addEventListener('click', () => {
     let questions = Array.from(document.querySelectorAll('input[name^="q"]:checked'));
     let questionValues = questions.map(element => {
       if (element.name === 'q8' || element.name === 'q11') return 10 - parseInt(element.value);
       return parseInt(element.value);
-    }); 
-
-    let totalSum = questionValues.reduce((prev, curr) => {
-      return prev + curr;
-    }, 0);
-
-    const totalField = document.createElement('input');
-    totalField.name = 'total';
-    totalField.type = 'text';
+    });
+    let totalSum = questionValues.reduce((prev, curr) => prev + curr);
     totalField.value = totalSum;
-    totalField.setAttribute('data-hidden', 'true');
-    form.appendChild(totalField);
-    console.log(totalField);
-
-    // const sumWithInitial = questions.reduce((prev, curr) => prev + curr);
-
-  });
-
-  function sumTotal() {
-
-  }
-  
+  }); 
 </script>
 {% endblock %}
