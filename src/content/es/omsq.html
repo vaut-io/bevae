@@ -4,26 +4,27 @@ description:
 ---
 {% extends 'base.html' %}
 {% block body %}
-<main class="[ flow1 squeeze11 centerx stack g1 ] [ px0 py5 ]">
-  <h1>ÖMSQ-12</h1>
-  <form netlify netlify-honeypot="bot-field" action="/exito/" class="[ stack g3 itemscenter ] [ px0 ]" name="omsq-12_es">
+{% include 'partials/header.html' %}
+<main class="[ flow1 squeeze10 centerx stack g1 ] [ px0 pt0 pb5 ]">
+  <h1 class="centerx">ÖMSQ-12</h1>
+  <form netlify netlify-honeypot="bot-field" action="/exito/" class="stack g3 itemscenter" name="omsq-12_es">
     <div class="stack g0">
       <label data-hidden="true">¡No rellenes este campo si eres humano!
         <input name="bot-field">
       </label>
-      <label data-hidden="true">Fecha<br>
+      <label style="display:none">Fecha (no rellenar)
         <input required name="fecha" type="date">
       </label>
       <label>Nombre y apellidos<br>
         <input required name="nombre" type="text">
       </label>
-      <label>Dónde está o de qué<br>trata tu problema<br>
+      <label>Dónde está / de qué<br>trata tu problema<br>
         <input required name="problema" type="text">
       </label>
     </div>
 
-    <fieldset class="p3">
-      <legend>Háblanos sobre tu dolor o problema</legend>
+    <fieldset>
+      <legend>Háblanos sobre tu dolor o problema.</legend>
       <ol class="stack g3">
         <li class="stack g-1">
           <p>¿Hace cuánto tiempo empezó tu dolor o problema?</p>
@@ -42,7 +43,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>Valora cuánto te cuesta llevar a cabo todas tus actividades diarias.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q2" re type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q2" re type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q2" re type="radio" value="2">2</label>
@@ -58,7 +59,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>En los últimos 2-3 días, valora cuánta molestia te ha causado tu dolor o problema.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q3" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q3" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q3" type="radio" value="2">2</label>
@@ -74,7 +75,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>En los últimos 2-3 días, apróximadamente, ¿qué porcentage del día ocupa tu dolor o problema?<br><em class="fs-1">0 = nunca, 100 = constantemente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q4" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q4" type="radio" value="1">10</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q4" type="radio" value="2">20</label>
@@ -95,12 +96,12 @@ description:
 
 
 
-    <fieldset class="p3">
-      <legend>También necesitamos información sobre tus pensamientos y sensaciones</legend>
+    <fieldset>
+      <legend>También necesitamos información sobre tus pensamientos y sensaciones.</legend>
       <ol class="stack g3" start="5">
         <li class="stack g-1">
           <p>Durante los últimos 2-3 días, valora el nivel de tensión o ansiedad que has experimentado.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q5" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q5" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q5" type="radio" value="2">2</label>
@@ -116,7 +117,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>Durante los últimos 2-3 días, valora cómo de "deprimido" o "de bajón" te has sentido.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q6" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q6" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q6" type="radio" value="2">2</label>
@@ -132,7 +133,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>¿Qué riesgo crees que conlleva que tu dolor o problema <span style="text-decoration: underline;">no</span> mejore?<br><em class="fs-1">0 = ningún riesgo, 10 = gran riesgo</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q7" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q7" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q7" type="radio" value="2">2</label>
@@ -148,7 +149,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>Piensa en tu día a día. Valora cómo estás de satisfecho con tu situación actual.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q8" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q8" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q8" type="radio" value="2">2</label>
@@ -169,12 +170,12 @@ description:
 
 
 
-    <fieldset class="p3">
+    <fieldset>
       <legend>¿Cómo son de ciertas estas afirmaciones para tí?</legend>
       <ol class="stack g3" start="9">
         <li class="stack g-1">
           <p>La actividad físicas hace que mi dolor o problema empeore.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q9" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q9" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q9" type="radio" value="2">2</label>
@@ -190,7 +191,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>No debería llevar a cabo mi rutina diaria o trabajar con mi dolor o problema actual.<br><em class="fs-1">0 = para nada, 10 = completamente</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q10" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q10" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q10" type="radio" value="2">2</label>
@@ -211,12 +212,12 @@ description:
 
 
 
-    <fieldset class="p3">
-      <legend>Ayúdanos a conocer mejor tus capacidades físicas</legend>
+    <fieldset>
+      <legend>Ayúdanos a conocer mejor tus capacidades físicas.</legend>
       <ol class="stack g3" start="11">
         <li class="stack g-1">
           <p>Puedo andar durante 1 hora o realizar mis actividades deportivas/recreativas <span style="text-decoration: underline;">ligeras</span>.<br><em class="fs-1">0 = para nada, 10 = completamente normal</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q11" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q11" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q11" type="radio" value="2">2</label>
@@ -232,7 +233,7 @@ description:
         </li>
         <li class="stack g-1">
           <p>Gestiono mi rutina diaria y actividades sociales (ir de compras, movilizarme de un sitio a otro, quedar con amigos, etc.)<br><em class="fs-1">0 = para nada, 10 = completamente normal</em></p>
-          <div class="grid2 gy-1">
+          <div class="grid1 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q12" type="radio" value="0">0</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q12" type="radio" value="1">1</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q12" type="radio" value="2">2</label>
@@ -250,7 +251,7 @@ description:
     </fieldset>
 
     <label style="display:none">Total (no rellenar)
-      <input id="total" name="total" value="0">
+      <input id="total" name="total" type="number" value="0">
     </label>
 
     <button class="px2 py-2 fs1 fw700" type="submit">Enviar</button>
@@ -276,6 +277,6 @@ description:
     });
     let totalSum = questionValues.reduce((prev, curr) => prev + curr);
     totalField.setAttribute('value', totalSum);
-  }); 
+  });
 </script>
 {% endblock %}

@@ -1,9 +1,33 @@
 form {
+  padding: 0;
+  fieldset {
+    padding: var(--space3);
+    max-inline-size: var(--space12);
+    border: var(--border-2) solid black;
+    border-radius: var(--radius-1);
+  }
   legend {
     font-size: var(--step1);
     font-weight: var(--weight700);
+    text-align: center;
+    padding: 0 var(--space0);
+  }
+  input[type="text"] {
+    border: var(--border-2) solid black;
+    caret-color: #ff3300;
+    outline-color: #ff3300;
+    border-radius: var(--radius-1);
+    padding: var(--space-3);
   }
   input[type="radio"] {
-    accent-color: orange;
+    accent-color: #ff3300;
+  }
+  button[type="submit"] {
+    background: #ff3300;
+    color: white;
+    &:hover {
+      background: black;
+    }
+    border-radius: var(--radius-1);
   }
 }

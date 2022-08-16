@@ -1,9 +1,11 @@
 <header class="[ squeeze12 centerx flow1 ] [ p1 ]">
-  <a class="fs2" href="/" style="font-family: krona; color: black;">BEVAE</a>
+  <a class="fs2" href="/" style="font-family: krona; color: #ff3300;">BEVAE</a>
   <nav>
     <ul class="flow2/3">
       {% for entry in collections.spanish %}
+      {% if page.url == '/' %}
       <li><a href="{{ entry.url }}">{{ entry.data.title }} ({{ entry.data.locale }})</a></li>
+      {% endif %}
       {% endfor %}
     </ul>
   </nav>
