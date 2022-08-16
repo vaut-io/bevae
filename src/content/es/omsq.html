@@ -12,13 +12,13 @@ description:
         <input name="bot-field">
       </label>
       <label data-hidden="true">Fecha<br>
-        <input required type="date">
+        <input required name="fecha" type="date">
       </label>
       <label>Nombre y apellidos<br>
-        <input required type="text">
+        <input required name="nombre" type="text">
       </label>
       <label>Dónde está o de qué<br>trata tu problema<br>
-        <input required type="text">
+        <input required name="problema" type="text">
       </label>
     </div>
 
@@ -26,7 +26,7 @@ description:
       <legend>Háblanos sobre tu dolor o problema</legend>
       <ol class="stack g3">
         <li class="stack g-1">
-          <p>How long ago did your current pain or problem start?</p>
+          <p>¿Hace cuánto tiempo empezó tu dolor o problema?</p>
           <div class="grid5 gy-1">
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q1" type="radio" value="1"> 0-1 semanas</label>
             <label class="[ stack itemscenter ] [ fs-1 ]"><input required name="q1" type="radio" value="2"> 1-2 semanas</label>
@@ -256,7 +256,39 @@ description:
 
 <script>
   'use strict';
+
+  // Set date field to current date automagically
   const dateControl = document.querySelector('input[type="date"]');
   dateControl.valueAsDate = new Date();
+
+  // Get total score and export it with the form
+  const form = document.querySelector('form');
+  form.addEventListener('submit', () => {
+    let questions = Array.from(document.querySelectorAll('input[name^="q"]:checked'));
+    let questionValues = questions.map(element => {
+      if (element.name === 'q8' || element.name === 'q11') return 10 - parseInt(element.value);
+      return parseInt(element.value);
+    }); 
+
+    let totalSum = questionValues.reduce((prev, curr) => {
+      return prev + curr;
+    }, 0);
+
+    const totalField = document.createElement('input');
+    totalField.name = 'total';
+    totalField.type = 'text';
+    totalField.value = totalSum;
+    totalField.setAttribute('data-hidden', 'true');
+    form.appendChild(totalField);
+    console.log(totalField);
+
+    // const sumWithInitial = questions.reduce((prev, curr) => prev + curr);
+
+  });
+
+  function sumTotal() {
+
+  }
+  
 </script>
 {% endblock %}
