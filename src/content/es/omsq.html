@@ -266,6 +266,7 @@ description:
   const totalField = document.createElement('input');
   totalField.name = 'total';
   totalField.style.display = 'none';
+  totalField.setAttribute('value', 0);
   form.appendChild(totalField);
   form.addEventListener('click', () => {
     let questions = Array.from(document.querySelectorAll('input[name^="q"]:checked'));
@@ -274,7 +275,7 @@ description:
       return parseInt(element.value);
     });
     let totalSum = questionValues.reduce((prev, curr) => prev + curr);
-    totalField.value = totalSum;
+    totalField.setAttribute('value', totalSum);
   }); 
 </script>
 {% endblock %}
