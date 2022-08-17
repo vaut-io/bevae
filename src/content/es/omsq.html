@@ -269,7 +269,7 @@ description:
   form.addEventListener('click', () => {
     let questions = Array.from(document.querySelectorAll('input[name^="q"]:checked'));
     let questionValues = questions.map(element => {
-      if (element.name === 'q8' || element.name === 'q11') return 10 - parseInt(element.value);
+      if (element.name === 'q8' || element.name === 'q11' || element.name === 'q12' ) return 10 - parseInt(element.value);
       return parseInt(element.value);
     });
     let totalSum = questionValues.reduce((prev, curr) => prev + curr);
