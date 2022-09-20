@@ -14,14 +14,14 @@ module.exports = config => {
   // These files get "passed through" to the build
   config.addPassthroughCopy('src/assets/fonts');
   config.addPassthroughCopy('src/assets/img');
-  config.addPassthroughCopy('src/assets/style.css');
+  config.addPassthroughCopy('src/assets/styles.css');
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
     dir: {
       input: 'src',
-      output: 'build'
+      output: 'dist'
     }
   };
 };

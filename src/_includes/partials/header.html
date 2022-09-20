@@ -2,11 +2,12 @@
   <a class="fs2" href="/" style="font-family: krona; color: #ff3300;">BEVAE</a>
   <nav>
     <ul class="flow2/3">
-      {% for entry in collections.spanish %}
+      <li><a href="/sdt/">Self-determination theory</a></li>
       {% if page.url == '/' %}
+      {% for entry in collections.spanish %}
       <li><a href="{{ entry.url }}">{{ entry.data.title }} ({{ entry.data.locale }})</a></li>
-      {% endif %}
       {% endfor %}
+      {% endif %}
     </ul>
   </nav>
 </header>

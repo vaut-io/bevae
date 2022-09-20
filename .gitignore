@@ -11,5 +11,5 @@ Thumbs.db
 
 
 # Folders
-build
+dist
 node_modules

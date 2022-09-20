@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "rebuild": "rm -r build; eleventy",
+    "rebuild": "rm -r dist; eleventy",
     "start": "npx eleventy --serve",
     "style": "sass --watch src/assets/scss:src/assets/ --style=compressed"
   },
@@ -23,6 +23,6 @@
   "dependencies": {
     "@11ty/eleventy": "^1.0.1",
     "@11ty/eleventy-navigation": "^0.3.3",
-    "sass": "^1.54.3"
+    "sass": "^1.54.9"
   }
 }
