@@ -2,8 +2,9 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 module.exports = config => {
 
-  config.addCollection('english', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/*'));
-  config.addCollection('spanish', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/*'));
+  config.addCollection('en', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/*'));
+  config.addCollection('es', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/*'));
+  config.addCollection('articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/articles/*'));
 
   config.setNunjucksEnvironmentOptions({
     autoescape: false

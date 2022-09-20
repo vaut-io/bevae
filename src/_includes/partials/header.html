@@ -1,13 +1,10 @@
 <header class="[ squeeze12 centerx flow1 ] [ p1 ]">
   <a class="fs2" href="/" style="font-family: krona; color: #ff3300;">BEVAE</a>
   <nav>
-    <ul class="flow2/3">
-      <li><a href="/sdt/">Self-determination theory</a></li>
-      {% if page.url == '/' %}
-      {% for entry in collections.spanish %}
-      <li><a href="{{ entry.url }}">{{ entry.data.title }} ({{ entry.data.locale }})</a></li>
+    <ul class="flow1/3"><span class="fs2">Articles</span>
+      {% for entry in collections.articles %}
+      <li><a href="{{ entry.data.permalink }}">{{ entry.data.title }}{% if entry.data.subtitle%}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
       {% endfor %}
-      {% endif %}
     </ul>
   </nav>
 </header>
