@@ -129,7 +129,7 @@ As the motivations grounding our behavior shift from being characterized by exte
 
 #### The marathon runner
 
-A natural consequence of SDT is that there is rarely only one kind of motivation behind a behavior. We'll illustrate this with a thought experiment. Imagine that you just finished a marathon. What motivated you to train and participate in the race?
+A natural consequence of SDT is that there is rarely only one kind of motivation behind a behavior. We'll illustrate this with a thought experiment. Imagine that you just finished a marathon. What motivated you to train for and participate in the race?
 
 At the end of the race, there are likely free food and drinks. Perhaps you'll be given a physical medal contingent on your performance. If those were the only reasons you had to train and run in the marathon, you probably wouldn't have followed through with it (external regulation).
 
@@ -149,61 +149,67 @@ Some people's decision to participate may have been dominated by external and in
 
 ## Implications for clinical practice
 
-We've seen how different motivations might fit together to result in a behavior depending on the relative dominance of those motivations. We've also learned that over time, movement toward integrated regulation is a natural process given the right conditions. Let's take a step back and revisit the question we asked ourselves at the start.
+We've seen how different motivations might fit together to result in a motivational profile which leads to a behavior. We've also learned that over time, moving toward autonomous regulation is a natural process under the right conditions, and a desired outcome given its importance to maximizing success and well-being.
+
+Let's now take a step back and revisit the question we asked ourselves at the beginning of the article:
 
 **Why don't they just do what we say?**
 
-We're now in a position to see how the *premise of the question itself* is holding us back.
+We're now in a position to see this question in a new light. The *premise of the question itself* may be what is holding us back.
 
-Telling people what to do, threatening them with future consequences, or even promising external reward is the *worst* kind of motivation one can have. An approach informed by motivational psychology suggests that we should not attempt to motivate our patients in this way. We should instead create an environment which is supportive of our patients' basic psychological needs.
+Telling people what to do, threatening them with the possibility of future dire consequences, or even promising external reward is the *worst* kind of motivation one can have, apart from having none at all.
+
+A clinical approach to lifestyle change informed by motivational psychology suggests that we should not attempt to motivate our patients in this way. We should instead create an environment which is supportive of our patients' basic psychological needs, and let them cultivate their own autonomous motivations.
 
 ### Manipulate the clinical context
 
-The *clinical context* encapsulates the environment surrounding the clinician-patient interaction. From the clinic's physical setup to our body language, everything we do and say either facilitates or hinders an environment where our patients' autonomy, competence, and relatedness can thrive.
+We can think of the "environment" surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our own body language, everything we do and say either has a positive, negative, or neutral effect on our patients' needs for autonomy, competence, and relatedness.
 
-Even though we should not motivate someone by telling them what to do, we still have the potential to make a profound impact on shaping healthy behavioral patterns by facilitating their integration into the person's identity.
+We have the potential to make a powerful impact on shaping healthy behavioral patterns through the clinical context we create. Think about how you can modify your own clinical context to get the most out of it.
 
 ### Be a lifestyle coach
 
-The most profound conclusion we can draw from SDT encourages us to rethink the entire foundation of our practice:
+The most profound conclusion we can draw from SDT encourages us to rethink the entire foundation of our clinical practice:
 
 **Clinicians should not decide conclusions for their patients, patients should come to conclusions for themselves.**
 
-It may seem pedantic at first glance, but the implications are vast.
+It may not seem that radical at first glance, but the implications are vast.
 
 First and foremost, it demands a change in mindset: stop taking on a parental role when treating patients. You are now their *lifestyle coach.* You help your patients achieve their goals, but you do not get to decide their goals for them. You want the best for them, but you do not make decisions on their behalf.
 
-Secondly, trust and empathy always comes first. Every aspect of clinical practice is suffused by a strong therapeutic alliance. You work together as a team. There should be no hierarchical difference between you and the patient of which to speak. Everything else follows.
+Secondly, trust and empathy always comes first. Every facet of your clinical practice should be suffused by a strong therapeutic alliance. You and your patients are on the same team. Everything else follows.
 
 ### Amotivated, or conflicted?
 
-If a person is amotivated when it comes to changing a specific behavior, there is nothing you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, when you dig beneath the surface, most people are not truly amotivated when it comes to becoming healthier.
+If a patient is truly amotivated when it comes to changing a specific lifestyle behavior, there is nothing you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, when you dig beneath the surface, most people are not actually amotivated when it comes to these things.
 
-A patient might have conflicting motivations, negative previous experiences, or an unsupportive environment. They might be unsure of their own values and life goals. This complex internal struggle can then masquerade as indifference. It's your job as a lifestyle coach to pull these conflicting emotions out of your patients, lay them out on the table, and start to help them put together the jigsaw puzzle of their life.
+A patient might just have conflicting motivations, stemming from negative previous experiences or an unsupportive environment. They might be unsure of their own values and life goals. This complex internal struggle can then masquerade as indifference and amotivation.
 
-It cannot be overstated how essential trust and empathy are during this process. Without a strong therapeutic alliance, there is very little chance your patients will open up and be honest with you. It takes good communication and critical reasoning skills to navigate a person's internal landscape.
+It's your job as a lifestyle coach to pull these conflicting emotions out of your patients, lay them out on the table, and help them put together the jigsaw puzzle of their life.
+
+It cannot be overstated how essential trust and empathy are during this process. Without a strong therapeutic alliance, there is very little chance your patients will open up and be honest with you about themselves. It takes good communication and sharp critical reasoning skills to navigate a person's internal landscape.
 
 ### Motivational interviewing (MI)
 
 *Motivational interviewing* is a therapeutic technique which was developed specifically to tackle behavior change. It has its roots in addiction counseling, but MI has since been applied successfully in many other contexts, similar to SDT. Some people working on MI have even looked to SDT to explain why it works.
 
-Although we won't dive deep into how to do MI in this article, we've actually already covered a fair number of concepts which are relevant to the technique. Reflecting questions back to the patient to help them come to conclusions for themselves (autonomy), focusing on past successes to build self-efficacy (competence), and listening in an active and empathetic way (relatedness)—these are all fundamental to doing MI well.
+Although we won't fully explore how to do MI in this article, we've already covered a fair number of concepts which are relevant to the technique. Asking open-ended questions and reflecting answers back to the patient to help them reach conclusions by themselves (autonomy support), focusing on past successes to build self-efficacy (competence support), and listening in an active and empathetic way (relatedness support)—these are all fundamental to doing MI well.
 
 #### The decision matrix
 
-We'll finish up by introducing a tool that you can use in the clinic to implement some of the concepts we've discussed here. An activity which is sometimes done in MI is making a *decision matrix.* It's an activity you can do with your patients to increase the chance that they will commit to a behavior change when they might initially feel conflicted.
+We'll finish up by introducing an activity that you can use in the clinic with your patients, the *decision matrix.* It's an activity sometimes done in MI which can increase the chance that a person will commit to behavior change when they might initially feel conflicted about it.
 
-Making a decision matrix consists of drawing a 2x2 table (the so-called "matrix"). The patient then fills out the benefits (1) and drawbacks (2) of either continuing with the status quo (3) or making a change (4).
+Making a decision matrix consists of drawing a 2x2 table. The patient then writes down the benefits (1) and drawbacks (2) of either continuing with the status quo (3) or making a change (4). As you work through this activity, the patient comes to terms with the exact reasons why they are (or aren't) doing a certain behavior.
 
-During the course of this activity, the patient comes to terms with the exact reasons why they are (or are not) behaving in a certain way. You should actively try to highlight discrepencies between the patient's values and their current actions. You should also bring attention to previous situations where they have been successful in accomplishing difficult tasks in order to build their self-efficacy.
+You should actively try to highlight discrepencies between the patient's values and their current actions while bringing attention to previous situations where they have been successful in accomplishing difficult tasks. This builds their self-efficacy and moves them further toward autonomous regulation.
 
-This does not imply that you at any point tell them what to do or what to think. By having patients connect with their own values and figure out what kind of person they want to be, you can get them moving on the path to autonomous regulation of healthy behavior. 
+Making a decision matrix does not imply that you at any point tell them what to do or what to think. By having patients connect with their own values and figure out what kind of person they want to be, you can get them moving on the path to autonomous regulation of healthy behavior.
 
 
 
 ## Summary
 
-In this article we began with a seemingly innocuous question:
+In this article, we set out to answer a seemingly innocuous question:
 
  **"Why don't patients just do what we say?"**
 
@@ -211,11 +217,11 @@ To answer this question, we first gave a concrete definition to lifestyle, recog
 
 Self-determination theory showed us that the reasons underpinning our behavior can be extremely complex. It gave us a framework to identify and categorize different kinds of motivation, as well as some guiding principles of how to help patients express their natural proclivity to autonomously regulate and integrate new experiences into their sense of self.
 
-We discovered that the question posed at the beginning was actually loaded with unhelpful assumptions. We had to critically deconstruct our clinical practice in order to be able to better support our patients' basic psychological needs for autonomy, competence, and relatedness.
+We discovered that the question we posed at the beginning was actually loaded with unhelpful assumptions. We had to critically deconstruct our clinical practice in order to be able to better support our patients' basic psychological needs for autonomy, competence, and relatedness.
 
-We introduced motivational interviewing, an evidence-based counseling technique designed to facilitate behavior change where there is ambivalence. We learned how to make and use a decision matrix, an activity which can aid patients in committing to a lifestyle change by relating the benefits and drawbacks of doing so to their personal goals and values.
+We introduced motivational interviewing, an evidence-based counseling technique designed to facilitate behavior change. We learned how to make and use a decision matrix, an activity which can aid patients in committing to a lifestyle change by relating the benefits and drawbacks of doing so to their personal goals and values.
 
-Thank you for reading this article! I had a lot of fun writing it. I hope that the ideas I have presented here will be as useful to you as they have been to me.
+Thank you for reading this article! I had a lot of fun writing it. I hope that you'll integrate some of the ideas presented here into to your own clinical practice.
 
 
 
