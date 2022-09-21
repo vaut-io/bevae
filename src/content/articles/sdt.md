@@ -179,78 +179,39 @@ Secondly, trust and empathy always comes first. Every aspect of clinical practic
 
 ### Amotivated, or conflicted?
 
-If a person is completely amotivated when it comes to changing a specific behavior, there is not much you can do. However, when you dig beneath the surface (which takes honesty, and therefore trust), most people are not amotivated, but rather have conflicting motivations. On the one hand, they have various motivations which are driving their current behavior. But there's an internal struggle, as they also what do you do if a patient has conflicting emotions regarding a lifestyle intervention? 
+If a person is amotivated when it comes to changing a specific behavior, there is nothing you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, when you dig beneath the surface, most people are not truly amotivated when it comes to becoming healthier.
+
+A patient might have conflicting motivations, negative previous experiences, or an unsupportive environment. They might be unsure of their own values and life goals. This complex internal struggle can then masquerade as indifference. It's your job as a lifestyle coach to pull these conflicting emotions out of your patients, lay them out on the table, and start to help them put together the jigsaw puzzle of their life.
+
+It cannot be overstated how essential trust and empathy are during this process. Without a strong therapeutic alliance, there is very little chance your patients will open up and be honest with you. It takes good communication and critical reasoning skills to help a person navigate the internal landscape of their life.
+
+### The decision matrix
+
+There are countless books and psychological theories which can help
+
+
+highlight, how our patients' values conflict with their current lifestyle and habits.
+
+
+On the one hand, they have various motivations which are driving their current behavior. But there's an internal struggle, as they also what do you do if a patient has conflicting emotions regarding a lifestyle intervention? 
 
 So what if the patients' goals or? Depending on their state of "readiness,"
 
 
 
+## Extra
 
-We are not the ones to decide that patients should stop smoking. Patients are the ones who decide that they should stop smoking. 
+Returning to the example of a marathon runner...
 
-
-Father figure -> coach/guide.
-Instead of telling our patients what *we* think they should do, we need to guide them and let them discover the "why" for themselves.
-
-highlight, how our patients' values conflict with their current lifestyle and habits.
-
-A number of consequences arise from this 
-
-
-
-
-
-
-
-Amotivation
-
-
-
-
-Retruning to the example of a marathon runner...
-
-Decision matrix.
-
-
- (guided by our professional knowledge),  their success 
-
-
-This starts with the therapeutic alliance, and building an environment of trust and honesty from the very beginning.
-
+(guided by our professional knowledge)
 
 we will have a lot more success in "motivating them" to change their damaging behavior. how their values and their current lifestyle
 
-come to conclusions
-
-
-Is this an appropriate question to ask? We just learned that the way to 
-
-
 Bringing the theory back to the question we explore at the start
-
 
 we want to change someone's lifestyle, identifying what motivations lie behind the different behaviors which compose a person's lifestyle is n to moving towards a healthier
 
-it's a safe to assume that this represents maybe 5% of a person's total motivation *at best* of a person's motivation to run a marathon, if at all. There may be some inherent enjoyment (intrinsic motivation), 
-
-
-gradually transforms into intrinsic regulation, gradually Putting the above concepts together, 
-
-More intrinsic = more persistence
-
-People can have a mix of different kinds of motivation
-
-And the way we start to travel
-
-
-
-
-
-We as clinicians should not try to force motivation. Instead, we should support the person's sense of autonomy, competence, and relatedness.
-
-### Self-efficacy and the "internal environment"
-
-## Extra
+Self-efficacy and the "internal environment"
 
 Before we take the plunge into the psychological theory of motivation and how to apply it, I briefly want to return to a word I mentioned just before - *"modifiable."*
 
@@ -260,10 +221,7 @@ MINDSET:
 We see from a perspective, like giving advice to friends. We can become stuck. So if we want to help people change their behavior, we have to understand what makes people change their behavior. How to be good coaches. This is the mindset we need to have, the approach we must take if we want to have the highest chance of success - we *cannot* change a person's behaviors for them, and we *cannot* motivate them to change.
 Lifestyle coaches
 
-
-
 So much of long-term success hinges on lifestyle change. This falls in the realm of behavioral psychology, and today, I want to explore a key element at the very core of behavior. What might that be?
-
 
 We'll spend the first half of class learning about a theory of motivation known as self-determination theory, and we'll spend the second half of class learning about a counselling technique called motivational interviewing, which adheres to the principles of SDT and can be used to help coach people to change their behavior.
 
