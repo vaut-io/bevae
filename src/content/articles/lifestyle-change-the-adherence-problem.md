@@ -9,7 +9,7 @@ permalink: /articles/lifestyle-change-the-adherence-problem/
 
 Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular disorders, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
 
-However, many clinicans feel that changing their patients' behavior is a colossal task. If they don't make changes *soon*, they're heading straight for  years, maybe even decades of great suffering and disability. They've got every reason in the world to do something about their current or future problem. And we're handing them the solutions on a silver platter! We have the knowledge, we have their best interests in mind...
+However, many clinicans feel that changing their patients' behavior is a colossal task. If our patients don't make changes *soon*, they're racinng straight for years, maybe even decades of suffering and disability. They've got every reason in the world to do something about their current or future problem, and we're handing them the solutions on a silver platter! We have the knowledge, we have their best interests in mind, so...
 
 **Why don't they just do what we say?**
 
@@ -21,17 +21,15 @@ However, many clinicans feel that changing their patients' behavior is a colossa
 
 We'll need an operational definition of lifestyle in order to make sense of it:
 
-*"The summation of a person's  **consistent behavioral patterns** (habits), deeply connected to their **identity."***
+*"The summation of a person's  **consistent behavioral patterns** deeply connected with their **identity.**"*
 
-Identity can be loosely understood as the characteristics which define an individual and their sense of self, i.e., their interests, opinions, beliefs, values, and sense of place in the world.
+Identity can be loosely understood as the characteristics which define an individual and their sense of self (interests, opinions, beliefs, values, etc.).
 
-**Behavior.** **Identity.** When we say lifestyle change, what we're really referring to is *behavior change + identity change.* You cannot sustain one without the other. The interaction between these two is *fundamental* to answering the question of how we best can help people change their lifestyle and alter the course of their future.
+When we talk about lifestyle change, what we're referring to is *behavior change + identity change.* You cannot sustain one without the other. Any theory that claims to tackle behavior change must also deal with identity. We'll examine a theory that addresses both as we start to untangle the following question:
 
-Where to start, then? If our goal is to change a behavior, we have to identify what drives that behavior.
+**What drives behavior?**
 
-*What [drives] behavior?*
-
-There's synonym to "drives" we could drop in here. It's a word which encapsulates the reasons which underpin our behavior. In fact, there's a popular science book, *Drive,* which is entirely devoted to this word...
+The key word here, "drives," isn't the most apt term for our purposes. We're  specifically interested in its synonym *motivation,* more widely used in professional settings. Understanding motivation, the *why* of behavior, is the key to understanding how to change behavior.
 
 
 
@@ -43,7 +41,7 @@ How many times have you heard, "he has low motivation," "she needs more motivati
 
 This interpretation of motivation is tightly coupled with the binary *reward (the carrot) and punishment (the stick).* In order to increase motivation, we increase the degree of punishment or reward. It's elegant in its simplicity. But this simplicity is an illusion.
 
-Many people in society still hold the belief that motivation works like this; however, we'll come to see that it's an untenable position to hold. This reductionist approach often backfires and results in poor outcomes and patient and clinician dissatisfaction. We have to reframe our idea of what motivation is and where it comes from if we want to be successful in helping our patients make sustainable lifestyle changes.
+Many people in society still hold the belief that motivation works like this; however, we'll come to see that it's an untenable position to hold. This reductionist approach often backfires and results in poor outcomes and patient and clinician dissatisfaction. We have to reframe our idea of what motivation is and where it comes from if we want to be successful in helping patients make positive lifestyle changes.
 
 ### Theories of motivation
 
@@ -71,15 +69,15 @@ We can split these theories of motivation into two broad categories: content the
 
 In this article we're going to focus on a macro-theory (a theory which itself is composed of several mini-theories) of motivation, *self-determination theory.* It emerged in the 1980s, and since psychologists Richard Ryan and Edward Deci formulated the first version of SDT, it has been the subject of intense development and research.
 
-SDT has a massive body of literature supporting its application across a broad spectrum of contexts, from teaching in schools to coaching athletes, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, *[check out the official website,](https://selfdeterminationtheory.org)* where all of the research on the theory to date is compiled and organized by topic.
+Today, SDT stands as one of the most, if not *the* most influential theory of motivation. It has a massive body of literature supporting its application across a broad spectrum of contexts, from coaching athletes to teaching in school, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, *[check out the official website,](https://selfdeterminationtheory.org)* where all of the research on the theory to date is compiled and organized by topic.
 
 ### Humanistic origins
 
-SDT has its origins in humanistic psychology, a branch of psychology which concerns itself with an individual's journey toward greater autonomy and self-actualization. At the heart of SDT lies this axiom:
+SDT traces its roots back to humanistic psychology, a branch of psychology which concerns itself with the individual's journey toward greater autonomy and self-actualization. Humanistic psychology is deeply woven into the fabric of SDT, starting with the theory's principal axiom:
 
 *"...people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports." (selfdeterminationtheory.org)*
 
-According to SDT, we naturally trend toward personal growth and integration of behaviors into our identity. Whether or not this natural tendency is expressed critically depends on our environment.
+According to SDT, we naturally take an interest in overcoming obstacles and integrating these experiences into our identity. We have the potential for our default state to be characterized by personal growth, but whether or not this is expressed critically depends on our environment.
 
 ### Basic psychological needs
 
@@ -103,17 +101,17 @@ Humans are social animals, and we have a deeply rooted desire for belonging and 
 
 SDT pioneered the idea that motivation can be described not only in terms of its quantity, but also its quality. **Intrinsic motivation** is the natural drive to seek out challenges. It derives from the enjoyment of and interest taken in the behavior itself. Intrinsic motivation is positively correlated with cognitive and social development, task performance, and well-being.
 
-When the goal of a behavior is something other than the behavior itself, we're talking about **extrinsic motivation.** SDT expands on the concept of extrinsic motivation by delineating distinct subtypes, each defined by the quality of the behavior's *regulation.*
+When the goal of a behavior is something other than the behavior itself, we're talking about **extrinsic motivation.** SDT expands on the concept of extrinsic motivation by delineating distinct subtypes, each defined by the degree of *internalization* of the behavior's *regulation.*
 
-Extrinsic motivations are thus classified based on how *internalized* the behavior's regulation is. In other words, does the regulation of behavior (regulation here meaning the thing which is making you act out the behavior) come from outside, from within, or somewhere in between?
+"Internalization of regulation" sounds complicated, but it's actually a relatively simple concept: does the thing which is making you act out the behavior (the regulation) come from outside yourself, from within, or somewhere in between (the degree of internalization)?
 
 #### Types of extrinsic motivation
 
-**External regulation** is the least autonomous kind of motivation. Behaving in accordance with known or predicted external punishment or reward are hallmarks of externally regulated behavior. Motivations characterized by external regulation have a clearly defined, externally perceived *locus of causality.* The individual's sense of volition and control over their actions is absent.
+**External regulation** is the least autonomous, most "controlled" kind of motivation. Behaving in accordance with known or predicted external punishment or reward are hallmarks of externally regulated behavior. Motivations characterized by external regulation have a clearly defined, externally perceived *locus of causality.* The individual's sense of volition and control over their actions is absent.
 
-**Introjected regulation** is characterized by internal rewards and punishments. An introjection is an unconscious adoption of others' thoughts and attitudes. It's the voice in your head echoing external pressures. Pride, social status, and other ego-related motivations are examples of introjected regulation. Introjected regulation is more internalized than pure external regulation, but as it is not integrated with the self it is still characterized by an external locus of causality—it is still not "you" making the choice.
+**Introjected regulation** is characterized by internal rewards and punishments. Introjection is the voice in your head echoing external pressures, the internalization of others' thoughts and attitudes. Pride, social status, and other ego-related motivations are examples of introjected regulation. It is still characterized by an external locus of causality as this kind of regulation is not fully integrated with the self.
 
-**Identified regulation** is the stage where self-determination gains a foothold. The locus of causality turns inward; the individual starts to value the behavior because it contributes to a personally relevant goal.
+**Identified regulation** is the stage where self-determination gains a foothold. The individual starts to value the behavior because it contributes to a personally relevant goal; the locus of causality turns inward.
 
 **Integrated regulation** is the most autonomous kind of extrinsic motivation. The behavior is not only deemed valuable in terms of other outcomes, it is also integrated with other aspects of the self. While integrated regulation is still "extrinsic" because the desired outcome is not the behavior itself, it can exhibit similar qualities and benefits to intrinsic motivation.
 
@@ -135,7 +133,7 @@ At the end of the race, there are likely free food and drinks. Perhaps you'll be
 
 The medal you were chasing could also represent an internal pressure to beat your personal record. Maybe your parents pressured you to perform well in sports when you were a kid. Those thoughts could well have stayed with you as an introjection. Or you saw the race as a way to elevate your status in your  social circle by beating your friends' race times (introjected regulation).
 
-The desire to run this marathon and get a medal could also be tied to your personal goal of eventually running a sub-3 hour marathon. This was a stepping stone to achieving that (identified regulation).
+The desire to run this marathon and get a medal could also be tied to your personal goal of running a sub-3 hour marathon. This was a stepping stone to achieving that (identified regulation).
 
 You see yourself as an "fit person" and a "competitive athlete." Running marathons and beating the competition constitutes a part of this identity (integrated regulation).
 
@@ -163,47 +161,42 @@ A clinical approach to lifestyle change informed by motivational psychology sugg
 
 ### Manipulate the clinical context
 
-We can think of the "environment" surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our own body language, everything we do and say either has a positive, negative, or neutral effect on our patients' needs for autonomy, competence, and relatedness.
+We can think of the environment surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our own body language, everything we do and say either has a positive, negative, or neutral effect on our patients' needs for autonomy, competence, and relatedness.
 
 We have the potential to make a powerful impact on shaping healthy behavioral patterns through the clinical context we create. Think about how you can modify your own clinical context to get the most out of it.
 
 ### Be a lifestyle coach
 
-The most profound conclusion we can draw from SDT encourages us to rethink the entire foundation of our clinical practice:
+The lessons we have learned from SDT encourage us to rethink the entire foundation of our clinical practice. It demands a total change in mindset: to stop taking on a parental role when working with patients. You are now their *lifestyle coach.* You want to help your patients achieve their goals, but you do not get to decide their goals for them. Don't enforce a hierarchy.
 
-**Clinicians should not decide conclusions for their patients, patients should come to conclusions for themselves.**
+Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you *of their own volition,* what should you do? You could respect their will and create their entire treatment plan for them, but would this be supporting their autonomy to the best of your ability?
 
-It may not seem that radical at first glance, but the implications are vast.
+Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right off the bat (especially if they have been conditioned to be passive) but it's a good long-term target to aim for.
 
-First and foremost, it demands a change in mindset: stop taking on a parental role when treating patients. You are now their *lifestyle coach.* You help your patients achieve their goals, but you do not get to decide their goals for them. You want the best for them, but you do not make decisions on their behalf.
-
-Secondly, trust and empathy always comes first. Every facet of your clinical practice should be suffused by a strong therapeutic alliance. You and your patients are on the same team. Everything else follows.
 
 ### Amotivated, or conflicted?
 
-If a patient is truly amotivated when it comes to changing a specific lifestyle behavior, there is nothing you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, when you dig beneath the surface, most people are not actually amotivated when it comes to these things.
+If a patient is truly amotivated when it comes to changing a specific lifestyle behavior, there is not much you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, even though it might seem like many patients are amotivated, when you dig beneath the surface most people are not *actually* indifferent when it comes to making positive changes for their health.
 
-A patient might just have conflicting motivations, stemming from negative previous experiences or an unsupportive environment. They might be unsure of their own values and life goals. This complex internal struggle can then masquerade as indifference and amotivation.
+Patients who presents as amotivated might just possess conflicting motivations. These could stem from negative past experiences and/or a suppressive environment. Maybe the person is unsure of their own values and life goals.
 
-It's your job as a lifestyle coach to pull these conflicting emotions out of your patients, lay them out on the table, and help them put together the jigsaw puzzle of their life.
+A complex internal motivational struggle can masquerade as indifference and amotivation. It's your job as a lifestyle coach to pull the "puzzle pieces" of your patients' motivations out of them, lay these pieces on the table, and then help your patients put together the jigsaw puzzle of their life.
 
 It cannot be overstated how essential trust and empathy are during this process. Without a strong therapeutic alliance, there is very little chance your patients will open up and be honest with you about themselves. It takes good communication and sharp critical reasoning skills to navigate a person's internal landscape.
 
 ### Motivational interviewing (MI)
 
-*Motivational interviewing* is a therapeutic technique which was developed specifically to tackle behavior change. It has its roots in addiction counseling, but MI has since been applied successfully in many other contexts, similar to SDT. Some people working on MI have even looked to SDT to explain why it works.
+*Motivational interviewing* is a therapeutic technique which was developed specifically for counseling behavior change. MI has its roots in addiction counseling, but it has since been applied successfully in many other contexts, similar to SDT. Some people working on MI have even looked to SDT to explain why it works.
 
-Although we won't fully explore how to do MI in this article, we've already covered a fair number of concepts which are relevant to the technique. Asking open-ended questions and reflecting answers back to the patient to help them reach conclusions by themselves (autonomy support), focusing on past successes to build self-efficacy (competence support), and listening in an active and empathetic way (relatedness support)—these are all fundamental to doing MI well.
+Although we won't fully explore how to do MI in this article, we've already laid a solid foundation for practicing the technique. Asking open-ended questions and reflecting questions back to the patient to help them reach conclusions by themselves (autonomy support), focusing on past successes to build self-efficacy (competence support), and listening in an active and empathetic way (relatedness support)—these are all cornerstones of MI.
 
 #### The decision matrix
 
-We'll finish up by introducing an activity that you can use in the clinic with your patients, the *decision matrix.* It's an activity sometimes done in MI which can increase the chance that a person will commit to behavior change when they might initially feel conflicted about it.
+Making a *decision matrix* is an activity sometimes done in MI which can help a person commit to a healthy behavior change where they might be feeling ambivalent. First, draw a 2x2 table. You, the clinican, then work with the patient to identify the (1) benefits and (2) drawbacks of either (3) continuing with the status quo or (4) making a change.
 
-Making a decision matrix consists of drawing a 2x2 table. The patient then writes down the benefits (1) and drawbacks (2) of either continuing with the status quo (3) or making a change (4). As you work through this activity, the patient comes to terms with the exact reasons why they are (or aren't) doing a certain behavior.
+As you work through this activity and have the patient write down their reasons for and against each scenario, they will come to terms with the exact reasons why they haven't (yet) succeeded in changing their behavior even though a part of them wants to.
 
-You should actively try to highlight discrepencies between the patient's values and their current actions while bringing attention to previous situations where they have been successful in accomplishing difficult tasks. This builds their self-efficacy and moves them further toward autonomous regulation.
-
-Making a decision matrix does not imply that you at any point tell them what to do or what to think. By having patients connect with their own values and figure out what kind of person they want to be, you can get them moving on the path to autonomous regulation of healthy behavior.
+During this process you are your patient's guide—support their basic psychological needs and *do not* tell them what to do or what to think. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
 
 
 
