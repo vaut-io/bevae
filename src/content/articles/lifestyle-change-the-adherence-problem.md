@@ -5,7 +5,7 @@ subtitle: The adherence problem
 permalink: /articles/lifestyle-change-the-adherence-problem/
 ---
 
-3000 words / 20–30 minute read
+3100 words / 20–30 minute read
 
 Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular disorders, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
 
