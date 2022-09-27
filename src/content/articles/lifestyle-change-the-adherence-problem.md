@@ -9,11 +9,11 @@ permalink: /articles/lifestyle-change-the-adherence-problem/
 
 Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular disorders, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
 
-However, many clinicans feel that changing their patients' behavior is a colossal task. If our patients don't make changes *soon*, they're racinng straight for years, maybe even decades of suffering and disability. They've got every reason in the world to do something about their current or future problem, and we're handing them the solutions on a silver platter! We have the knowledge, we have their best interests in mind, so...
+However, many clinicans feel that getting their patients to change their lifestyle is a monumental task. Forget about trying to avoid consequences far off in the future, even if the individual is experiencing symptoms *right now,* they won't listen! They've seemingly got so many reasons to do something about their problem and we're spoon-feeding them the solutions, so...
 
 **Why don't they just do what we say?**
 
- Let's unpack the answer to that question.
+Let's unpack the answer to that question.
 
 
 
@@ -67,9 +67,9 @@ We can split these theories of motivation into two broad categories: content the
 
 ## Self-determination theory (SDT)
 
-In this article we're going to focus on a macro-theory (a theory which itself is composed of several mini-theories) of motivation, *self-determination theory.* It emerged in the 1980s, and since psychologists Richard Ryan and Edward Deci formulated the first version of SDT, it has been the subject of intense development and research.
+In this article we're going to focus on a macrotheory (a theory which encompasses several minitheories) of motivation, *self-determination theory.* Since psychologists Richard Ryan and Edward Deci formulated the first version of SDT in the 1980s, it has been the subject of intense development and research.
 
-Today, SDT stands as one of the most, if not *the* most influential theory of motivation. It has a massive body of literature supporting its application across a broad spectrum of contexts, from coaching athletes to teaching in school, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, *[check out the official website,](https://selfdeterminationtheory.org)* where all of the research on the theory to date is compiled and organized by topic.
+Today, SDT stands as one of the most, if not *the* most influential theory of motivation. It has a massive body of literature supporting its use across a broad spectrum of contexts, from coaching athletes to teaching in schools, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, *[check out the official website,](https://selfdeterminationtheory.org)* where all of the research on the theory to date is compiled and organized by topic.
 
 ### Humanistic origins
 
@@ -153,17 +153,15 @@ Let's now take a step back and revisit the question we asked ourselves at the be
 
 **Why don't they just do what we say?**
 
-We're now in a position to see this question in a new light. The *premise of the question itself* may be what is holding us back.
+We're now in a position to see this question in a new light: *the question itself* is holding us back.
 
-Telling people what to do, threatening them with the possibility of future dire consequences, or even promising external reward is the *worst* kind of motivation one can have, apart from having none at all.
-
-A clinical approach to lifestyle change informed by motivational psychology suggests that we should not attempt to motivate our patients in this way. We should instead create an environment which is supportive of our patients' basic psychological needs, and let them cultivate their own autonomous motivations.
+Controlling others and threatening them with the future consequences of their behavior results in the *worst* kind of motivation one can have. A clinical approach to lifestyle change informed by motivational psychology demands that we do not attempt to motivate our patients in this way. We should instead create an environment which is supportive of our patients' basic psychological needs, and the rest will follow.
 
 ### Manipulate the clinical context
 
-We can think of the environment surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our own body language, everything we do and say either has a positive, negative, or neutral effect on our patients' needs for autonomy, competence, and relatedness.
+We can think of the environment surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our body language, everything we do and say has the potential to positively or negatively influence our patients' sense of autonomy, competence, and relatedness.
 
-We have the potential to make a powerful impact on shaping healthy behavioral patterns through the clinical context we create. Think about how you can modify your own clinical context to get the most out of it.
+We can make a powerful impact on shaping healthy behavioral patterns through the clinical context we create. Think about how you can make the most out of your own clinical context.
 
 ### Be a lifestyle coach
 
