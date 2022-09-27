@@ -51,17 +51,17 @@ We can split these theories of motivation into two broad categories: content the
 
 #### Examples of content theories
 
-- • Alderfer's ERG theory
-- • Herzberg's motivation-hygiene theory
-- • Maslow's hierarchy of needs
-- • McClelland's three needs theory
+- Alderfer's ERG theory
+- Herzberg's motivation-hygiene theory
+- Maslow's hierarchy of needs
+- McClelland's three needs theory
 
 #### Examples of process theories
 
-- • Adam's equity theory
-- • Bandura's self-efficacy theory
-- • Skinner's reinforcement theory
-- • Vroom's expectancy theory
+- Adam's equity theory
+- Bandura's self-efficacy theory
+- Skinner's reinforcement theory
+- Vroom's expectancy theory
 
 
 
