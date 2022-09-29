@@ -200,7 +200,7 @@ As you work through this activity and the patient writes down their pros and con
 
 During this process you are a guide—support the patient's basic psychological needs and *do not* tell them what to do or what to think. Instead, ask questions. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
 
-[See an example decision matrix (PDF)](/assets/pdf/decisionalbalance.pdf)
+[See an example decision matrix (PDF),](/assets/pdf/decisionalbalance.pdf) also available on [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
 
 
