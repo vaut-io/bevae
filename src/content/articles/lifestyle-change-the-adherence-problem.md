@@ -69,13 +69,13 @@ We can split these theories of motivation into two broad categories: content the
 
 In this article we're going to focus on a macrotheory (a theory which encompasses several minitheories) of motivation, *self-determination theory.* Since psychologists Richard Ryan and Edward Deci formulated the first version of SDT in the 1980s, it has been the subject of intense development and research.
 
-Today, SDT stands as one of the most, if not *the* most influential theory of motivation. It has a massive body of literature supporting its use across a broad spectrum of contexts, from coaching athletes to teaching in schools, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, *[check out the official website,](https://selfdeterminationtheory.org)* where all of the research on the theory to date is compiled and organized by topic.
+Today, SDT stands as one of the most, if not *the* most influential theory of motivation. It has a massive body of literature supporting its use across a broad spectrum of contexts, from coaching athletes to teaching in schools, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, [check out the official website,](https://selfdeterminationtheory.org) where all of the research on the theory to date is compiled and organized by topic.
 
 ### Humanistic origins
 
 SDT traces its roots back to humanistic psychology, a branch of psychology which concerns itself with the individual's journey toward greater autonomy and self-actualization. Humanistic psychology is deeply woven into the fabric of SDT, starting with the theory's principal axiom:
 
-*"...people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports." (selfdeterminationtheory.org)*
+*"...people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
 According to SDT, we naturally take an interest in overcoming obstacles and integrating these experiences into our identity. We have the potential for our default state to be characterized by personal growth, but whether or not this is expressed critically depends on our environment.
 
@@ -83,7 +83,7 @@ According to SDT, we naturally take an interest in overcoming obstacles and inte
 
 The question then becomes, what are the specific criteria in the environment which either support or thwart self-actualization? SDT defines three *basic psychological needs* which must be satisfied: **autonomy, competence, and relatedness.**
 
-*"To the extent that the needs are ongoingly satisfied, people will develop and function effectively and experience wellness, but to the extent that they are thwarted, people will more likely evidence ill-being and non-optimal functioning." (selfdeterminationtheory.org)*
+*"To the extent that the needs are ongoingly satisfied, people will develop and function effectively and experience wellness, but to the extent that they are thwarted, people will more likely evidence ill-being and non-optimal functioning." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
 #### Autonomy
 
