@@ -15,6 +15,7 @@ module.exports = config => {
   // These files get "passed through" to the build
   config.addPassthroughCopy('src/assets/fonts');
   config.addPassthroughCopy('src/assets/img');
+  config.addPassthroughCopy('src/assets/pdf');
   config.addPassthroughCopy('src/assets/styles.css');
   return {
     dataTemplateEngine: 'njk',
