@@ -119,11 +119,15 @@ When the goal of a behavior is something other than the behavior itself, we're t
 
 Combining these concepts, we start to paint a picture of a continuum of motivation. One end represents extrinsic motivation in its most controlled form (external regulation), gradually becoming more and more self-determined until we arrive at integrated regulation and intrinsic motivation.
 
-There's one more "type" of motivation we have not yet talked about. It lies outside of the continuum, beyond external regulation: *amotivation.* A person who is amotivated is totally indifferent and sees no point in pursuing the behavior in the first place. The behavior in question is entirely without regulation and the locus of causality is impersonal, neither external nor internal.
+![Diagramatic representation of the motivation continuum](/assets/img/motivation-spectrum.png)
 
-Amotivation aside (we'll return to it later), the crux of SDT follows from its root axiom. We will naturally integrate new experiences into our sense of self provided that the environment supports our basic needs of autonomy, competence, and relatedness.
+[*Image credit: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 
-As the motivations grounding our behavior shift from being characterized by externally "controlled" regulation to internally "autonomous" regulation, a number of positive side effects emerge. Our task performance and activity engagement improves. We are more persistent in the face of obstacles and setbacks. We turn into happier, more confident, better functioning people.
+There's one more "type" of motivation we have not yet talked about, shown in the diagram above. It lies beyond external regulation: *amotivation.* A person who is amotivated is totally indifferent and sees no point in pursuing the behavior in the first place. The behavior in question is entirely without regulation and the locus of causality is impersonal, neither external nor internal.
+
+Amotivation aside (we'll return to it later), if our environment is supportive of our basic psychological needs, the motivations grounding our behavior will shift from being characterized by externally "controlled" regulation to internally "autonomous" regulation.
+
+A number of positive side effects emerge: our task performance and activity engagement improves, we are more persistent in the face of obstacles and setbacks, and we turn into more confident and better functioning people.
 
 #### The marathon runner
 
@@ -190,9 +194,9 @@ Although we won't fully explore how to do MI in this article, we've already laid
 
 #### The decision matrix
 
-Making a *decision matrix* is an activity sometimes done in MI which can help a person commit to a healthy behavior change where they might be feeling ambivalent. First, draw a 2x2 table. You, the clinican, then work with the patient to identify the (1) benefits and (2) drawbacks of either (3) continuing with the status quo or (4) making a change.
+Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which can help an individual commit to a behavior change when they might initially feel ambivalent or overwhelmed. First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo (1, 2) or making a change (3, 4).
 
-As you work through this activity and have the patient write down their reasons for and against each scenario, they will come to terms with the exact reasons why they haven't (yet) succeeded in changing their behavior even though a part of them wants to.
+As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what changing their lifestyle would entail.
 
 During this process you are your patient's guide—support their basic psychological needs and *do not* tell them what to do or what to think. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
 
