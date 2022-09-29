@@ -196,25 +196,25 @@ Although we won't fully explore how to do MI in this article, we've already laid
 
 Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which can help an individual commit to a behavior change when they might initially feel ambivalent or overwhelmed. First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo (1, 2) or making a change (3, 4).
 
-As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what changing their lifestyle would entail.
+As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what making a change would entail.
 
-During this process you are your patient's guide—support their basic psychological needs and *do not* tell them what to do or what to think. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
+During this process you are a guide—support the patient's basic psychological needs and *do not* tell them what to do or what to think. Instead, ask questions. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
 
 
 
 ## Summary
 
-In this article, we set out to answer a seemingly innocuous question:
+In this article, we explored a common clinical frustration:
 
- **"Why don't patients just do what we say?"**
+ **"Why don't patients do what we say?"**
 
 To answer this question, we first gave a concrete definition to lifestyle, recognizing that the identities connected with lifestyle behaviors are just as important as the behaviors themselves.
 
-Self-determination theory showed us that the reasons underpinning our behavior can be extremely complex. It gave us a framework to identify and categorize different kinds of motivation, as well as some guiding principles of how to help patients express their natural proclivity to autonomously regulate and integrate new experiences into their sense of self.
+Self-determination theory showed us that the reasons underpinning our behavior can be extremely complex. It gave us a framework to identify and categorize different kinds of motivation, as well as some guiding principles of how to move people toward healthier motivational states.
 
-We discovered that the question we posed at the beginning was actually loaded with unhelpful assumptions. We had to critically deconstruct our clinical practice in order to be able to better support our patients' basic psychological needs for autonomy, competence, and relatedness.
+We discovered that the question we posed at the beginning was actually loaded with unhelpful assumptions. Instead of telling people what to do, we should focus on creating an environment which is supportive of individuals' basic psychological needs for autonomy, competence, and relatedness.
 
-We introduced motivational interviewing, an evidence-based counseling technique designed to facilitate behavior change. We learned how to make and use a decision matrix, an activity which can aid patients in committing to a lifestyle change by relating the benefits and drawbacks of doing so to their personal goals and values.
+We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. We learned how to use a decision matrix, an activity which can help people get a better grasp on the details of changing a behavior.
 
 Thank you for reading this article! I had a lot of fun writing it. I hope that you find these principles useful for improving both your clinical practice as well as your personal life.
 
