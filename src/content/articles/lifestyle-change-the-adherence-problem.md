@@ -9,9 +9,9 @@ permalink: /articles/lifestyle-change-the-adherence-problem/
 
 Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular disorders, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
 
-However, many clinicans feel that getting their patients to change their lifestyle is a monumental task. Forget about trying to avoid consequences far off in the future, even if the individual is experiencing symptoms *right now,* they won't listen! They've seemingly got so many reasons to do something about their problem and we're spoon-feeding them the solutions, so...
+However, many clinicans feel that getting their patients to change their lifestyle is a monumental task. Forget about trying to avoid consequences far off in the future, even if the individual is experiencing symptoms *right now,* they just won't listen! They've got plenty of reasons to do something about their problem and we're telling them exactly how to fix it, so...
 
-**Why don't they just do what we say?**
+**Why don't they do what we say?**
 
 Let's unpack the answer to that question.
 
@@ -139,9 +139,9 @@ You see yourself as an "fit person" and a "competitive athlete." Running maratho
 
 Finally, you enjoy running and racing for the sake of it. It's not only about training to outrun zombies in case there's an apocalypse, it *just feels good* to run long distances as fast as you can (intrinsic motivation).
 
-Ask those around you at the finish line and each participant will point to different reasons to justify their decision to participate. Each of these reasons will occupy a different sized slice of their total motivation profile (think of a pie chart).
+Ask those around you at the finish line and each participant will point to different reasons to justify their decision to participate. Some people's decision to participate may have been dominated by external and introjected regulation, while others are so intrinsically motivated by running that they signed up just for fun.
 
-Some people's decision to participate may have been dominated by external and introjected regulation, while others may be so intrinsically motivated by the enjoyment of running long distances that that was why they signed up.
+Analyzing behaviors in terms of their constituent motivations and identifying the types of regulation which dominate the "motivation profile" can give an idea of where to focus on if you want to encourage persistence, engagement, and well-being.
 
 
 
@@ -151,7 +151,7 @@ We've seen how different motivations might fit together to result in a motivatio
 
 Let's now take a step back and revisit the question we asked ourselves at the beginning of the article:
 
-**Why don't they just do what we say?**
+**Why don't they do what we say?**
 
 We're now in a position to see this question in a new light: *the question itself* is holding us back.
 
@@ -161,7 +161,7 @@ Controlling others and threatening them with the future consequences of their be
 
 We can think of the environment surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our body language, everything we do and say has the potential to positively or negatively influence our patients' sense of autonomy, competence, and relatedness.
 
-We can make a powerful impact on shaping healthy behavioral patterns through the clinical context we create. Think about how you can make the most out of your own clinical context.
+We can make a powerful impact on shaping healthy behavioral patterns and well-being through the context we create. Think about how you can support the basic pscyhological needs of yourself and those around you, irrespective of whether you're inside or outside of the clinic.
 
 ### Be a lifestyle coach
 
@@ -169,10 +169,10 @@ The lessons we have learned from SDT encourage us to rethink the entire foundati
 
 Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you *of their own volition,* what should you do? You could respect their will and create their entire treatment plan for them, but would this be supporting their autonomy to the best of your ability?
 
-Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right off the bat (especially if they have been conditioned to be passive) but it's a good long-term target to aim for.
+Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive) but it's a good long-term target.
 
 
-### Amotivated, or conflicted?
+### Amotivated or conflicted?
 
 If a patient is truly amotivated when it comes to changing a specific lifestyle behavior, there is not much you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, even though it might seem like many patients are amotivated, when you dig beneath the surface most people are not *actually* indifferent when it comes to making positive changes for their health.
 
@@ -212,7 +212,7 @@ We discovered that the question we posed at the beginning was actually loaded wi
 
 We introduced motivational interviewing, an evidence-based counseling technique designed to facilitate behavior change. We learned how to make and use a decision matrix, an activity which can aid patients in committing to a lifestyle change by relating the benefits and drawbacks of doing so to their personal goals and values.
 
-Thank you for reading this article! I had a lot of fun writing it. I hope that you'll integrate some of the ideas presented here into to your own clinical practice.
+Thank you for reading this article! I had a lot of fun writing it. I hope that you find these principles useful for improving both your clinical practice as well as your personal life.
 
 
 
