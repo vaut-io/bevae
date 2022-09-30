@@ -1,0 +1,19 @@
+---
+translationKey: home
+title: Bienvenido a BEVAE
+permalink: /es/
+description: Welcome to BEVAE
+---
+{% extends 'base.html' %}
+{% block body %}
+{% include 'partials/header.html' %}
+<main class="[ centerx squeeze12 ] [ p0 ]">
+  <ul class="flow1/3">
+    <h1 class="fs2">Articles</h1>
+    {% set posts = collections[locale + "_articles"] %}
+    {% for entry in posts %}
+    <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
+    {% endfor %}
+  </ul>
+</main>
+{% endblock %}

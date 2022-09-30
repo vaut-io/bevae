@@ -80,6 +80,8 @@ ul {
   list-style: disc inside;
 }
 
-li {}
+li {
+  padding-inline-start: var(--space-1);
+}
 
 ::marker {}

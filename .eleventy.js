@@ -4,7 +4,8 @@ module.exports = config => {
 
   config.addCollection('en', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/*'));
   config.addCollection('es', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/*'));
-  config.addCollection('articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/articles/*'));
+  config.addCollection('en_articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/articles/*'));
+  config.addCollection('es_articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/articles/*'));
 
   config.setNunjucksEnvironmentOptions({
     autoescape: false

@@ -1,10 +1,19 @@
-<header class="[ squeeze12 centerx flow1 ] [ p1 ]">
+<header class="[ cluster g2 jfybetween itemscenter squeeze12 centerx ] [ p1 ]">
   <a class="fs2" href="/" style="font-family: krona; color: #ff3300;">BEVAE</a>
   <nav>
-    <ul class="flow1/3"><span class="fs2">Articles</span>
-      {% for entry in collections.articles %}
-      <li><a href="{{ entry.data.permalink }}">{{ entry.data.title }}{% if entry.data.subtitle%}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
+    {% for language in site.languages %}
+    {% if loop.first %}<ul style="list-style: none;">{% endif %}
+      {% set translationUrl = "/" + language.code + "/" %}
+      {% set activeClass = "is-active" if language.code == locale else "" %}
+
+      {% for entry in collections.all %}
+      {% if entry.data.translationKey == translationKey and entry.data.locale == language.code and entry.data.locale != locale %}
+      {% set translationUrl = entry.url %}
+      <li class="fs-1"><a class="{{ activeClass }}" href="{{ translationUrl }}">{{ language.label }}</a></li>
+      {% endif %}
       {% endfor %}
-    </ul>
+
+    {% if loop.last %}</ul>{% endif %}
+    {% endfor %}
   </nav>
 </header>
