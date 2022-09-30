@@ -194,7 +194,7 @@ Although we won't fully explore how to do MI in this article, we've already laid
 
 #### The decision matrix
 
-Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which can help an individual commit to a behavior change when they might initially feel ambivalent or overwhelmed. First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo (1, 2) or making a change (3, 4).
+Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which [can help an individual strengthen their commit to a behavior change.](https://pubmed.ncbi.nlm.nih.gov/24229732/) First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo (1, 2) or making a change (3, 4).
 
 As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what making a change would entail.
 
@@ -216,7 +216,7 @@ Self-determination theory showed us that the reasons underpinning our behavior c
 
 We discovered that the question we posed at the beginning was actually loaded with unhelpful assumptions. Instead of telling people what to do, we should focus on creating an environment which is supportive of individuals' basic psychological needs for autonomy, competence, and relatedness.
 
-We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. We learned how to use a decision matrix to help patients evaluate the intricacies of making a lifestyle change.
+We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. We learned how to use a decision matrix to help patients strengthen their commitment.
 
 Thank you for reading this article! I had a lot of fun writing it. I hope that you find these principles useful for improving your clinical practice as well as your personal life.
 
