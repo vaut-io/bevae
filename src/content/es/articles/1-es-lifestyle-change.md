@@ -4,226 +4,224 @@ title: Estilo de vida
 subtitle: El problema de adherencia
 ---
 
-20–30 minute read
+20–30 minutos de largo
 
-Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular disorders, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
+El estilo de vida desempeña un papel clave en el desarrollo y el tratamiento de muchas enfermedades. Tanto si se trata de dolores inespecíficos como de cánceres, trastornos cardiovasculares o cualquier otra enfermedad crónica (o incluso aguda), una parte de la etiología y la gravedad de la afección se atribuye a factores modificables del estilo de vida. Tanto desde una perspectiva científica como de sentido común, el modo en que la persona vive su vida es un factor determinante para su salud.
 
-However, many clinicans feel that getting their patients to change their lifestyle is a monumental task. Forget about trying to avoid consequences far off in the future, even if the individual is experiencing symptoms *right now,* they just won't listen! They've got plenty of reasons to do something about their problem and we're telling them exactly how to fix it, so...
+Sin embargo, muchos clínicos sienten que conseguir que sus pacientes cambien su estilo de vida es un trabajo imposible. Olvídate de intentar evitar las consecuencias en un futuro lejano, incluso si el individuo está sufriendo *en este momento mismo*, ¡no escucharán! Tienen bastantes razones para mejorar su situación y nosotros les estamos contando la solución exacta...
 
-**Why don't they do what we say?**
+**¿Por qué no hacen lo que decimos?**
 
-Let's unpack the answer to that question.
-
-
-
-## What is lifestyle?
-
-We'll need an operational definition of lifestyle in order to make sense of it:
-
-*"The summation of a person's  **consistent behavioral patterns** deeply connected with their **identity.**"*
-
-Identity can be loosely understood as the characteristics which define an individual and their sense of self (interests, opinions, beliefs, values, etc.).
-
-When we talk about lifestyle change, what we're referring to is *behavior change + identity change.* You cannot sustain one without the other. Any theory that claims to tackle behavior change must also deal with identity. We'll examine a theory that addresses both as we start to untangle the following question:
-
-**What drives behavior?**
-
-The key word here, "drives," isn't the most apt term for our purposes. We're  specifically interested in its synonym *motivation,* more widely used in professional settings. Understanding motivation, the *why* of behavior, is the key to understanding how to change behavior.
+Vamos a desgranar esta pregunta.
 
 
 
-## Motivation
+## ¿Qué es el estilo de vida?
 
-How many times have you heard, "he has low motivation," "she needs more motivation," or even, "we need to motivate our patients more?"
+Necesitaremos una definición concreta de estilo de vida para darle sentido:
 
-*Motivation* is a concept often described as a linear quantity. You just need more of it if you are to be successful in adhering to a behavior, and it's our job as clinicians to give high amounts of motivation to our patients.
+*"La suma de las **pautas de comportamiento coherentes** de una persona, profundamente conectadas con su **identidad.**"*
 
-This interpretation of motivation is tightly coupled with the binary *reward (the carrot) and punishment (the stick).* In order to increase motivation, we increase the degree of punishment or reward. It's elegant in its simplicity. But this simplicity is an illusion.
+La identidad está formada por las características que definen a un individuo y su sentido de sí mismo (intereses, opiniones, creencias, valores, etc.).
 
-Many people in society still hold the belief that motivation works like this; however, we'll come to see that it's an untenable position to hold. This reductionist approach often backfires and results in poor outcomes and patient and clinician dissatisfaction. We have to reframe our idea of what motivation is and where it comes from if we want to be successful in helping patients make positive lifestyle changes.
+Cuando hablamos de cambio de estilo de vida, nos referimos a *cambio de comportamiento + cambio de identidad.* No se puede mantener uno sin el otro. Cualquier teoría que pretenda abordar el cambio de comportamiento debe ocuparse también de la identidad. Examinaremos una teoría que aborda ambas cosas cuando empecemos a tratar con la siguiente pregunta:
 
-### Theories of motivation
+**¿Qué impulsa el comportamiento?**
 
-The past century there have been various competing theories that have emerged from the field of motivational psychology. Some of these theories build directly on previous work, while others provide complementary perspectives. Each of the theories attempts to describe motivation from a slightly different angle. Humans are complex animals, and the reasons which ground our behaviors even more so.
-
-We can split these theories of motivation into two broad categories: content theories, concerning *what* makes up motivational states, and process theories, *how* those motivational states arise.
-
-#### Examples of content theories
-
-- Alderfer's ERG theory
-- Herzberg's motivation-hygiene theory
-- Maslow's hierarchy of needs
-- McClelland's three needs theory
-
-#### Examples of process theories
-
-- Adam's equity theory
-- Bandura's self-efficacy theory
-- Skinner's reinforcement theory
-- Vroom's expectancy theory
+La palabra clave aquí, "impulsa," no es el término más adecuado para nuestros fines. Nos interesa específicamente su sinónimo *motivación*, más utilizado en el ámbito profesional. Comprender la motivación, el *por qué* del comportamiento, es la clave para entender cómo cambiarlo.
 
 
+## La motivación
 
-## Self-determination theory (SDT)
+¿Cuántas veces ha escuchado "tiene poca motivación", "necesita más motivación" o incluso "tenemos que motivar más a nuestros pacientes"?
 
-In this article we're going to focus on a macrotheory (a theory which encompasses several minitheories) of motivation, *self-determination theory.* Since psychologists Richard Ryan and Edward Deci formulated the first version of SDT in the 1980s, it has been the subject of intense development and research.
+*La motivación es un concepto que a menudo se describe como una cantidad lineal. Simplemente necesitas más de ella si quieres tener éxito en la adhesión a un comportamiento, y es nuestro trabajo como clínicos dar altas cantidades de motivación a nuestros pacientes.*
 
-Today, SDT stands as one of the most, if not *the* most influential theory of motivation. It has a massive body of literature supporting its use across a broad spectrum of contexts, from coaching athletes to teaching in schools, trauma counseling, leadership in the military, and beyond. If you're interested in the literature, [check out the official website,](https://selfdeterminationtheory.org) where all of the research on the theory to date is compiled and organized by topic.
+Esta interpretación de la motivación está estrechamente ligada al binario *recompensa (la zanahoria) y castigo (el palo)*. Para aumentar la motivación, aumentamos el grado de castigo o recompensa. Es elegante en su simplicidad. Pero esta simplicidad es una ilusión.
 
-### Humanistic origins
+Muchas personas en la sociedad siguen creyendo que la motivación funciona así; sin embargo, veremos que es una posición insostenible. Este enfoque reduccionista suele ser contraproducente y da lugar a malos resultados y a la insatisfacción de pacientes y médicos. Tenemos que replantear nuestra idea de lo que es la motivación y de dónde procede si queremos tener éxito a la hora de ayudar a los pacientes a realizar cambios positivos en su estilo de vida.
 
-SDT traces its roots back to humanistic psychology, a branch of psychology which concerns itself with the individual's journey toward greater autonomy and self-actualization. Humanistic psychology is deeply woven into the fabric of SDT, starting with the theory's principal axiom:
+### Teorías de motivación
+
+En el último siglo han surgido varias teorías que compiten entre sí en el campo de la psicología de la motivación. Algunas de estas teorías se basan directamente en trabajos anteriores, mientras que otras ofrecen perspectivas complementarias. Cada una de las teorías intenta describir la motivación desde un ángulo ligeramente diferente. Los seres humanos somos animales complejos, y las razones que fundamentan nuestros comportamientos lo son aún más.
+
+Podemos dividir estas teorías de la motivación en dos grandes categorías: las teorías del contenido, relativas a *lo que* constituye los estados motivacionales, y las teorías del proceso, *cómo* surgen esos estados motivacionales.
+
+#### Ejemplos de teorías de contenido
+
+- La jerarquía de necesidades de Maslow 
+- La teoría de McClelland
+- Teoría ERG de Alderfer
+- Teoría del factor dual de Herzberg
+
+#### Ejemplos de teorías de proceso
+
+- Teoría del autoeficacia de Bandura
+- Teoría de la equidad de Adam
+- Teoría de las expectativas de Vroom
+- Teoría del reforzamiento de Skinner
+
+
+
+## Teoría de la Autodeterminación (TAD)
+
+En este artículo vamos a centrarnos en una macroteoría (una teoría que engloba varias miniteorías) de la motivación, *la teoría de la autodeterminación*. Desde que los psicólogos Richard Ryan y Edward Deci formularon la primera versión de la TAD en los años 80, ha sido objeto de un intenso desarrollo e investigación.
+
+Hoy en día, la TAD es una de las teorías de la motivación más influyentes, si no la más influyente. Cuenta con un enorme cuerpo de literatura que apoya su uso en un amplio espectro de contextos, desde el entrenamiento de atletas hasta la enseñanza en las escuelas, el asesoramiento en casos de trauma, el liderazgo en el ejército, y más allá. Si está interesado en la literatura, [consulte el sitio web oficial,](https://selfdeterminationtheory.org) donde se recopila toda la investigación sobre la teoría hasta la fecha y se organiza por temas.
+
+### Orígines humanistas
+
+La TAD hunde sus raíces en la psicología humanista, una rama de la psicología que se ocupa del viaje del individuo hacia una mayor autonomía y autorrealización. La psicología humanista está profundamente entretejida en el tejido de la TAD, empezando por el axioma principal de la teoría:
 
 *"...people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
-According to SDT, we naturally take an interest in overcoming obstacles and integrating these experiences into our identity. We have the potential for our default state to be characterized by personal growth, but whether or not this is expressed critically depends on our environment.
+Según la TAD, nos interesa naturalmente superar los obstáculos e integrar estas experiencias en nuestra identidad. Tenemos el potencial de que nuestro estado por defecto se caracterice por el crecimiento personal, pero el hecho de que se exprese o no de forma crítica depende de nuestro entorno.
 
-### Basic psychological needs
+### Las necesidades psicológicas básicas
 
-The question then becomes, what are the specific criteria in the environment which either support or thwart self-actualization? SDT defines three *basic psychological needs* which must be satisfied: **autonomy, competence, and relatedness.**
+La pregunta es entonces: ¿cuáles son los criterios específicos del entorno que apoyan o frustran la autorrealización? La SDT define tres *necesidades psicológicas básicas* que deben ser satisfechas: **autonomía, competencia y relación.**
 
 *"To the extent that the needs are ongoingly satisfied, people will develop and function effectively and experience wellness, but to the extent that they are thwarted, people will more likely evidence ill-being and non-optimal functioning." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
-#### Autonomy
+#### Autonomía
 
-First up is autonomy, the desire to be the causal agents of our own actions. Irrespective of whether or not free will exists, SDT postulates that the subjective feeling of being in charge of your own choices and the feeling of psychological freedom this brings with it is necessary to be a healthy, functioning organism. Being self-motivated (*autonomous regulation*) leads to healthier outcomes compared to when we are told what to do (*controlled regulation*). We'll come back to and expand on the idea of "regulation" shortly.
+El primero es la autonomía, el deseo de ser los agentes causales de nuestras propias acciones. Independientemente de que exista o no el libre albedrío, la TED postula que la sensación subjetiva de estar a cargo de las propias decisiones y el sentimiento de libertad psicológica que esto conlleva es necesario para ser un organismo sano y funcional. Estar auto-motivado (*regulación autónoma*) conduce a resultados más saludables en comparación con cuando se nos dice lo que tenemos que hacer (*regulación controlada*). Volveremos a hablar de la idea de "regulación" y la ampliaremos en breve.
 
-#### Competence
+#### Competencia
 
-When we choose to engage with a behavior, we seek a sense of control over the results of the behavior; we all want to experience mastery. Self-efficacy is a well known determinant of long-term patient outcomes, and supporting a person's feeling of competence increases and sustains their confidence in their own abilities.
+Cuando elegimos comprometernos con un comportamiento, buscamos una sensación de control sobre los resultados del mismo; todos queremos experimentar el dominio. La autoeficacia es un determinante bien conocido de los resultados de los pacientes a largo plazo, y apoyar el sentimiento de competencia de una persona aumenta y mantiene su confianza en sus propias capacidades.
 
-#### Relatedness
+#### Relación
 
-Humans are social animals, and we have a deeply rooted desire for belonging and connection with other people. Relatedness includes your sense of place in the world, the feeling that others care about you, and the knowledge that you benefit those around you.
+Los humanos somos animales sociales y tenemos un deseo muy arraigado de pertenencia y conexión con otras personas. El sentimiento de pertenencia incluye la sensación de ocupar un lugar en el mundo, de que los demás se preocupan por ti y de que beneficias a los que te rodean.
 
-### Intrinsic and extrinsic motivation
+### La calidad de motivación
 
-SDT pioneered the idea that motivation can be described not only in terms of its quantity, but also its quality. **Intrinsic motivation** is the natural drive to seek out challenges. It derives from the enjoyment of and interest taken in the behavior itself. Intrinsic motivation is positively correlated with cognitive and social development, task performance, and well-being.
+La TAD fue pionera en la idea de que la motivación puede describirse no sólo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por la propia conducta. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en las tareas y el bienestar.
 
-When the goal of a behavior is something other than the behavior itself, we're talking about **extrinsic motivation.** SDT expands on the concept of extrinsic motivation by delineating distinct subtypes, each defined by the degree of *internalization* of the behavior's *regulation.*
+Cuando el objetivo de una conducta es algo distinto a la propia conducta, estamos hablando de **motivación extrínseca.** La TED amplía el concepto de motivación extrínseca delineando distintos subtipos, cada uno de ellos definido por el grado de *internalización* de la *regulación de la conducta*.
 
-"Internalization of regulation" sounds complicated, but it's actually a relatively simple concept: does the thing which is making you act out the behavior (the regulation) come from outside yourself, from within, or somewhere in between (the degree of internalization)?
+La "internalización de la regulación" parece complicada, pero en realidad es un concepto relativamente sencillo: ¿la cosa que te hace realizar la conducta (la regulación) viene de fuera de ti mismo, de dentro o de algún punto intermedio (el grado de internalización)?
 
-#### Types of extrinsic motivation
+#### Los tipos de motivación extrínseca
 
-**External regulation** is the least autonomous, most "controlled" kind of motivation. Behaving in accordance with known or predicted external punishment or reward are hallmarks of externally regulated behavior. Motivations characterized by external regulation have a clearly defined, externally perceived *locus of causality.* The individual's sense of volition and control over their actions is absent.
+**La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Comportarse de acuerdo con un castigo o una recompensa externos conocidos o previstos son las características de la conducta regulada externamente. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior.
 
-**Introjected regulation** is characterized by internal rewards and punishments. Introjection is the voice in your head echoing external pressures, the internalization of others' thoughts and attitudes. Pride, social status, and other ego-related motivations are examples of introjected regulation. It is still characterized by an external locus of causality as this kind of regulation is not fully integrated with the self.
+**La regulación introyectada** se caracteriza por recompensas y castigos internos. La introyección es la voz en la cabeza que se hace eco de las presiones externas, la internalización de los pensamientos y actitudes de los demás. El orgullo, el estatus social y otras motivaciones relacionadas con el ego son ejemplos de regulación introyectada. Se sigue caracterizando por un locus de causalidad externo, ya que este tipo de regulación no está totalmente integrada con el yo.
 
-**Identified regulation** is the stage where self-determination gains a foothold. The individual starts to value the behavior because it contributes to a personally relevant goal; the locus of causality turns inward.
+**La regulación identificada** es la etapa en la que la autodeterminación se afianza. El individuo comienza a valorar el comportamiento porque contribuye a un objetivo personalmente relevante; el locus de causalidad se vuelve hacia el interior.
 
-**Integrated regulation** is the most autonomous kind of extrinsic motivation. The behavior is not only deemed valuable in terms of other outcomes, it is also integrated with other aspects of the self. While integrated regulation is still "extrinsic" because the desired outcome is not the behavior itself, it can exhibit similar qualities and benefits to intrinsic motivation.
+**La regulación integrada** es el tipo de motivación extrínseca más autónoma. El comportamiento no sólo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
 
-### A spectrum of self-determination
+### Un espectro de autodeterminación
 
-Combining these concepts, we start to paint a picture of a continuum of motivation. One end represents extrinsic motivation in its most controlled form (external regulation), gradually becoming more and more self-determined until we arrive at integrated regulation and intrinsic motivation.
+Combinando estos conceptos, empezamos a pintar un cuadro de un continuo de motivación. Un extremo representa la motivación extrínseca en su forma más controlada (regulación externa), que gradualmente se va autodeterminando hasta llegar a la regulación integrada y la motivación intrínseca.
 
-![Diagramatic representation of the motivation continuum](/assets/img/motivation-spectrum.png)
+![Representación esquemática del continuo de la motivación](/assets/img/motivation-spectrum.png)
 
-[*Image credit: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+[*Fuente: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 
-There's one more "type" of motivation we have not yet talked about, shown in the diagram above. It lies beyond external regulation: *amotivation.* A person who is amotivated is totally indifferent and sees no point in pursuing the behavior in the first place. The behavior in question is entirely without regulation and the locus of causality is impersonal, neither external nor internal.
+Hay un "tipo" más de motivación del que aún no hemos hablado, que se muestra en el diagrama anterior. Se encuentra más allá de la regulación externa: *la amotivación.* Una persona que está amotivada es totalmente indiferente y no ve ningún sentido en perseguir el comportamiento en primer lugar. El comportamiento en cuestión carece totalmente de regulación y el locus de causalidad es impersonal, ni externo ni interno.
 
-Amotivation aside (we'll return to it later), if our environment is supportive of our basic psychological needs, the motivations grounding our behavior will shift from being characterized by externally "controlled" regulation to internally "autonomous" regulation.
+Dejando a un lado la desmotivación (a la que volveremos más adelante), si nuestro entorno apoya nuestras necesidades psicológicas básicas, las motivaciones que fundamentan nuestro comportamiento pasarán de caracterizarse por una regulación "controlada" externamente a una regulación "autónoma" internamente.
 
-A number of positive side effects emerge: our task performance and activity engagement improves, we are more persistent in the face of obstacles and setbacks, and we turn into more confident and better functioning people.
+Surgen una serie de efectos secundarios positivos: nuestro rendimiento en las tareas y el compromiso con la actividad mejoran, somos más persistentes frente a los obstáculos y contratiempos, y nos convertimos en personas más seguras y que funcionan mejor.
 
-#### The marathon runner
+#### El maratonista
 
-A natural consequence of SDT is that there is rarely only one kind of motivation behind a behavior. We'll illustrate this with a thought experiment. Imagine that you just finished a marathon. What motivated you to train for and participate in the race?
+Una consecuencia natural de la TED es que rara vez hay un solo tipo de motivación detrás de un comportamiento. Lo ilustraremos con un experimento mental. Imagine que acaba de terminar una maratón. ¿Qué le motivó a entrenar y participar en la carrera?
 
-At the end of the race, there are likely free food and drinks. Perhaps you'll be given a physical medal contingent on your performance. If those were the only reasons you had to train and run in the marathon, you probably wouldn't have followed through with it (external regulation).
+Al final de la carrera, es probable que haya comida y bebida gratis. Quizá te den una medalla física en función de tu rendimiento. Si esas fueran las únicas razones que tuvieras para entrenar y correr en la maratón, probablemente no habrías seguido con ella (reglamento externo).
 
-The medal you were chasing could also represent an internal pressure to beat your personal record. Maybe your parents pressured you to perform well in sports when you were a kid. Those thoughts could well have stayed with you as an introjection. Or you saw the race as a way to elevate your status in your  social circle by beating your friends' race times (introjected regulation).
+La medalla que perseguías también podría representar una presión interna para batir tu récord personal. Tal vez tus padres te presionaron para que tuvieras un buen rendimiento deportivo cuando eras niño. Esos pensamientos bien podrían haber permanecido en ti como una introyección. O viste la carrera como una forma de elevar tu estatus en tu círculo social superando los tiempos de carrera de tus amigos (regulación introyectada).
 
-The desire to run this marathon and get a medal could also be tied to your personal goal of running a sub-3 hour marathon. This was a stepping stone to achieving that (identified regulation).
+El deseo de correr este maratón y conseguir una medalla también podría estar ligado a tu objetivo personal de correr un maratón de menos de 3 horas. Esto era un paso más para conseguirlo (regulación identificada).
 
-You see yourself as an "fit person" and a "competitive athlete." Running marathons and beating the competition constitutes a part of this identity (integrated regulation).
+Te ves a ti mismo como una "persona en forma" y un "atleta competitivo". Correr maratones y vencer a la competencia constituye una parte de esta identidad (regulación integrada).
 
-Finally, you enjoy running and racing for the sake of it. It's not only about training to outrun zombies in case there's an apocalypse, it *just feels good* to run long distances as fast as you can (intrinsic motivation).
+Por último, disfrutas corriendo y compitiendo por el mero hecho de hacerlo. No se trata sólo de entrenar para dejar atrás a los zombis en caso de que haya un apocalipsis, sino que *simplemente te sientes bien* al correr largas distancias tan rápido como puedas (motivación intrínseca).
 
-Ask those around you at the finish line and each participant will point to different reasons to justify their decision to participate. Some people's decision to participate may have been dominated by external and introjected regulation, while others are so intrinsically motivated by running that they signed up just for fun.
+Pregunta a los que te rodean en la línea de meta y cada participante señalará diferentes razones para justificar su decisión de participar. La decisión de algunas personas de participar puede haber estado dominada por la regulación externa e introyectada, mientras que otras están tan intrínsecamente motivadas por correr que se apuntaron sólo por diversión.
 
-Analyzing behaviors in terms of their constituent motivations and identifying the types of regulation which dominate the "motivation profile" can give an idea of where to focus on if you want to encourage persistence, engagement, and well-being.
+Analizar los comportamientos en función de las motivaciones que los componen e identificar los tipos de regulación que dominan el "perfil de motivación" puede dar una idea de dónde hay que centrarse si se quiere fomentar la persistencia, el compromiso y el bienestar.
 
 
 
-## Implications for clinical practice
+## Implicaciones para la práctica clínica
 
-We've seen how different motivations might fit together to result in a motivational profile which leads to a behavior. We've also learned that over time, moving toward autonomous regulation is a natural process under the right conditions, and a desired outcome given its importance to maximizing success and well-being.
+Hemos visto cómo diferentes motivaciones pueden encajar para dar lugar a un perfil motivacional que conduce a un comportamiento. También hemos aprendido que, con el tiempo, avanzar hacia la regulación autónoma es un proceso natural bajo las condiciones adecuadas, y un resultado deseado dada su importancia para maximizar el éxito y el bienestar.
 
-Let's now take a step back and revisit the question we asked ourselves at the beginning of the article:
+Demos ahora un paso atrás y retomemos la pregunta que nos hacíamos al principio del artículo:
 
-**Why don't they do what we say?**
+**¿Por qué no hacen lo que decimos?**
 
-We're now in a position to see this question in a new light: *the question itself* is holding us back.
+Ahora estamos en condiciones de ver esta pregunta bajo una nueva luz: *la propia pregunta* nos frena.
 
-Controlling others and threatening them with the future consequences of their behavior results in the *worst* kind of motivation one can have. A clinical approach to lifestyle change informed by motivational psychology demands that we do not attempt to motivate our patients in this way. We should instead create an environment which is supportive of our patients' basic psychological needs, and the rest will follow.
+Controlar a los demás y amenazarles con las consecuencias futuras de su comportamiento da lugar al *peor* tipo de motivación que se puede tener. Un enfoque clínico del cambio de estilo de vida basado en la psicología motivacional exige que no intentemos motivar a nuestros pacientes de esta manera. En su lugar, debemos crear un entorno que apoye las necesidades psicológicas básicas de nuestros pacientes, y el resto vendrá por añadidura.
 
-### Manipulate the clinical context
+### Manipular el contexto clínico
 
-We can think of the environment surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our body language, everything we do and say has the potential to positively or negatively influence our patients' sense of autonomy, competence, and relatedness.
+Podemos pensar en el entorno que rodea la interacción entre el médico y el paciente como el *contexto clínico*. Desde la configuración física de la clínica hasta nuestro lenguaje corporal, todo lo que hacemos y decimos tiene el potencial de influir positiva o negativamente en el sentido de autonomía, competencia y relación de nuestros pacientes.
 
-We can make a powerful impact on shaping healthy behavioral patterns and well-being through the context we create. Think about how you can support the basic pscyhological needs of yourself and those around you, irrespective of whether you're inside or outside of the clinic.
+Podemos tener un gran impacto en la formación de patrones de comportamiento saludables y en el bienestar a través del contexto que creamos. Piensa en cómo puedes apoyar las necesidades psicológicas básicas de ti mismo y de los que te rodean, independientemente de si estás dentro o fuera de la clínica.
 
-### Be a lifestyle coach
+### Ser un entrenador de estilo de vida
 
-The lessons we have learned from SDT encourage us to rethink the entire foundation of our clinical practice. It demands a total change in mindset: to stop taking on a parental role when working with patients. You are now their *lifestyle coach.* You want to help your patients achieve their goals, but you do not get to decide their goals for them. Don't enforce a hierarchy.
+Las lecciones que hemos aprendido de la SDT nos animan a replantearnos todo el fundamento de nuestra práctica clínica. Exige un cambio total de mentalidad: dejar de asumir un papel paternal cuando se trabaja con los pacientes. Ahora eres su *entrenador de estilo de vida*. Quieres ayudar a tus pacientes a alcanzar sus objetivos, pero no puedes decidir sus objetivos por ellos. No impongas una jerarquía.
 
-Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you *of their own volition,* what should you do? You could respect their will and create their entire treatment plan for them, but would this be supporting their autonomy to the best of your ability?
+Naturalmente, surgen situaciones en las que no es tan obvio y claro. Si un paciente te cediera toda la toma de decisiones *por su propia voluntad*, ¿qué deberías hacer? Podrías respetar su voluntad y crear todo el plan de tratamiento por él, pero ¿estarías apoyando su autonomía de la mejor manera posible?
 
-Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive) but it's a good long-term target.
+Tal vez una solución aún mejor consistiría en una educación continua y en animar al paciente a experimentar y tomar el control de su propia salud. No todos los pacientes responderán bien a esto de inmediato (especialmente si han sido condicionados a ser pasivos), pero es un buen objetivo a largo plazo.
 
+### ¿Amotivado o conflictivo?
 
-### Amotivated or conflicted?
+Si un paciente está realmente desmotivado cuando se trata de cambiar un comportamiento de estilo de vida específico, no hay mucho que se pueda hacer. Una persona debe estar al menos *algo* dispuesta a cambiar si quiere tener alguna esperanza de éxito. Sin embargo, aunque pueda parecer que muchos pacientes están desmotivados, cuando se escarba bajo la superficie la mayoría de las personas no son *realmente* indiferentes cuando se trata de hacer cambios positivos para su salud.
 
-If a patient is truly amotivated when it comes to changing a specific lifestyle behavior, there is not much you can do. A person must be at least *somewhat* willing to change if they are to have any hope at all in succeeding. However, even though it might seem like many patients are amotivated, when you dig beneath the surface most people are not *actually* indifferent when it comes to making positive changes for their health.
+Los pacientes que se presentan como amotivados pueden tener motivaciones contradictorias. Éstas podrían provenir de experiencias negativas del pasado y/o de un entorno represivo. Tal vez la persona no esté segura de sus propios valores y objetivos vitales.
 
-Patients who presents as amotivated might just possess conflicting motivations. These could stem from negative past experiences and/or a suppressive environment. Maybe the person is unsure of their own values and life goals.
+Una compleja lucha motivacional interna puede disfrazarse de indiferencia y desmotivación. Tu trabajo como coach de estilo de vida es sacar las "piezas del puzzle" de las motivaciones de tus pacientes, poner estas piezas sobre la mesa y luego ayudar a tus pacientes a montar el puzzle de su vida.
 
-A complex internal motivational struggle can masquerade as indifference and amotivation. It's your job as a lifestyle coach to pull the "puzzle pieces" of your patients' motivations out of them, lay these pieces on the table, and then help your patients put together the jigsaw puzzle of their life.
+No se puede exagerar lo esenciales que son la confianza y la empatía durante este proceso. Sin una sólida alianza terapéutica, hay muy pocas posibilidades de que sus pacientes se abran y sean sinceros con usted sobre ellos mismos. Se necesita una buena comunicación y una aguda capacidad de razonamiento crítico para navegar por el paisaje interno de una persona.
 
-It cannot be overstated how essential trust and empathy are during this process. Without a strong therapeutic alliance, there is very little chance your patients will open up and be honest with you about themselves. It takes good communication and sharp critical reasoning skills to navigate a person's internal landscape.
+### La entrevista motivacional (EM)
 
-### Motivational interviewing (MI)
+*La entrevista motivacional* es una técnica terapéutica desarrollada específicamente para el asesoramiento sobre el cambio de comportamiento. La entrevista motivacional tiene sus raíces en el asesoramiento sobre adicciones, pero desde entonces se ha aplicado con éxito en muchos otros contextos, de forma similar a la TAD. Algunas personas que trabajan con la EM incluso han recurrido a la TAD para explicar por qué funciona.
 
-*Motivational interviewing* is a therapeutic technique which was developed specifically for counseling behavior change. MI has its roots in addiction counseling, but it has since been applied successfully in many other contexts, similar to SDT. Some people working on MI have even looked to SDT to explain why it works.
+Aunque en este artículo no exploraremos por completo cómo hacer EM, ya hemos sentado una base sólida para practicar la técnica. Formular preguntas abiertas y devolver las preguntas al paciente para ayudarle a llegar a conclusiones por sí mismo (apoyo a la autonomía), centrarse en los éxitos pasados para fomentar la autoeficacia (apoyo a la competencia) y escuchar de forma activa y empática (apoyo a la relación) son las piedras angulares de la EM.
 
-Although we won't fully explore how to do MI in this article, we've already laid a solid foundation for practicing the technique. Asking open-ended questions and reflecting questions back to the patient to help them reach conclusions by themselves (autonomy support), focusing on past successes to build self-efficacy (competence support), and listening in an active and empathetic way (relatedness support)—these are all cornerstones of MI.
+#### La matriz de decisión
 
-#### The decision matrix
+Hacer una *matriz de decisiones* es una actividad que a veces se realiza en el IM y que [puede ayudar a un individuo a reforzar su compromiso con un cambio de conducta](https://pubmed.ncbi.nlm.nih.gov/24229732/) Primero se dibuja una tabla de 2x2. A continuación, el paciente identifica los beneficios e inconvenientes de continuar con el statu quo (1, 2) o de realizar un cambio (3, 4).
 
-Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which [can help an individual strengthen their commit to a behavior change.](https://pubmed.ncbi.nlm.nih.gov/24229732/) First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo (1, 2) or making a change (3, 4).
+A medida que trabajes en esta actividad y el paciente escriba los pros y los contras de cada opción, se hará una idea más clara de lo que supondría hacer un cambio.
 
-As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what making a change would entail.
+Durante este proceso, usted es un guía: apoye las necesidades psicológicas básicas del paciente y *no* le diga lo que debe hacer o lo que debe pensar. En su lugar, haga preguntas. Al hacer que los pacientes conecten los puntos por sí mismos, puede hacer que se muevan en el camino hacia la regulación autónoma de un comportamiento saludable.
 
-During this process you are a guide—support the patient's basic psychological needs and *do not* tell them what to do or what to think. Instead, ask questions. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
+[Ver un ejemplo de una matriz de decisiones (PDF),](/assets/pdf/decisionalbalance.pdf) también dispuesto en [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
-[See an example decision matrix (PDF),](/assets/pdf/decisionalbalance.pdf) also available on [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
 
+## Resúmen
 
-## Summary
+En este artículo, exploramos una frustración clínica común:
 
-In this article, we explored a common clinical frustration:
+ **"¿Por qué los pacientes no hacen lo que decimos? "**.
 
- **"Why don't patients do what we say?"**
+Para responder a esta pregunta, primero dimos una definición concreta al estilo de vida, reconociendo que las identidades relacionadas con los comportamientos del estilo de vida son tan importantes como los propios comportamientos.
 
-To answer this question, we first gave a concrete definition to lifestyle, recognizing that the identities connected with lifestyle behaviors are just as important as the behaviors themselves.
+La teoría de la autodeterminación nos mostró que las razones que sustentan nuestro comportamiento pueden ser extremadamente complejas. Nos proporcionó un marco para identificar y categorizar los diferentes tipos de motivación, así como algunos principios rectores sobre cómo llevar a las personas hacia estados motivacionales más saludables.
 
-Self-determination theory showed us that the reasons underpinning our behavior can be extremely complex. It gave us a framework to identify and categorize different kinds of motivation, as well as some guiding principles of how to move people toward healthier motivational states.
+Descubrimos que la pregunta que planteamos al principio estaba cargada de suposiciones poco útiles. En lugar de decirle a la gente lo que tiene que hacer, deberíamos centrarnos en crear un entorno que apoye las necesidades psicológicas básicas de autonomía, competencia y relación de las personas.
 
-We discovered that the question we posed at the beginning was actually loaded with unhelpful assumptions. Instead of telling people what to do, we should focus on creating an environment which is supportive of individuals' basic psychological needs for autonomy, competence, and relatedness.
+Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
 
-We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. We learned how to use a decision matrix to help patients strengthen their commitment.
+Gracias por leer este artículo. Me he divertido mucho escribiéndolo. Espero que encuentre estos principios útiles para mejorar su práctica clínica y su vida personal.
 
-Thank you for reading this article! I had a lot of fun writing it. I hope that you find these principles useful for improving your clinical practice as well as your personal life.
 
 
+## Lectura adicional
 
-## Further reading
-
-- [https://selfdeterminationtheory.org (official website) ](https://selfdeterminationtheory.org)
+- [https://selfdeterminationtheory.org (sitio web oficial) ](https://selfdeterminationtheory.org)
 - [Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 - [Self-Determination Theory: A Macrotheory of Human Motivation, Development, and Health](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsych.pdf)
 - [Exercise, physical activity, and self-determination theory: a systematic review](https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/1479-5868-9-78.pdf)

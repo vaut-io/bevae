@@ -57,7 +57,7 @@ We can split these theories of motivation into two broad categories: content the
 
 #### Examples of process theories
 
-- Adam's equity theory
+- Adams' equity theory
 - Bandura's self-efficacy theory
 - Skinner's reinforcement theory
 - Vroom's expectancy theory
@@ -120,7 +120,7 @@ Combining these concepts, we start to paint a picture of a continuum of motivati
 
 ![Diagramatic representation of the motivation continuum](/assets/img/motivation-spectrum.png)
 
-[*Image credit: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+[*Source: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 
 There's one more "type" of motivation we have not yet talked about, shown in the diagram above. It lies beyond external regulation: *amotivation.* A person who is amotivated is totally indifferent and sees no point in pursuing the behavior in the first place. The behavior in question is entirely without regulation and the locus of causality is impersonal, neither external nor internal.
 
@@ -164,7 +164,7 @@ Controlling others and threatening them with the future consequences of their be
 
 We can think of the environment surrounding the clinician-patient interaction as the *clinical context.* From the clinic's physical setup to our body language, everything we do and say has the potential to positively or negatively influence our patients' sense of autonomy, competence, and relatedness.
 
-We can make a powerful impact on shaping healthy behavioral patterns and well-being through the context we create. Think about how you can support the basic pscyhological needs of yourself and those around you, irrespective of whether you're inside or outside of the clinic.
+We can make a powerful impact on shaping healthy behavioral patterns and well-being through the context we create. Think about how you can support the basic psychological needs of yourself and those around you, irrespective of whether you're inside or outside of the clinic.
 
 ### Be a lifestyle coach
 
