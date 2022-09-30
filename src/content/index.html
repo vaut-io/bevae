@@ -1,0 +1,15 @@
+---
+title: BEVAE
+permalink: /
+---
+{% extends "base.html" %}
+{% block body %}
+<main class="[ cover stack g3 jfycenter itemscenter textcenter ] [ p3 ]">
+  <h1 class="[ logo ] [ fs4 ]">BEVAE</h1>
+  <ul class="[ flow1 ] [ fs1 ]">
+    {% for language in site.languages %}
+      <li><a href="/{{ language.code }}/">{{ language.label }}</a></li>
+    {% endfor %}
+  </ul>
+</main>
+{% endblock %}

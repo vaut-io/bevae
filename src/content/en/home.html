@@ -1,15 +1,15 @@
 ---
 translationKey: home
 title: Welcome to BEVAE
-permalink: /
+permalink: /en/
 description: Welcome to BEVAE
 ---
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
 <main class="[ centerx squeeze12 ] [ p0 ]">
+  <h1>Articles</h1>
   <ul class="flow1/3">
-    <h1 class="fs2">Articles</h1>
     {% set posts = collections[locale + "_articles"] %}
     {% for entry in posts %}
     <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>

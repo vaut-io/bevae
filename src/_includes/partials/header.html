@@ -1,5 +1,5 @@
-<header class="[ cluster g2 jfybetween itemscenter squeeze12 centerx ] [ p1 ]">
-  <a class="fs2" href="/" style="font-family: krona; color: #ff3300;">BEVAE</a>
+<header class="[ cluster g-2 jfybetween itemscenter squeeze12 centerx ] [ p0 ]">
+  <a class="[ logo ] [ fs2 ]" href="/{{ locale }}/">BEVAE</a>
   <nav>
     {% for language in site.languages %}
     {% if loop.first %}<ul style="list-style: none;">{% endif %}
@@ -9,7 +9,7 @@
       {% for entry in collections.all %}
       {% if entry.data.translationKey == translationKey and entry.data.locale == language.code and entry.data.locale != locale %}
       {% set translationUrl = entry.url %}
-      <li class="fs-1"><a class="{{ activeClass }}" href="{{ translationUrl }}">{{ language.label }}</a></li>
+      <li class="fs-1"><a class="{{ activeClass }}" href="{{ translationUrl }}">{{ language.message }}</a></li>
       {% endif %}
       {% endfor %}
 

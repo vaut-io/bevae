@@ -63,7 +63,9 @@ button {
 
 a {
   font-style: italic;
-  &:hover {}
+  &:hover {
+    text-decoration: underline;
+  }
   &:focus {}
   &:link {}
   &:visited {}
@@ -77,11 +79,9 @@ i,
 em {}
 
 ul {
-  list-style: disc inside;
+  list-style: none;
 }
 
-li {
-  padding-inline-start: var(--space-1);
-}
+li {}
 
 ::marker {}
