@@ -1,18 +1,18 @@
 ---
 translationKey: article1
-title: Estilo de vida
-subtitle: El problema de adherencia
+title: Cambio de estilo de vida
+subtitle: El problema de la adherencia
 ---
 
-20–30 minutos de largo
+20–30 minutos de lectura
 
-El estilo de vida desempeña un papel clave en el desarrollo y el tratamiento de muchas enfermedades. Tanto si se trata de dolores inespecíficos como de cánceres, trastornos cardiovasculares o cualquier otra enfermedad crónica (o incluso aguda), una parte de la etiología y la gravedad de la afección se atribuye a factores modificables del estilo de vida. Tanto desde una perspectiva científica como de sentido común, el modo en que la persona vive su vida es un factor determinante para su salud.
+El estilo de vida desempeña un papel clave en el desarrollo y el tratamiento de muchas enfermedades. Tratándose de dolor inespecífico, cánceres, trastornos cardiovasculares o cualquier otra enfermedad crónica (incluso algunas agudas), una gran parte de la etiología y la gravedad de los síntomas se atribuye a factores modificables del estilo de vida. Desde una perspectiva científica e intuitiva, el modo en el que una persona vive su vida es un factor determinante para su salud.
 
-Sin embargo, muchos clínicos sienten que conseguir que sus pacientes cambien su estilo de vida es un trabajo imposible. Olvídate de intentar evitar las consecuencias en un futuro lejano, incluso si el individuo está sufriendo *en este momento mismo*, ¡no escucharán! Tienen bastantes razones para mejorar su situación y nosotros les estamos contando la solución exacta...
+Sin embargo, muchos clínicos sienten que conseguir que sus pacientes cambien su estilo de vida es un trabajo imposible. Olvídate de intentar evitar las consecuencias en un futuro lejano, incluso si el individuo está sufriendo *en este mismo momento*, ¡no escuchará! Tienen múltiples razones para cambiar su situación y les estamos dando soluciones...
 
-**¿Por qué no hacen lo que decimos?**
+**¿Por qué no nos hacen caso?**
 
-Vamos a desgranar esta pregunta.
+Revelaremos la respuesta a esta pregunta.
 
 
 
@@ -20,11 +20,11 @@ Vamos a desgranar esta pregunta.
 
 Necesitaremos una definición concreta de estilo de vida para darle sentido:
 
-*"La suma de las **pautas de comportamiento coherentes** de una persona, profundamente conectadas con su **identidad.**"*
+*"La suma de **los patrones de comportamiento constantes** de una persona, profundamente conectados con su **identidad.**"*
 
 La identidad está formada por las características que definen a un individuo y su sentido de sí mismo (intereses, opiniones, creencias, valores, etc.).
 
-Cuando hablamos de cambio de estilo de vida, nos referimos a *cambio de comportamiento + cambio de identidad.* No se puede mantener uno sin el otro. Cualquier teoría que pretenda abordar el cambio de comportamiento debe ocuparse también de la identidad. Examinaremos una teoría que aborda ambas cosas cuando empecemos a tratar con la siguiente pregunta:
+Cuando hablamos de cambio de estilo de vida, nos referimos a *cambio de comportamiento + cambio de identidad.* No se puede mantener el uno sin el otro. Cualquier teoría que pretenda abordar el cambio de comportamiento debe ocuparse también de la identidad. Examinaremos una teoría que aborda ambas cosas cuando empecemos a tratar con la siguiente pregunta:
 
 **¿Qué impulsa el comportamiento?**
 
@@ -41,7 +41,7 @@ Esta interpretación de la motivación está estrechamente ligada al binario *re
 
 Muchas personas en la sociedad siguen creyendo que la motivación funciona así; sin embargo, veremos que es una posición insostenible. Este enfoque reduccionista suele ser contraproducente y da lugar a malos resultados y a la insatisfacción de pacientes y médicos. Tenemos que replantear nuestra idea de lo que es la motivación y de dónde procede si queremos tener éxito a la hora de ayudar a los pacientes a realizar cambios positivos en su estilo de vida.
 
-### Teorías de motivación
+### Teorías de la motivación
 
 En el último siglo han surgido varias teorías que compiten entre sí en el campo de la psicología de la motivación. Algunas de estas teorías se basan directamente en trabajos anteriores, mientras que otras ofrecen perspectivas complementarias. Cada una de las teorías intenta describir la motivación desde un ángulo ligeramente diferente. Los seres humanos somos animales complejos, y las razones que fundamentan nuestros comportamientos lo son aún más.
 
@@ -95,7 +95,7 @@ Cuando elegimos comprometernos con un comportamiento, buscamos una sensación de
 
 Los humanos somos animales sociales y tenemos un deseo muy arraigado de pertenencia y conexión con otras personas. El sentimiento de pertenencia incluye la sensación de ocupar un lugar en el mundo, de que los demás se preocupan por ti y de que beneficias a los que te rodean.
 
-### La calidad de motivación
+### Motivación intrínseca y extrínseca
 
 La TAD fue pionera en la idea de que la motivación puede describirse no sólo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por la propia conducta. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en las tareas y el bienestar.
 
@@ -103,7 +103,7 @@ Cuando el objetivo de una conducta es algo distinto a la propia conducta, estamo
 
 La "internalización de la regulación" parece complicada, pero en realidad es un concepto relativamente sencillo: ¿la cosa que te hace realizar la conducta (la regulación) viene de fuera de ti mismo, de dentro o de algún punto intermedio (el grado de internalización)?
 
-#### Los tipos de motivación extrínseca
+#### Tipos de motivación extrínseca
 
 **La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Comportarse de acuerdo con un castigo o una recompensa externos conocidos o previstos son las características de la conducta regulada externamente. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior.
 
@@ -127,7 +127,7 @@ Dejando a un lado la desmotivación (a la que volveremos más adelante), si nues
 
 Surgen una serie de efectos secundarios positivos: nuestro rendimiento en las tareas y el compromiso con la actividad mejoran, somos más persistentes frente a los obstáculos y contratiempos, y nos convertimos en personas más seguras y que funcionan mejor.
 
-#### El maratonista
+#### El corredor de maratón
 
 Una consecuencia natural de la TED es que rara vez hay un solo tipo de motivación detrás de un comportamiento. Lo ilustraremos con un experimento mental. Imagine que acaba de terminar una maratón. ¿Qué le motivó a entrenar y participar en la carrera?
 
@@ -159,13 +159,13 @@ Ahora estamos en condiciones de ver esta pregunta bajo una nueva luz: *la propia
 
 Controlar a los demás y amenazarles con las consecuencias futuras de su comportamiento da lugar al *peor* tipo de motivación que se puede tener. Un enfoque clínico del cambio de estilo de vida basado en la psicología motivacional exige que no intentemos motivar a nuestros pacientes de esta manera. En su lugar, debemos crear un entorno que apoye las necesidades psicológicas básicas de nuestros pacientes, y el resto vendrá por añadidura.
 
-### Manipular el contexto clínico
+### Manipula el contexto clínico
 
 Podemos pensar en el entorno que rodea la interacción entre el médico y el paciente como el *contexto clínico*. Desde la configuración física de la clínica hasta nuestro lenguaje corporal, todo lo que hacemos y decimos tiene el potencial de influir positiva o negativamente en el sentido de autonomía, competencia y relación de nuestros pacientes.
 
 Podemos tener un gran impacto en la formación de patrones de comportamiento saludables y en el bienestar a través del contexto que creamos. Piensa en cómo puedes apoyar las necesidades psicológicas básicas de ti mismo y de los que te rodean, independientemente de si estás dentro o fuera de la clínica.
 
-### Ser un entrenador de estilo de vida
+### Sé un entrenador de estilo de vida
 
 Las lecciones que hemos aprendido de la SDT nos animan a replantearnos todo el fundamento de nuestra práctica clínica. Exige un cambio total de mentalidad: dejar de asumir un papel paternal cuando se trabaja con los pacientes. Ahora eres su *entrenador de estilo de vida*. Quieres ayudar a tus pacientes a alcanzar sus objetivos, pero no puedes decidir sus objetivos por ellos. No impongas una jerarquía.
 
@@ -173,7 +173,7 @@ Naturalmente, surgen situaciones en las que no es tan obvio y claro. Si un pacie
 
 Tal vez una solución aún mejor consistiría en una educación continua y en animar al paciente a experimentar y tomar el control de su propia salud. No todos los pacientes responderán bien a esto de inmediato (especialmente si han sido condicionados a ser pasivos), pero es un buen objetivo a largo plazo.
 
-### ¿Amotivado o conflictivo?
+### ¿Desmotivado o confuso?
 
 Si un paciente está realmente desmotivado cuando se trata de cambiar un comportamiento de estilo de vida específico, no hay mucho que se pueda hacer. Una persona debe estar al menos *algo* dispuesta a cambiar si quiere tener alguna esperanza de éxito. Sin embargo, aunque pueda parecer que muchos pacientes están desmotivados, cuando se escarba bajo la superficie la mayoría de las personas no son *realmente* indiferentes cuando se trata de hacer cambios positivos para su salud.
 
@@ -183,13 +183,13 @@ Una compleja lucha motivacional interna puede disfrazarse de indiferencia y desm
 
 No se puede exagerar lo esenciales que son la confianza y la empatía durante este proceso. Sin una sólida alianza terapéutica, hay muy pocas posibilidades de que sus pacientes se abran y sean sinceros con usted sobre ellos mismos. Se necesita una buena comunicación y una aguda capacidad de razonamiento crítico para navegar por el paisaje interno de una persona.
 
-### La entrevista motivacional (EM)
+### Entrevista motivacional (EM)
 
 *La entrevista motivacional* es una técnica terapéutica desarrollada específicamente para el asesoramiento sobre el cambio de comportamiento. La entrevista motivacional tiene sus raíces en el asesoramiento sobre adicciones, pero desde entonces se ha aplicado con éxito en muchos otros contextos, de forma similar a la TAD. Algunas personas que trabajan con la EM incluso han recurrido a la TAD para explicar por qué funciona.
 
 Aunque en este artículo no exploraremos por completo cómo hacer EM, ya hemos sentado una base sólida para practicar la técnica. Formular preguntas abiertas y devolver las preguntas al paciente para ayudarle a llegar a conclusiones por sí mismo (apoyo a la autonomía), centrarse en los éxitos pasados para fomentar la autoeficacia (apoyo a la competencia) y escuchar de forma activa y empática (apoyo a la relación) son las piedras angulares de la EM.
 
-#### La matriz de decisión
+#### La balanza decisiva
 
 Hacer una *matriz de decisiones* es una actividad que a veces se realiza en el IM y que [puede ayudar a un individuo a reforzar su compromiso con un cambio de conducta](https://pubmed.ncbi.nlm.nih.gov/24229732/) Primero se dibuja una tabla de 2x2. A continuación, el paciente identifica los beneficios e inconvenientes de continuar con el statu quo (1, 2) o de realizar un cambio (3, 4).
 
@@ -222,6 +222,6 @@ Gracias por leer este artículo. Me he divertido mucho escribiéndolo. Espero qu
 ## Lectura adicional
 
 - [https://selfdeterminationtheory.org (sitio web oficial) ](https://selfdeterminationtheory.org)
-- [Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+- [Self-determination theory and the facilitation of intrinsic motivation, asocial development, and well-being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 - [Self-Determination Theory: A Macrotheory of Human Motivation, Development, and Health](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsych.pdf)
 - [Exercise, physical activity, and self-determination theory: a systematic review](https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/1479-5868-9-78.pdf)
