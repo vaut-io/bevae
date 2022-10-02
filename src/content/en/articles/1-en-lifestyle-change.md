@@ -36,11 +36,11 @@ The key word here, "drives," isn't the most apt term for our purposes. We're  sp
 
 How many times have you heard, "he has low motivation," "she needs more motivation," or even, "we need to motivate our patients more?"
 
-*Motivation* is a concept often described as a linear quantity. You just need more of it if you are to be successful in adhering to a behavior, and it's our job as clinicians to give high amounts of motivation to our patients.
+Motivation is a concept often described as a linear quantity. You just need more of it if you want to be successful in adhering to a behavior, and it's our job as clinicians to "give" high amounts of motivation to our patients.
 
 This interpretation of motivation is tightly coupled with the binary *reward (the carrot) and punishment (the stick).* In order to increase motivation, we increase the degree of punishment or reward. It's elegant in its simplicity. But this simplicity is an illusion.
 
-Many people in society still hold the belief that motivation works like this; however, we'll come to see that it's an untenable position to hold. This reductionist approach often backfires and results in poor outcomes and patient and clinician dissatisfaction. We have to reframe our idea of what motivation is and where it comes from if we want to be successful in helping patients make positive lifestyle changes.
+Many people still hold the belief that motivation works like this; however, we'll come to see that it's an untenable position to hold. This reductionist approach often backfires and results in poor outcomes and patient and clinician dissatisfaction. We have to reframe our idea of what motivation is and where it comes from if we want to be successful in helping patients make positive lifestyle changes.
 
 ### Theories of motivation
 
@@ -76,21 +76,21 @@ SDT traces its roots back to humanistic psychology, a branch of psychology which
 
 *"...people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
-According to SDT, we naturally take an interest in overcoming obstacles and integrating these experiences into our identity. We have the potential for our default state to be characterized by personal growth, but whether or not this is expressed critically depends on our environment.
+According to SDT, we naturally take an interest in overcoming obstacles and integrating these experiences into our identity. We all tend toward personal growth, but whether or not this happens critically depends on our environment.
 
 ### Basic psychological needs
 
-The question then becomes, what are the specific criteria in the environment which either support or thwart self-actualization? SDT defines three *basic psychological needs* which must be satisfied: **autonomy, competence, and relatedness.**
+The question then becomes, what are the specific criteria in the environment which either support or thwart personal growth (and as a consequence, self-realization)? SDT defines three *basic psychological needs* which must be satisfied: **autonomy, competence, and relatedness.**
 
 *"To the extent that the needs are ongoingly satisfied, people will develop and function effectively and experience wellness, but to the extent that they are thwarted, people will more likely evidence ill-being and non-optimal functioning." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
 #### Autonomy
 
-First up is autonomy, the desire to be the causal agents of our own actions. Irrespective of whether or not free will exists, SDT postulates that the subjective feeling of being in charge of your own choices and the feeling of psychological freedom this brings with it is necessary to be a healthy, functioning organism. Being self-motivated (*autonomous regulation*) leads to healthier outcomes compared to when we are told what to do (*controlled regulation*). We'll come back to and expand on the idea of "regulation" shortly.
+First up is autonomy, the desire to be the causal agents of our own actions. Irrespective of whether or not free will exists, SDT postulates that the subjective feeling of being in charge of your own choices and the feeling of psychological freedom this brings with it is necessary to be a healthy, functioning organism. Being self-motivated (also called *autonomous regulation*) leads to healthier outcomes compared to when we are told what to do (*controlled regulation*). We'll come back to and expand on the idea of "regulation" shortly.
 
 #### Competence
 
-When we choose to engage with a behavior, we seek a sense of control over the results of the behavior; we all want to experience mastery. Self-efficacy is a well known determinant of long-term patient outcomes, and supporting a person's feeling of competence increases and sustains their confidence in their own abilities.
+When we choose to engage with a behavior, we seek a sense of control over the results of the behavior; we all want to experience mastery. Self-efficacy is a well-known determinant of long-term patient outcomes, and supporting a person's feeling of competence increases and sustains their confidence in their own abilities.
 
 #### Relatedness
 
@@ -106,7 +106,7 @@ When the goal of a behavior is something other than the behavior itself, we're t
 
 #### Types of extrinsic motivation
 
-**External regulation** is the least autonomous, most "controlled" kind of motivation. Behaving in accordance with known or predicted external punishment or reward are hallmarks of externally regulated behavior. Motivations characterized by external regulation have a clearly defined, externally perceived *locus of causality.* The individual's sense of volition and control over their actions is absent.
+**External regulation** is the least autonomous, most "controlled" kind of motivation. Behaving in accordance with known or predicted external punishment or reward is a hallmark of externally regulated behavior. Motivations characterized by external regulation have a clearly defined, externally perceived *locus of causality.* The individual's sense of volition and control over their actions is absent.
 
 **Introjected regulation** is characterized by internal rewards and punishments. Introjection is the voice in your head echoing external pressures, the internalization of others' thoughts and attitudes. Pride, social status, and other ego-related motivations are examples of introjected regulation. It is still characterized by an external locus of causality as this kind of regulation is not fully integrated with the self.
 

@@ -33,33 +33,33 @@ La palabra clave aquí, "impulsa," no es el término más adecuado para nuestros
 
 ## La motivación
 
-¿Cuántas veces ha escuchado "tiene poca motivación", "necesita más motivación" o incluso "tenemos que motivar más a nuestros pacientes"?
+¿Cuántas veces has escuchado "no está motivada", "necesita más motivación" o incluso "tenemos que motivar más a nuestros pacientes"?
 
-*La motivación es un concepto que a menudo se describe como una cantidad lineal. Simplemente necesitas más de ella si quieres tener éxito en la adhesión a un comportamiento, y es nuestro trabajo como clínicos dar altas cantidades de motivación a nuestros pacientes.*
+La motivación es un concepto que a menudo se describe como una cantidad lineal. Simplemente necesitas más motivación si quieres tener éxito con adquirir un hábito, y es nuestro trabajo como clínicos "dar" altas cantidades de motivación a los pacientes.
 
-Esta interpretación de la motivación está estrechamente ligada al binario *recompensa (la zanahoria) y castigo (el palo)*. Para aumentar la motivación, aumentamos el grado de castigo o recompensa. Es elegante en su simplicidad. Pero esta simplicidad es una ilusión.
+Esta interpretación de la motivación está estrechamente ligada al binario de *recompensa (la zanahoria) y castigo (el palo).* Para aumentar la motivación, aumentamos el grado de castigo o recompensa. Es elegante en su simplicidad. Pero esta simplicidad es una ilusión.
 
-Muchas personas en la sociedad siguen creyendo que la motivación funciona así; sin embargo, veremos que es una posición insostenible. Este enfoque reduccionista suele ser contraproducente y da lugar a malos resultados y a la insatisfacción de pacientes y médicos. Tenemos que replantear nuestra idea de lo que es la motivación y de dónde procede si queremos tener éxito a la hora de ayudar a los pacientes a realizar cambios positivos en su estilo de vida.
+Muchas personas siguen creyendo que la motivación funciona así; sin embargo, veremos que esta una creencia irrealista. Este enfoque reduccionista suele ser contraproducente y da lugar a malos resultados y a la insatisfacción de los pacientes y los clínicos. Tenemos que replantear nuestra idea de lo que es la motivación y de dónde procede si queremos tener éxito a la hora de ayudar a los pacientes a realizar cambios positivos en su estilo de vida.
 
 ### Teorías de la motivación
 
 En el último siglo han surgido varias teorías que compiten entre sí en el campo de la psicología de la motivación. Algunas de estas teorías se basan directamente en trabajos anteriores, mientras que otras ofrecen perspectivas complementarias. Cada una de las teorías intenta describir la motivación desde un ángulo ligeramente diferente. Los seres humanos somos animales complejos, y las razones que fundamentan nuestros comportamientos lo son aún más.
 
-Podemos dividir estas teorías de la motivación en dos grandes categorías: las teorías del contenido, relativas a *lo que* constituye los estados motivacionales, y las teorías del proceso, *cómo* surgen esos estados motivacionales.
+En principio, podemos dividir estas teorías en dos categorías: las teorías de contenido, relacioadas a *qué* forma los estados motivacionales, y las teorías de proceso, *cómo* surgen los estados motivacionales.
 
 #### Ejemplos de teorías de contenido
 
 - La jerarquía de necesidades de Maslow 
 - La teoría de McClelland
-- Teoría ERG de Alderfer
-- Teoría del factor dual de Herzberg
+- La teoría ERG de Alderfer
+- La teoría del factor dual de Herzberg
 
 #### Ejemplos de teorías de proceso
 
-- Teoría del autoeficacia de Bandura
-- Teoría de la equidad de Adam
-- Teoría de las expectativas de Vroom
-- Teoría del reforzamiento de Skinner
+- La teoría del autoeficacia de Bandura
+- La teoría de la equidad de Adam
+- La teoría de las expectativas de Vroom
+- La teoría del reforzamiento de Skinner
 
 
 
@@ -67,29 +67,29 @@ Podemos dividir estas teorías de la motivación en dos grandes categorías: las
 
 En este artículo vamos a centrarnos en una macroteoría (una teoría que engloba varias miniteorías) de la motivación, *la teoría de la autodeterminación*. Desde que los psicólogos Richard Ryan y Edward Deci formularon la primera versión de la TAD en los años 80, ha sido objeto de un intenso desarrollo e investigación.
 
-Hoy en día, la TAD es una de las teorías de la motivación más influyentes, si no la más influyente. Cuenta con un enorme cuerpo de literatura que apoya su uso en un amplio espectro de contextos, desde el entrenamiento de atletas hasta la enseñanza en las escuelas, el asesoramiento en casos de trauma, el liderazgo en el ejército, y más allá. Si está interesado en la literatura, [consulte el sitio web oficial,](https://selfdeterminationtheory.org) donde se recopila toda la investigación sobre la teoría hasta la fecha y se organiza por temas.
+Hoy en día, la TAD es una de las teorías de la motivación más influyentes, si no la más influyente. Cuenta con un gran cuerpo de literatura que apoya su uso en un amplio espectro de contextos, desde el entrenamiento de atletas hasta la enseñanza en las escuelas, el asesoramiento en casos de trauma, el liderazgo en el ejército, y más allá. Si estás interesado en la literatura, [consulte el sitio web oficial,](https://selfdeterminationtheory.org) donde se recopila toda la investigación sobre la teoría hasta la fecha y se organiza por temas.
 
 ### Orígines humanistas
 
-La TAD hunde sus raíces en la psicología humanista, una rama de la psicología que se ocupa del viaje del individuo hacia una mayor autonomía y autorrealización. La psicología humanista está profundamente entretejida en el tejido de la TAD, empezando por el axioma principal de la teoría:
+La TAD tiene sus raíces en la psicología humanista, una rama de la psicología que se ocupa del viaje del individuo hacia una mayor autonomía y autorrealización. La psicología humanista está profundamente unida al tejido de la TAD, empezando por el axioma principal de la teoría:
 
 *"...people are active organisms, with evolved tendencies toward growing, mastering ambient challenges, and integrating new experiences into a coherent sense of self. These natural developmental tendencies do not, however, operate automatically, but instead require ongoing social nutriments and supports." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
-Según la TAD, nos interesa naturalmente superar los obstáculos e integrar estas experiencias en nuestra identidad. Tenemos el potencial de que nuestro estado por defecto se caracterice por el crecimiento personal, pero el hecho de que se exprese o no de forma crítica depende de nuestro entorno.
+Según la TAD, naturalmente nos interesa superar los obstáculos e integrar estas experiencias en nuestra identidad. Todos tendemos al crecimiento personal, pero el hecho de que ocurra o no depende crucialmente de nuestro entorno.
 
 ### Las necesidades psicológicas básicas
 
-La pregunta es entonces: ¿cuáles son los criterios específicos del entorno que apoyan o frustran la autorrealización? La SDT define tres *necesidades psicológicas básicas* que deben ser satisfechas: **autonomía, competencia y relación.**
+Entonces aparece la pregunta: ¿cuáles son los criterios específicos del entorno que apoyan o impiden el crecimiento personal (y como consecuencia, la autorrealización)? La TAD define tres *necesidades psicológicas básicas* que deben ser completadas: **autonomía, competencia y relación.**
 
 *"To the extent that the needs are ongoingly satisfied, people will develop and function effectively and experience wellness, but to the extent that they are thwarted, people will more likely evidence ill-being and non-optimal functioning." ([selfdeterminationtheory.org](https://selfdeterminationtheory.org/the-theory/))*
 
 #### Autonomía
 
-El primero es la autonomía, el deseo de ser los agentes causales de nuestras propias acciones. Independientemente de que exista o no el libre albedrío, la TED postula que la sensación subjetiva de estar a cargo de las propias decisiones y el sentimiento de libertad psicológica que esto conlleva es necesario para ser un organismo sano y funcional. Estar auto-motivado (*regulación autónoma*) conduce a resultados más saludables en comparación con cuando se nos dice lo que tenemos que hacer (*regulación controlada*). Volveremos a hablar de la idea de "regulación" y la ampliaremos en breve.
+El primera necesidad es la autonomía, el deseo de ser los agentes causantes de nuestras propias acciones. Independientemente de que exista o no el libre albedrío, la TAD postula que la sensación subjetiva de estar a cargo de tus propias decisiones y el sentimiento de libertad psicológica que esto conlleva es necesario para ser un organismo sano y funcional. Estar automotivado (también llamado *regulación autónoma*) conduce a resultados más saludables en comparación con cuando se nos dice lo que tenemos que hacer (*regulación controlada*). Volveremos a hablar de la idea de "regulación" y la ampliaremos en breve.
 
 #### Competencia
 
-Cuando elegimos comprometernos con un comportamiento, buscamos una sensación de control sobre los resultados del mismo; todos queremos experimentar el dominio. La autoeficacia es un determinante bien conocido de los resultados de los pacientes a largo plazo, y apoyar el sentimiento de competencia de una persona aumenta y mantiene su confianza en sus propias capacidades.
+Cuando elegimos comprometernos con un comportamiento, buscamos controlar los resultados del mismo; todos queremos experimentar el dominio. La autoeficacia es un determinante bien conocido de los resultados de los pacientes a largo plazo, y apoyar el sentimiento de competencia de una persona aumenta y mantiene su confianza en sus propias capacidades.
 
 #### Relación
 
@@ -97,17 +97,17 @@ Los humanos somos animales sociales y tenemos un deseo muy arraigado de pertenen
 
 ### Motivación intrínseca y extrínseca
 
-La TAD fue pionera en la idea de que la motivación puede describirse no sólo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por la propia conducta. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en las tareas y el bienestar.
+La TAD fue pionera en la idea de que la motivación puede describirse no sólo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por el propio comportamiento. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en la propia actividad y el bienestar.
 
-Cuando el objetivo de una conducta es algo distinto a la propia conducta, estamos hablando de **motivación extrínseca.** La TED amplía el concepto de motivación extrínseca delineando distintos subtipos, cada uno de ellos definido por el grado de *internalización* de la *regulación de la conducta*.
+Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de **la motivación extrínseca.** La TAD amplía el concepto de motivación extrínseca marcando distintos subtipos, cada uno de ellos definido por el grado de *internalización* de la *regulación* del comportamiento.
 
-La "internalización de la regulación" parece complicada, pero en realidad es un concepto relativamente sencillo: ¿la cosa que te hace realizar la conducta (la regulación) viene de fuera de ti mismo, de dentro o de algún punto intermedio (el grado de internalización)?
+"La internalización de la regulación" parece complicada, pero en realidad es un concepto relativamente sencillo—¿de dónde viene el impulso de tal comportamiento (la regulación)? ¿Viene del exterior, desde tu interior o de algún punto intermedio (el grado de internalización)?
 
 #### Tipos de motivación extrínseca
 
-**La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Comportarse de acuerdo con un castigo o una recompensa externos conocidos o previstos son las características de la conducta regulada externamente. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior.
+**La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Estar de acuerdo con un castigo o una recompensa, ambos externos, es una de las características del comportamiento regulado de manera externa. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior. Es decir, el sentido de control del individuo sobre sus acciones está absento.
 
-**La regulación introyectada** se caracteriza por recompensas y castigos internos. La introyección es la voz en la cabeza que se hace eco de las presiones externas, la internalización de los pensamientos y actitudes de los demás. El orgullo, el estatus social y otras motivaciones relacionadas con el ego son ejemplos de regulación introyectada. Se sigue caracterizando por un locus de causalidad externo, ya que este tipo de regulación no está totalmente integrada con el yo.
+**La regulación introyectada** se caracteriza por recompensas y castigos internos. La introyección es la voz en tu cabeza que repite las presiones externas, es la internalización de los pensamientos y actitudes de los demás. El orgullo, el estatus social y otras motivaciones relacionadas con el ego son ejemplos de regulación introyectada. Se sigue caracterizando por un locus de causalidad externo, ya que este tipo de regulación no está totalmente integrada con el yo.
 
 **La regulación identificada** es la etapa en la que la autodeterminación se afianza. El individuo comienza a valorar el comportamiento porque contribuye a un objetivo personalmente relevante; el locus de causalidad se vuelve hacia el interior.
 
