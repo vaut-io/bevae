@@ -107,11 +107,11 @@ Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de 
 
 **La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Estar de acuerdo con un castigo o una recompensa, ambos externos, es una de las características del comportamiento regulado de manera externa. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior. Es decir, el sentido de control del individuo sobre sus acciones está absento.
 
-**La regulación introyectada** se caracteriza por recompensas y castigos internos. La introyección es la voz en tu cabeza que repite las presiones externas, es la internalización de los pensamientos y actitudes de los demás. El orgullo, el estatus social y otras motivaciones relacionadas con el ego son ejemplos de regulación introyectada. Se sigue caracterizando por un locus de causalidad externo, ya que este tipo de regulación no está totalmente integrada con el yo.
+**La regulación introyectada** se caracteriza por recompensas y castigos internos. La introyección es la voz en tu cabeza que repite las presiones externas, es la internalización de los pensamientos y actitudes de los demás. El orgullo, el estatus social y otras motivaciones relacionadas con el ego son ejemplos de regulación introyectada. Se sigue caracterizando por un locus de causalidad externo, ya que este tipo de regulación no está totalmente integrado con el yo interno.
 
 **La regulación identificada** es la etapa en la que la autodeterminación se afianza. El individuo comienza a valorar el comportamiento porque contribuye a un objetivo personalmente relevante; el locus de causalidad se vuelve hacia el interior.
 
-**La regulación integrada** es el tipo de motivación extrínseca más autónoma. El comportamiento no sólo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
+**La regulación integrada** es el tipo de motivación extrínseca más autónoma. El comportamiento no sólo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo interno. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
 
 ### Un espectro de autodeterminación
 
@@ -121,43 +121,41 @@ Combinando estos conceptos, empezamos a pintar un cuadro de un continuo de motiv
 
 [*Fuente: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 
-Hay un "tipo" más de motivación del que aún no hemos hablado, que se muestra en el diagrama anterior. Se encuentra más allá de la regulación externa: *la amotivación.* Una persona que está amotivada es totalmente indiferente y no ve ningún sentido en perseguir el comportamiento en primer lugar. El comportamiento en cuestión carece totalmente de regulación y el locus de causalidad es impersonal, ni externo ni interno.
+Hay otro "tipo" de motivación del que aún no hemos hablado, que se muestra en el diagrama anterior: *la desmotivación.* Se encuentra más allá de la regulación externa; a una persona que está desmotivada le es indiferente y no ve ningún sentido en realizar el comportamiento en primer lugar. El comportamiento en cuestión carece por completo de regulación y el locus de causalidad es impersonal, ni externo ni interno.
 
-Dejando a un lado la desmotivación (a la que volveremos más adelante), si nuestro entorno apoya nuestras necesidades psicológicas básicas, las motivaciones que fundamentan nuestro comportamiento pasarán de caracterizarse por una regulación "controlada" externamente a una regulación "autónoma" internamente.
+Dejando a un lado la desmotivación (volveremos a ella más adelante), las motivaciones que fundamentan nuestros comportamientos saludables pasarán, con el tiempo, de estar caracterizadas por una regulación externa "controlada" a una regulación interna "autónoma", dado que nuestro entorno apoya nuestras necesidades psicológicas básicas.
 
-Surgen una serie de efectos secundarios positivos: nuestro rendimiento en las tareas y el compromiso con la actividad mejoran, somos más persistentes frente a los obstáculos y contratiempos, y nos convertimos en personas más seguras y que funcionan mejor.
+Como resultado, surgen una serie de efectos secundarios positivos. Nuestro rendimiento y el compromiso con la actividad mejoran, somos más persistentes frente a los obstáculos y contratiempos, y nos volvemos más confiados y funcionamos mejor.
 
 #### El corredor de maratón
 
-Una consecuencia natural de la TED es que rara vez hay un solo tipo de motivación detrás de un comportamiento. Lo ilustraremos con un experimento mental. Imagine que acaba de terminar una maratón. ¿Qué le motivó a entrenar y participar en la carrera?
+Una consecuencia natural de la TAD es que rara vez hay un solo tipo de motivación detrás de un comportamiento. Lo ilustraremos con un experimento mental. Imagínate que acabas de terminar una maratón. ¿Qué te motivó a entrenar y participar en la carrera?
 
-Al final de la carrera, es probable que haya comida y bebida gratis. Quizá te den una medalla física en función de tu rendimiento. Si esas fueran las únicas razones que tuvieras para entrenar y correr en la maratón, probablemente no habrías seguido con ella (reglamento externo).
+Al final de la carrera, es probable que haya comida y bebida gratis. Tal vez te den una medalla en función de tu rendimiento. Si esas fueran las únicas razones que tuvieras para entrenar y correr en la maratón, probablemente no habrías seguido con ella (reglamento externo).
 
-La medalla que perseguías también podría representar una presión interna para batir tu récord personal. Tal vez tus padres te presionaron para que tuvieras un buen rendimiento deportivo cuando eras niño. Esos pensamientos bien podrían haber permanecido en ti como una introyección. O viste la carrera como una forma de elevar tu estatus en tu círculo social superando los tiempos de carrera de tus amigos (regulación introyectada).
+La medalla que perseguías también podría representar una presión interna para batir tu récord personal. A lo mejor tus padres te presionaron para que tuvieras un buen rendimiento deportivo cuando eras niño. Esos pensamientos bien podrían haber permanecido en ti como una introyección. O viste la carrera como una forma de elevar tu estatus en tu círculo social superando los tiempos de carrera de tus amigos (regulación introyectada).
 
-El deseo de correr este maratón y conseguir una medalla también podría estar ligado a tu objetivo personal de correr un maratón de menos de 3 horas. Esto era un paso más para conseguirlo (regulación identificada).
+El deseo de correr esta maratón y conseguir una medalla también podría estar ligado a tu objetivo personal de correr una maratón de menos de 3 horas. Esto era un paso más para conseguirlo (regulación identificada).
 
 Te ves a ti mismo como una "persona en forma" y un "atleta competitivo". Correr maratones y vencer a la competencia constituye una parte de esta identidad (regulación integrada).
 
-Por último, disfrutas corriendo y compitiendo por el mero hecho de hacerlo. No se trata sólo de entrenar para dejar atrás a los zombis en caso de que haya un apocalipsis, sino que *simplemente te sientes bien* al correr largas distancias tan rápido como puedas (motivación intrínseca).
+Por último, corres y compites por gusto. No se trata de entrenar para dejar detrás a los zombis en el apocalipsis, sino que *simplemente se siente bien* correr largas distancias lo más rápido posible (motivación intrínseca).
 
 Pregunta a los que te rodean en la línea de meta y cada participante señalará diferentes razones para justificar su decisión de participar. La decisión de algunas personas de participar puede haber estado dominada por la regulación externa e introyectada, mientras que otras están tan intrínsecamente motivadas por correr que se apuntaron sólo por diversión.
 
-Analizar los comportamientos en función de las motivaciones que los componen e identificar los tipos de regulación que dominan el "perfil de motivación" puede dar una idea de dónde hay que centrarse si se quiere fomentar la persistencia, el compromiso y el bienestar.
+Analizar los comportamientos en función de las motivaciones que los componen e identificar los tipos de regulación que dominan el "perfil de motivación" puede dar una idea de dónde centrar los esfuerzos si se quiere fomentar la persistencia, el compromiso y el bienestar.
 
 
 
 ## Implicaciones para la práctica clínica
 
-Hemos visto cómo diferentes motivaciones pueden encajar para dar lugar a un perfil motivacional que conduce a un comportamiento. También hemos aprendido que, con el tiempo, avanzar hacia la regulación autónoma es un proceso natural bajo las condiciones adecuadas, y un resultado deseado dada su importancia para maximizar el éxito y el bienestar.
+Demos un paso atrás y retomemos la pregunta que nos hacíamos al principio del artículo:
 
-Demos ahora un paso atrás y retomemos la pregunta que nos hacíamos al principio del artículo:
+**¿Por qué no nos hacen caso?**
 
-**¿Por qué no hacen lo que decimos?**
+Ahora estamos en condiciones de ver esta pregunta bajo una nueva luz. *La propia pregunta* nos frena.
 
-Ahora estamos en condiciones de ver esta pregunta bajo una nueva luz: *la propia pregunta* nos frena.
-
-Controlar a los demás y amenazarles con las consecuencias futuras de su comportamiento da lugar al *peor* tipo de motivación que se puede tener. Un enfoque clínico del cambio de estilo de vida basado en la psicología motivacional exige que no intentemos motivar a nuestros pacientes de esta manera. En su lugar, debemos crear un entorno que apoye las necesidades psicológicas básicas de nuestros pacientes, y el resto vendrá por añadidura.
+Controlar a los demás y amenazarles con las consecuencias futuras de sus acciones da lugar al *peor* tipo de motivación que se puede tener. Un enfoque clínico del cambio de estilo de vida basado en la psicología motivacional exige que no intentemos motivar a nuestros pacientes de esta manera. En su lugar, debemos crear un entorno que apoye las necesidades psicológicas básicas de nuestros pacientes.
 
 ### Manipula el contexto clínico
 

@@ -122,17 +122,17 @@ Combining these concepts, we start to paint a picture of a continuum of motivati
 
 [*Source: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 
-There's one more "type" of motivation we have not yet talked about, shown in the diagram above. It lies beyond external regulation: *amotivation.* A person who is amotivated is totally indifferent and sees no point in pursuing the behavior in the first place. The behavior in question is entirely without regulation and the locus of causality is impersonal, neither external nor internal.
+There's one more "type" of motivation we have not yet talked about, shown in the diagram above: *amotivation.* It lies beyond external regulation; a person who is amotivated is totally indifferent and sees no point in pursuing the behavior in the first place. The behavior in question is entirely without regulation and the locus of causality is impersonal, neither external nor internal.
 
-Amotivation aside (we'll return to it later), if our environment is supportive of our basic psychological needs, the motivations grounding our behavior will shift from being characterized by externally "controlled" regulation to internally "autonomous" regulation.
+Amotivation aside (we'll return to it later), the motivations grounding our healthy behaviors will, over time, shift from being characterized by external "controlled" regulation to internal "autonomous" regulation given that our environment supports our basic psychological needs.
 
-A number of positive side effects emerge: our task performance and activity engagement improves, we are more persistent in the face of obstacles and setbacks, and we turn into more confident and better functioning people.
+A number of positive side effects emerge as a result. Our task performance and activity engagement improves, we are more persistent in the face of obstacles and setbacks, and we become more confident and better functioning.
 
 #### The marathon runner
 
 A natural consequence of SDT is that there is rarely only one kind of motivation behind a behavior. We'll illustrate this with a thought experiment. Imagine that you just finished a marathon. What motivated you to train for and participate in the race?
 
-At the end of the race, there are likely free food and drinks. Perhaps you'll be given a physical medal contingent on your performance. If those were the only reasons you had to train and run in the marathon, you probably wouldn't have followed through with it (external regulation).
+At the end of the race, there are likely free food and drinks. Perhaps you'll be given a medal contingent on your performance. If those were the only reasons you had to train and run in the marathon, you probably wouldn't have followed through with it (external regulation).
 
 The medal you were chasing could also represent an internal pressure to beat your personal record. Maybe your parents pressured you to perform well in sports when you were a kid. Those thoughts could well have stayed with you as an introjection. Or you saw the race as a way to elevate your status in your  social circle by beating your friends' race times (introjected regulation).
 
@@ -140,23 +140,21 @@ The desire to run this marathon and get a medal could also be tied to your perso
 
 You see yourself as an "fit person" and a "competitive athlete." Running marathons and beating the competition constitutes a part of this identity (integrated regulation).
 
-Finally, you enjoy running and racing for the sake of it. It's not only about training to outrun zombies in case there's an apocalypse, it *just feels good* to run long distances as fast as you can (intrinsic motivation).
+Finally, you run and race for the sake of it. It's not about training to outrun zombies in the apocalypse, it *just feels good* to run long distances as fast as you can (intrinsic motivation).
 
 Ask those around you at the finish line and each participant will point to different reasons to justify their decision to participate. Some people's decision to participate may have been dominated by external and introjected regulation, while others are so intrinsically motivated by running that they signed up just for fun.
 
-Analyzing behaviors in terms of their constituent motivations and identifying the types of regulation which dominate the "motivation profile" can give an idea of where to focus on if you want to encourage persistence, engagement, and well-being.
+Analyzing behaviors in terms of their constituent motivations and identifying the types of regulation which dominate the "motivation profile" can give an idea of where to focus your efforts if you want to encourage persistence, engagement, and well-being.
 
 
 
 ## Implications for clinical practice
 
-We've seen how different motivations might fit together to result in a motivational profile which leads to a behavior. We've also learned that over time, moving toward autonomous regulation is a natural process under the right conditions, and a desired outcome given its importance to maximizing success and well-being.
-
-Let's now take a step back and revisit the question we asked ourselves at the beginning of the article:
+Let's take a step back and revisit the question we asked ourselves at the beginning of the article:
 
 **Why don't they do what we say?**
 
-We're now in a position to see this question in a new light: *the question itself* is holding us back.
+We're now in a position to see this question in a new light. *The question itself* is holding us back.
 
 Controlling others and threatening them with the future consequences of their behavior results in the *worst* kind of motivation one can have. A clinical approach to lifestyle change informed by motivational psychology demands that we do not attempt to motivate our patients in this way. We should instead create an environment which is supportive of our patients' basic psychological needs, and the rest will follow.
 
@@ -170,7 +168,7 @@ We can make a powerful impact on shaping healthy behavioral patterns and well-be
 
 The lessons we have learned from SDT encourage us to rethink the entire foundation of our clinical practice. It demands a total change in mindset: to stop taking on a parental role when working with patients. You are now their *lifestyle coach.* You want to help your patients achieve their goals, but you do not get to decide their goals for them. Don't enforce a hierarchy.
 
-Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you *of their own volition,* what should you do? You could respect their will and create their entire treatment plan for them, but would this be supporting their autonomy to the best of your ability?
+Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you of their own volition, what should you do? You could respect their will and create their entire treatment plan for them, but would this be the best way of supporting their autonomy and competence?
 
 Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive) but it's a good long-term target.
 
