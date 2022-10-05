@@ -44,7 +44,7 @@ Many people still hold the belief that motivation works like this; however, we'l
 
 ### Theories of motivation
 
-The past century there have been various competing theories that have emerged from the field of motivational psychology. Some of these theories build directly on previous work, while others provide complementary perspectives. Each of the theories attempts to describe motivation from a slightly different angle. Humans are complex animals, and the reasons which ground our behaviors even more so.
+The past century there have been various competing theories that have emerged from the field of motivational psychology. Some of these theories build directly on previous work, while others provide complementary perspectives. Each of the theories attempts to analyze motivation from a different angle. Humans are complex animals, and the reasons which ground our behaviors even more so.
 
 We can split these theories of motivation into two broad categories: content theories, concerning *what* makes up motivational states, and process theories, *how* those motivational states arise.
 
@@ -191,13 +191,13 @@ Although we won't fully explore how to do MI in this article, we've already laid
 
 #### The decision matrix
 
-Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which [can help an individual strengthen their commit to a behavior change.](https://pubmed.ncbi.nlm.nih.gov/24229732/) First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo (1, 2) or making a change (3, 4).
+Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which [can help an individual strengthen their commitment to a behavior change.](https://pubmed.ncbi.nlm.nih.gov/24229732/) First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo or making a change.
+
+[See an example decision matrix (PDF),](/assets/pdf/decisionalbalance.pdf) also available on [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
 As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what making a change would entail.
 
 During this process you are a guide—support the patient's basic psychological needs and *do not* tell them what to do or what to think. Instead, ask questions. By having patients connect the dots themselves, you can get them moving on the path toward autonomous regulation of healthy behavior.
-
-[See an example decision matrix (PDF),](/assets/pdf/decisionalbalance.pdf) also available on [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
 
 

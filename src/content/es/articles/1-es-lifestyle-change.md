@@ -43,9 +43,9 @@ Muchas personas siguen creyendo que la motivación funciona así; sin embargo, v
 
 ### Teorías de la motivación
 
-En el último siglo han surgido varias teorías que compiten entre sí en el campo de la psicología de la motivación. Algunas de estas teorías se basan directamente en trabajos anteriores, mientras que otras ofrecen perspectivas complementarias. Cada una de las teorías intenta describir la motivación desde un ángulo ligeramente diferente. Los seres humanos somos animales complejos, y las razones que fundamentan nuestros comportamientos lo son aún más.
+En el último siglo han surgido varias teorías que compiten entre sí en el campo de la psicología de la motivación. Algunas de estas teorías se basan directamente en trabajos anteriores, mientras que otras ofrecen perspectivas complementarias. Cada una de las teorías analiza la motivación desde un ángulo diferente. Los seres humanos somos animales complejos, y las razones que fundamentan nuestros comportamientos lo son aún más.
 
-En principio, podemos dividir estas teorías en dos categorías: las teorías de contenido, relacioadas a *qué* forma los estados motivacionales, y las teorías de proceso, *cómo* surgen los estados motivacionales.
+En principio, podemos dividir estas teorías en dos categorías: las teorías de contenido, relacionadas con *qué* forma los estados motivacionales, y las teorías de proceso, *cómo* surgen los estados motivacionales.
 
 #### Ejemplos de teorías de contenido
 
@@ -67,7 +67,7 @@ En principio, podemos dividir estas teorías en dos categorías: las teorías de
 
 En este artículo vamos a centrarnos en una macroteoría (una teoría que engloba varias miniteorías) de la motivación, *la teoría de la autodeterminación*. Desde que los psicólogos Richard Ryan y Edward Deci formularon la primera versión de la TAD en los años 80, ha sido objeto de un intenso desarrollo e investigación.
 
-Hoy en día, la TAD es una de las teorías de la motivación más influyentes, si no la más influyente. Cuenta con un gran cuerpo de literatura que apoya su uso en un amplio espectro de contextos, desde el entrenamiento de atletas hasta la enseñanza en las escuelas, el asesoramiento en casos de trauma, el liderazgo en el ejército, y más allá. Si estás interesado en la literatura, [consulte el sitio web oficial,](https://selfdeterminationtheory.org) donde se recopila toda la investigación sobre la teoría hasta la fecha y se organiza por temas.
+Hoy en día, la TAD es una de las teorías de la motivación más influyentes, si no la más influyente. Cuenta con un gran cuerpo de literatura que apoya su uso en un amplio espectro de contextos, desde el entrenamiento de atletas hasta la enseñanza en las escuelas, el asesoramiento en casos de trauma, el liderazgo en el ejército, y más allá. Si estás interesado en la literatura, [consulta el sitio web oficial,](https://selfdeterminationtheory.org) donde se recopila toda la investigación sobre la teoría hasta la fecha y se organiza por temas.
 
 ### Orígines humanistas
 
