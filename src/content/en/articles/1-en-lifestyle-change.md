@@ -170,7 +170,7 @@ The lessons we have learned from SDT encourage us to rethink the entire foundati
 
 Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you of their own volition, what should you do? You could respect their will and create their entire treatment plan for them, but would this be the best way of supporting their autonomy and competence?
 
-Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive) but it's a good long-term target.
+Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive by their enviroment—[see causality orientations theory](https://selfdeterminationtheory.org/wp-content/uploads/2022/02/2021_HaggerHamilton_GeneralCausality.pdf), a minitheory within SDT) but it's a good long-term target.
 
 
 ### Amotivated or conflicted?
