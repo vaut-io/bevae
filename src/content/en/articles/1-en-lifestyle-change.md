@@ -170,7 +170,7 @@ The lessons we have learned from SDT encourage us to rethink the entire foundati
 
 Naturally, situations arise where it's not this obvious and clear-cut. If a patient surrendered all decision-making to you of their own volition, what should you do? You could respect their will and create their entire treatment plan for them, but would this be the best way of supporting their autonomy and competence?
 
-Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive by their enviroment—[see causality orientations theory](https://selfdeterminationtheory.org/wp-content/uploads/2022/02/2021_HaggerHamilton_GeneralCausality.pdf), a minitheory within SDT) but it's a good long-term target.
+Perhaps an even better solution would involve continuous education and encouraging the patient to experiment and take control of their own health. Not every patient will respond well to this right away (especially if they have been conditioned to be passive in their enviroment—see [causality orientations theory](https://selfdeterminationtheory.org/wp-content/uploads/2022/02/2021_HaggerHamilton_GeneralCausality.pdf), a minitheory within SDT), but it's a good long-term target.
 
 
 ### Amotivated or conflicted?
@@ -193,7 +193,7 @@ Although we won't fully explore how to do MI in this article, we've already laid
 
 Making a *decision matrix* (also called a *decisional balance*) is an activity sometimes done in MI which [can help an individual strengthen their commitment to a behavior change.](https://pubmed.ncbi.nlm.nih.gov/24229732/) First, draw a 2x2 table. The patient then identifies the benefits and drawbacks of either continuing with the status quo or making a change.
 
-[See an example decision matrix (PDF),](/assets/pdf/decisionalbalance.pdf) also available on [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
+See an example [decision matrix (PDF),](/assets/pdf/decisionalbalance.pdf) also available on [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
 As you work through this activity and the patient writes down their pros and cons for each option, they will get a clearer picture of what making a change would entail.
 

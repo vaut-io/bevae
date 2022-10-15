@@ -111,7 +111,7 @@ Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de 
 
 **La regulación identificada** es la etapa en la que la autodeterminación se afianza. El individuo comienza a valorar el comportamiento porque contribuye a un objetivo personalmente relevante; el locus de causalidad se vuelve hacia el interior.
 
-**La regulación integrada** es el tipo de motivación extrínseca más autónoma. El comportamiento no sólo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo interno. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
+**La regulación integrada** es el tipo de motivación extrínseca más autónomo. El comportamiento no sólo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo interno. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
 
 ### Un espectro de autodeterminación
 
@@ -155,45 +155,45 @@ Demos un paso atrás y retomemos la pregunta que nos hacíamos al principio del 
 
 Ahora estamos en condiciones de ver esta pregunta bajo una nueva luz. *La propia pregunta* nos frena.
 
-Controlar a los demás y amenazarles con las consecuencias futuras de sus acciones da lugar al *peor* tipo de motivación que se puede tener. Un enfoque clínico del cambio de estilo de vida basado en la psicología motivacional exige que no intentemos motivar a nuestros pacientes de esta manera. En su lugar, debemos crear un entorno que apoye las necesidades psicológicas básicas de nuestros pacientes.
+Controlar a los demás y amenazarles con las consecuencias futuras de sus acciones da lugar al *peor* tipo de motivación que se puede tener. Un enfoque clínico del cambio de estilo de vida basado en la psicología motivacional exige que no intentemos motivar a nuestros pacientes de esta manera. En su lugar, debemos crear un entorno que apoye sus necesidades psicológicas básicas.
 
 ### Manipula el contexto clínico
 
-Podemos pensar en el entorno que rodea la interacción entre el médico y el paciente como el *contexto clínico*. Desde la configuración física de la clínica hasta nuestro lenguaje corporal, todo lo que hacemos y decimos tiene el potencial de influir positiva o negativamente en el sentido de autonomía, competencia y relación de nuestros pacientes.
+Podemos pensar en el entorno que rodea la interacción entre el clínico y el paciente como el *contexto clínico*. Desde la configuración física de la clínica hasta nuestro lenguaje corporal, todo lo que hacemos y decimos tiene el potencial de influir positiva o negativamente en el sentido de autonomía, competencia y relación de nuestros pacientes.
 
 Podemos tener un gran impacto en la formación de patrones de comportamiento saludables y en el bienestar a través del contexto que creamos. Piensa en cómo puedes apoyar las necesidades psicológicas básicas de ti mismo y de los que te rodean, independientemente de si estás dentro o fuera de la clínica.
 
 ### Sé un entrenador de estilo de vida
 
-Las lecciones que hemos aprendido de la SDT nos animan a replantearnos todo el fundamento de nuestra práctica clínica. Exige un cambio total de mentalidad: dejar de asumir un papel paternal cuando se trabaja con los pacientes. Ahora eres su *entrenador de estilo de vida*. Quieres ayudar a tus pacientes a alcanzar sus objetivos, pero no puedes decidir sus objetivos por ellos. No impongas una jerarquía.
+Las lecciones que hemos aprendido de la TAD nos animan a replantearnos todo el fundamento de nuestra práctica clínica. Se exige un cambio total de mentalidad: deja de asumir un papel paterno filial con tus pacientes. Ahora eres su *entrenador de estilo de vida*. Quieres ayudar a tus pacientes a alcanzar sus objetivos, pero no puedes decidir sus objetivos por ellos. No impongas una jerarquía.
 
-Naturalmente, surgen situaciones en las que no es tan obvio y claro. Si un paciente te cediera toda la toma de decisiones *por su propia voluntad*, ¿qué deberías hacer? Podrías respetar su voluntad y crear todo el plan de tratamiento por él, pero ¿estarías apoyando su autonomía de la mejor manera posible?
+Naturalmente, surgen situaciones en las que no es tan obvio. Si un paciente te cediera toda la toma de decisiones *por su propia voluntad*, ¿qué deberías hacer? Podrías respetar su voluntad y crear todo el plan de tratamiento por él, pero ¿estarías apoyando su autonomía de la mejor manera posible?
 
-Tal vez una solución aún mejor consistiría en una educación continua y en animar al paciente a experimentar y tomar el control de su propia salud. No todos los pacientes responderán bien a esto de inmediato (especialmente si han sido condicionados a ser pasivos), pero es un buen objetivo a largo plazo.
+Tal vez una solución aún mejor consistiría en una educación continua y en animar al paciente a experimentar y tomar el control de su propia salud. No todos los pacientes responderán bien a esto de inmediato (especialmente si han sido condicionados a ser pasivos en su entorno—para más información, mira la ["causality orientations theory"](https://selfdeterminationtheory.org/wp-content/uploads/2022/02/2021_HaggerHamilton_GeneralCausality.pdf), una miniteroria dentro de la TAD), pero es un buen objetivo a largo plazo.
 
 ### ¿Desmotivado o confuso?
 
 Si un paciente está realmente desmotivado cuando se trata de cambiar un comportamiento de estilo de vida específico, no hay mucho que se pueda hacer. Una persona debe estar al menos *algo* dispuesta a cambiar si quiere tener alguna esperanza de éxito. Sin embargo, aunque pueda parecer que muchos pacientes están desmotivados, cuando se escarba bajo la superficie la mayoría de las personas no son *realmente* indiferentes cuando se trata de hacer cambios positivos para su salud.
 
-Los pacientes que se presentan como amotivados pueden tener motivaciones contradictorias. Éstas podrían provenir de experiencias negativas del pasado y/o de un entorno represivo. Tal vez la persona no esté segura de sus propios valores y objetivos vitales.
+Los pacientes que se presentan como desmotivados pueden tener motivaciones contradictorias. Éstas podrían provenir de experiencias negativas del pasado y/o de un entorno represivo. Tal vez la persona no esté segura de sus propios valores y objetivos vitales.
 
-Una compleja lucha motivacional interna puede disfrazarse de indiferencia y desmotivación. Tu trabajo como coach de estilo de vida es sacar las "piezas del puzzle" de las motivaciones de tus pacientes, poner estas piezas sobre la mesa y luego ayudar a tus pacientes a montar el puzzle de su vida.
+Una compleja lucha motivacional interna puede disfrazarse de indiferencia y desmotivación. Tu trabajo como entrenador de estilo de vida es sacar las "piezas del puzle" de sus motivaciones, poner estas piezas sobre la mesa y luego ayudar a ellos a montar el puzle de su vida.
 
-No se puede exagerar lo esenciales que son la confianza y la empatía durante este proceso. Sin una sólida alianza terapéutica, hay muy pocas posibilidades de que sus pacientes se abran y sean sinceros con usted sobre ellos mismos. Se necesita una buena comunicación y una aguda capacidad de razonamiento crítico para navegar por el paisaje interno de una persona.
+No se puede exagerar lo esenciales que son la confianza y la empatía durante este proceso. Sin una sólida alianza terapéutica, hay muy pocas posibilidades de que tus pacientes se abran y sean sinceros contigo sobre ellos mismos. Se necesita una buena comunicación y una aguda capacidad de razonamiento crítico para navegar por el paisaje interno de una persona.
 
 ### Entrevista motivacional (EM)
 
 *La entrevista motivacional* es una técnica terapéutica desarrollada específicamente para el asesoramiento sobre el cambio de comportamiento. La entrevista motivacional tiene sus raíces en el asesoramiento sobre adicciones, pero desde entonces se ha aplicado con éxito en muchos otros contextos, de forma similar a la TAD. Algunas personas que trabajan con la EM incluso han recurrido a la TAD para explicar por qué funciona.
 
-Aunque en este artículo no exploraremos por completo cómo hacer EM, ya hemos sentado una base sólida para practicar la técnica. Formular preguntas abiertas y devolver las preguntas al paciente para ayudarle a llegar a conclusiones por sí mismo (apoyo a la autonomía), centrarse en los éxitos pasados para fomentar la autoeficacia (apoyo a la competencia) y escuchar de forma activa y empática (apoyo a la relación) son las piedras angulares de la EM.
+Aunque en este artículo no exploraremos por completo cómo hacer la EM, ya hemos formado una base sólida para practicar la técnica. Formular preguntas abiertas y devolver las preguntas al paciente para ayudarle a llegar a conclusiones por sí mismo (apoyo a la autonomía), centrarse en los éxitos pasados para fomentar la autoeficacia (apoyo a la competencia) y escuchar de forma activa y empática (apoyo a la relación) son pilares fundamentales de la EM.
 
 #### La balanza decisiva
 
-Hacer una *matriz de decisiones* es una actividad que a veces se realiza en el IM y que [puede ayudar a un individuo a reforzar su compromiso con un cambio de conducta](https://pubmed.ncbi.nlm.nih.gov/24229732/) Primero se dibuja una tabla de 2x2. A continuación, el paciente identifica los beneficios e inconvenientes de continuar con el statu quo (1, 2) o de realizar un cambio (3, 4).
+Hacer una *matriz de decisiones* es una actividad que a veces se realiza en la EM y que [puede ayudar a un individuo a reforzar su compromiso con un cambio de comportamiento](https://pubmed.ncbi.nlm.nih.gov/24229732/) Primero se dibuja una tabla de 2x2. A continuación, el paciente identifica los beneficios e inconvenientes de continuar con el statu quo (1, 2) o de realizar un cambio (3, 4).
 
 A medida que trabajes en esta actividad y el paciente escriba los pros y los contras de cada opción, se hará una idea más clara de lo que supondría hacer un cambio.
 
-Durante este proceso, usted es un guía: apoye las necesidades psicológicas básicas del paciente y *no* le diga lo que debe hacer o lo que debe pensar. En su lugar, haga preguntas. Al hacer que los pacientes conecten los puntos por sí mismos, puede hacer que se muevan en el camino hacia la regulación autónoma de un comportamiento saludable.
+Durante este proceso, eres un guía: apoya las necesidades psicológicas básicas del paciente y *no* le digas lo que debe hacer o lo que debe pensar. En su lugar, haz preguntas. Al hacer que los pacientes conecten los puntos por sí mismos, haces que se muevan en el camino hacia la regulación autónoma de comportamiento saludable.
 
 [Ver un ejemplo de una matriz de decisiones (PDF),](/assets/pdf/decisionalbalance.pdf) también dispuesto en [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
@@ -203,17 +203,17 @@ Durante este proceso, usted es un guía: apoye las necesidades psicológicas bá
 
 En este artículo, exploramos una frustración clínica común:
 
- **"¿Por qué los pacientes no hacen lo que decimos? "**.
+ **"¿Por qué los pacientes no nos hacen caso? "**.
 
 Para responder a esta pregunta, primero dimos una definición concreta al estilo de vida, reconociendo que las identidades relacionadas con los comportamientos del estilo de vida son tan importantes como los propios comportamientos.
 
 La teoría de la autodeterminación nos mostró que las razones que sustentan nuestro comportamiento pueden ser extremadamente complejas. Nos proporcionó un marco para identificar y categorizar los diferentes tipos de motivación, así como algunos principios rectores sobre cómo llevar a las personas hacia estados motivacionales más saludables.
 
-Descubrimos que la pregunta que planteamos al principio estaba cargada de suposiciones poco útiles. En lugar de decirle a la gente lo que tiene que hacer, deberíamos centrarnos en crear un entorno que apoye las necesidades psicológicas básicas de autonomía, competencia y relación de las personas.
+Descubrimos que la pregunta que planteamos al principio estaba cargada de suposiciones contraproducentes. En lugar de decir a la gente lo que tiene que hacer, deberíamos centrarnos en crear un entorno que apoye las necesidades psicológicas básicas de autonomía, competencia y relación de los demás.
 
 Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
 
-Gracias por leer este artículo. Me he divertido mucho escribiéndolo. Espero que encuentre estos principios útiles para mejorar su práctica clínica y su vida personal.
+Gracias por leer este artículo. Me he divertido mucho escribiéndolo. Espero que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
 
 
 
