@@ -7,17 +7,31 @@ description: Welcome to BEVAE
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
-<main class="[ centerx squeeze12 stack g5 ] [ p0 ]">
-  <div class="flow1/3">
-    <h1>Articles</h1>
+<main class="[ centerx squeeze11 stack g3 ] [ px0 pb5 ]">
+
+  <section class="flow1/3">
+    <h1>Welcome</h1>
+    <p>Hey there! My name is Frederik. I live in Madrid, where I study physical therapy at CEU San Pablo University. My goal here is to develop free resources for other students, medical professionals, and curious patients. I hope you'll find the information here useful!</p>
+  </section>
+  <section class="flow1/3">
+    <h2>Articles</h2>
     <ul class="flow1/3">
       {% set posts = collections[locale + "_articles"] %}
       {% for entry in posts %}
       <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
       {% endfor %}
     </ul>
-  </div>
-  <p>Contact me: <a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
+  </section>
+  <section class="flow1/3">
+    <h2>Forms</h2>
+    <ul>
+      <li><a href="/en/oemsq-12">ÖMSQ-12</a></li>
+    </ul>
+  </section>
+  <section class="flow1/3">
+      <h2>Contact</h2>
+      <p><a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
+  </section>
 </main>
 {% include 'partials/footer.html' %}
 {% endblock %}

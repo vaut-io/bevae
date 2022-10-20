@@ -7,17 +7,30 @@ description: Welcome to BEVAE
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
-<main class="[ centerx squeeze12 stack g5 ] [ p0 ]">
-  <div class="flow1/3">
-    <h1>Artículos</h1>
+<main class="[ centerx squeeze11 stack g3 ] [ px0 pb5 ]">
+  <section class="flow1/3">
+    <h1>Bienvenido</h1>
+    <p>¡Hola! Me llamo Frederik. Vivo en Madrid, donde estudio fisioterapia en la universidad CEU San Pablo. Mi objetivo aquí es desarrollar recursos gratuitos para otros estudiantes, profesionales médicos, y pacientes curiosos. ¡Espero que te resulte útil la información!</p>
+  </section>
+  <section class="flow1/3">
+    <h2>Artículos</h2>
     <ul class="flow1/3">
       {% set posts = collections[locale + "_articles"] %}
       {% for entry in posts %}
       <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
       {% endfor %}
     </ul>
-  </div>
-  <p>Contáctame: <a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
+  </section>
+  <section class="flow1/3">
+    <h2>Formularios</h2>
+    <ul>
+      <li><a href="/es/oemsq-12">ÖMSQ-12</a></li>
+    </ul>
+  </section>
+  <section class="flow1/3">
+      <h2>Contacto</h2>
+      <p><a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
+  </section>
 </main>
 {% include 'partials/footer.html' %}
 {% endblock %}

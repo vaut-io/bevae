@@ -203,7 +203,7 @@ Durante este proceso, eres un guía: apoya las necesidades psicológicas básica
 
 En este artículo, exploramos una frustración clínica común:
 
- **"¿Por qué los pacientes no nos hacen caso? "**.
+ **"¿Por qué los pacientes no nos hacen caso?"**
 
 Para responder a esta pregunta, primero dimos una definición concreta al estilo de vida, reconociendo que las identidades relacionadas con los comportamientos del estilo de vida son tan importantes como los propios comportamientos.
 
@@ -213,7 +213,7 @@ Descubrimos que la pregunta que planteamos al principio estaba cargada de suposi
 
 Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
 
-Gracias por leer este artículo. Me he divertido mucho escribiéndolo. Espero que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
+¡Gracias por leer este artículo! Me he divertido mucho escribiéndolo. Espero que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
 
 
 
