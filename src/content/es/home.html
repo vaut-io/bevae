@@ -7,15 +7,17 @@ description: Welcome to BEVAE
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
-<main class="[ centerx squeeze12 flow1/3 ] [ p0 ]">
-  <h1>Artículos</h1>
-  <ul class="flow1/3">
-    {% set posts = collections[locale + "_articles"] %}
-    {% for entry in posts %}
-    <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
-    {% endfor %}
-  </ul>
+<main class="[ centerx squeeze12 stack g5 ] [ p0 ]">
+  <div class="flow1/3">
+    <h1>Artículos</h1>
+    <ul class="flow1/3">
+      {% set posts = collections[locale + "_articles"] %}
+      {% for entry in posts %}
+      <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <p>Contáctame: <a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
 </main>
-<p>Contacto: <a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
 {% include 'partials/footer.html' %}
 {% endblock %}
