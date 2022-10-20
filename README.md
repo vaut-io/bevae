@@ -2,7 +2,7 @@
 
 ## Video Demo
 
-<URL>
+https://vimeo.com/760674773
 
 ## Description
 
