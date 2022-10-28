@@ -10,6 +10,7 @@
     {{ content | safe }}
   </article>
 </main>
+{% include 'partials/footer.html' %}
 
 <!-- Render and update the progress bar -->
 <script>
@@ -26,12 +27,10 @@
   const windowHeight = window.innerHeight;
   const postHeight = body.scrollHeight - headerHeight - windowHeight;
   window.addEventListener('scroll', () => {
-    let currentScroll = window.scrollY;
-    console.log(currentScroll - headerHeight);
-    if (currentScroll - headerHeight >= 0) {
-      progressBar.style.width = `${(currentScroll - headerHeight) / postHeight * 100}vw`;
-    }
-    else {
+    console.log(window.scrollY - headerHeight);
+    if (window.scrollY - headerHeight >= 0) {
+      progressBar.style.width = `${(window.scrollY - headerHeight) / postHeight * 100}vw`;
+    } else {
       progressBar.style.width = '0vw';
     }
   });

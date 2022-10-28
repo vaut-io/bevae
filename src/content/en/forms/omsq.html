@@ -249,8 +249,11 @@ title: ÖMSQ-12
     </form>
   </div>
 </main>
+{% include 'partials/footer.html' %}
+
 
 <script>
+  // Insert date value into hidden field
   const dateControl = document.querySelector('input[type="date"]');
   dateControl.valueAsDate = new Date();
 </script>

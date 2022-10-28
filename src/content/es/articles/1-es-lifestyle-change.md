@@ -6,7 +6,7 @@ subtitle: El problema de la adherencia
 
 20–30 minutos de lectura
 
-El estilo de vida desempeña un papel clave en el desarrollo y el tratamiento de muchas enfermedades. Tratándose de dolor inespecífico, cánceres, trastornos cardiovasculares o cualquier otra enfermedad crónica (incluso algunas agudas), una gran parte de la etiología y la gravedad de los síntomas se atribuye a factores modificables del estilo de vida. Desde una perspectiva científica e intuitiva, el modo en el que una persona vive su vida es un factor determinante para su salud.
+El estilo de vida desempeña un papel clave en el desarrollo y el tratamiento de muchas enfermedades. Tratándose de dolor inespecífico, cánceres, enfermedades cardiovasculares o cualquier otra enfermedad crónica (incluso algunas agudas), una gran parte de la etiología y la gravedad de los síntomas se atribuye a factores modificables del estilo de vida. Desde una perspectiva científica e intuitiva, el modo en el que una persona vive su vida es un factor determinante para su salud.
 
 Sin embargo, muchos clínicos sienten que conseguir que sus pacientes cambien su estilo de vida es un trabajo imposible. Olvídate de intentar evitar las consecuencias en un futuro lejano, incluso si el individuo está sufriendo *en este mismo momento*, ¡no escuchará! Tienen múltiples razones para cambiar su situación y les estamos dando soluciones...
 
