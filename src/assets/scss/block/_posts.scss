@@ -9,4 +9,15 @@
   li {
     padding-inline-start: var(--space-1);
   }
+
+  // Creates top progress bar
+  &::after {
+    display: block;
+    content: '';
+    border-top: var(--border1) solid var(--primary500);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0vw;
+  }
 }

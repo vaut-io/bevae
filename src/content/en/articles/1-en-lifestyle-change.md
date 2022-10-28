@@ -2,12 +2,12 @@
 translationKey: article1
 title: lifestyle change
 subtitle: the adherence problem
-description: learn how to help those around you make more sustainable behavior changes by diving into a leading theory of motivation
+description: help your patients make more sustainable behavior changes by learning about and applying a leading theory of motivation
 ---
 
 20–30 minute read
 
-Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular disorders, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
+Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about non-specific pain, cancers, cardiovascular diseases, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.
 
 However, many clinicans feel that getting their patients to change their lifestyle is a monumental task. Forget about trying to avoid consequences far off in the future, even if the individual is experiencing symptoms *right now,* they just won't listen! They've got plenty of reasons to do something about their problem and we're telling them exactly how to fix it...
 
