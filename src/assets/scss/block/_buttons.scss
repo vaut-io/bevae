@@ -1,0 +1,11 @@
+.top-button {
+  border: var(--border-1) solid var(--primary500);
+  font-style: normal;
+  font-weight: var(--weight700);
+  &:hover {
+    background: var(--primary500);
+    color: var(--primary50);
+    svg { color: var(--primary50) };
+    text-decoration: none;
+  }
+}
