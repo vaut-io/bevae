@@ -1,11 +1,40 @@
 .top-button {
-  border: var(--border-1) solid var(--primary500);
+  position: relative;
+  overflow: visible;
+  background: var(--primary50);
+  padding: var(--space-2) var(--space0);
+  outline: var(--border-1) solid var(--primary500);
   font-style: normal;
   font-weight: var(--weight700);
+  transition: transform 0.1s;
+
   &:hover {
     background: var(--primary500);
     color: var(--primary50);
-    svg { color: var(--primary50) };
     text-decoration: none;
+    svg { color: var(--primary50) };
+  }
+
+  &:active {
+    transform: translate(var(--border1), var(--border1));
+    &::after {
+      top: 0;
+      left: 0;
+    }
+  }
+
+  &::after {
+    // Excludes border to get cosistent sizing
+    box-sizing: content-box;
+    z-index: -1;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: var(--border1);
+    top: var(--border1);
+    content: '';
+    outline: var(--border-1) solid var(--primary300);
+    transition: top .1s, left .1s;
   }
 }

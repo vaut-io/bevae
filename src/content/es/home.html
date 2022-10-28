@@ -7,30 +7,52 @@ description: Welcome to BEVAE
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
-<main class="[ centerx squeeze11 stack g3 ] [ px0 pb5 ]">
-  <section class="flow1/3">
-    <h1>Bienvenido</h1>
-    <p>¡Hola! Me llamo Frederik. Vivo en Madrid, donde estudio fisioterapia en la universidad CEU San Pablo. Mi objetivo aquí es desarrollar recursos gratuitos para otros estudiantes, profesionales médicos, y pacientes curiosos. ¡Espero que te resulte útil la información!</p>
-  </section>
-  <section class="flow1/3">
-    <h2>Artículos</h2>
-    <ul class="flow1/3">
-      {% set posts = collections[locale + "_articles"] %}
-      {% for entry in posts %}
-      <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a></li>
-      {% endfor %}
-    </ul>
-  </section>
-  <section class="flow1/3">
-    <h2>Formularios</h2>
-    <ul>
-      <li><a href="/es/formularios/oemsq-12">ÖMSQ-12</a></li>
-    </ul>
-  </section>
-  <section class="flow1/3">
-      <h2>Contacto</h2>
-      <p><a href="mailto:frederik@bevae.com">frederik@bevae.com</a></p>
-  </section>
+<main>
+  <div class="stack g4 centerx squeeze11">
+    <section class="stack g1">
+      <h1>Bienvenido</h1>
+      <div class="sidebar gx2 gy0 rowreverse jfyend itemsstart">
+        <div class="[ image ] [ frame1:1 squeeze7 side7 ]">
+          <img src="/assets/img/profile_hi-res.jpg"
+          srcset="/assets/img/profile_hi-res.jpg 3x,
+          /assets/img/profile_me-res.jpg 2x,
+          /assets/img/profile_lo-res.jpg 1x"
+          alt="Frederik smiling at the camera">
+        </div>
+        <div class="main50% flow1">
+          <p>Hola! Soy Frederik, estudiante de fisioterapia en la Universidad San Pablo en Madrid, España. Me encanta promover la salud y ayudar a las personas a lograr sus objetivos funcionales.</p>
+          <p> Para una gran cantidad de gente en la sociedad, existe una sensación y emoción muy personal, a menudo desagradable, que se mete en muchos aspectos de su vida: el dolor.</p>
+          <p>Con un enfoque en el dolor como un síntoma así como una condición, es mi objetivo aquí desarrollar una variedad de recursos gratuitos para clínicos, pacientes, y otras personas curiosas. Quiero hacer fácil darle sentido a esta experiencia tan común y a la vez tan incomprendida (y estigmatizada).</p>
+          <p>¡Siéntete libre de descargar y redistribuir mi contenido! Sólo que tengas en cuenta que actualizaré de forma continuada el sitio web a medida que evolucionen mis opiniones y ambiciones.</p>
+          <p><i>DESCARGO DE RESPONSABILIDAD: Este sitio web tiene sólo fines educativos. No estoy proporcionando aconsejo médico personalizado ni asumo ninguna responsabilidad por lo que hagas con la información presentada.</i></p>
+        </div>
+      </div>
+    </section>
+    <section class="flow2">
+      <h2>Para clínicos</h2>
+      <section class="flow1/3">
+        <h3>Artículos</h3>
+        <ul class="flow1/3">
+          {% set posts = collections[locale + "_articles"] %}
+          {% for entry in posts %}
+          <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      <section class="flow1/3">
+        <h3>Formularios</h3>
+        <ul>
+          <li><a href="/es/formularios/oemsq-12">ÖMSQ-12</a> - un cuestionario práctico de detección en las dolencias musculoesqueléticas, adaptado de <i>Gabel et al. 2013.</i><strong> Aún no validado en castellano.</strong></li>
+        </ul>
+      </section>
+    </section>
+    <section class="flow1">
+      <h2>Para pacientes</h2>
+      <ul>
+        <li><i>¡Permanece atento! ♫</i></li>
+      </ul>
+    </section>
+  </div>
 </main>
 {% include 'partials/footer.html' %}
 {% endblock %}

@@ -117,7 +117,7 @@ Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de 
 
 Combinando estos conceptos, empezamos a pintar un cuadro de un continuo de motivación. Un extremo representa la motivación extrínseca en su forma más controlada (regulación externa), que gradualmente se va autodeterminando hasta llegar a la regulación integrada y la motivación intrínseca.
 
-![Representación esquemática del continuo de la motivación](/assets/img/motivation-spectrum.png)
+<div class="post-image frame16:9"><img src="/assets/img/motivation-spectrum.png" alt="Representación esquemática del continuo de la motivación"></img></div>
 
 [*Fuente: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 

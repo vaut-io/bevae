@@ -223,6 +223,6 @@ Thank you for reading this article! I had a lot of fun writing it. I hope that y
 ## Further reading
 
 - [https://selfdeterminationtheory.org (official website)](https://selfdeterminationtheory.org)
-- 2000 paper [Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+- [Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 - [Self-Determination Theory: A Macrotheory of Human Motivation, Development, and Health](https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsych.pdf)
 - [Exercise, physical activity, and self-determination theory: a systematic review](https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/1479-5868-9-78.pdf)
