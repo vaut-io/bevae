@@ -9,21 +9,23 @@ description: Welcome to BEVAE
 {% include 'partials/header.html' %}
 <main class="[ centerx squeeze11 stack g4 ] [ px0 pb5 ]">
 
-  <section class="sidebar gx2 gy0 itemsstart">
+  <section class="stack g1">
     <h1>Welcome</h1>
-    <div class="main50% flow1">
-      <p>Hey there! Welcome to my personal website. I'm Frederik, a physiotherapy student at San Pablo University in Madrid, Spain. I love promoting health and helping people achieve their functional goals.</p>
-      <p>For a large number of people in society, there's one particularly unpleasant sensation and emotion which intrudes on many aspects of their life: pain.</p>
-      <p>With a focus on pain as both a symptom and a condition, my goal is to provide free resources for clinicians, patients, and other curious people, so that everyone can better understand this misunderstood and stigmatized experience.</p>
-      <p>Feel free to download and redistribute my content.</p>
-      <p><i>Disclaimer: This website is for educational purposes only. I am not providing personalized medical advice, and I take no responsibility for what you do with the information presented.</i></p>
-    </div>
-    <div class="[ image ] [ frame1:1 squeeze7 side7 ]">
-      <img src="/assets/img/profile_hi-res.jpg"
-      srcset="/assets/img/profile_hi-res.jpg 3x,
-      /assets/img/profile_me-res.jpg 2x,
-      /assets/img/profile_lo-res.jpg 1x"
-      alt="Frederik smiling at the camera">
+    <div class="sidebar gx2 gy0 rowreverse jfyend itemsstart">
+      <div class="[ image ] [ frame1:1 squeeze7 side7 ]">
+        <img src="/assets/img/profile_hi-res.jpg"
+        srcset="/assets/img/profile_hi-res.jpg 3x,
+        /assets/img/profile_me-res.jpg 2x,
+        /assets/img/profile_lo-res.jpg 1x"
+        alt="Frederik smiling at the camera">
+      </div>
+      <div class="main50% flow1">
+        <p>Hey there! Welcome to my personal website. I'm Frederik, a physiotherapy student at San Pablo University in Madrid, Spain. I love promoting health and helping people achieve their functional goals.</p>
+        <p>For a large number of people in society, there's one particularly unpleasant sensation and emotion which intrudes on many aspects of their life: pain.</p>
+        <p>With a focus on pain as both a symptom and a condition, my goal here is to develop free learning resources for clinicians, their patients, and other curious people. I want to make it easy for everyone to make sense of this common yet misunderstood (and stigmatized) aspect of human existence.</p>
+        <p>Feel free to download and redistribute my content! Keep in mind that I will update be continually updating the website as my views and ambitions evolve, so be sure to check back periodically.</p>
+        <p><i>Disclaimer: This website is for educational purposes only. I am not providing personalized medical advice, and I take no responsibility for what you do with the information presented.</i></p>
+      </div>
     </div>
   </section>
   <section class="flow1/3">
@@ -31,14 +33,14 @@ description: Welcome to BEVAE
     <ul class="flow1/3">
       {% set posts = collections[locale + "_articles"] %}
       {% for entry in posts %}
-      <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle | lower }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description | lower }}{%endif %}</li>
+      <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
       {% endfor %}
     </ul>
   </section>
   <section class="flow1/3">
     <h2>Forms</h2>
     <ul>
-      <li><a href="/en/forms/oemsq-12">ÖMSQ-12</a> - a general screening questionnaire for musculoskeletal complaints</li>
+      <li><a href="/en/forms/oemsq-12">ÖMSQ-12</a> - a practical screening questionnaire for musculoskeletal complaints (Gabel et al., 2013).</li>
     </ul>
   </section>
   <section class="flow1/3">

@@ -4,8 +4,8 @@
 <main class="[ squeeze11 ] [ px0 pb4 ]">
   <article class=" [ post ] [ flow3/2 ]">
     <div>
-      <h1>{{ title }}</h1>
-      {% if subtitle %}<p class="fs2">{{ subtitle }}</p>{% endif %}
+      <h1>{{ title | capitalize }}</h1>
+      {% if subtitle %}<p class="fs2">{{ subtitle | capitalize }}</p>{% endif %}
     </div>
     {{ content | safe }}
   </article>

@@ -1,8 +1,8 @@
 ---
 translationKey: article1
-title: Lifestyle change
-subtitle: The adherence problem
-description: Learn how you can help those around you make more sustainable behavior changes
+title: lifestyle change
+subtitle: the adherence problem
+description: learn how to help those around you make more sustainable behavior changes by diving into a leading theory of motivation
 ---
 
 20–30 minute read
