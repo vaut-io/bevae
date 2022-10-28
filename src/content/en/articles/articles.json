@@ -1,4 +1,4 @@
 {
   "layout": "layouts/post.html",
-  "permalink": "/{{ locale }}/{{ title | slugify }}/"
+  "permalink": "/{{ locale }}/articles/{{ title | slugify }}/"
 }

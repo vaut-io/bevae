@@ -1,0 +1,28 @@
+.image {
+  border: var(--border-1) solid var(--primary500);
+
+  // Create a new stacking context and allow border to appear
+  position: relative;
+  overflow: visible;
+  isolation: isolate;
+
+  &::after {
+    // Excludes border to get cosistent sizing
+    box-sizing: content-box;
+    z-index: -1;
+    display: block;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: var(--border1);
+    top: var(--border1);
+
+    content: '';
+    border: var(--border-1) solid var(--primary500);
+  }
+}
+
+.post-image {
+  @extend .image;
+  max-inline-size: var(--space9);
+}

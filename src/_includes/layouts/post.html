@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
-<main class="[ centerx squeeze11 ] [ p0 ]">
+<main class="[ squeeze11 ] [ px0 pb4 ]">
   <article class=" [ post ] [ flow3/2 ]">
     <div>
       <h1>{{ title }}</h1>
@@ -10,5 +10,4 @@
     {{ content | safe }}
   </article>
 </main>
-{% include 'partials/footer.html' %}
 {% endblock %}

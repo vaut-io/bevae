@@ -2,6 +2,7 @@
 translationKey: article1
 title: Lifestyle change
 subtitle: The adherence problem
+description: Learn how you can help those around you make more sustainable behavior changes
 ---
 
 20–30 minute read
@@ -118,7 +119,7 @@ When the goal of a behavior is something other than the behavior itself, we're t
 
 Combining these concepts, we start to paint a picture of a continuum of motivation. One end represents extrinsic motivation in its most controlled form (external regulation), gradually becoming more and more self-determined until we arrive at integrated regulation and intrinsic motivation.
 
-![Diagramatic representation of the motivation continuum](/assets/img/motivation-spectrum.png)
+<div class="post-image frame16:9"><img src="/assets/img/motivation-spectrum.png" alt="Diagramatic representation of the motivation continuum"></img></div>
 
 [*Source: Ryan, R. M., & Deci, E. L. (2000)*](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 

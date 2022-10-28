@@ -1,8 +1,9 @@
-/* The the parent or ancestor element for the icon */
+/* The parent or ancestor element for the icon */
 .icon {
   display: inline-flex;
   align-items: baseline;
 
+  /* General icons */
   svg {
     height: .75em;
     height: 1cap;
@@ -18,15 +19,6 @@
 
 
 
-
-
-
-/*
-<button dir="rtl">
-  <svg class="icon"></svg> Close
-</button>
-*/
-
 /* For standalone icons */
 .icon-2 { height: var(--step-2); width: var(--step-2); }
 .icon-1 { height: var(--step-1); width: var(--step-1); }
@@ -36,3 +28,11 @@
 .icon3  { height: var(--step3 ); width: var(--step3 ); }
 .icon4  { height: var(--step4 ); width: var(--step4 ); }
 .icon5  { height: var(--step5 ); width: var(--step5 ); }
+
+
+/*
+<button dir="rtl">
+  <svg class="icon"></svg> Close
+</button>
+*/
+
