@@ -4,13 +4,17 @@ permalink: /
 ---
 {% extends "base.html" %}
 {% block body %}
-<main class="[ cover stack g3 jfycenter itemscenter textcenter ] [ p3 ]">
-  <h1 class="[ logo ] [ fs4 ]">BEVAE</h1>
-  <ul class="[ flow1 ] [ fs1 ]">
-    {% for language in site.languages %}
-      <li><a href="/{{ language.code }}/">{{ language.label }}</a></li>
-    {% endfor %}
-  </ul>
+<main class="[ cover stack g3 jfycenter itemscenter ] [ p3 ]">
+  <div class="stack g0 itemsstart">
+    <div class="flow1/3">
+      <p>Choose a language</p>
+      <p>Elige un idioma</p>
+    </div>
+    <ul class="[ flow1/2 ] [ fs1 ] [ pt0 bdt-2 bd-p500 ]">
+      {% for language in site.languages %}
+        <li><a href="/{{ language.code }}/">{{ language.label }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
 </main>
-
 {% endblock %}

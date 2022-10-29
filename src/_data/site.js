@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       message: "Castellano",
-      label: "Español",
+      label: "Castellano",
       code: "es",
     },
   ],
