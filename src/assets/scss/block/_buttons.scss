@@ -6,7 +6,7 @@
   outline: var(--border-1) solid var(--primary500);
   font-style: normal;
   font-weight: var(--weight700);
-  transition: transform 0.1s;
+  transition: transform .1s;
 
 
   &:hover {
@@ -19,23 +19,25 @@
   &:active {
     transform: translate(var(--border1), var(--border1));
     &::after {
-      top: 0;
-      left: 0;
+      opacity: 0%;
+      transition: opacity .05s;
+      transition-delay: 0s;
     }
   }
 
   &::after {
-    // Excludes border to get cosistent sizing
-    box-sizing: content-box;
-    z-index: -1;
     display: block;
+    content: '';
     position: absolute;
+    box-sizing: content-box; // Excludes border to get cosistent sizing
+    z-index: -1;
     width: 100%;
     height: 100%;
     left: var(--border1);
     top: var(--border1);
-    content: '';
+    opacity: 100%;
     outline: var(--border-1) solid var(--primary300);
-    transition: top .1s, left .1s;
+    transition: opacity .2s;
+    transition-delay: .1s;
   }
 }

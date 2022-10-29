@@ -5,6 +5,9 @@ permalink: /es/
 description: Welcome to BEVAE
 ---
 {% extends 'base.html' %}
+{% block head %}
+<link rel="preload" href="/assets/img/profile_lo-res.jpg" as="image">
+{% endblock %}
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
