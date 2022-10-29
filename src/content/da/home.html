@@ -1,0 +1,58 @@
+---
+translationKey: home
+title: Velkommen til BEVAE
+permalink: /da/
+description: Velkommen til BEVAE
+---
+{% extends 'base.html' %}
+{% block body %}
+{% include 'partials/header.html' %}
+<main>
+  <div class="stack g4 centerx squeeze11">
+    <section class="stack g1">
+      <h1>Velkommen</h1>
+      <div class="sidebar g2 rowreverse jfyend itemsstart">
+        <div class="[ image ] [ frame1:1 squeeze7 side7 ]">
+          <img src="/assets/img/profile_hi-res.jpg"
+          srcset="/assets/img/profile_hi-res.jpg 3x,
+          /assets/img/profile_me-res.jpg 2x,
+          /assets/img/profile_lo-res.jpg 1x"
+          alt="Frederik smiling at the camera">
+        </div>
+        <div class="main50% flow1">
+          <p>Hey there! I'm Frederik, a physiotherapy student at San Pablo University in Madrid, Spain. I love promoting health and helping people achieve their functional goals.</p>
+          <p>For a large number of people in society, there's a very personal, often unpleasant sensation and emotion which intrudes on many aspects of their life: pain.</p>
+          <p>With a focus on pain as both a symptom and a condition in and of itself, my goal here is to develop a variety of free resources for clinicians, patients, and other curious people. I want to make it easy for everyone to make sense of this common yet misunderstood (and stigmatized) experience.</p>
+          <p>Feel free to download and redistribute my content! Just keep in mind that I will be continually updating the website as my views and ambitions evolve.</p>
+          <p><i>DISCLAIMER: This website is for educational purposes only. I am not providing personalized medical advice and I take no responsibility for what you do with the information presented.</i></p>
+        </div>
+      </div>
+    </section>
+    <section class="flow2">
+      <h2>For klinikere</h2>
+      <section class="flow1/3">
+        <h3>Artikler</h3>
+        <ul class="flow1/3">
+          {% set posts = collections[locale + "_articles"] %}
+          {% for entry in posts %}
+          <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      <section class="flow1/3">
+        <h3>Forms</h3>
+        <ul>
+          <li><a href="/en/forms/oemsq-12">ÖMSQ-12</a> - (engelsk) a practical screening questionnaire for musculoskeletal complaints, adapted from <i>Gabel et al. 2013.</i></li>
+        </ul>
+      </section>
+    </section>
+    <section class="flow1">
+      <h2>For patienter</h2>
+      <ul>
+        <li><i>Vent tålmodigt! ♫</i></li>
+      </ul>
+    </section>
+  </div>
+</main>
+{% include 'partials/footer.html' %}
+{% endblock %}

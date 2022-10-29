@@ -1,7 +1,8 @@
 ---
 translationKey: article1
-title: Cambio de estilo de vida
-subtitle: El problema de la adherencia
+title: cambio de estilo de vida
+subtitle: el problema de la adherencia
+description: ayuda a tus pacientes a realizar cambios de comportamiento más sostenibles conociendo y aplicando una de las principales teorias de la motivación
 ---
 
 20–30 minutos de lectura
@@ -28,7 +29,7 @@ Cuando hablamos de cambio de estilo de vida, nos referimos a *cambio de comporta
 
 **¿Qué impulsa el comportamiento?**
 
-La palabra clave aquí, "impulsa," no es el término más adecuado para nuestros fines. Nos interesa específicamente su sinónimo *motivación*, más utilizado en el ámbito profesional. Comprender la motivación, el *por qué* del comportamiento, es la clave para entender cómo cambiarlo.
+La palabra clave aquí, "impulsa," no es el término más adecuado para nuestros fines. Nos interesa específicamente su sinónimo *motivación*, más utilizado en el ámbito profesional. Comprender la motivación, el *por qué* de la conducta, es la clave para entender cómo cambiarlo.
 
 
 ## La motivación
@@ -99,13 +100,13 @@ Los humanos somos animales sociales y tenemos un deseo muy arraigado de pertenen
 
 La TAD fue pionera en la idea de que la motivación puede describirse no sólo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por el propio comportamiento. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en la propia actividad y el bienestar.
 
-Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de **la motivación extrínseca.** La TAD amplía el concepto de motivación extrínseca marcando distintos subtipos, cada uno de ellos definido por el grado de *internalización* de la *regulación* del comportamiento.
+Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de **la motivación extrínseca.** La TAD amplía el concepto de motivación extrínseca marcando distintos subtipos, cada uno de ellos definido por el grado de *internalización* de la *regulación* de la conducta.
 
 "La internalización de la regulación" parece complicada, pero en realidad es un concepto relativamente sencillo—¿de dónde viene el impulso de tal comportamiento (la regulación)? ¿Viene del exterior, desde tu interior o de algún punto intermedio (el grado de internalización)?
 
 #### Tipos de motivación extrínseca
 
-**La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Estar de acuerdo con un castigo o una recompensa, ambos externos, es una de las características del comportamiento regulado de manera externa. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior. Es decir, el sentido de control del individuo sobre sus acciones está absento.
+**La regulación externa** es el tipo de motivación menos autónomo y más "controlado". Estar de acuerdo con un castigo o una recompensa, ambos externos, es una de las características de la conducta regulada de manera externa. Las motivaciones caracterizadas por la regulación externa tienen un "foco de causalidad" claramente definido y percibido desde el exterior. Es decir, el sentido de control del individuo sobre sus acciones está absento.
 
 **La regulación introyectada** se caracteriza por recompensas y castigos internos. La introyección es la voz en tu cabeza que repite las presiones externas, es la internalización de los pensamientos y actitudes de los demás. El orgullo, el estatus social y otras motivaciones relacionadas con el ego son ejemplos de regulación introyectada. Se sigue caracterizando por un locus de causalidad externo, ya que este tipo de regulación no está totalmente integrado con el yo interno.
 
@@ -123,7 +124,7 @@ Combinando estos conceptos, empezamos a pintar un cuadro de un continuo de motiv
 
 Hay otro "tipo" de motivación del que aún no hemos hablado, que se muestra en el diagrama anterior: *la desmotivación.* Se encuentra más allá de la regulación externa; a una persona que está desmotivada le es indiferente y no ve ningún sentido en realizar el comportamiento en primer lugar. El comportamiento en cuestión carece por completo de regulación y el locus de causalidad es impersonal, ni externo ni interno.
 
-Dejando a un lado la desmotivación (volveremos a ella más adelante), las motivaciones que fundamentan nuestros comportamientos saludables pasarán, con el tiempo, de estar caracterizadas por una regulación externa "controlada" a una regulación interna "autónoma", dado que nuestro entorno apoya nuestras necesidades psicológicas básicas.
+Dejando a un lado la desmotivación (volveremos a ella más adelante), las motivaciones que fundamentan nuestras conductas saludables pasarán, con el tiempo, de estar caracterizadas por una regulación externa "controlada" a una regulación interna "autónoma", dado que nuestro entorno apoya nuestras necesidades psicológicas básicas.
 
 Como resultado, surgen una serie de efectos secundarios positivos. Nuestro rendimiento y el compromiso con la actividad mejoran, somos más persistentes frente a los obstáculos y contratiempos, y nos volvemos más confiados y funcionamos mejor.
 
@@ -173,7 +174,7 @@ Tal vez una solución aún mejor consistiría en una educación continua y en an
 
 ### ¿Desmotivado o confuso?
 
-Si un paciente está realmente desmotivado cuando se trata de cambiar un comportamiento de estilo de vida específico, no hay mucho que se pueda hacer. Una persona debe estar al menos *algo* dispuesta a cambiar si quiere tener alguna esperanza de éxito. Sin embargo, aunque pueda parecer que muchos pacientes están desmotivados, cuando se escarba bajo la superficie la mayoría de las personas no son *realmente* indiferentes cuando se trata de hacer cambios positivos para su salud.
+Si un paciente está realmente desmotivado cuando se trata de cambiar una conducta de estilo de vida específico, no hay mucho que se pueda hacer. Una persona debe estar al menos *algo* dispuesta a cambiar si quiere tener alguna esperanza de éxito. Sin embargo, aunque pueda parecer que muchos pacientes están desmotivados, cuando se escarba bajo la superficie la mayoría de las personas no son *realmente* indiferentes cuando se trata de hacer cambios positivos para su salud.
 
 Los pacientes que se presentan como desmotivados pueden tener motivaciones contradictorias. Éstas podrían provenir de experiencias negativas del pasado y/o de un entorno represivo. Tal vez la persona no esté segura de sus propios valores y objetivos vitales.
 

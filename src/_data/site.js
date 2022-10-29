@@ -5,14 +5,19 @@ module.exports = {
   url: "https://bevae.com",
   baseUrl: "/en/",
   languages: [
+    /*{
+      message: "Dansk",
+      label: "Dansk",
+      code: "da",
+    },*/
     {
       message: "English",
       label: "English",
       code: "en",
     },
     {
-      message: "Castellano",
-      label: "Castellano",
+      message: "Español",
+      label: "Español",
       code: "es",
     },
   ],
