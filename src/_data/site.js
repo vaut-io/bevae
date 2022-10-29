@@ -6,12 +6,12 @@ module.exports = {
   baseUrl: "/en/",
   languages: [
     {
-      message: "Change to english",
+      message: "English",
       label: "English",
       code: "en",
     },
     {
-      message: "Cambiar a español",
+      message: "Castellano",
       label: "Español",
       code: "es",
     },

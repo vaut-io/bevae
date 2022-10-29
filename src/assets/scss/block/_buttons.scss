@@ -1,4 +1,4 @@
-.top-button {
+.button {
   position: relative;
   overflow: visible;
   background: var(--primary50);
@@ -7,6 +7,7 @@
   font-style: normal;
   font-weight: var(--weight700);
   transition: transform 0.1s;
+
 
   &:hover {
     background: var(--primary500);

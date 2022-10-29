@@ -1,24 +1,5 @@
 <header class="[ nav-header ] [ cluster g-2 jfybetween itemscenter ]">
-  <a class="[ logo ] [ fs2 ]" href="/{{ locale }}/">BEVAE</a>
   <nav>
-    {% for language in site.languages %}
-    {% if loop.first %}<ul>{% endif %}
-
-      {% set translationUrl = "/" + language.code + "/" %}
-      {% set activeClass = "is-active" if language.code == locale else "" %}
-
-      {% for entry in collections.all %}
-      {% if entry.data.translationKey == translationKey and entry.data.locale == language.code and entry.data.locale != locale %}
-      {% set translationUrl = entry.url %}
-      <li class="fs-1">
-        <a class="[ {{ activeClass }} ] [ icon cluster g-3 ]" href="{{ translationUrl }}">{{ language.message }}
-          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2.5" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" d="M11.25 4.5l7.5 7.5-7.5 7.5m-6-15l7.5 7.5-7.5 7.5" /></svg>
-        </a>
-      </li>
-      {% endif %}
-      {% endfor %}
-
-    {% if loop.last %}</ul>{% endif %}
-    {% endfor %}
+    <a class="[ logo ] [ fs2 ]" href="/{{ locale }}/">BEVAE</a>
   </nav>
 </header>
