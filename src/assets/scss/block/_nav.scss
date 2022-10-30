@@ -3,7 +3,10 @@
   font-family: krona;
   font-style: italic;
   font-weight: var(--weight400);
-  &:hover { text-decoration: none; }
+  border: none;
+  &:hover {
+    
+  }
 }
 
 .nav-header {

@@ -1,5 +1,6 @@
 body {
   background-color: var(--primary50);
+  color: var(--neutral900);
   font-family: var(--sans);
   font-size: var(--step0);
   font-weight: var(--weight400);
@@ -70,9 +71,10 @@ button {
 
 a {
   color: var(--primary500);
-  font-style: italic;
+  border-bottom: var(--border-2) solid var(--primary500);
   &:hover {
-    text-decoration: underline;
+    color: var(--neutral900);
+    border-color: var(--neutral900);
   }
   &:focus {}
   &:link {}

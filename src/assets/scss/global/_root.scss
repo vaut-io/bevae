@@ -22,7 +22,7 @@
   --neutral600: hsl();
   --neutral700: hsl();
   --neutral800: hsl();
-  --neutral900: hsl();
+  --neutral900: hsl(12, 10%, 18%);
 
   --accent50:  hsl();
   --accent100: hsl();
@@ -38,7 +38,7 @@
 
 
   /* Font families */
-  --sans: sans-serif;
+  --sans: 'opensans', sans-serif;
   --serif: serif;
 
 

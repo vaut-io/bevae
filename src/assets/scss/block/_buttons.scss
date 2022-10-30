@@ -8,6 +8,8 @@
   font-weight: var(--weight700);
   transition: transform .1s;
 
+  border: none;
+
 
   &:hover {
     background: var(--primary500);
