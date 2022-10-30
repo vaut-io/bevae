@@ -11,45 +11,49 @@ description: La revolución del dolor ya ha llegado. Si eres sanitario, o una pe
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
-  <div class="stack g4 centerx squeeze11">
-    <section class="stack g1">
-      <h1>Bienvenido</h1>
+  <div class="stack g4 centerx squeeze12">
+    <section class="stack g2">
+      <h1>Bienvenido.</h1>
       <div class="sidebar g2 rowreverse jfyend itemsstart">
         <div class="[ image ] [ frame1:1 squeeze7 side7 ]">
           <img src="/assets/img/profile_me-res.jpg" alt="Frederik smiling at the camera">
         </div>
-        <div class="main50% flow1">
+        <div class="main50% squeeze9 flow1">
           <p>¡Hola! Me llamo Frederik y soy estudiante de fisioterapia en la Universidad San Pablo en Madrid, España. Me encanta promover la salud y ayudar a las personas a lograr sus objetivos funcionales.</p>
-          <p> Para una gran cantidad de gente en la sociedad existe una sensación y emoción muy personal, a menudo desagradable, que se mete en muchos aspectos de su vida: el dolor.</p>
-          <p>Con un enfoque en el dolor como un síntoma así como una condición en sí mismo, es mi objetivo aquí desarrollar una variedad de recursos gratuitos para clínicos, pacientes, y otras personas curiosas. Quiero hacer fácil darle sentido a esta experiencia tan común y a la vez tan incomprendida (y estigmatizada).</p>
-          <p>¡Siéntete libre de descargar y redistribuir mi contenido! Sólo que tengas en cuenta que actualizaré de forma continuada el sitio web a medida que evolucionen mis opiniones y ambiciones.</p>
+          <p> Para una gran cantidad de gente en la sociedad existe una sensación y emoción muy personal, a menudo desagradable, que se mete en muchos aspectos de su vida: <strong>el dolor.</strong></p>
+          <p>Con un enfoque en el dolor como un síntoma así como una condición en sí mismo, es mi objetivo aquí desarrollar una variedad de recursos gratuitos para clínicos, pacientes, y otras personas curiosas. Quiero facilitar la comprensión de esta experiencia tan común y a la vez tan malinterpretada y estigmatizada.</p>
         </div>
       </div>
     </section>
-    <section class="flow2">
-      <h2 class="h-fancy">Para pacientes</h2>
-      <ul>
-        <li><em>¡Permanece atento!</em></li>
-      </ul>
-    </section>
-    <section class="flow2">
-      <h2 class="h-fancy">Para sanitarios</h2>
-      <section class="flow1/3">
-        <h3>Artículos</h3>
-        <ul class="flow1/3">
-          {% set posts = collections[locale + "_articles"] %}
-          {% for entry in posts %}
-          <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
-          {% endfor %}
-        </ul>
+    <div class="switcher12 gx2 gy4">
+      <section class="squeeze9 flow2">
+        <h2 class="h-fancy">Pacientes</h2>
+        <section class="flow1/3">
+          <h3>Artículos</h3>
+          <ul>
+            <li><em>¡Permanece atento!</em></li>
+          </ul>
+        </section>
       </section>
-      <section class="flow1/3">
-        <h3>Formularios</h3>
-        <ul>
-          <li><a href="/es/formularios/oemsq-12">ÖMSQ-12</a> - un cuestionario práctico de detección en las dolencias musculoesqueléticas, adaptado de <i>Gabel et al. 2013.</i><strong> Aún no se ha validado en español.</strong></li>
-        </ul>
+      <section class="squeeze9 flow2">
+        <h2 class="h-fancy">Sanitarios</h2>
+        <section class="flow1/3">
+          <h3>Artículos</h3>
+          <ul class="flow1/3">
+            {% set posts = collections[locale + "_articles"] %}
+            {% for entry in posts %}
+            <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
+            {% endfor %}
+          </ul>
+        </section>
+        <section class="flow1/3">
+          <h3>Formularios</h3>
+          <ul>
+            <li><a href="/es/formularios/oemsq-12">ÖMSQ-12</a> - un cuestionario práctico de cribaje en las dolencias musculoesqueléticas, adaptado y traducido de <i>Gabel et al. 2013.</i><strong> Aún no se ha validado en español.</strong></li>
+          </ul>
+        </section>
       </section>
-    </section>
+    </div>
   </div>
 </main>
 {% include 'partials/footer.html' %}

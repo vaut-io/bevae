@@ -8,11 +8,13 @@ form {
   }
   legend {
     font-size: var(--step1);
+    letter-spacing: -.08ch;
     font-weight: var(--weight700);
     text-align: center;
     padding: 0 var(--space0);
   }
   input[type="text"] {
+    font-size: var(--step-1);
     border: var(--border-2) solid black;
     caret-color: #ff3300;
     outline-color: #ff3300;

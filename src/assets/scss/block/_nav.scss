@@ -1,11 +1,12 @@
 .logo {
+  border: none;
   color: var(--primary500);
   font-family: krona;
   font-style: italic;
   font-weight: var(--weight400);
-  border: none;
+  letter-spacing: +.05ch;
   &:hover {
-    
+
   }
 }
 
