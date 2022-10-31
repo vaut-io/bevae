@@ -3,12 +3,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ description | capitalize }}">
+  <meta name="description" content="{{ description }}">
   <link rel="preload" href="/assets/fonts/kronaone.woff" as="font" type="font/woff">
   <link rel="preload" href="/assets/fonts/opensans-400.woff" as="font" type="font/woff">
   <link rel="preload" href="/assets/fonts/opensans-700.woff" as="font" type="font/woff">
   <link rel="stylesheet" href="/assets/styles.css">
-  <title>BEVAE | {{ title | capitalize }}{% if subtitle %}: {{ subtitle }}{% endif %}</title>
+  <title>BEVAE | {{ title }}{% if subtitle %}: {{ subtitle }}{% endif %}</title>
 
   {% block head %}{% endblock %}
 </head>

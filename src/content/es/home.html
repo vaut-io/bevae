@@ -1,6 +1,6 @@
 ---
 translationKey: home
-title: inicio
+title: Inicio
 permalink: /es/
 description: La revolución del dolor ya ha llegado. Si eres sanitario, o una persona con dolor o simplemente tienes curiosidad, BEVAE facilita el aprendizaje de la naturaleza del dolor y los principios modernos de su manejo.
 ---
@@ -13,7 +13,7 @@ description: La revolución del dolor ya ha llegado. Si eres sanitario, o una pe
 <main>
   <div class="stack g5 centerx squeeze12">
     <section class="stack g2 squeeze11">
-      <h1>Bienvenido.</h1>
+      <h1>¡Bienvenid@!</h1>
       <div class="sidebar g2 itemsstart">
         <div class="[ image ] [ frame1:1 squeeze6 side6 ]">
           <img src="/assets/img/profile_me-res.jpg" alt="Frederik smiling at the camera">
@@ -28,21 +28,16 @@ description: La revolución del dolor ya ha llegado. Si eres sanitario, o una pe
     <div class="switcher12 g3">
       <section class="squeeze9 flow2">
         <h2 class="h-fancy">Para Pacientes</h2>
-        <section class="flow1/3">
-          <h3>Artículos</h3>
-          <ul>
-            <li><em>¡Permanece atento!</em></li>
-          </ul>
-        </section>
+        <p><strong>¡Permanece atento!</strong></p>
       </section>
       <section class="squeeze9 flow2">
         <h2 class="h-fancy">Para Sanitarios</h2>
         <section class="flow1/3">
           <h3>Artículos</h3>
           <ul class="flow1/3">
-            {% set posts = collections[locale + "_articles"] %}
+            {% set posts = collections[locale + '_articles'] %}
             {% for entry in posts %}
-            <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
             {% endfor %}
           </ul>
         </section>

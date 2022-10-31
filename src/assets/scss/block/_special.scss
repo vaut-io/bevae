@@ -1,4 +1,27 @@
 // Creative Commons symbols
 .cc {
-  fill: var(--neutral900);
+  display: inline-block;
+  background: var(--neutral900);
+
+  padding: var(--space-1) var(--space0) 0 var(--space-3);
+  border: none;
+
+  svg {
+    width: var(--space0);
+    height: var(--space0);
+    fill: var(--primary50);
+    circle {
+      fill: var(--neutral900);
+    }
+  }
+
+  &:hover {
+    background: none;
+    svg {
+      fill: var(--neutral900);
+      circle {
+        fill: var(--primary50);
+      }
+    }
+  }
 }

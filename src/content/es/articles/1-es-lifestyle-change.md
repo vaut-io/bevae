@@ -1,11 +1,10 @@
 ---
 translationKey: article1
-title: cambio de estilo de vida
+title: Cambio de estilo de vida
 subtitle: el problema de la adherencia
-description: ayuda a tus pacientes a realizar cambios de comportamiento más sostenibles conociendo y aplicando una de las principales teorias de la motivación
+description: Ayuda a tus pacientes a realizar cambios de comportamiento más sostenibles conociendo y aplicando una de las principales teorias de la motivación
+readtime: 20–30
 ---
-
-20–30 minutos de lectura
 
 El estilo de vida desempeña un papel clave en el desarrollo y el tratamiento de muchas enfermedades. Tratándose de dolor inespecífico, cánceres, enfermedades cardiovasculares o cualquier otra enfermedad crónica (incluso algunas agudas), una gran parte de la etiología y la gravedad de los síntomas se atribuye a factores modificables del estilo de vida. Desde una perspectiva científica e intuitiva, el modo en el que una persona vive su vida es un factor determinante para su salud.
 

@@ -2,12 +2,15 @@
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
-  <article class=" [ post ] [ squeeze12 centerx flow3/2 ]">
-    <div>
-      <h1>{{ title | capitalize }}</h1>
-      {% if subtitle %}<p class="fs2">{{ subtitle | capitalize }}</p>{% endif %}
+  <article class=" [ post ] [ stack g2  squeeze12 centerx ]">
+    <div class="stack g-3">
+      <div>
+        <h1>{{ title }}</h1>
+        {% if subtitle %}<p class="fs2">{{ subtitle | capitalize }}</p>{% endif %}
+      </div>
+      <p class="fs-1"><em>{{ readtime }}{% if locale == 'en' %} minute read{% else %} minutos de lectura{% endif %}</em></p>
     </div>
-    {{ content | safe }}
+    <div class="[ flow3/2 ]">{{ content | safe }}</div>
   </article>
 </main>
 {% include 'partials/footer.html' %}

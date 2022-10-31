@@ -1,6 +1,6 @@
 ---
 translationKey: home
-title: home
+title: Home
 permalink: /en/
 description: The pain revolution is here. Whether you're a health professional, a person with pain, or just curious, BEVAE makes it easy to learn about the nature of pain and modern pain management principles.
 ---
@@ -13,7 +13,7 @@ description: The pain revolution is here. Whether you're a health professional, 
 <main>
   <div class="stack g5 centerx squeeze12">
     <section class="stack g2 squeeze11">
-      <h1>Welcome.</h1>
+      <h1>Welcome!</h1>
       <div class="sidebar g2 itemsstart">
         <div class="[ image ] [ frame1:1 squeeze6 side6 ]">
           <img src="/assets/img/profile_me-res.jpg" alt="Frederik smiling at the camera">
@@ -29,9 +29,15 @@ description: The pain revolution is here. Whether you're a health professional, 
       <section class="squeeze9 flow2">
         <h2 class="h-fancy">For Patients</h2>
         <section class="flow1/3">
-          <h3>Articles</h3>
-          <ul>
-            <li><em>Stay tuned! ♫</em></li>
+          <h3>Pain 101</h3>
+          <p class="fs-1"><em>Have you ever wondered what pain is and how it works? In this 3-part series we'll dive into the science of pain without getting too technical.</em></p>
+          <ul class="flow1/3">
+            {% set posts = collections[locale + '_articles'] %}
+            {% for entry in posts %}
+            {% if entry.data.audience == 'patients' %}
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+            {% endif %}
+            {% endfor %}
           </ul>
         </section>
       </section>
@@ -40,9 +46,11 @@ description: The pain revolution is here. Whether you're a health professional, 
         <section class="flow1/3">
           <h3>Articles</h3>
           <ul class="flow1/3">
-            {% set posts = collections[locale + "_articles"] %}
+            {% set posts = collections[locale + '_articles'] %}
             {% for entry in posts %}
-            <li><a href="{{ entry.url }}">{{ entry.data.title | capitalize }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}.{%endif %}</li>
+            {% if entry.data.audience == 'providers' %}
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+            {% endif %}
             {% endfor %}
           </ul>
         </section>
