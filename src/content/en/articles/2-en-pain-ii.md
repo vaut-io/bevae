@@ -6,3 +6,6 @@ description: Find out how your brain, body, and environment interact to create p
 readtime: '-'
 audience: patients
 ---
+
+
+<a href="/en/articles/pain-iii">Next article</a>
