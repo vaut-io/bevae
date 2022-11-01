@@ -7,11 +7,12 @@ form {
     border-radius: var(--radius-1);
   }
   legend {
-    font-size: var(--step1);
-    letter-spacing: -.08ch;
-    font-weight: var(--weight700);
-    text-align: center;
     padding: 0 var(--space0);
+    margin-inline: auto;
+    font-size: var(--step1);
+    font-weight: var(--weight700);
+    letter-spacing: -.08ch;
+    text-align: center;
   }
   input[type="text"] {
     font-size: var(--step-1);

@@ -14,9 +14,16 @@ Official scientific definitions of pain are being updated constantly, but they s
 Even though we know so much about pain, the way most people in society at large (including many healthcare professionals) think about and treat pain is still firmly rooted in ideas which originated hundreds, even thousands of years ago. So in order to get a clear picture of where we are now, we need to take a look back to see where we've come from.
 
 
-## Ancient Greece
+## Hippocrates & Socrates
 
-## René Descartes
+We'll start our journey through time in Ancient Greece, the birthplace of modern medicine. Whenever a medical student graduates, they are required to say the *Hippocratic oath,* swearing to do no harm to their patients. As one of the most influential medical philosophers ever to have lived, what did Hippocrates have to say about pain?
+
+
+## Cartesian model of pain
+
+René Descartes was an highly influential French philosopher who lived in the 1600s. In fact, it is his philosophy which has informed many of western society's mainstream beliefs about pain.
+
+Descartes thought of pain as having a linear relationship with tissue damage. For him, **hurt = harm.** He believed that the mind (or soul) and the body were separated, and that there was a single "pain center" to where pain signals were sent whenever there was some sort of physical harm in the body. there was a single "pain center" in the brain (divorced from the body), where tissues would send pain signals to if there appeared 
 
 ## The biomedical model
 

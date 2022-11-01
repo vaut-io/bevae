@@ -1,3 +1,5 @@
+'use strict';
+
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 const passthroughFiles = ['src/robots.txt',
