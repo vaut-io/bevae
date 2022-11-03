@@ -2,7 +2,8 @@
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
-  <article class=" [ post ] [ stack g2  squeeze12 centerx ]">
+  <article class=" [ post ] [ stack g2 squeeze12 centerx ]">
+    <!-- Article header -->
     <div class="stack g-3">
       <div>
         <h1>{{ title }}</h1>
@@ -10,9 +11,13 @@
       </div>
       <p class="fs-1"><em>{{ readtime }}{% if locale == 'en' %} minute read{% else %} minutos de lectura{% endif %}</em></p>
     </div>
-    <div class="[ flow3/2 ]">{{ content | safe }}</div>
+    <!-- Article body -->
+    <div class="[ flow3/2 ]">
+      {{ content | safe }}
+    </div>
   </article>
 </main>
+
 {% include 'partials/footer.html' %}
 
 <!-- Render and update the progress bar -->
