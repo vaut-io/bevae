@@ -231,6 +231,8 @@ Thank you for reading this article! I had a lot of fun writing it. I hope that y
 [Exercise, physical activity, and self-determination theory: a systematic review](https://ijbnpa.biomedcentral.com/counter/pdf/10.1186/1479-5868-9-78.pdf)
 
 
-## Additional resources
+## Downloads
 
-[Presentation (download)](/assets/odp/presentation_lifestyle-change_en.odp)
+[Presentation (.odp)](/assets/odp/presentation_lifestyle-change_en.odp)
+
+[Motivation profile activity (.pdf)]()
