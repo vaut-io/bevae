@@ -235,4 +235,4 @@ Thank you for reading this article! I had a lot of fun writing it. I hope that y
 
 [Presentation (.odp)](/assets/odp/presentation_lifestyle-change_en.odp)
 
-[Motivation profile activity (.pdf)](/assets/odt/activity_motivation-profile.pdf)
+[Motivation profile activity (.pdf)](/assets/pdf/activity_motivation-profile.pdf)
