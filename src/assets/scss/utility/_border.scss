@@ -1,82 +1,82 @@
-.bd-2 { border: var(--border-2) solid var(--bdcolor, --primary900) }
-.bd-1 { border: var(--border-1) solid var(--bdcolor, --primary900) }
-.bd0  { border: var(--border0 ) solid var(--bdcolor, --primary900) }
-.bd1  { border: var(--border1 ) solid var(--bdcolor, --primary900) }
-.bd2  { border: var(--border2 ) solid var(--bdcolor, --primary900) }
+.bd-2 { border: var(--border-2) solid hsl(var(--bdcolor, --primary900)) }
+.bd-1 { border: var(--border-1) solid hsl(var(--bdcolor, --primary900)) }
+.bd0  { border: var(--border0 ) solid hsl(var(--bdcolor, --primary900)) }
+.bd1  { border: var(--border1 ) solid hsl(var(--bdcolor, --primary900)) }
+.bd2  { border: var(--border2 ) solid hsl(var(--bdcolor, --primary900)) }
 
 
 /* Border two sides */
 .bdx-2 {
-  border-left:  var(--border-2) solid var(--bdcolor, --primary900);
-  border-right: var(--border-2) solid var(--bdcolor, --primary900); 
+  border-left:  var(--border-2) solid hsl(var(--bdcolor, --primary900));
+  border-right: var(--border-2) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdx-1 {
-  border-left:  var(--border-1) solid var(--bdcolor, --primary900);
-  border-right: var(--border-1) solid var(--bdcolor, --primary900); 
+  border-left:  var(--border-1) solid hsl(var(--bdcolor, --primary900));
+  border-right: var(--border-1) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdx0 {
-  border-left:  var(--border0) solid var(--bdcolor, --primary900);
-  border-right: var(--border0) solid var(--bdcolor, --primary900); 
+  border-left:  var(--border0) solid hsl(var(--bdcolor, --primary900));
+  border-right: var(--border0) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdx1 {
-  border-left:  var(--border1) solid var(--bdcolor, --primary900);
-  border-right: var(--border1) solid var(--bdcolor, --primary900); 
+  border-left:  var(--border1) solid hsl(var(--bdcolor, --primary900));
+  border-right: var(--border1) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdx2 {
-  border-left:  var(--border2) solid var(--bdcolor, --primary900);
-  border-right: var(--border2) solid var(--bdcolor, --primary900); 
+  border-left:  var(--border2) solid hsl(var(--bdcolor, --primary900));
+  border-right: var(--border2) solid hsl(var(--bdcolor, --primary900)); 
 }
 
 .bdy-2 {
-  border-top:    var(--border-2) solid var(--bdcolor, --primary900);
-  border-bottom: var(--border-2) solid var(--bdcolor, --primary900); 
+  border-top:    var(--border-2) solid hsl(var(--bdcolor, --primary900));
+  border-bottom: var(--border-2) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdy-1 {
-  border-top:    var(--border-1) solid var(--bdcolor, --primary900);
-  border-bottom: var(--border-1) solid var(--bdcolor, --primary900); 
+  border-top:    var(--border-1) solid hsl(var(--bdcolor, --primary900));
+  border-bottom: var(--border-1) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdy0 {
-  border-top:    var(--border0) solid var(--bdcolor, --primary900);
-  border-bottom: var(--border0) solid var(--bdcolor, --primary900); 
+  border-top:    var(--border0) solid hsl(var(--bdcolor, --primary900));
+  border-bottom: var(--border0) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdy1 {
-  border-top:    var(--border1) solid var(--bdcolor, --primary900);
-  border-bottom: var(--border1) solid var(--bdcolor, --primary900); 
+  border-top:    var(--border1) solid hsl(var(--bdcolor, --primary900));
+  border-bottom: var(--border1) solid hsl(var(--bdcolor, --primary900)); 
 }
 .bdy2 {
-  border-top:    var(--border2) solid var(--bdcolor, --primary900);
-  border-bottom: var(--border2) solid var(--bdcolor, --primary900); 
+  border-top:    var(--border2) solid hsl(var(--bdcolor, --primary900));
+  border-bottom: var(--border2) solid hsl(var(--bdcolor, --primary900)); 
 }
 
 
 /* Border one side */
-.bdt-2 { border-top: var(--border-2) solid var(--bdcolor, --primary900) }
-.bdt-1 { border-top: var(--border-1) solid var(--bdcolor, --primary900) }
-.bdt0  { border-top: var(--border0 ) solid var(--bdcolor, --primary900) }
-.bdt1  { border-top: var(--border1 ) solid var(--bdcolor, --primary900) }
-.bdt2  { border-top: var(--border2 ) solid var(--bdcolor, --primary900) }
+.bdt-2 { border-top: var(--border-2) solid hsl(var(--bdcolor, --primary900)) }
+.bdt-1 { border-top: var(--border-1) solid hsl(var(--bdcolor, --primary900)) }
+.bdt0  { border-top: var(--border0 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdt1  { border-top: var(--border1 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdt2  { border-top: var(--border2 ) solid hsl(var(--bdcolor, --primary900)) }
 
-.bdr-2 { border-right: var(--border-2) solid var(--bdcolor, --primary900) }
-.bdr-1 { border-right: var(--border-1) solid var(--bdcolor, --primary900) }
-.bdr0  { border-right: var(--border0 ) solid var(--bdcolor, --primary900) }
-.bdr1  { border-right: var(--border1 ) solid var(--bdcolor, --primary900) }
-.bdr2  { border-right: var(--border2 ) solid var(--bdcolor, --primary900) }
+.bdr-2 { border-right: var(--border-2) solid hsl(var(--bdcolor, --primary900)) }
+.bdr-1 { border-right: var(--border-1) solid hsl(var(--bdcolor, --primary900)) }
+.bdr0  { border-right: var(--border0 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdr1  { border-right: var(--border1 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdr2  { border-right: var(--border2 ) solid hsl(var(--bdcolor, --primary900)) }
 
-.bdb-2 { border-bottom: var(--border-2) solid var(--bdcolor, --primary900) }
-.bdb-1 { border-bottom: var(--border-1) solid var(--bdcolor, --primary900) }
-.bdb0  { border-bottom: var(--border0 ) solid var(--bdcolor, --primary900) }
-.bdb1  { border-bottom: var(--border1 ) solid var(--bdcolor, --primary900) }
-.bdb2  { border-bottom: var(--border2 ) solid var(--bdcolor, --primary900) }
+.bdb-2 { border-bottom: var(--border-2) solid hsl(var(--bdcolor, --primary900)) }
+.bdb-1 { border-bottom: var(--border-1) solid hsl(var(--bdcolor, --primary900)) }
+.bdb0  { border-bottom: var(--border0 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdb1  { border-bottom: var(--border1 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdb2  { border-bottom: var(--border2 ) solid hsl(var(--bdcolor, --primary900)) }
 
-.bdl-2 { border-left: var(--border-2) solid var(--bdcolor, --primary900) }
-.bdl-1 { border-left: var(--border-1) solid var(--bdcolor, --primary900) }
-.bdl0  { border-left: var(--border0 ) solid var(--bdcolor, --primary900) }
-.bdl1  { border-left: var(--border1 ) solid var(--bdcolor, --primary900) }
-.bdl2  { border-left: var(--border2 ) solid var(--bdcolor, --primary900) }
+.bdl-2 { border-left: var(--border-2) solid hsl(var(--bdcolor, --primary900)) }
+.bdl-1 { border-left: var(--border-1) solid hsl(var(--bdcolor, --primary900)) }
+.bdl0  { border-left: var(--border0 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdl1  { border-left: var(--border1 ) solid hsl(var(--bdcolor, --primary900)) }
+.bdl2  { border-left: var(--border2 ) solid hsl(var(--bdcolor, --primary900)) }
 
 
 /* Border color */
-.bd-p50  { --bdcolor: var(--primary50 ); }
+.bd-p50  { --bdcolor: var(--primary050); }
 .bd-p100 { --bdcolor: var(--primary100); }
 .bd-p200 { --bdcolor: var(--primary200); }
 .bd-p300 { --bdcolor: var(--primary300); }
@@ -87,7 +87,7 @@
 .bd-p800 { --bdcolor: var(--primary800); }
 .bd-p900 { --bdcolor: var(--primary900); }
 
-.bd-n50  { --bdcolor: var(--neutral50 ); }
+.bd-n50  { --bdcolor: var(--neutral050); }
 .bd-n100 { --bdcolor: var(--neutral100); }
 .bd-n200 { --bdcolor: var(--neutral200); }
 .bd-n300 { --bdcolor: var(--neutral300); }
@@ -98,7 +98,7 @@
 .bd-n800 { --bdcolor: var(--neutral800); }
 .bd-n900 { --bdcolor: var(--neutral900); }
 
-.bd-a50  { --bdcolor: var(--accent50 ); }
+.bd-a50  { --bdcolor: var(--accent050); }
 .bd-a100 { --bdcolor: var(--accent100); }
 .bd-a200 { --bdcolor: var(--accent200); }
 .bd-a300 { --bdcolor: var(--accent300); }

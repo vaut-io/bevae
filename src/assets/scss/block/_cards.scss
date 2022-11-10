@@ -1,5 +1,5 @@
 .image {
-  outline: var(--border-1) solid var(--primary500);
+  outline: var(--border-1) solid hsl(var(--primary500));
 
   // Create a new stacking context and allow border to appear
   position: relative;
@@ -17,7 +17,7 @@
     left: var(--border1);
     top: var(--border1);
     content: '';
-    outline: var(--border-1) solid var(--primary300);
+    outline: var(--border-1) solid hsl(var(--primary300));
   }
 }
 

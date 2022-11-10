@@ -1,6 +1,6 @@
 .logo {
   border: none;
-  color: var(--primary500);
+  color: hsl(var(--primary500));
   font-family: krona;
   font-style: italic;
   font-weight: var(--weight400);
@@ -13,5 +13,5 @@
 .nav-header {
   width: 100%;
   padding: var(--space0) var(--space1) var(--space-3);
-  background: var(--primary50);
+  background: hsl(var(--primary050));
 }

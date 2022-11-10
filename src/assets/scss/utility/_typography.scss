@@ -1,36 +1,36 @@
 /* Font color */
-.fc-p50  { color: var(--primary50 ); }
-.fc-p100 { color: var(--primary100); }
-.fc-p200 { color: var(--primary200); }
-.fc-p300 { color: var(--primary300); }
-.fc-p400 { color: var(--primary400); }
-.fc-p500 { color: var(--primary500); }
-.fc-p600 { color: var(--primary600); }
-.fc-p700 { color: var(--primary700); }
-.fc-p800 { color: var(--primary800); }
-.fc-p900 { color: var(--primary900); }
+.fc-p50  { color: hsl(var(--primary050)); }
+.fc-p100 { color: hsl(var(--primary100)); }
+.fc-p200 { color: hsl(var(--primary200)); }
+.fc-p300 { color: hsl(var(--primary300)); }
+.fc-p400 { color: hsl(var(--primary400)); }
+.fc-p500 { color: hsl(var(--primary500)); }
+.fc-p600 { color: hsl(var(--primary600)); }
+.fc-p700 { color: hsl(var(--primary700)); }
+.fc-p800 { color: hsl(var(--primary800)); }
+.fc-p900 { color: hsl(var(--primary900)); }
 
-.fc-n50  { color: var(--neutral50 ); }
-.fc-n100 { color: var(--neutral100); }
-.fc-n200 { color: var(--neutral200); }
-.fc-n300 { color: var(--neutral300); }
-.fc-n400 { color: var(--neutral400); }
-.fc-n500 { color: var(--neutral500); }
-.fc-n600 { color: var(--neutral600); }
-.fc-n700 { color: var(--neutral700); }
-.fc-n800 { color: var(--neutral800); }
-.fc-n900 { color: var(--neutral900); }
+.fc-n50  { color: hsl(var(--neutral050)); }
+.fc-n100 { color: hsl(var(--neutral100)); }
+.fc-n200 { color: hsl(var(--neutral200)); }
+.fc-n300 { color: hsl(var(--neutral300)); }
+.fc-n400 { color: hsl(var(--neutral400)); }
+.fc-n500 { color: hsl(var(--neutral500)); }
+.fc-n600 { color: hsl(var(--neutral600)); }
+.fc-n700 { color: hsl(var(--neutral700)); }
+.fc-n800 { color: hsl(var(--neutral800)); }
+.fc-n900 { color: hsl(var(--neutral900)); }
 
-.fc-a50  { color: var(--accent50 ); }
-.fc-a100 { color: var(--accent100); }
-.fc-a200 { color: var(--accent200); }
-.fc-a300 { color: var(--accent300); }
-.fc-a400 { color: var(--accent400); }
-.fc-a500 { color: var(--accent500); }
-.fc-a600 { color: var(--accent600); }
-.fc-a700 { color: var(--accent700); }
-.fc-a800 { color: var(--accent800); }
-.fc-a900 { color: var(--accent900); }
+.fc-a50  { color: hsl(var(--accent050)); }
+.fc-a100 { color: hsl(var(--accent100)); }
+.fc-a200 { color: hsl(var(--accent200)); }
+.fc-a300 { color: hsl(var(--accent300)); }
+.fc-a400 { color: hsl(var(--accent400)); }
+.fc-a500 { color: hsl(var(--accent500)); }
+.fc-a600 { color: hsl(var(--accent600)); }
+.fc-a700 { color: hsl(var(--accent700)); }
+.fc-a800 { color: hsl(var(--accent800)); }
+.fc-a900 { color: hsl(var(--accent900)); }
 
 
 /* Font family */

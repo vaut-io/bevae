@@ -1,20 +1,20 @@
 .button {
   position: relative;
   overflow: visible;
-  background: var(--primary50);
+  background: hsl(var(--primary050));
   padding: var(--space-2) var(--space0);
   border: none;
-  outline: var(--border-1) solid var(--primary500);
+  outline: var(--border-1) solid hsl(var(--primary500));
   font-style: normal;
   font-weight: var(--weight700);
   transition: transform .1s;
 
 
   &:hover {
-    background: var(--primary500);
-    color: var(--primary50);
+    background: hsl(var(--primary500));
+    color: hsl(var(--primary050));
     text-decoration: none;
-    svg { color: var(--primary50) };
+    svg { color: hsl(var(--primary050)) };
   }
 
   &:active {
@@ -37,7 +37,7 @@
     left: var(--border1);
     top: var(--border1);
     opacity: 100%;
-    outline: var(--border-1) solid var(--primary300);
+    outline: var(--border-1) solid hsl(var(--primary300));
     transition: opacity .2s;
     transition-delay: .1s;
   }

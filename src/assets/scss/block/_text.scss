@@ -1,7 +1,7 @@
 .h-fancy {
   max-inline-size: none;
   color: black;
-  background: var(--primary50);
+  background: hsl(var(--primary050));
   padding: var(--space0) var(--space-2) var(--space-3);
   margin-inline-start: calc(var(--space-2) * -1);
 }

@@ -1,6 +1,6 @@
 body {
-  background-color: var(--primary50);
-  color: var(--neutral900);
+  background-color: hsl(var(--primary050));
+  color: hsl(var(--neutral900));
   font-family: var(--sans);
   font-size: var(--step0);
   font-weight: var(--weight400);
@@ -18,7 +18,7 @@ main {
 }
 
 
-/*:focus { outline: var(--border-2) solid var(--primary600); outline-offset: -5px;}*/
+/*:focus { outline: var(--border-2) solid hsl(var(--primary600);) outline-offset: -5px;}*/
 
 
 h3,
@@ -70,11 +70,11 @@ button {
 
 
 a {
-  color: var(--primary500);
-  border-bottom: var(--border-2) solid var(--primary500);
+  color: hsl(var(--primary500));
+  border-bottom: var(--border-2) solid hsl(var(--primary500));
   &:hover {
-    color: var(--neutral900);
-    border-color: var(--neutral900);
+    color: hsl(var(--neutral900));
+    border-color: hsl(var(--neutral900));
   }
   &:focus {}
   &:link {}
