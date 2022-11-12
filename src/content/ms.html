@@ -1,0 +1,87 @@
+---
+title: Multiple Sclerosis
+permalink: /ms/
+description: Multiple Sclerosis CAE
+---
+{% extends "base.html" %}
+
+
+{% block head %}
+<style>
+  body,
+  main {
+    background-color: skyblue;
+    color: midnightblue;
+    padding: 0 var(--space-3);
+  }
+
+  .tab {
+    display: none;
+  }
+
+  .tab-btn {
+    background: midnightblue;
+    padding: var(--space-3) var(--space-1);
+    border-radius: var(--radius0);
+    color: snow;
+    font-weight: var(--weight700);
+  }
+</style>
+{% endblock %}
+
+{% block body %}
+<div class="cover stack g2">
+  <header class="stack g0 itemscenter textcenter">
+    <div>
+      <h1>MULTIPLE SCLEROSIS</h1>
+      <p class="fs2">Cognitive Decline</p>
+    </div>
+    <nav class="[ tab-nav ] [ cluster g-3 ]">
+      <button name="1" class="tab-btn">Definition</button>
+      <button name="2" class="tab-btn">Symptoms</button>
+      <button name="3" class="tab-btn">Treatment</button>
+      <button name="4" class="tab-btn">Case study</button>
+      <button name="5" class="tab-btn">#heretohelp</button>
+    </nav>
+  </header>
+
+  <main class="squeeze10 centerx">
+    <article id="1" class="[ tab ] [ flow1 ]">
+      <h2>Definition</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, hic cupiditate adipisci voluptates, rerum dignissimos non in dolor saepe architecto dolorem numquam totam dolore, pariatur perferendis, laudantium. Similique, qui, quasi.</p>
+    </article>
+    <article id="2" class="[ tab ] [ flow1 ]">
+      <h2>Symptoms</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam iste doloremque illo, ut repudiandae optio libero praesentium facilis. Aspernatur eius sed facere ipsum, incidunt. Tempore dolorum veritatis asperiores atque labore.</p>
+    </article>
+    <article id="3" class="[ tab ] [ flow1 ]">
+      <h2>Treatment</h2>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium laboriosam, fugit, corrupti iste omnis sed magnam commodi dolorum officiis! Voluptates ut aliquam eaque cumque quidem perferendis debitis aut praesentium dolore.</p>
+    </article>
+    <article id="4" class="[ tab ] [ flow1 ]">
+      <h2>Case study</h2>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, magnam ratione a perspiciatis modi veniam amet aliquid non ut, expedita in, sequi sit, itaque nobis aspernatur tenetur adipisci commodi dignissimos?</p>
+    </article>
+    <article id="5" class="[ tab ] [ flow1 ]">
+      <h2>#heretohelp</h2>
+    </article>
+  </main>
+</div>
+
+<script>
+  // Tabs
+  'use strict';
+  const tabButtons = document.querySelectorAll('.tab-btn');
+  tabButtons.forEach(btn => btn.addEventListener('click', e => {
+    const activeTab = document.getElementById(e.target.name);
+    for (const tab of document.querySelectorAll('.tab')) {
+      if (tab === activeTab) {
+        tab.style.display = 'block';
+      }
+      else {
+        tab.style.display = 'none';
+      }
+    }
+  }));
+</script>
+{% endblock %}
