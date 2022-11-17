@@ -3,12 +3,13 @@
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 
 const passthroughFiles = ['src/robots.txt',
-                          'src/robots.txt',
                           'src/assets/fonts',
                           'src/assets/img',
                           'src/assets/odp',
                           'src/assets/pdf',
-                          'src/assets/styles.css',];
+                          'src/assets/styles.css',
+                          'src/assets/styles.css.map',
+                         ];
 
 
 module.exports = config => {
