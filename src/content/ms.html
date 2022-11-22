@@ -35,13 +35,17 @@ description: Multiple Sclerosis CAE
   .tab-btn {
     background: hsl(210, 75%, 20%);
     padding: var(--space-3) var(--space-1);
-    border-radius: var(--radius0);
+    /*border-radius: var(--radius0);*/
     color: hsl(210, 100%, 90%);
     font-weight: var(--weight700);
   }
 
   .tab-btn:hover {
     background: hsl(210, 50%, 33%);
+  }
+
+  .tab-btn.active {
+    background: hsl(210, 75%, 33%);
   }
 </style>
 {% endblock %}
@@ -54,12 +58,12 @@ description: Multiple Sclerosis CAE
       <h1>MULTIPLE SCLEROSIS</h1>
       <p class="fs2">Cognitive Decline</p>
     </div>
-    <nav class="[ tab-nav ] [ cluster jfycenter g-3 ]">
+    <nav class="[ tab-nav ] [ cluster gy-2 jfycenter ]">
       <button name="1" class="tab-btn">Background</button>
-      <button name="2" class="tab-btn">Assessment</button>
-      <button name="3" class="tab-btn">Management</button>
-      <button name="4" class="tab-btn">Case study</button>
-      <button name="5" class="tab-btn">#heretohelp</button>
+      <button name="2" class="tab-btn">Symptoms</button>
+      <button name="3" class="tab-btn">Assessment</button>
+      <button name="4" class="tab-btn">Management</button>
+      <button name="5" class="tab-btn">Patient story</button>
     </nav>
   </header>
 
@@ -75,6 +79,9 @@ description: Multiple Sclerosis CAE
       <p>In addition to food and supplements, vitamin D is also derived from sunlight, for which the lack of vitamin D may involve in the development of MS. Populations living closer to the equator experience a lower incidence of MS. Those living closer to the equator are exposed to more sunlight and therefore may be less likely to experience a vitamin D deficiency.</p>
       <p>Research has found that parasites can modulate the immune system and dampen its responses. People who have parasites are less likely to be diagnosed with MS, and as conditions in different countries become cleaner, the number of individuals being diagnosed is increasing in these parts of the world.</p>
       <p>Another factor linked to MS is cigarette smoking. Women who smoke are 1.6 times more likely to develop MS than women who are non-smokers. Individuals with MS who smoke also appear to be at a much greater risk of experiencing a more rapid progression of their disease.</p>
+    </article>
+    <article id="2" class="[ tab ] [ flow3/2 ]">
+      <h2>Symptoms</h2>
       <p><strong>MS leads to symptoms such as:</strong></p>
       <ul>
         <li>Dysesthesia: One of the first symptom of multiple sclerosis or a relapse, a multiple sclerosis hug is a squeezing sensation around the chest.</li>
@@ -111,7 +118,7 @@ description: Multiple Sclerosis CAE
         <li>The impact of MS impact your life on various aspects. It can leads to additional social, vocational and psychological complications. Isolation, loss of a job or dependency are some examples.</li>
       </ul>
     </article>
-    <article id="2" class="[ tab ] [ flow3/2 ]">
+    <article id="3" class="[ tab ] [ flow3/2 ]">
       <h2>Assessment</h2>
       <p>As part of a physical examination, a physiotherapist (or health care provider) may perform some basic tests that can reveal how the brain and nervous system are working. These tests can help to detect signs of cognitive impairment into multiple sclerosis disease.</p>
       <p>Testing can take several hours, but this careful evaluation is needed to determine the specific cognitive functions that are affected and to filter other possible causes of cognitive problems, such as medications, fatigue or changes in mood, including depression, anxiety or stress.</p>
@@ -131,7 +138,7 @@ description: Multiple Sclerosis CAE
         <li>Difficulty with school performance, including falling grades and social challenges</li>
       </ul>
     </article>
-    <article id="3" class="[ tab ] [ flow3/2 ]">
+    <article id="4" class="[ tab ] [ flow3/2 ]">
       <h2>Management</h2>
       <p><strong>The appropriate management of cognitive dysfunction in MS includes:</strong></p>
       <ul>
@@ -190,8 +197,8 @@ description: Multiple Sclerosis CAE
 
 
     </article>
-    <article id="4" class="[ tab ] [ flow3/2 ]">
-      <h2>Case study</h2>
+    <article id="5" class="[ tab ] [ flow3/2 ]">
+      <h2>Patient story</h2>
       <p>
         We have been lucky to be able to interview Julio, a 45-year-old male who has been diagnosed with multiple sclerosis (relapsing remitting). He agreed to answer our questions with did it with a lot of enthusiasm.
       </p>
@@ -244,7 +251,7 @@ description: Multiple Sclerosis CAE
       <p><strong>App</strong></p>
       <p>CLEO</p>
     </div>
-    <p class="fs-1"><em>Made by Alex, Frederik, Pierre, and Servane</em></p>
+    <p class="fs-1"><em>Made by Alex, Frederik, Pierre, and Servane at University San Pablo, CEU</em></p>
   </footer>
 </div>
 
@@ -255,11 +262,17 @@ description: Multiple Sclerosis CAE
   const tabButtons = document.querySelectorAll('.tab-btn');
   tabButtons.forEach(btn => btn.addEventListener('click', e => {
     const activeTab = document.getElementById(e.target.name);
+    for (const tabBtn of document.querySelectorAll('.tab-btn')) {
+      if (tabBtn === e.target) {
+        tabBtn.classList.add('active');
+      } else {
+        tabBtn.classList.remove('active');
+      }
+    }
     for (const tab of document.querySelectorAll('.tab')) {
       if (tab === activeTab) {
         tab.style.display = 'block';
-      }
-      else {
+      } else {
         tab.style.display = 'none';
       }
     }
