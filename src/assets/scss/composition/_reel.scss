@@ -92,6 +92,6 @@
 .reel11   > img,
 .reel12   > img {
   block-size: 100%;
+  inline-size: auto;
   flex-basis: auto;
-  width: auto;
 }

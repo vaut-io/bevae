@@ -4,73 +4,254 @@ permalink: /ms/
 description: Multiple Sclerosis CAE
 ---
 {% extends "base.html" %}
-
-
 {% block head %}
 <style>
   body,
   main {
-    background-color: skyblue;
-    color: midnightblue;
-    padding: 0 var(--space-3);
+    background-color: hsl(210, 100%, 90%);
+    color: hsl(210, 75%, 20%);
+    padding: var(--space4) 0;
   }
+
+  footer {
+    border-top: var(--border-1) solid hsl(210, 75%, 20%);
+    padding-top: var(--space2);
+  }
+
+  h3 {
+    font-size: var(--step2);
+    font-style: italic;
+    font-weight: var(--weight400);
+  }
+
+  ul > * + * { margin-block-start: .5em }
+  li { list-style: outside disc; }
 
   .tab {
     display: none;
+    padding: 0 var(--space2);
   }
 
   .tab-btn {
-    background: midnightblue;
+    background: hsl(210, 75%, 20%);
     padding: var(--space-3) var(--space-1);
     border-radius: var(--radius0);
-    color: snow;
+    color: hsl(210, 100%, 90%);
     font-weight: var(--weight700);
+  }
+
+  .tab-btn:hover {
+    background: hsl(210, 50%, 33%);
   }
 </style>
 {% endblock %}
 
+
 {% block body %}
-<div class="cover stack g2">
-  <header class="stack g0 itemscenter textcenter">
+<div class="[ stack g0 jfybetween itemscenter ] [ px3 ]">
+  <header class="squeeze12 stack g0 itemscenter textcenter">
     <div>
       <h1>MULTIPLE SCLEROSIS</h1>
       <p class="fs2">Cognitive Decline</p>
     </div>
-    <nav class="[ tab-nav ] [ cluster g-3 ]">
-      <button name="1" class="tab-btn">Definition</button>
-      <button name="2" class="tab-btn">Symptoms</button>
-      <button name="3" class="tab-btn">Treatment</button>
+    <nav class="[ tab-nav ] [ cluster jfycenter g-3 ]">
+      <button name="1" class="tab-btn">Background</button>
+      <button name="2" class="tab-btn">Assessment</button>
+      <button name="3" class="tab-btn">Management</button>
       <button name="4" class="tab-btn">Case study</button>
       <button name="5" class="tab-btn">#heretohelp</button>
     </nav>
   </header>
 
-  <main class="squeeze10 centerx">
-    <article id="1" class="[ tab ] [ flow1 ]">
-      <h2>Definition</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, hic cupiditate adipisci voluptates, rerum dignissimos non in dolor saepe architecto dolorem numquam totam dolore, pariatur perferendis, laudantium. Similique, qui, quasi.</p>
+  <main class="squeeze10">
+    <div id="0" class="[ tab ] [ flow3/2 ]">
+      <p class="textcenter"><strong>Click on any of the tabs above to get started!</strong></p>
+    </div>
+    <article id="1" class="[ tab ] [ flow3/2 ]">
+      <h2>Background</h2>
+      <p>Multiple sclerosis is mediated by overreactive lymphocytes that cross the blood-brain barrier (BBB) and enter the CNS. They cause local inflammatory lesions that result in neuronal demyelination, axonal damage and subsequent neurological dysfunctions following the formation of plaques in the grey and white matter of the brain and spinal cord.</p>
+      <p>A popular theory looks at commonly known slow-acting viruses (one that could remain dormant for many years), such as measles, herpes, human T-cell lymphoma, and Epstein-Barr. After being exposed to one of these viruses, some researchers theorize that MS may develop in genetically susceptible people.</p>
+      <p>Some scientists are looking for a connection between MS and nutritional factors, including fat intake, as well as deficiencies in omega-3 fatty acids and vitamin D. The idea that a diet rich in saturated fat may increase one’s risk of getting MS, as well as worsen his or her disease course, has been a popular theory for several decades.</p>
+      <p>In addition to food and supplements, vitamin D is also derived from sunlight, for which the lack of vitamin D may involve in the development of MS. Populations living closer to the equator experience a lower incidence of MS. Those living closer to the equator are exposed to more sunlight and therefore may be less likely to experience a vitamin D deficiency.</p>
+      <p>Research has found that parasites can modulate the immune system and dampen its responses. People who have parasites are less likely to be diagnosed with MS, and as conditions in different countries become cleaner, the number of individuals being diagnosed is increasing in these parts of the world.</p>
+      <p>Another factor linked to MS is cigarette smoking. Women who smoke are 1.6 times more likely to develop MS than women who are non-smokers. Individuals with MS who smoke also appear to be at a much greater risk of experiencing a more rapid progression of their disease.</p>
+      <p><strong>MS leads to symptoms such as:</strong></p>
+      <ul>
+        <li>Dysesthesia: One of the first symptom of multiple sclerosis or a relapse, a multiple sclerosis hug is a squeezing sensation around the chest.</li>
+        <li>Fatigue: (80% of people) It affects the person function at home and work and may be the most important symptom in a person with minimal activity limitation.</li>
+        <li>Walking difficulties: Related to several factors such as weaker motor control, spasticity, loss of balance, sensory deficit and fatigue, and can be helped by physical therapy, assistive therapy and medications.</li>
+        <li>Numbness or tingling: Numbness of different part of the face, body or limbs. It is generally the first symptom experienced by those eventually diagnosed with multiple sclerosis.</li>
+        <li>Spasticity: feelings of stiffness and a wide range of spasms. The most common ones occur in the legs.</li>
+        <li>Weakness: results from lack of muscles activity or nervous damage. It can be managed with rehabilitation strategies and the use of mobility aids.</li>
+        <li>Visions problems: it is the first symptom of multiple sclerosis for many people. Optic neuritis, neuromyelitis optica, blurred vision, poor contrast or colour vision, and pain on eye movement.</li>
+        <li>Vertigo and dizziness: With multiple sclerosis the feeling of off balance, lightheaded or vertigo is common</li>
+        <li>Bladder problems: Bladder dysfunction, (80% of people touched by multiple sclerosis). It can be treated with medications, fluid management, and intermittent self-catheterization.</li>
+        <li>Sexual problems: Very common in the general population including people with MS. Sexual drive can be affected by a disease in the central nervous system, fatigue and spasticity. Psychological factors also affect it.</li>
+        <li>Bowel problems: Constipation is frequent among people with multiple sclerosis, as is loss of control of the bowels. Diet, adequate fluid intake, physical activity and medication help treated this symptom</li>
+        <li>Pain and Itching: Pain syndromes are common. 55% of people with multiple sclerosis had "clinically significant pain" at some time according to studies, half of them had chronic pain.</li>
+        <li>Cognitive changes: In 50% of the cases, memory, focus, problem solving, calculus, space-time localisation, organization and other high-level brain functions are affected</li>
+        <li>Emotional changes: Anxiety, mood swings, irritability, and episodes of uncontrollable laughing and crying are common. These symptoms can become a real challenge for the person and the family.</li>
+        <li>Depression: Depression is a recurrent pathology linked to multiple sclerosis. Tests and screenings are designed to identify the symptoms.</li>
+      </ul>
+      <p><strong>Less common symptoms include:</strong></p>
+      <ul>
+        <li>Speech problems: 25-40% of people with multiple sclerosis can have speech problems, (dysarthria, dysphonia). It appears in the later stages of multiple sclerosis and in case of extreme fatigue.</li>
+        <li>Loss of taste: 1/4 of the people with multiple sclerosis experience it.</li>
+        <li>Swallowing problems: Related to a nerves damage. They inhibit the small muscle of the mouth and throat to function normally.</li>
+        <li>Tremor (uncontrollable shaking): Because of damaged complex nerve pathways some parts of the body shake uncontrollably.</li>
+        <li>Seizures: Seizures occurs in 2-5% of people with multiple sclerosis.</li>
+        <li>Breathing problems: Happens in people with weakened respiratory muscles.</li>
+        <li>Hearing Loss: Occurs in about 6% among people with multiple sclerosis. In few cases it occurred as the first symptom.</li>
+      </ul>  
+      <p><strong>We also should be aware of various complications which can arise:</strong></p>
+      <ul>
+        <li>Bladder dysfunction can cause repeated urinary tract infections.</li>
+        <li>Physical inactivity leads to a loss of muscle tone, weakness, poor posture, decreased bone density (augment risk of fracture) and shallow, inefficient breathing.</li>
+        <li>Immobility produces ulcers on certain cases</li>
+        <li>The impact of MS impact your life on various aspects. It can leads to additional social, vocational and psychological complications. Isolation, loss of a job or dependency are some examples.</li>
+      </ul>
     </article>
-    <article id="2" class="[ tab ] [ flow1 ]">
-      <h2>Symptoms</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam iste doloremque illo, ut repudiandae optio libero praesentium facilis. Aspernatur eius sed facere ipsum, incidunt. Tempore dolorum veritatis asperiores atque labore.</p>
+    <article id="2" class="[ tab ] [ flow3/2 ]">
+      <h2>Assessment</h2>
+      <p>As part of a physical examination, a physiotherapist (or health care provider) may perform some basic tests that can reveal how the brain and nervous system are working. These tests can help to detect signs of cognitive impairment into multiple sclerosis disease.</p>
+      <p>Testing can take several hours, but this careful evaluation is needed to determine the specific cognitive functions that are affected and to filter other possible causes of cognitive problems, such as medications, fatigue or changes in mood, including depression, anxiety or stress.</p>
+      <p>The neurological exam may test:</p>
+      <ul>
+        <li>Reflexes</li>
+        <li>Eye movements</li>
+        <li>Walking and balance</li>
+      </ul>
+      <p>Important also to observe the patient and talk with him to evaluate his attention and physical symptoms. Early recognition, assessment and treatment are important because cognitive changes can affect a person’s lifestyle.</p>
+      <p>The first signs of cognitive dysfunction may be noticed first by the person with MS or by a family member or colleague: Difficulty finding the right words</p>
+      <ul>
+        <li>Difficulty remembering what to do on the job or during daily routines at home</li>
+        <li>Difficulty making decisions or showing poor judgment</li>
+        <li>Difficulty keeping up with tasks or conversations</li>
+        <li>Difficulty with job performance, including informal or formal disciplinary action</li>
+        <li>Difficulty with school performance, including falling grades and social challenges</li>
+      </ul>
     </article>
-    <article id="3" class="[ tab ] [ flow1 ]">
-      <h2>Treatment</h2>
-      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laudantium laboriosam, fugit, corrupti iste omnis sed magnam commodi dolorum officiis! Voluptates ut aliquam eaque cumque quidem perferendis debitis aut praesentium dolore.</p>
+    <article id="3" class="[ tab ] [ flow3/2 ]">
+      <h2>Management</h2>
+      <p><strong>The appropriate management of cognitive dysfunction in MS includes:</strong></p>
+      <ul>
+        <li>Education for people with MS and their family members</li>
+        <li>Early screening and ongoing monitoring throughout the disease course</li>
+        <li>Comprehensive evaluation for any adult or child who tests positive on screening or demonstrates a significant cognitive decline</li>
+        <li>Comprehensive evaluation for any individual who is applying for disability</li>
+        <li>Insurance due to cognitive impairment</li>
+        <li>Interventions to improve cognitive functioning and participation in everyday activities</li>
+      </ul>
+      <h3>Cognitive Rehabilitation</h3>
+      <p>The term “cognition” refers to all the high-level processes carried out by the human brain. 65% of people with MS will experience some changes in cognitive functioning, most related to speed of information processing, memory and attention.</p>
+      <p>Patients with multiple sclerosis can present memory loss, reading and writing impairments, handwork and coordination problems and trouble resolving problems. They also lose balance due to an inability to concentrate on gait while doing something else or being distracted.</p>
+      <p>Cognitive decline is also important to take into consideration when we talk about the psychological aspect of the disease. It is very difficult for the patients and their families to present loss in their functioning capacities in a motor and cognitive way.</p>
+      <p>As physiotherapists it is essential that we adapt our rehabilitation program to help our patients slow down their cognitive decrease. We will need to include some intellectual tasks during our rehabilitation, which we will see now (National multiple sclerosis society website).</p>
+      <p>Based on the cognitive test results, including cognitive deficits and strengths, a cognitive rehabilitation plan may be recommended. Cognitive rehabilitation includes a combination of restorative and compensatory activities.</p>
+      <p><strong>Restorative activities can include learning and memory exercises:</strong></p>
+      <ul>
+        <li>Combine modes of learning—you will be more likely to remember something if you “see it, say it, hear it, write it, do it.” It’s okay to give yourself extra time.</li>
+        <li>Repeat & verify—repeat what you hear and verify that it is correct to improve your attention and memory.</li>
+        <li>Spaced rehearsal—repeat and practice information at intervals spread out over time to improve your ability to store information.</li>
+        <li>Build associations—use memory aids! For example, to remember the name of someone you just met, associate her/his name with a friend or family member of the same name, or with a place, color or event that sounds like the new name.</li>
+      </ul>
+      <p><strong>Compensatory activities that help make up for functions that are no longer working well may include:</strong></p>
+      <ul>
+        <li>Consolidate and centralize—designate one place in your home as the “Grand Central” information centre. Include your master calendar, mail, bills, phone messages, to-do lists, keys, wallet, shopping lists and more.</li>
+        <li>Plan—post a calendar large enough to display everyone’s appointments, activities and social engagements, and reminders! Keep pens or markers hanging right beside it. Or use a computer program set up with reminders for routine tasks (synchronize it with your mobile devices so you have your appointments with you while on the go).</li>
+        <li>Record—dictate your to-do list, notes or other things to remember on a digital voice recorder (available on many phones).</li>
+        <li>Remind—use checklists, the alarm on your watch or phone, your kitchen timer, and more.</li>
+        <li>Eliminate or remove yourself from distractions—turn off the TV, music and whatever else is “on” when speaking with someone in person or on the phone. Background visual and noise distractions can make learning or remembering more difficult. If you can’t eliminate the distraction (for example, people talking at a party) then ask, “Can we talk in a quieter place?”</li>
+        <li>Take a break—if you are having difficulty concentrating, take a breath and refresh.</li>
+        <li>Do one thing at a time—avoid switching back and forth from one topic or task to another. Finish or find an appropriate stopping place in what you’re working on before you switch to something else.</li>
+      </ul>
+
+
+      <p>To improve or maintain cognitive skills, a daily training is highly recommended. The sentence “USE IT OR LOSE IT” has never been more relevant. Playing an instrument or learning a new language are optimal options.</p>
+      <p><strong>Here is a list of games that keeps you motivated daily and helping you to enhance your mental capacities, which can be performed alone or with a caregiver.</strong></p>
+      <ul>
+        <li>Sudokus (For calculus, memory, attention and ability to solve complex problems): https://sudoku.com/</li>
+        <li>Crosswords (For language, memory, attention): https://www.boatloadpuzzles.com/playcrossword</li>
+        <li>Chess (For abstract reasoning, ability to solve complex problems and attention: https://www.chess.com/</li>
+        <li>Other selection of brain games: https://www.sheppardsoftware.com/braingames/braingames.htm</li>
+      </ul>
+
+      Taking care of the cognitive abilities with physical exercise
+      <p>Aerobic exercises are a very useful tool in maintaining the brain in shape.. It can take the form of exercise such as cycling, running a low intensity, hiking.</p>  
+      <p>Mild or moderate multiple sclerosis should engage in at least 30 min of moderate-intensity aerobic activity two times per week and strength training for major muscle groups (quadriceps, trunk...) twice per week.:</p> 
+      <figure class="flow1/2">
+        <blockquote>
+          <p><strong>"Exercise of moderate-intensity guidelines for MS consistently recommended 2–3 days/week of aerobic training (10– 30 min at moderate intensity per session) and 2–3 days/week of resistance training (1–3 sets between 8–15 repetitions maximum per session)"</strong></p>
+        </blockquote>
+        <figcaption>—<cite>Exercise training guidelines for multiple sclerosis, stroke, and Parkinson’s disease: Rapid review and synthesis</cite></figcaption>
+      </figure>
+      <p>The other advantages of aerobic exercises: Increase fitness benefits, reduce fatigue, improve mobility. The exercise plan needs to be created and supervised with the help of physiotherapist. A personalized physiotherapy treatment is also to be followed to treat any physical impairment linked to the disease.</p>
+
+
+
     </article>
-    <article id="4" class="[ tab ] [ flow1 ]">
+    <article id="4" class="[ tab ] [ flow3/2 ]">
       <h2>Case study</h2>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, magnam ratione a perspiciatis modi veniam amet aliquid non ut, expedita in, sequi sit, itaque nobis aspernatur tenetur adipisci commodi dignissimos?</p>
-    </article>
-    <article id="5" class="[ tab ] [ flow1 ]">
-      <h2>#heretohelp</h2>
+      <p>
+        We have been lucky to be able to interview Julio, a 45-year-old male who has been diagnosed with multiple sclerosis (relapsing remitting). He agreed to answer our questions with did it with a lot of enthusiasm.
+      </p>
+
+      <h3>What were the 1st changes you noticed before being diagnosed?</h3>
+      <p>
+        Well first I started to lose vision on my left eye, then sensitivity in my right arm and finally the motor control in my left leg. 
+        I noticed the loss of sensitivity when I had to apply cold or heat therapy to my patient. I noticed the burn on my skin, but I hadn't had any pain.
+      </p>
+
+      <h3>And nowadays what are your symptoms?</h3> 
+      <p>The vision in my left eye declined, I have now motor problem in the whole right side and lost a lot of muscle strength (only 40% left according to the neurologist).</p>
+      <p>
+        My whole left side lack of sensitivity especially at night, when I'm sleeping, I don't feel any pressure in my left arm. Also, I have recurrent paraesthesia and paralysis in the lower limb in that side. 
+        I also have difficult crises when I must go to the toilet, it can take some time and efforts during those moments.
+      </p>
+      <p>
+        Also, it the main symptoms occurs at night and after physical activities like playing playing football. However, I've been able to prepare and marathon to prove that it was possible despite the disease.
+      </p>
+      <h3>Did the multiple sclerosis affect your family?</h3> 
+      <p>Yes, sometimes I feel like it affects more my wife than it does for me. For example, I don’t want her to come with me at my medical appointments, it's hard for her to take. I rather go alone.</p>
+
+      <h3>Do you have any help from the government?</h3>
+      <p>I could if I wanted to. I could stop my job, access to parking places, get subventions... but as long as I don't need them, I won't take them. If I start identifying as only a multiple sclerosis patient it can dangerously lead to depression.</p>
+
+      <h3>Do you have any treatments? Physical or cognitive?</h3>
+      <p>Not especially I do my own physical rehabilitation, but I've started seeing a psychologist to help me control my relapses and help with mental health.</p>
+
+      <h3>In which aspect does the psychologist help you manage the MS?</h3>
+      <p>
+        He told me to take notes of everything I did before the crisis. I then started writing down what I ate prior to the relapse, which activity I did, my feelings at that time...And I noticed that my relapses were linked to a common factor every time. A strong negative emotion eventually leads to a crisis because I had troubles controlling it.  
+        I recommend everyone with MS to apply this technique.
+      </p>
+
+      <h3>Anything you need to be careful of?</h3>
+      <p>Yes, I need to be pay attention to 2 very important things. My diet first, the hospital gave me a very strict list of aliments I cannot eat. Secondly, I should not expose myself to certain pathogens as my immunity system is compromised.</p>
+      <p>I also need to be careful of any possible fever or symptoms and rush to the hospital in case of any of this. And of course, I must follow my medication intake daily and be careful about the strict diet. I have been able to keep a very healthy lifestyle all my life, that helps too.</p>
+      <h3>Thank you very much for your time, Julio, your testimony will hopefully be helpful to others.</h3>
+      <p>Thanks to you!</p>
     </article>
   </main>
+
+  <footer class="[ flow2 ]">
+    <h2 class="fs1">#heretohelp</h2>
+    <div class="flow1/3">
+      <p><strong>National Multiple Sclerosis Society (USA)</strong></p>
+      <p>+1-800-344-4867</p>
+    </div>
+    <div class="flow1/3">
+      <p><strong>App</strong></p>
+      <p>CLEO</p>
+    </div>
+    <p class="fs-1"><em>Made by Alex, Frederik, Pierre, and Servane</em></p>
+  </footer>
 </div>
 
 <script>
   // Tabs
   'use strict';
+  document.getElementById('0').style.display = "block"
   const tabButtons = document.querySelectorAll('.tab-btn');
   tabButtons.forEach(btn => btn.addEventListener('click', e => {
     const activeTab = document.getElementById(e.target.name);
