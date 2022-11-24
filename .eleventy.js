@@ -7,6 +7,7 @@ const passthroughFiles = ['src/robots.txt',
                           'src/assets/img',
                           'src/assets/odp',
                           'src/assets/pdf',
+                          'src/assets/special',
                           'src/assets/styles.css',
                           'src/assets/styles.css.map',
                          ];

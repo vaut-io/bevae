@@ -10,12 +10,14 @@ description: Multiple Sclerosis CAE
   main {
     background-color: hsl(210, 100%, 90%);
     color: hsl(210, 75%, 20%);
-    padding: var(--space4) 0;
+    padding-top: var(--space4);
   }
 
   footer {
-    border-top: var(--border-1) solid hsl(210, 75%, 20%);
-    padding-top: var(--space2);
+    width: 100vw;
+    background: hsl(210, 75%, 20%);
+    color: hsl(210, 100%, 90%);
+    padding: var(--space4) var(--space3);
   }
 
   h3 {
@@ -24,8 +26,9 @@ description: Multiple Sclerosis CAE
     font-weight: var(--weight400);
   }
 
-  ul > * + * { margin-block-start: .5em }
-  li { list-style: outside disc; }
+  ul > * + * { margin-block-start: 1em; }
+  li { list-style: outside square; }
+  li > * + * { margin-block-start: .5em; }
 
   .tab {
     display: none;
@@ -40,13 +43,35 @@ description: Multiple Sclerosis CAE
     font-weight: var(--weight700);
   }
 
-  .tab-btn:hover {
+  .tab-btn:hover,
+  .tab-btn.active {
     background: hsl(210, 50%, 33%);
   }
 
-  .tab-btn.active {
-    background: hsl(210, 75%, 33%);
+  .img {
+    border: var(--border0) double hsl(210, 50%, 33%);
   }
+
+  .cleo {
+    border: none;
+    filter: brightness(75%);
+    transition: filter .1s;
+  }
+
+  .cleo:hover {
+    filter: brightness(100%);
+  }
+
+  .references {
+    font-size: var(--step-2);
+    list-style: unset;
+  }
+
+  .references li {
+    list-style: none;
+  }
+
+
 </style>
 {% endblock %}
 
@@ -56,7 +81,7 @@ description: Multiple Sclerosis CAE
   <header class="squeeze12 stack g0 itemscenter textcenter">
     <div>
       <h1>MULTIPLE SCLEROSIS</h1>
-      <p class="fs2">Cognitive Decline</p>
+      <p class="fs2">A Focus on Cognition</p>
     </div>
     <nav class="[ tab-nav ] [ cluster gy-2 jfycenter ]">
       <button name="1" class="tab-btn">Background</button>
@@ -68,57 +93,54 @@ description: Multiple Sclerosis CAE
   </header>
 
   <main class="squeeze10">
-    <div id="0" class="[ tab ] [ flow3/2 ]">
-      <p class="textcenter"><strong>Click on any of the tabs above to get started!</strong></p>
+    <div id="0" class="[ tab ] [ flow2 ]">
+      <p class="textcenter fs1"><strong>Press on any of the above tabs!</strong></p>
     </div>
-    <article id="1" class="[ tab ] [ flow3/2 ]">
+    <article id="1" class="[ tab ] [ flow2 ]">
       <h2>Background</h2>
-      <p>Multiple sclerosis is mediated by overreactive lymphocytes that cross the blood-brain barrier (BBB) and enter the CNS. They cause local inflammatory lesions that result in neuronal demyelination, axonal damage and subsequent neurological dysfunctions following the formation of plaques in the grey and white matter of the brain and spinal cord.</p>
+      <p>Multiple sclerosis (MS) is mediated by overreactive lymphocytes that cross the blood-brain barrier and enter the central nervous system. They cause local inflammatory lesions that result in neuronal demyelination, axonal damage and subsequent neurological dysfunctions following the formation of plaques in the grey and white matter of the brain and spinal cord.</p>
       <p>A popular theory looks at commonly known slow-acting viruses (one that could remain dormant for many years), such as measles, herpes, human T-cell lymphoma, and Epstein-Barr. After being exposed to one of these viruses, some researchers theorize that MS may develop in genetically susceptible people.</p>
       <p>Some scientists are looking for a connection between MS and nutritional factors, including fat intake, as well as deficiencies in omega-3 fatty acids and vitamin D. The idea that a diet rich in saturated fat may increase one’s risk of getting MS, as well as worsen his or her disease course, has been a popular theory for several decades.</p>
       <p>In addition to food and supplements, vitamin D is also derived from sunlight, for which the lack of vitamin D may involve in the development of MS. Populations living closer to the equator experience a lower incidence of MS. Those living closer to the equator are exposed to more sunlight and therefore may be less likely to experience a vitamin D deficiency.</p>
       <p>Research has found that parasites can modulate the immune system and dampen its responses. People who have parasites are less likely to be diagnosed with MS, and as conditions in different countries become cleaner, the number of individuals being diagnosed is increasing in these parts of the world.</p>
       <p>Another factor linked to MS is cigarette smoking. Women who smoke are 1.6 times more likely to develop MS than women who are non-smokers. Individuals with MS who smoke also appear to be at a much greater risk of experiencing a more rapid progression of their disease.</p>
     </article>
-    <article id="2" class="[ tab ] [ flow3/2 ]">
+    <article id="2" class="[ tab ] [ flow2 ]">
       <h2>Symptoms</h2>
-      <p><strong>MS leads to symptoms such as:</strong></p>
+      <p><strong>The most common symptoms of MS are:</strong></p>
       <ul>
         <li>Dysesthesia: One of the first symptom of multiple sclerosis or a relapse, a multiple sclerosis hug is a squeezing sensation around the chest.</li>
         <li>Fatigue: (80% of people) It affects the person function at home and work and may be the most important symptom in a person with minimal activity limitation.</li>
-        <li>Walking difficulties: Related to several factors such as weaker motor control, spasticity, loss of balance, sensory deficit and fatigue, and can be helped by physical therapy, assistive therapy and medications.</li>
+        <li>
+          <p>Walking difficulties: Related to several factors such as weaker motor control, spasticity, loss of balance, sensory deficit and fatigue, and can be helped by physical therapy, assistive therapy and medications.</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/walking.jpg" alt=""></div>
+        </li>
         <li>Numbness or tingling: Numbness of different part of the face, body or limbs. It is generally the first symptom experienced by those eventually diagnosed with multiple sclerosis.</li>
         <li>Spasticity: feelings of stiffness and a wide range of spasms. The most common ones occur in the legs.</li>
         <li>Weakness: results from lack of muscles activity or nervous damage. It can be managed with rehabilitation strategies and the use of mobility aids.</li>
-        <li>Visions problems: it is the first symptom of multiple sclerosis for many people. Optic neuritis, neuromyelitis optica, blurred vision, poor contrast or colour vision, and pain on eye movement.</li>
+        <li>
+          <p>Vision problems: it is the first symptom of multiple sclerosis for many people. Optic neuritis, neuromyelitis optica, blurred vision, poor contrast or colour vision, and pain on eye movement.</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/vision.jpg" alt=""></div>
+        </li>
         <li>Vertigo and dizziness: With multiple sclerosis the feeling of off balance, lightheaded or vertigo is common</li>
         <li>Bladder problems: Bladder dysfunction, (80% of people touched by multiple sclerosis). It can be treated with medications, fluid management, and intermittent self-catheterization.</li>
         <li>Sexual problems: Very common in the general population including people with MS. Sexual drive can be affected by a disease in the central nervous system, fatigue and spasticity. Psychological factors also affect it.</li>
         <li>Bowel problems: Constipation is frequent among people with multiple sclerosis, as is loss of control of the bowels. Diet, adequate fluid intake, physical activity and medication help treated this symptom</li>
+        <li>
+          <p>Emotional changes: Anxiety, mood swings, irritability, and episodes of uncontrollable laughing and crying are common. These symptoms can become a real challenge for the person and the family.</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/emotions.jpg" alt=""></div>
+        </li>
         <li>Pain and Itching: Pain syndromes are common. 55% of people with multiple sclerosis had "clinically significant pain" at some time according to studies, half of them had chronic pain.</li>
         <li>Cognitive changes: In 50% of the cases, memory, focus, problem solving, calculus, space-time localisation, organization and other high-level brain functions are affected</li>
-        <li>Emotional changes: Anxiety, mood swings, irritability, and episodes of uncontrollable laughing and crying are common. These symptoms can become a real challenge for the person and the family.</li>
-        <li>Depression: Depression is a recurrent pathology linked to multiple sclerosis. Tests and screenings are designed to identify the symptoms.</li>
+        <li>
+          <p>Depression: Depression is a recurrent pathology linked to multiple sclerosis. Tests and screenings are designed to identify the symptoms.</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/depression.jpg" alt=""></div>
+        </li>
       </ul>
-      <p><strong>Less common symptoms include:</strong></p>
-      <ul>
-        <li>Speech problems: 25-40% of people with multiple sclerosis can have speech problems, (dysarthria, dysphonia). It appears in the later stages of multiple sclerosis and in case of extreme fatigue.</li>
-        <li>Loss of taste: 1/4 of the people with multiple sclerosis experience it.</li>
-        <li>Swallowing problems: Related to a nerves damage. They inhibit the small muscle of the mouth and throat to function normally.</li>
-        <li>Tremor (uncontrollable shaking): Because of damaged complex nerve pathways some parts of the body shake uncontrollably.</li>
-        <li>Seizures: Seizures occurs in 2-5% of people with multiple sclerosis.</li>
-        <li>Breathing problems: Happens in people with weakened respiratory muscles.</li>
-        <li>Hearing Loss: Occurs in about 6% among people with multiple sclerosis. In few cases it occurred as the first symptom.</li>
-      </ul>  
-      <p><strong>We also should be aware of various complications which can arise:</strong></p>
-      <ul>
-        <li>Bladder dysfunction can cause repeated urinary tract infections.</li>
-        <li>Physical inactivity leads to a loss of muscle tone, weakness, poor posture, decreased bone density (augment risk of fracture) and shallow, inefficient breathing.</li>
-        <li>Immobility produces ulcers on certain cases</li>
-        <li>The impact of MS impact your life on various aspects. It can leads to additional social, vocational and psychological complications. Isolation, loss of a job or dependency are some examples.</li>
-      </ul>
+      <p><strong>Less common symptoms of MS include speech problems, loss of taste, swallowing and breathing problems, tremors and seizures, hearing loss, and immune deficiency.</strong></p>
+      <p><strong>UTIs, physical deconditioning, ulcers, and social and psychological problems are all complications which may arise.</strong></p>
     </article>
-    <article id="3" class="[ tab ] [ flow3/2 ]">
+    <article id="3" class="[ tab ] [ flow2 ]">
       <h2>Assessment</h2>
       <p>As part of a physical examination, a physiotherapist (or health care provider) may perform some basic tests that can reveal how the brain and nervous system are working. These tests can help to detect signs of cognitive impairment into multiple sclerosis disease.</p>
       <p>Testing can take several hours, but this careful evaluation is needed to determine the specific cognitive functions that are affected and to filter other possible causes of cognitive problems, such as medications, fatigue or changes in mood, including depression, anxiety or stress.</p>
@@ -138,7 +160,7 @@ description: Multiple Sclerosis CAE
         <li>Difficulty with school performance, including falling grades and social challenges</li>
       </ul>
     </article>
-    <article id="4" class="[ tab ] [ flow3/2 ]">
+    <article id="4" class="[ tab ] [ flow2 ]">
       <h2>Management</h2>
       <p><strong>The appropriate management of cognitive dysfunction in MS includes:</strong></p>
       <ul>
@@ -165,11 +187,17 @@ description: Multiple Sclerosis CAE
       <p><strong>Compensatory activities that help make up for functions that are no longer working well may include:</strong></p>
       <ul>
         <li>Consolidate and centralize—designate one place in your home as the “Grand Central” information centre. Include your master calendar, mail, bills, phone messages, to-do lists, keys, wallet, shopping lists and more.</li>
-        <li>Plan—post a calendar large enough to display everyone’s appointments, activities and social engagements, and reminders! Keep pens or markers hanging right beside it. Or use a computer program set up with reminders for routine tasks (synchronize it with your mobile devices so you have your appointments with you while on the go).</li>
+        <li>
+          <p>Plan—post a calendar large enough to display everyone’s appointments, activities and social engagements, and reminders! Keep pens or markers hanging right beside it. Or use a computer program set up with reminders for routine tasks (synchronize it with your mobile devices so you have your appointments with you while on the go).</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/plan.jpg" alt=""></div>
+        </li>
         <li>Record—dictate your to-do list, notes or other things to remember on a digital voice recorder (available on many phones).</li>
         <li>Remind—use checklists, the alarm on your watch or phone, your kitchen timer, and more.</li>
         <li>Eliminate or remove yourself from distractions—turn off the TV, music and whatever else is “on” when speaking with someone in person or on the phone. Background visual and noise distractions can make learning or remembering more difficult. If you can’t eliminate the distraction (for example, people talking at a party) then ask, “Can we talk in a quieter place?”</li>
-        <li>Take a break—if you are having difficulty concentrating, take a breath and refresh.</li>
+        <li>
+          <p>Take a break—if you are having difficulty concentrating, take a breath and refresh.</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/break.jpg" alt=""></div>
+        </li>
         <li>Do one thing at a time—avoid switching back and forth from one topic or task to another. Finish or find an appropriate stopping place in what you’re working on before you switch to something else.</li>
       </ul>
 
@@ -179,13 +207,17 @@ description: Multiple Sclerosis CAE
       <ul>
         <li>Sudokus (For calculus, memory, attention and ability to solve complex problems): https://sudoku.com/</li>
         <li>Crosswords (For language, memory, attention): https://www.boatloadpuzzles.com/playcrossword</li>
-        <li>Chess (For abstract reasoning, ability to solve complex problems and attention: https://www.chess.com/</li>
+        <li>
+          <p>Chess (For abstract reasoning, ability to solve complex problems and attention: https://www.chess.com/</p>
+          <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/chess.jpg" alt=""></div>
+        </li>
         <li>Other selection of brain games: https://www.sheppardsoftware.com/braingames/braingames.htm</li>
       </ul>
 
       Taking care of the cognitive abilities with physical exercise
       <p>Aerobic exercises are a very useful tool in maintaining the brain in shape.. It can take the form of exercise such as cycling, running a low intensity, hiking.</p>  
-      <p>Mild or moderate multiple sclerosis should engage in at least 30 min of moderate-intensity aerobic activity two times per week and strength training for major muscle groups (quadriceps, trunk...) twice per week.:</p> 
+      <p>Mild or moderate multiple sclerosis should engage in at least 30 min of moderate-intensity aerobic activity two times per week and strength training for major muscle groups (quadriceps, trunk...) twice per week.:</p>
+      <div class="[ img ] [ frame16:9 ]"><img src="/assets/special/ms/exercise.jpg" alt=""></div>
       <figure class="flow1/2">
         <blockquote>
           <p><strong>"Exercise of moderate-intensity guidelines for MS consistently recommended 2–3 days/week of aerobic training (10– 30 min at moderate intensity per session) and 2–3 days/week of resistance training (1–3 sets between 8–15 repetitions maximum per session)"</strong></p>
@@ -197,7 +229,7 @@ description: Multiple Sclerosis CAE
 
 
     </article>
-    <article id="5" class="[ tab ] [ flow3/2 ]">
+    <article id="5" class="[ tab ] [ flow2 ]">
       <h2>Patient story</h2>
       <p>
         We have been lucky to be able to interview Julio, a 45-year-old male who has been diagnosed with multiple sclerosis (relapsing remitting). He agreed to answer our questions with did it with a lot of enthusiasm.
@@ -241,17 +273,49 @@ description: Multiple Sclerosis CAE
     </article>
   </main>
 
-  <footer class="[ flow2 ]">
-    <h2 class="fs1">#heretohelp</h2>
-    <div class="flow1/3">
-      <p><strong>National Multiple Sclerosis Society (USA)</strong></p>
-      <p>+1-800-344-4867</p>
+  <footer>
+    <div class="[ squeeze12 centerx cluster g4 jfybetween ]">
+      <div class="flow2">
+        <h2 class="fs1">#heretohelp</h2>
+        <div class="flow1/3">
+          <p><strong>National Multiple Sclerosis Society (USA)</strong></p>
+          <p>+1-800-344-4867</p>
+        </div>
+        <div class="flow1/3">
+          <p><strong>CLEO</strong></p>
+          <p>A free app for anyone living with MS</p>
+          <div class="frame3:2 squeeze4"><a class="cleo" href="https://www.cleo-app.com"><img src="/assets/special/ms/cleo.png" alt=""></a></div>
+        </div>
+        <p class="fs-1"><em>Made by Alex, Frederik, Pierre, and Servane at University San Pablo, CEU</em></p>
+      </div>
+      
+      <div class="flow1">
+        <h2 class="fs1">References</h2>
+        <ul class="[ references ] [ flow1 ]">
+          <li>Amato MP, Langdon D, Montalban X, et al. Treatment of cognitive impairment in multiple sclerosis: position paper. J Neurol. 2013;260(6):1452-1468. doi:10.1007/s00415-012-6678-0</li>
+          <li>Christodoulou C, MacAllister WS, McLinskey NA, Krupp LB. Treatment of cognitive impairment in multiple sclerosis: is the use of acetylcholinesterase inhibitors a viable option?. CNS Drugs. 2008;22(2):87-97. doi:10.2165/00023210-200822020-00001</li>
+          <li>Cognitive Health. National Multiple Sclerosis Society Website. https://www.nationalmssociety.org/Living-Well-With-MS/Cognitive-Health. Accessed October 26, 2022.</li>
+          <li>Doshi A, Chataway J. Multiple sclerosis, a treatable disease. Clin Med (Lond). 2016;16(Suppl 6):s53-s59. doi:10.7861/clinmedicine.16-6-s53</li>
+          <li>Ebers, G.C. Disease evolution in multiple sclerosis. J Neurol. 2006;253 (Suppl 6), vi3–vi8. doi: 10.1007/s00415-006-6002-y</li>
+          <li>Fragoso Marta Dr. Cognitive impairment in multiple sclerosis: a reality to treat as early as possible. Neuraxpharm blog. 2022</li>
+          <li>Grzegorski T, Losy J. Cognitive impairment in multiple sclerosis - a review of current knowledge and recent research. Rev Neurosci. 2017;28(8):845-860. doi:10.1515/revneuro-2017-0011</li>
+          <li>Huang WJ, Chen WW, Zhang X. Multiple sclerosis: Pathology, diagnosis and treatments. Exp Ther Med. 2017;13(6):3163-3166. doi:10.3892/etm.2017.4410</li>
+          <li>Jongen PJ, Ter Horst AT, Brands AM. Cognitive impairment in multiple sclerosis. Minerva Med. 2012;103(2):73-96. doi:unavailable</li>
+          <li>Kalb R, Beier M, Benedict RH, et al. Recommendations for cognitive screening and management in multiple sclerosis care. Mult Scler. 2018;24(13):1665-1680. doi:10.1177/1352458518803785</li>
+          <li>Koutsouraki E, Kalatha T, Grosi E, Koukoulidis T, Michmizos D. Cognitive decline in Multiple Sclerosis patients. Hell J Nucl Med. 2019;22 Suppl:75-81. doi:unavailable</li>
+          <li>McMaster University. Computer brain games for treating cognitive impairment. McMaster Optimal Aging Portal. Jul 24, 2017. </li>
+          <li>Meca-Lallana V, Gascón-Giménez F, Ginestal-López RC, et al. Cognitive impairment in multiple sclerosis: diagnosis and monitoring. Neurol Sci. 2021;42(12):5183-5193. doi:10.1007/s10072-021-05165-7</li>
+          <li>Motl RW, Sandroff BM, DeLuca J. Exercise Training and Cognitive Rehabilitation: A Symbiotic Approach for Rehabilitating Walking and Cognitive Functions in Multiple Sclerosis? Neurorehabil Neural Repair. 2016;30(6):499-511. doi:10.1177/1545968315606993</li>
+          <li>Motl RW. Exercise and Multiple Sclerosis. Adv Exp Med Biol. 2020;1228:333-343. doi:10.1007/978-981-15-1792-1_22</li>
+          <li>Multiple Sclerosis Association of America Website. https://mymsaa.org/ms-information/overview/possible-causes/ Accessed November 18, 2022 </li>
+          <li>NIH National Institute on Aging (NIA). What Is Mild Cognitive Impairment?. nia.nih.gov April 12, 2021</li>
+          <li>Oh J, Vidal-Jordana A, Montalban X. Multiple sclerosis: clinical aspects. Curr Opin Neurol. 2018;31(6):752-759. doi:10.1097/WCO.0000000000000622</li>
+          <li>Oudejans E, Luchicchi A, Strijbis EMM, et al. Neurol Neuroimmunol Neuroinflamm. 2021;8(1) e914; doi:10.1212/NXI.0000000000000914</li>
+        </ul>
+      </div>
     </div>
-    <div class="flow1/3">
-      <p><strong>App</strong></p>
-      <p>CLEO</p>
-    </div>
-    <p class="fs-1"><em>Made by Alex, Frederik, Pierre, and Servane at University San Pablo, CEU</em></p>
+
+
   </footer>
 </div>
 
