@@ -1,0 +1,57 @@
+---
+translationKey: club
+title: Journal Club
+permalink: /en/club/
+description:
+---
+{% extends 'base.html' %}
+{% block body %}
+{% include 'partials/header.html' %}
+<main>
+  <div class="[ squeeze12 stack ] [ g3 centerx ]">
+    <h1>Journal Club</h1>
+    <section class="[ flow2 ]">
+      <h2 class="[ h-fancy ]">Schedule</h2>
+      <ul class="[ flow2 ]">
+        {% for event in club_schedule %}
+        {% if not event.archived %}
+        <li class="[ flow1 ]">
+          <h3>{{ event.date }}</h3>
+          <p>{{ event.topic_en }}</p>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </section>
+    <section class="[ flow2 ]">
+      <h2 class="[ h-fancy ]">Questions</h2>
+      <ul class="[ flow2 ]">
+        <li class="[ flow1 ]">
+          <h3>What is the purpose of the club?</h3>
+          <p>The idea of the journal club is to discuss interesting research and developments in medicine. Let's get together to celebrate the scientific process, share perspectives, learn a lot, and most importantly enjoy every moment along the way!</p>
+        </li>
+        <li class="[ flow1 ]">
+          <h3>Can I come?</h3>
+          <p>Sure! Whether you're studying physiotherapy, medicine, psychology, or something totally unrelated, everyone is welcome!</p>
+        </li>
+        <li class="[ flow1 ]">
+          <h3>What kinds of articles can I bring?</h3>
+          <p>You can bring any peer-reviewed published paper related to the topic of the meeting. This includes clinical trials, narrative reviews, case studies, basic science, and everything in between!</p>
+          <p>Find an aspect of the paper which piques your interest. This could be anything, good or bad!</p>
+        </li>
+        <li class="[ flow1 ]">
+        <h3>Do I have to bring anything?</h3>
+        <p>While you aren't required to bring anything, we highly encourage that you do!</p>
+      </li>
+        <li class="[ flow1 ]">
+          <h3></h3>
+          <p></p>
+        </li>
+      </ul>
+      <p>Have any further questions, or not sure how to get access to the science? Email me at <a href="mailto:frederik.kehlet@usp.ceu.es">frederik.kehlet@usp.ceu.es</a></p>
+      <p>Thanks to Zeph Scamps and Pierre Serrot for being co-organizers!</p>
+    </section>
+  </div>
+</main>
+{% include 'partials/footer.html' %}
+{% endblock %}
