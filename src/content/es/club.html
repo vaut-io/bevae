@@ -1,0 +1,58 @@
+---
+title: Club de Investigación
+translationKey: club
+permalink: /es/club/
+description:
+---
+{% extends 'base.html' %}
+
+{% block body %}
+{% include 'partials/header.html' %}
+<main>
+  <div class="[ squeeze12 stack ] [ g3 centerx ]">
+    <div class="[ flow1/2 ]">
+      <h1>Club de investigación</h1>
+      <p class="[ fs2 ]"><em>USP CEU Facultad de Medicina</em></p>
+    </div>
+    <section class="[ flow2 ]">
+      <h2 class="[ h-fancy ]">Horario</h2>
+      <ul class="[ flow3/2 ]">
+        {% for event in club_schedule %}
+        {% if event.lang == 'es' and not event.archived %}
+        <li class="[ flow1/2 ]">
+          <h3>{{ event.date }}</h3>
+          <p>{{ event.topic }}</p>
+        </li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+      <p>Para ver el horario inglés, <a href="/en/club/">visita la página inglesa</a></p>
+    </section>
+    <section class="[ flow2 ]">
+      <h2 class="[ h-fancy ]">Info</h2>
+      <ul class="[ flow2 ]">
+        <li class="[ flow1 ]">
+          <h3>¿Cuál es el objetivo del club?</h3>
+          <p>La idea del club de revistas es debatir investigaciones y avances interesantes en medicina. Juntémonos para celebrar el proceso científico, compartir perspectivas, aprender mucho y, lo más importante, ¡disfrutar de cada momento del camino!</p>
+        </li>
+        <li class="[ flow1 ]">
+          <h3>¿Puedo ir yo?</h3>
+          <p>Por supuesto. Tanto si estudias fisioterapia, medicina, psicología o algo que no tiene nada que ver - ¡todo el mundo es bienvenido!</p>
+        </li>
+        <li class="[ flow1 ]">
+          <h3>¿Qué tipo de artículos puedo traer?</h3>
+          <p>Puedes traer cualquier artículo publicado y revisado por pares relacionado con el tema de la reunión. Esto incluye ensayos clínicos, revisiones narrativas, estudios de casos, ciencia básica y todo lo demás.</p>
+          <p>Busca un aspecto del artículo que despierte tu interés. Puede ser cualquier cosa, buena o mala.</p>
+        </li>
+        <li class="[ flow1 ]">
+          <h3>¿Tengo que traer algo?</h3>
+          <p>Aunque no es obligatorio que traigas nada, te animamos a que lo hagas.</p>
+        </li>
+      </ul>
+      <p>¿Tienes más preguntas o no sabes cómo acceder a la ciencia? Escríbeme a <a href="mailto:frederik.kehlet@usp.ceu.es">frederik.kehlet@usp.ceu.es</a></p>
+      <p>Gracias a Zeph Scamps y Pierre Serrot por ser los coorganizadores.</p>
+    </section>
+  </div>
+</main>
+{% include 'partials/footer.html' %}
+{% endblock %}
