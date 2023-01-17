@@ -11,34 +11,34 @@ description: The pain revolution is here. Whether you're a health professional, 
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
-  <div class="stack g4 centerx squeeze12">
-    <section class="stack g2 squeeze11">
+  <div class="[ stack ] g4 centerx squeeze12">
+    <section class="[ stack ] g2 squeeze11">
       <h1>Welcome!</h1>
-      <div class="sidebar g2 itemsstart">
+      <div class="[ sidebar ] g2 itemsstart">
         <div class="[ image ] [ frame1:1 squeeze6 side6 ]">
           <img src="/assets/img/profile_me-res.jpg" alt="Frederik smiling at the camera">
         </div>
-        <div class="main67% squeeze9 flow1">
+        <div class="[ flow1 main67% squeeze9 ]">
           <p>Hey there! I'm Frederik, a physiotherapy student at San Pablo University in Madrid, Spain. I love promoting health and helping people achieve their functional goals.</p>
           <p>For a large number of people in society, there's a very personal, often unpleasant sensation and emotion which intrudes on many aspects of their life: <strong>pain.</strong></p>
           <p>With a focus on pain as both a symptom and a condition in and of itself, my goal here is to develop a variety of free resources for clinicians, patients, and other curious people. I want to make it easy for everyone to make sense of this common yet misunderstood (and stigmatized) experience.</p>
         </div>
       </div>
     </section>
-    <div class="switcher12 g3">
-      <section class="squeeze9 flow2">
-        <h2 class="h-fancy">For Patients</h2>
-        <section class="flow1/3">
+    <div class="[ switcher12 ] [ g3 ]">
+      <section class="[ flow2 squeeze9 ]">
+        <h2 class="[ h-fancy ]">For Patients</h2>
+        <section class="[ flow1/3 ]">
           <h3>Pain 101</h3>
-          <p class="fs-1"><em>Have you ever wondered what pain is and how it works? In this 3-part series we'll introduce key concepts in pain science that you may find useful, no matter your situation.</em></p>
+          <p class="[ fs-1 ]"><em>Have you ever wondered what pain is and how it works? In this 3-part series we'll introduce key concepts in pain science that you may find useful, no matter your situation.</em></p>
           <p><strong><em>Stay tuned for the articles!</em></strong></p>
         </section>
       </section>
-      <section class="squeeze9 flow2">
-        <h2 class="h-fancy">For Providers</h2>
-        <section class="flow1/3">
+      <section class="[ flow2 squeeze9 ]">
+        <h2 class="[ h-fancy ]">For Providers</h2>
+        <section class="[ flow1/3 ]">
           <h3>Articles</h3>
-          <ul class="flow1/3">
+          <ul class="[ flow1/3 ]">
             {% set posts = collections[locale + '_articles'] %}
             {% for entry in posts %}
             {% if entry.data.audience == 'providers' %}
@@ -47,7 +47,7 @@ description: The pain revolution is here. Whether you're a health professional, 
             {% endfor %}
           </ul>
         </section>
-        <section class="flow1/3">
+        <section class="[ flow1/3 ]">
           <h3>Forms</h3>
           <ul>
             <li><a href="/en/forms/oemsq-12/">ÖMSQ-12</a> - A practical screening questionnaire for musculoskeletal complaints, adapted from <i>Gabel et al. 2013.</i></li>
