@@ -10,18 +10,38 @@ description:
 {% include 'partials/header.html' %}
 <main>
   <div class="[ squeeze12 stack ] [ g3 centerx ]">
-    <div class="[ flow1/2 ]">
+    <div class="[ flow1 ]">
       <h1>Journal Club</h1>
       <p class="[ fs2 ]"><em>USP CEU Faculty of Medicine</em></p>
+      <p>Sign up here: <a href="https://forms.office.com/e/w9e4uwSR02" target="_blank">https://forms.office.com/e/w9e4uwSR02</a></p>
     </div>
     <section class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Schedule</h2>
-      <ul class="[ flow3/2 ]">
+      <ul class="[ flow2 ]">
         {% for event in club_schedule %}
         {% if event.lang == 'en' and not event.archived %}
-        <li class="[ flow1/2 ]">
-          <h3>{{ event.date }}</h3>
-          <p>{{ event.topic }}</p>
+        <li class="[ flow1 ]">
+          <h3>{{ event.topic }}</h3>
+          <p>{{ event.date }}{% if event.room %} | {{ event.time }} | {{ event.room }}{% endif %}</p>
+          {% for paper in event.papers %}
+          <p></p>
+          {% endfor %}
+          {% if event.prompts %}
+          <h4>Prompts</h4>
+          <ul class="[ flow1/2 ]">
+          {% for prompt in event.prompts %}
+          <li class="[ fs-1 ]"><em>{{ prompt }}</em></li>
+          {% endfor %}
+          </ul>
+          {% endif %}
+          {% if event.papers %}
+          <h4>Papers</h4>
+          <ul class="[ flow1/2 ]">
+          {% for paper in event.papers %}
+          <li class="[ fs-1 ]"><a href="{{ paper.url }}" target="_blank">{{ paper.title }}</a></li>
+          {% endfor %}
+          </ul>
+          {% endif %}
         </li>
         {% endif %}
         {% endfor %}
@@ -49,7 +69,7 @@ description:
           <p>While you aren't required to bring anything, we highly encourage that you do!</p>
         </li>
       </ul>
-      <p>Have any further questions, or not sure how to get access to the science? Email me at <a href="mailto:frederik.kehlet@usp.ceu.es">frederik.kehlet@usp.ceu.es</a></p>
+      <p><strong>Have any further questions, or not sure how to get access to the science? Send me a message at <a href="mailto:frederik.kehlet@usp.ceu.es">frederik.kehlet@usp.ceu.es</a></strong></p>
       <p>Thanks to Zeph Scamps and Pierre Serrot for being co-organizers!</p>
     </section>
   </div>
