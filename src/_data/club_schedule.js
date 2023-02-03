@@ -6,7 +6,7 @@ module.exports = [
     time: '16:30–18:30',
     room: '1.5.10',
     prompts: [
-      'How can we effectively get patients ready for the procedure?',
+      'How can we effectively prepare patients for the procedure?',
     ],
     papers: [
       {
@@ -23,7 +23,7 @@ module.exports = [
     time: '16:30–18:30',
     room: '1.5.10',
     prompts: [
-      'Question 1?',
+      '¿Cómo podemos preparar a los pacientes para la operación de forma eficaz?',
     ],
     papers: [
       {
