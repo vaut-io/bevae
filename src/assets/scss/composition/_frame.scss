@@ -1,3 +1,5 @@
+// A container for images and other media
+
 .frame3\:1,
 .frame2\:1,
 .frame16\:9,
@@ -13,7 +15,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
+  // Make sure images fill the element space correctly
   img,
   video {
     inline-size: 100%;
@@ -21,7 +24,6 @@
     object-fit: cover;
   }
 }
-
 
 .frame3\:1  img, .frame3\:1  video { aspect-ratio:  3 /  1; }
 .frame2\:1  img, .frame2\:1  video { aspect-ratio:  2 /  1; }

@@ -1,20 +1,31 @@
+// Changes from horizontal to vertical at a threshold
+
+.switcher5,
+.switcher6,
 .switcher7,
 .switcher8,
 .switcher9,
 .switcher10,
 .switcher11,
-.switcher12 { display: flex; flex-wrap: wrap; }
+.switcher12,
+.switcher13,
+.switcherbody {
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.switcher5    > * { flex: 1 1 calc((var(--space5 )     - 100%) * 999); }
+.switcher6    > * { flex: 1 1 calc((var(--space6 )     - 100%) * 999); }
+.switcher7    > * { flex: 1 1 calc((var(--space7 )     - 100%) * 999); }
+.switcher8    > * { flex: 1 1 calc((var(--space8 )     - 100%) * 999); }
+.switcher9    > * { flex: 1 1 calc((var(--space9 )     - 100%) * 999); }
+.switcher10   > * { flex: 1 1 calc((var(--space10)     - 100%) * 999); }
+.switcher11   > * { flex: 1 1 calc((var(--space11)     - 100%) * 999); }
+.switcher12   > * { flex: 1 1 calc((var(--space12)     - 100%) * 999); }
+.switcher13   > * { flex: 1 1 calc((var(--space12)     - 100%) * 999); }
+.switcherbody > * { flex: 1 1 calc((var(--measurebody) - 100%) * 999); }
 
-.switcher7  > * { flex: 1 1 calc((var(--space7 ) - 100%) * 999); }
-.switcher8  > * { flex: 1 1 calc((var(--space8 ) - 100%) * 999); }
-.switcher9  > * { flex: 1 1 calc((var(--space9 ) - 100%) * 999); }
-.switcher10 > * { flex: 1 1 calc((var(--space10) - 100%) * 999); }
-.switcher11 > * { flex: 1 1 calc((var(--space11) - 100%) * 999); }
-.switcher12 > * { flex: 1 1 calc((var(--space12) - 100%) * 999); }
-
-
-/* On children */
+// Put on children to adjust relative widths
 .grow1\/4 { flex-grow:  .25; }
 .grow1\/3 { flex-grow: .333; }
 .grow1\/2 { flex-grow:   .5; }

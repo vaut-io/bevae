@@ -1,3 +1,6 @@
+// Spacing within elements
+
+// All around
 .p-3 { padding:         var(--space-3 ); }
 .p-2 { padding:         var(--space-2 ); }
 .p-1 { padding:         var(--space-1 ); }
@@ -14,7 +17,9 @@
 .p10 { padding:         var(--space10 ); }
 .p11 { padding:         var(--space11 ); }
 .p12 { padding:         var(--space12 ); }
+.p13 { padding:         var(--space13 ); }
 
+// Horizontal
 .px-3 { padding-inline: var(--space-3 ); }
 .px-2 { padding-inline: var(--space-2 ); }
 .px-1 { padding-inline: var(--space-1 ); }
@@ -31,7 +36,9 @@
 .px10 { padding-inline: var(--space10 ); }
 .px11 { padding-inline: var(--space11 ); }
 .px12 { padding-inline: var(--space12 ); }
+.px13 { padding-inline: var(--space13 ); }
 
+// Vertical
 .py-3 { padding-block:  var(--space-3 ); }
 .py-2 { padding-block:  var(--space-2 ); }
 .py-1 { padding-block:  var(--space-1 ); }
@@ -48,7 +55,9 @@
 .py10 { padding-block:  var(--space10 ); }
 .py11 { padding-block:  var(--space11 ); }
 .py12 { padding-block:  var(--space12 ); }
+.py13 { padding-block:  var(--space13 ); }
 
+// Top
 .pt-3 { padding-block-start:  var(--space-3 ); }
 .pt-2 { padding-block-start:  var(--space-2 ); }
 .pt-1 { padding-block-start:  var(--space-1 ); }
@@ -65,7 +74,9 @@
 .pt10 { padding-block-start:  var(--space10 ); }
 .pt11 { padding-block-start:  var(--space11 ); }
 .pt12 { padding-block-start:  var(--space12 ); }
+.pt13 { padding-block-start:  var(--space13 ); }
 
+// Right
 .pr-3 { padding-inline-end:  var(--space-3 ); }
 .pr-2 { padding-inline-end:  var(--space-2 ); }
 .pr-1 { padding-inline-end:  var(--space-1 ); }
@@ -82,7 +93,9 @@
 .pr10 { padding-inline-end:  var(--space10 ); }
 .pr11 { padding-inline-end:  var(--space11 ); }
 .pr12 { padding-inline-end:  var(--space12 ); }
+.pr13 { padding-inline-end:  var(--space13 ); }
 
+// Bottom
 .pb-3 { padding-block-end:  var(--space-3 ); }
 .pb-2 { padding-block-end:  var(--space-2 ); }
 .pb-1 { padding-block-end:  var(--space-1 ); }
@@ -99,7 +112,9 @@
 .pb10 { padding-block-end:  var(--space10 ); }
 .pb11 { padding-block-end:  var(--space11 ); }
 .pb12 { padding-block-end:  var(--space12 ); }
+.pb13 { padding-block-end:  var(--space13 ); }
 
+// Left
 .pl-3 { padding-inline-start:  var(--space-3 ); }
 .pl-2 { padding-inline-start:  var(--space-2 ); }
 .pl-1 { padding-inline-start:  var(--space-1 ); }
@@ -116,3 +131,4 @@
 .pl10 { padding-inline-start:  var(--space10 ); }
 .pl11 { padding-inline-start:  var(--space11 ); }
 .pl12 { padding-inline-start:  var(--space12 ); }
+.pl13 { padding-inline-start:  var(--space13 ); }

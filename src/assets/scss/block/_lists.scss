@@ -1,0 +1,6 @@
+.list {
+  &-bullet {
+    list-style: outside square;
+    padding-left: var(--space0);
+  }
+}

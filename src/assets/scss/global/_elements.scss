@@ -27,7 +27,7 @@ p,
 li,
 blockquote:not([class]),
 figcaption {
-  max-inline-size: 50ch;
+  max-inline-size: var(--measurebody);
 }
 
 
@@ -43,7 +43,7 @@ h4 {
 
 h1,
 h2 {
-  max-inline-size: 20ch;
+  max-inline-size: var(--measurehead);
 }
 
 h1 {

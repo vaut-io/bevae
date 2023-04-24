@@ -1,11 +1,16 @@
-/**
- * All of this should be grouped with the composition blocks
- */
+// Display elements differently or hide them from view
 
+.d-n { display: none; }
+.d-b { display: block; }
+.d-ib { display: inline-block; }
+.d-if { display: inline-flex; }
 
-.ib { display: inline-block; }
+.vc { visibility: collapse; }
+.vh { visibility: hidden; }
+.vv { visibility: visible; }
 
-/* Hide */
+// Hide
+.h,
 [data-hidden="true"] {
   position: absolute;
   top:  -9999px;

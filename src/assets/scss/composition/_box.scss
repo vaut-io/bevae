@@ -1,19 +1,21 @@
+// Fundamental units of web design, good for scaffolding
+
 .box {
-  /* Accessibility outline for high-contrast mode */
-  outline: .25rem solid transparent; 
+  padding: var(--space-2);
+  border: var(--border-2) dashed hsl(var(--neutral400));
+  color: hsl(var(--neutral700));
+  background: hsl(var(--neutral200));
+
+  & > * { color: inherit; }
+
+  &[data-box="invert"] {
+    border: var(--border-2) dashed hsl(var(--neutral400));
+    color: hsl(var(--neutral200));
+    background: hsl(var(--neutral700));
+  }
+
+  // Accessibility outline for high-contrast mode
+  outline: .25rem solid transparent;
   outline-offset: -.25rem;
 
-  border: var(--border-1) dashed #888;
-  color: #222;
-  background: #eee;
-
-  * {
-    color: inherit;
-  }
-
-  &.invert {
-    border: var(--border-1) dashed #ccc;
-    color: #eee;
-    background: #222;    
-  }
 }

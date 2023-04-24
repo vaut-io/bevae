@@ -1,7 +1,10 @@
+// Stack elements vertically
+
 .stack {
   display: flex;
   flex-direction: column;
-  
+
+  // Fills the entire parent if there is only one child
   &:only-child {
     block-size: 100%;
   }

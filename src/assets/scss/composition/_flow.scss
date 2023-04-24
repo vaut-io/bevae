@@ -1,3 +1,5 @@
+// Defines the vertical flow of text
+
 .flow1\/3 > * + * { margin-block-start: .33em; }
 .flow1\/2 > * + * { margin-block-start:  .5em; }
 .flow2\/3 > * + * { margin-block-start: .67em; }

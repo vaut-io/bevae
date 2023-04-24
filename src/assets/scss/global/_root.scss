@@ -2,29 +2,27 @@
 
   /* Color palette */
   --primary050: 12, 100%, 96%;
-  --primary100: ;
+  --primary100: 12, 100%, 96%;
   --primary200: ;
   --primary300: 12, 100%, 67%;
   --primary400: ;
   --primary500: 12, 100%, 50%;
   --primary600: ;
-  --primary700: ;
+  --primary700: 12, 100%, 30%;
   --primary800: ;
-  --primary900: ;
+  --primary900: 12, 100%, 10%;
 
-  --neutral050: ;
   --neutral100: ;
   --neutral100: ;
-  --neutral200: ;
-  --neutral300: ;
+  --neutral200: 12, 10%, 80%;
+  --neutral300: 12, 10%, 70%;
   --neutral400: ;
-  --neutral500: ;
-  --neutral600: ;
-  --neutral700: ;
+  --neutral500: 12, 10%, 50%;
+  --neutral600: 12, 10%, 38%;
+  --neutral700: 12, 10%, 32%;
   --neutral800: ;
   --neutral900: 12, 10%, 18%;
 
-  --accent050: ;
   --accent100: ;
   --accent200: ;
   --accent300: ;
@@ -36,6 +34,8 @@
   --accent900: ;
 
 
+  --measurebody: 50ch;
+  --measurehead: 20ch;
 
   /* Font families */
   --sans: 'opensans', sans-serif;

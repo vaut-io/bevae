@@ -1,97 +1,110 @@
-/* for more ideas see: http://1mb.club/blog/hamburger-menu-alternative/
-   and https://lea.verou.me/2012/04/background-attachment-local/ */
-.reelauto,
+// Horizontally scrollable collection of slides
+
+// For more ideas see http://1mb.club/blog/hamburger-menu-alternative/
+// and https://lea.verou.me/2012/04/background-attachment-local/
+
+.reel,
+.reel-3,
+.reel-2,
+.reel-1,
+.reel0,
+.reel1,
+.reel2,
 .reel3,
 .reel4,
 .reel5,
 .reel6,
-.reel7,
-.reel8,
-.reel9,
-.reel10,
-.reel11,
-.reel12 {
+.reel7 {
   display: flex;
   block-size: auto;
+  max-inline-size: 100vw;
   overflow-x: auto;
   overflow-y: hidden;
-  /* First value: thumb; second value: track */
-  /* scrollbar-color: var(--clr-primary) var(--bg-secondary); */
-  /* scrollbar-width: none; removes scroller on firefox */
+
+  & > img {
+    block-size: 100%;
+    flex-basis: auto;
+    width: auto;
+  }
+
+  // Ensure dynamic width children
+  & > * { flex: 0 0 auto; }
+
+  // Adds a shadow to the sides of the reel
+  &[data-reel="shadow"] {
+   box-shadow: inset 12px 0 16px -16px hsla(var(--neutral900), 0.5), inset -12px 0 16px -16px hsla(var(--neutral900), 0.5);
+  }
+
+  // // First value thumb, second value track
+  // scrollbar-color: var(--clr-primary) var(--bg-secondary);
+
+  // // Comment out to remove scrollbar on Firefox
+  // scrollbar-width: none;
+
+  // "Display: none" hides the scrollbar
+  &::-webkit-scrollbar { block-size: .5rem; }
+
+  &::-webkit-scrollbar-track {
+    background-color: hsl(var(--neutral100));
+    border: none;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--neutral300));
+    &:hover { background-color: hsl(var(--neutral400)); }
+
+    // // Insets the thumb (adds top/bottom margin)
+    // background-image: linear-gradient(var(--bg-secondary) 0,
+    //                                   var(--bg-secondary) 0.25rem,
+    //                                   var(--clr-primary) .25rem,
+    //                                   var(--clr-primary) .75rem,
+    //                                   var(--bg-secondary) 0.75rem);
+  }
 }
 
-.reelauto::-webkit-scrollbar,
-.reel3::-webkit-scrollbar,
-.reel4::-webkit-scrollbar,
-.reel5::-webkit-scrollbar,
-.reel6::-webkit-scrollbar,
-.reel7::-webkit-scrollbar,
-.reel8::-webkit-scrollbar,
-.reel9::-webkit-scrollbar,
-.reel10::-webkit-scrollbar,
-.reel11::-webkit-scrollbar,
-.reel12::-webkit-scrollbar { block-size: 1rem; /* display: none; hides it */ }
-
-.reelauto::-webkit-scrollbar-track,
-.reel3::-webkit-scrollbar-track,
-.reel4::-webkit-scrollbar-track,
-.reel5::-webkit-scrollbar-track,
-.reel6::-webkit-scrollbar-track,
-.reel7::-webkit-scrollbar-track,
-.reel8::-webkit-scrollbar-track,
-.reel9::-webkit-scrollbar-track,
-.reel10::-webkit-scrollbar-track,
-.reel11::-webkit-scrollbar-track,
-.reel12::-webkit-scrollbar-track {
-  background-color: var(--bg-secondary);
-  border: 2px solid var(--clr-primary);
+// Add a gap between and correct for asymmetric margin
+.reel-3 {
+  & > * { margin-inline-start: var(--space-3); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space-3); }
+}
+.reel-2 {
+  & > * { margin-inline-start: var(--space-2); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space-2); }
+}
+.reel-1 {
+  & > * { margin-inline-start: var(--space-1); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space-1); }
+}
+.reel0 {
+  & > * { margin-inline-start: var(--space0); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space0); }
+}
+.reel1 {
+  & > * { margin-inline-start: var(--space1); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space1); }
+}
+.reel2 {
+  & > * { margin-inline-start: var(--space2); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space2); }
+}
+.reel3 {
+  & > * { margin-inline-start: var(--space3); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space3); }
+}
+.reel4 {
+  & > * { margin-inline-start: var(--space4); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space4); }
+}
+.reel5 {
+  & > * { margin-inline-start: var(--space5); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space5); }
+}
+.reel6 {
+  & > * { margin-inline-start: var(--space6); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space6); }
+}
+.reel7 {
+  & > * { margin-inline-start: var(--space7); margin-inline-end: 0; }
+  &::after { content: ''; flex: 0 0 var(--space7); }
 }
 
-.reelauto::-webkit-scrollbar-thumb,
-.reel3::-webkit-scrollbar-thumb,
-.reel4::-webkit-scrollbar-thumb,
-.reel5::-webkit-scrollbar-thumb,
-.reel6::-webkit-scrollbar-thumb,
-.reel7::-webkit-scrollbar-thumb,
-.reel8::-webkit-scrollbar-thumb,
-.reel9::-webkit-scrollbar-thumb,
-.reel10::-webkit-scrollbar-thumb,
-.reel11::-webkit-scrollbar-thumb,
-.reel12::-webkit-scrollbar-thumb {
-  background-color: var(--clr-primary);
-  /* Insetting the thumb (top/bottom padding) */
-  /* background-image: linear-gradient(var(--bg-secondary) 0, 
-                                       var(--bg-secondary) 0.25rem,
-                                       var(--clr-primary) .25rem, 
-                                       var(--clr-primary) .75rem, 
-                                       var(--bg-secondary) 0.75rem);*/
-}
-
-/* Set a different width or reel slides */
-.reelauto > * { flex: 0 0 auto; }
-.reel3    > * { flex: 0 0 var(--space3); }
-.reel4    > * { flex: 0 0 var(--space4); }
-.reel5    > * { flex: 0 0 var(--space5); }
-.reel6    > * { flex: 0 0 var(--space6); }
-.reel7    > * { flex: 0 0 var(--space7); }
-.reel8    > * { flex: 0 0 var(--space8); }
-.reel9    > * { flex: 0 0 var(--space9); }
-.reel10   > * { flex: 0 0 var(--space10); }
-.reel11   > * { flex: 0 0 var(--space11); }
-.reel12   > * { flex: 0 0 var(--space12); }
-
-.reelauto > img,
-.reel3    > img,
-.reel4    > img,
-.reel5    > img,
-.reel6    > img,
-.reel7    > img,
-.reel8    > img,
-.reel9    > img,
-.reel10   > img,
-.reel11   > img,
-.reel12   > img {
-  block-size: 100%;
-  inline-size: auto;
-  flex-basis: auto;
-}

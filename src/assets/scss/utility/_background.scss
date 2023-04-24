@@ -1,32 +1,62 @@
-.bg-p050 { background: hsl(var(--primary050)); }
-.bg-p100 { background: hsl(var(--primary100)); }
-.bg-p200 { background: hsl(var(--primary200)); }
-.bg-p300 { background: hsl(var(--primary300)); }
-.bg-p400 { background: hsl(var(--primary400)); }
-.bg-p500 { background: hsl(var(--primary500)); }
-.bg-p600 { background: hsl(var(--primary600)); }
-.bg-p700 { background: hsl(var(--primary700)); }
-.bg-p800 { background: hsl(var(--primary800)); }
-.bg-p900 { background: hsl(var(--primary900)); }
+// Background colors
 
-.bg-n050 { background: hsl(var(--neutral050)); }
-.bg-n100 { background: hsl(var(--neutral100)); }
-.bg-n200 { background: hsl(var(--neutral200)); }
-.bg-n300 { background: hsl(var(--neutral300)); }
-.bg-n400 { background: hsl(var(--neutral400)); }
-.bg-n500 { background: hsl(var(--neutral500)); }
-.bg-n600 { background: hsl(var(--neutral600)); }
-.bg-n700 { background: hsl(var(--neutral700)); }
-.bg-n800 { background: hsl(var(--neutral800)); }
-.bg-n900 { background: hsl(var(--neutral900)); }
+// Standard colors
+.bg-n100 { background: hsl(var(--neutral100)); --bg: var(--neutral100); }
+.bg-n200 { background: hsl(var(--neutral200)); --bg: var(--neutral200); }
+.bg-n300 { background: hsl(var(--neutral300)); --bg: var(--neutral300); }
+.bg-n400 { background: hsl(var(--neutral400)); --bg: var(--neutral400); }
+.bg-n500 { background: hsl(var(--neutral500)); --bg: var(--neutral500); }
+.bg-n600 { background: hsl(var(--neutral600)); --bg: var(--neutral600); }
+.bg-n700 { background: hsl(var(--neutral700)); --bg: var(--neutral700); }
+.bg-n800 { background: hsl(var(--neutral800)); --bg: var(--neutral800); }
+.bg-n900 { background: hsl(var(--neutral900)); --bg: var(--neutral900); }
+.bg-p100 { background: hsl(var(--primary100)); --bg: var(--primary100); }
+.bg-p200 { background: hsl(var(--primary200)); --bg: var(--primary200); }
+.bg-p300 { background: hsl(var(--primary300)); --bg: var(--primary300); }
+.bg-p400 { background: hsl(var(--primary400)); --bg: var(--primary400); }
+.bg-p500 { background: hsl(var(--primary500)); --bg: var(--primary500); }
+.bg-p600 { background: hsl(var(--primary600)); --bg: var(--primary600); }
+.bg-p700 { background: hsl(var(--primary700)); --bg: var(--primary700); }
+.bg-p800 { background: hsl(var(--primary800)); --bg: var(--primary800); }
+.bg-p900 { background: hsl(var(--primary900)); --bg: var(--primary900); }
+.bg-a100 { background: hsl(var(--accent100)); --bg: var(--accent100); }
+.bg-a200 { background: hsl(var(--accent200)); --bg: var(--accent200); }
+.bg-a300 { background: hsl(var(--accent300)); --bg: var(--accent300); }
+.bg-a400 { background: hsl(var(--accent400)); --bg: var(--accent400); }
+.bg-a500 { background: hsl(var(--accent500)); --bg: var(--accent500); }
+.bg-a600 { background: hsl(var(--accent600)); --bg: var(--accent600); }
+.bg-a700 { background: hsl(var(--accent700)); --bg: var(--accent700); }
+.bg-a800 { background: hsl(var(--accent800)); --bg: var(--accent800); }
+.bg-a900 { background: hsl(var(--accent900)); --bg: var(--accent900); }
+.bg-y100 { background: hsl(var(--yellow100)); --bg: var(--yellow100); }
+.bg-y200 { background: hsl(var(--yellow200)); --bg: var(--yellow200); }
+.bg-y300 { background: hsl(var(--yellow300)); --bg: var(--yellow300); }
+.bg-y400 { background: hsl(var(--yellow400)); --bg: var(--yellow400); }
+.bg-y500 { background: hsl(var(--yellow500)); --bg: var(--yellow500); }
+.bg-y600 { background: hsl(var(--yellow600)); --bg: var(--yellow600); }
+.bg-y700 { background: hsl(var(--yellow700)); --bg: var(--yellow700); }
+.bg-y800 { background: hsl(var(--yellow800)); --bg: var(--yellow800); }
+.bg-y900 { background: hsl(var(--yellow900)); --bg: var(--yellow900); }
+.bg-v100 { background: hsl(var(--violet100)); --bg: var(--violet100); }
+.bg-v200 { background: hsl(var(--violet200)); --bg: var(--violet200); }
+.bg-v300 { background: hsl(var(--violet300)); --bg: var(--violet300); }
+.bg-v400 { background: hsl(var(--violet400)); --bg: var(--violet400); }
+.bg-v500 { background: hsl(var(--violet500)); --bg: var(--violet500); }
+.bg-v600 { background: hsl(var(--violet600)); --bg: var(--violet600); }
+.bg-v700 { background: hsl(var(--violet700)); --bg: var(--violet700); }
+.bg-v800 { background: hsl(var(--violet800)); --bg: var(--violet800); }
+.bg-v900 { background: hsl(var(--violet900)); --bg: var(--violet900); }
 
-.bg-a050 { background: hsl(var(--accent050)); }
-.bg-a100 { background: hsl(var(--accent100)); }
-.bg-a200 { background: hsl(var(--accent200)); }
-.bg-a300 { background: hsl(var(--accent300)); }
-.bg-a400 { background: hsl(var(--accent400)); }
-.bg-a500 { background: hsl(var(--accent500)); }
-.bg-a600 { background: hsl(var(--accent600)); }
-.bg-a700 { background: hsl(var(--accent700)); }
-.bg-a800 { background: hsl(var(--accent800)); }
-.bg-a900 { background: hsl(var(--accent900)); }
+// Speccial colors
+.bg-dy100 { background: hsl(var(--dynamics100)); --bg: var(--dynamics100); }
+.bg-dy    { background: hsl(var(--dynamics   )); --bg: var(--dynamics   ); }
+.bg-dy900 { background: hsl(var(--dynamics900)); --bg: var(--dynamics900); }
+.bg-ln100 { background: hsl(var(--lasernet100)); --bg: var(--lasernet100); }
+.bg-ln    { background: hsl(var(--lasernet   )); --bg: var(--lasernet   ); }
+.bg-ln900 { background: hsl(var(--lasernet900)); --bg: var(--lasernet900); }
+.bg-ef100 { background: hsl(var(--exflow100)); --bg: var(--exflow100); }
+.bg-ef    { background: hsl(var(--exflow   )); --bg: var(--exflow   ); }
+.bg-ef900 { background: hsl(var(--exflow900)); --bg: var(--exflow900); }
+.bg-cg100 { background: hsl(var(--curogens100)); --bg: var(--curogens100); }
+.bg-cg    { background: hsl(var(--curogens   )); --bg: var(--curogens   ); }
+.bg-cg900 { background: hsl(var(--curogens900)); --bg: var(--curogens900); }

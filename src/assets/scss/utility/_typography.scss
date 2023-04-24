@@ -1,44 +1,10 @@
-/* Font color */
-.fc-p050 { color: hsl(var(--primary050)); }
-.fc-p100 { color: hsl(var(--primary100)); }
-.fc-p200 { color: hsl(var(--primary200)); }
-.fc-p300 { color: hsl(var(--primary300)); }
-.fc-p400 { color: hsl(var(--primary400)); }
-.fc-p500 { color: hsl(var(--primary500)); }
-.fc-p600 { color: hsl(var(--primary600)); }
-.fc-p700 { color: hsl(var(--primary700)); }
-.fc-p800 { color: hsl(var(--primary800)); }
-.fc-p900 { color: hsl(var(--primary900)); }
+// Fonts, line spacing, text color and size
 
-.fc-n050 { color: hsl(var(--neutral050)); }
-.fc-n100 { color: hsl(var(--neutral100)); }
-.fc-n200 { color: hsl(var(--neutral200)); }
-.fc-n300 { color: hsl(var(--neutral300)); }
-.fc-n400 { color: hsl(var(--neutral400)); }
-.fc-n500 { color: hsl(var(--neutral500)); }
-.fc-n600 { color: hsl(var(--neutral600)); }
-.fc-n700 { color: hsl(var(--neutral700)); }
-.fc-n800 { color: hsl(var(--neutral800)); }
-.fc-n900 { color: hsl(var(--neutral900)); }
+// Font family
+.ff-b { font-family: var(--sans  ); }
+.ff-h { font-family: var(--sans-h); }
 
-.fc-a050 { color: hsl(var(--accent050)); }
-.fc-a100 { color: hsl(var(--accent100)); }
-.fc-a200 { color: hsl(var(--accent200)); }
-.fc-a300 { color: hsl(var(--accent300)); }
-.fc-a400 { color: hsl(var(--accent400)); }
-.fc-a500 { color: hsl(var(--accent500)); }
-.fc-a600 { color: hsl(var(--accent600)); }
-.fc-a700 { color: hsl(var(--accent700)); }
-.fc-a800 { color: hsl(var(--accent800)); }
-.fc-a900 { color: hsl(var(--accent900)); }
-
-
-/* Font family */
-.ffsans { font-family: var(--sans) }
-.ffserif { font-family: var(--serif) }
-
-
-/* Font size */
+// Font size
 .fs-2 { font-size: var(--step-2); }
 .fs-1 { font-size: var(--step-1); }
 .fs0  { font-size: var(--step0 ); }
@@ -50,12 +16,71 @@
 .fs6  { font-size: var(--step6 ); }
 .fs7  { font-size: var(--step7 ); }
 
-
-/* Font weight */
+// Font weight
 .fw400 { font-weight: var(--weight400); }
 .fw700 { font-weight: var(--weight700); }
 
+// Line height
+.lhbody { line-height: var(--linebody); }
+.lhhead { line-height: var(--linehead); }
 
-/* Line height */
-.lhbody { line-height: var(--linebody) }
-.lhhead { line-height: var(--linehead) }
+// Standard colors
+.fc-n100 { color: hsl(var(--neutral100)); --fg: var(--neutral100); }
+.fc-n200 { color: hsl(var(--neutral200)); --fg: var(--neutral200); }
+.fc-n300 { color: hsl(var(--neutral300)); --fg: var(--neutral300); }
+.fc-n400 { color: hsl(var(--neutral400)); --fg: var(--neutral400); }
+.fc-n500 { color: hsl(var(--neutral500)); --fg: var(--neutral500); }
+.fc-n600 { color: hsl(var(--neutral600)); --fg: var(--neutral600); }
+.fc-n700 { color: hsl(var(--neutral700)); --fg: var(--neutral700); }
+.fc-n800 { color: hsl(var(--neutral800)); --fg: var(--neutral800); }
+.fc-n900 { color: hsl(var(--neutral900)); --fg: var(--neutral900); }
+.fc-p100 { color: hsl(var(--primary100)); --fg: var(--primary100); }
+.fc-p200 { color: hsl(var(--primary200)); --fg: var(--primary200); }
+.fc-p300 { color: hsl(var(--primary300)); --fg: var(--primary300); }
+.fc-p400 { color: hsl(var(--primary400)); --fg: var(--primary400); }
+.fc-p500 { color: hsl(var(--primary500)); --fg: var(--primary500); }
+.fc-p600 { color: hsl(var(--primary600)); --fg: var(--primary600); }
+.fc-p700 { color: hsl(var(--primary700)); --fg: var(--primary700); }
+.fc-p800 { color: hsl(var(--primary800)); --fg: var(--primary800); }
+.fc-p900 { color: hsl(var(--primary900)); --fg: var(--primary900); }
+.fc-a100 { color: hsl(var(--accent100 )); --fg: var(--accent100 ); }
+.fc-a200 { color: hsl(var(--accent200 )); --fg: var(--accent200 ); }
+.fc-a300 { color: hsl(var(--accent300 )); --fg: var(--accent300 ); }
+.fc-a400 { color: hsl(var(--accent400 )); --fg: var(--accent400 ); }
+.fc-a500 { color: hsl(var(--accent500 )); --fg: var(--accent500 ); }
+.fc-a600 { color: hsl(var(--accent600 )); --fg: var(--accent600 ); }
+.fc-a700 { color: hsl(var(--accent700 )); --fg: var(--accent700 ); }
+.fc-a800 { color: hsl(var(--accent800 )); --fg: var(--accent800 ); }
+.fc-a900 { color: hsl(var(--accent900 )); --fg: var(--accent900 ); }
+.fc-y100 { color: hsl(var(--yellow100 )); --fg: var(--yellow100 ); }
+.fc-y200 { color: hsl(var(--yellow200 )); --fg: var(--yellow200 ); }
+.fc-y300 { color: hsl(var(--yellow300 )); --fg: var(--yellow300 ); }
+.fc-y400 { color: hsl(var(--yellow400 )); --fg: var(--yellow400 ); }
+.fc-y500 { color: hsl(var(--yellow500 )); --fg: var(--yellow500 ); }
+.fc-y600 { color: hsl(var(--yellow600 )); --fg: var(--yellow600 ); }
+.fc-y700 { color: hsl(var(--yellow700 )); --fg: var(--yellow700 ); }
+.fc-y800 { color: hsl(var(--yellow800 )); --fg: var(--yellow800 ); }
+.fc-y900 { color: hsl(var(--yellow900 )); --fg: var(--yellow900 ); }
+.fc-v100 { color: hsl(var(--violet100 )); --fg: var(--violet100 ); }
+.fc-v200 { color: hsl(var(--violet200 )); --fg: var(--violet200 ); }
+.fc-v300 { color: hsl(var(--violet300 )); --fg: var(--violet300 ); }
+.fc-v400 { color: hsl(var(--violet400 )); --fg: var(--violet400 ); }
+.fc-v500 { color: hsl(var(--violet500 )); --fg: var(--violet500 ); }
+.fc-v600 { color: hsl(var(--violet600 )); --fg: var(--violet600 ); }
+.fc-v700 { color: hsl(var(--violet700 )); --fg: var(--violet700 ); }
+.fc-v800 { color: hsl(var(--violet800 )); --fg: var(--violet800 ); }
+.fc-v900 { color: hsl(var(--violet900 )); --fg: var(--violet900 ); }
+
+// Special colors
+.fc-dy100 { color: hsl(var(--dynamics100)); --fg: var(--dynamics100); }
+.fc-dy    { color: hsl(var(--dynamics   )); --fg: var(--dynamics   ); }
+.fc-dy900 { color: hsl(var(--dynamics900)); --fg: var(--dynamics900); }
+.fc-ln100 { color: hsl(var(--lasernet100)); --fg: var(--lasernet100); }
+.fc-ln    { color: hsl(var(--lasernet   )); --fg: var(--lasernet   ); }
+.fc-ln900 { color: hsl(var(--lasernet900)); --fg: var(--lasernet900); }
+.fc-ef100 { color: hsl(var(--exflow100  )); --fg: var(--exflow100  ); }
+.fc-ef    { color: hsl(var(--exflow     )); --fg: var(--exflow     ); }
+.fc-ef900 { color: hsl(var(--exflow900  )); --fg: var(--exflow900  ); }
+.fc-cg100 { color: hsl(var(--curogens100)); --fg: var(--curogens100); }
+.fc-cg    { color: hsl(var(--curogens   )); --fg: var(--curogens   ); }
+.fc-cg900 { color: hsl(var(--curogens900)); --fg: var(--curogens900); }

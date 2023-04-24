@@ -1,0 +1,127 @@
+// Flex positioning, negative and auto margins, and expand
+
+// Positioning
+.pf { position: fixed; }
+.pa { position: absolute; }
+
+// Main axis
+.jc { justify-content: center;        }
+.js { justify-content: flex-start;    }
+.je { justify-content: flex-end;      }
+.jb { justify-content: space-between; }
+.ja { justify-content: space-around;  }
+.jv { justify-content: space-evenly;  }
+
+// Cross axis
+.ic   { align-items: center;     }
+.is   { align-items: flex-start; }
+.ie   { align-items: flex-end;   }
+.ib   { align-items: baseline;   }
+.istr { align-items: stretch;    }
+
+.sa   { align-self: auto;       }
+.sc   { align-self: center;     }
+.ss   { align-self: flex-start; }
+.se   { align-self: flex-end;   }
+.sb   { align-self: baseline;   }
+.sstr { align-self: stretch;    }
+
+// Text alignnment
+.ts { text-align: start;   }
+.tc { text-align: center;  }
+.te { text-align: end;     }
+.tj { text-align: justify; }
+
+.rr { flex-direction: row-reverse;    }
+.cr { flex-direction: column-reverse; }
+
+// Center
+.c  { margin:        auto; }
+.cx { margin-inline: auto; }
+.cy { margin-block:  auto; }
+
+// Expand
+.e { inline-size: 100%; }
+
+// Pull items to a side
+.pull-startx, .psx { margin-inline-end:   auto; }
+.pull-starty, .psy { margin-block-end:    auto; }
+.pull-endx, .pex   { margin-inline-start: auto; }
+.pull-endy, .pey   { margin-block-start:  auto; }
+
+
+// Vertical negative margins
+.nmy-3 { margin-block: calc(-1 * var(--space-3 )); }
+.nmy-2 { margin-block: calc(-1 * var(--space-2 )); }
+.nmy-1 { margin-block: calc(-1 * var(--space-1 )); }
+.nmy0  { margin-block: calc(-1 * var(--space0  )); }
+.nmy1  { margin-block: calc(-1 * var(--space1  )); }
+.nmy2  { margin-block: calc(-1 * var(--space2  )); }
+.nmy3  { margin-block: calc(-1 * var(--space3  )); }
+.nmy4  { margin-block: calc(-1 * var(--space4  )); }
+.nmy5  { margin-block: calc(-1 * var(--space5  )); }
+.nmy6  { margin-block: calc(-1 * var(--space6  )); }
+.nmy7  { margin-block: calc(-1 * var(--space7  )); }
+.nmy8  { margin-block: calc(-1 * var(--space8  )); }
+.nmy9  { margin-block: calc(-1 * var(--space9  )); }
+.nmy10 { margin-block: calc(-1 * var(--space10 )); }
+.nmy11 { margin-block: calc(-1 * var(--space11 )); }
+.nmy12 { margin-block: calc(-1 * var(--space12 )); }
+.nmy13 { margin-block: calc(-1 * var(--space13 )); }
+
+// Top negative margin
+.nmt-3 { margin-block-start: calc(-1 * var(--space-3 )); }
+.nmt-2 { margin-block-start: calc(-1 * var(--space-2 )); }
+.nmt-1 { margin-block-start: calc(-1 * var(--space-1 )); }
+.nmt0  { margin-block-start: calc(-1 * var(--space0  )); }
+.nmt1  { margin-block-start: calc(-1 * var(--space1  )); }
+.nmt2  { margin-block-start: calc(-1 * var(--space2  )); }
+.nmt3  { margin-block-start: calc(-1 * var(--space3  )); }
+.nmt4  { margin-block-start: calc(-1 * var(--space4  )); }
+.nmt5  { margin-block-start: calc(-1 * var(--space5  )); }
+.nmt6  { margin-block-start: calc(-1 * var(--space6  )); }
+.nmt7  { margin-block-start: calc(-1 * var(--space7  )); }
+.nmt8  { margin-block-start: calc(-1 * var(--space8  )); }
+.nmt9  { margin-block-start: calc(-1 * var(--space9  )); }
+.nmt10 { margin-block-start: calc(-1 * var(--space10 )); }
+.nmt11 { margin-block-start: calc(-1 * var(--space11 )); }
+.nmt12 { margin-block-start: calc(-1 * var(--space12 )); }
+.nmt13 { margin-block-start: calc(-1 * var(--space13 )); }
+
+// Bottom negative margin
+.nmb-3 { margin-block-end: calc(-1 * var(--space-3 )); }
+.nmb-2 { margin-block-end: calc(-1 * var(--space-2 )); }
+.nmb-1 { margin-block-end: calc(-1 * var(--space-1 )); }
+.nmb0  { margin-block-end: calc(-1 * var(--space0  )); }
+.nmb1  { margin-block-end: calc(-1 * var(--space1  )); }
+.nmb2  { margin-block-end: calc(-1 * var(--space2  )); }
+.nmb3  { margin-block-end: calc(-1 * var(--space3  )); }
+.nmb4  { margin-block-end: calc(-1 * var(--space4  )); }
+.nmb5  { margin-block-end: calc(-1 * var(--space5  )); }
+.nmb6  { margin-block-end: calc(-1 * var(--space6  )); }
+.nmb7  { margin-block-end: calc(-1 * var(--space7  )); }
+.nmb8  { margin-block-end: calc(-1 * var(--space8  )); }
+.nmb9  { margin-block-end: calc(-1 * var(--space9  )); }
+.nmb10 { margin-block-end: calc(-1 * var(--space10 )); }
+.nmb11 { margin-block-end: calc(-1 * var(--space11 )); }
+.nmb12 { margin-block-end: calc(-1 * var(--space12 )); }
+.nmb13 { margin-block-end: calc(-1 * var(--space13 )); }
+
+// Left negative margin
+.nml-3 { margin-inline-start: calc(-1 * var(--space-3 )); }
+.nml-2 { margin-inline-start: calc(-1 * var(--space-2 )); }
+.nml-1 { margin-inline-start: calc(-1 * var(--space-1 )); }
+.nml0  { margin-inline-start: calc(-1 * var(--space0  )); }
+.nml1  { margin-inline-start: calc(-1 * var(--space1  )); }
+.nml2  { margin-inline-start: calc(-1 * var(--space2  )); }
+.nml3  { margin-inline-start: calc(-1 * var(--space3  )); }
+.nml4  { margin-inline-start: calc(-1 * var(--space4  )); }
+.nml5  { margin-inline-start: calc(-1 * var(--space5  )); }
+.nml6  { margin-inline-start: calc(-1 * var(--space6  )); }
+.nml7  { margin-inline-start: calc(-1 * var(--space7  )); }
+.nml8  { margin-inline-start: calc(-1 * var(--space8  )); }
+.nml9  { margin-inline-start: calc(-1 * var(--space9  )); }
+.nml10 { margin-inline-start: calc(-1 * var(--space10 )); }
+.nml11 { margin-inline-start: calc(-1 * var(--space11 )); }
+.nml12 { margin-inline-start: calc(-1 * var(--space12 )); }
+.nml13 { margin-inline-start: calc(-1 * var(--space13 )); }

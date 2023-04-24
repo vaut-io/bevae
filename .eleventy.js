@@ -5,6 +5,7 @@ const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
 const passthroughFiles = ['src/robots.txt',
                           'src/assets/fonts',
                           'src/assets/img',
+                          'src/assets/js',
                           'src/assets/odp',
                           'src/assets/pdf',
                           'src/assets/special',
@@ -29,7 +30,7 @@ module.exports = config => {
   config.addCollection('en_articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/articles/*'));
   config.addCollection('es_articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/articles/*'));
 
-  passthroughFiles.forEach(element => config.addPassthroughCopy(element));
+  passthroughFiles.forEach(item => config.addPassthroughCopy(item));
 
   return {
     dataTemplateEngine: 'njk',
