@@ -1,11 +1,12 @@
 ---
 translationKey: article2-2
 title: Pain II
-subtitle: biology
+subtitle: how it works
 description: Find out how your brain, body, and environment interact to create pain from a biological perspective.
-readtime: '-'
-audience: patients
+readTime: '-'
 ---
+
+## Current classification
 
 
 <a href="/en/articles/pain-iii">Next article</a>

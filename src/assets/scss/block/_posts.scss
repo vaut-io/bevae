@@ -1,13 +1,32 @@
 .post {
   ul {
-    list-style: inside disc;
+    list-style: outside square;
+    padding-inline-start: var(--space0);
+
     & > * + * {
       margin-block-start: 0.67em;
     }
   }
 
-  li {
-    padding-inline-start: var(--space-1);
+  ol {
+    list-style: outside number;
+    padding-inline-start: var(--space0);
+
+    & > * + * {
+      margin-block-start: 0.67em;
+    }
+
+    ::marker {
+      font-weight: bold;
+    }
   }
 
+  blockquote {
+    padding-inline-start: var(--space0);
+    border-inline-start: var(--border-1) solid hsl(var(--neutral900));
+
+    & > * + * {
+      margin-block-start: 0.67em;
+    }
+  }
 }

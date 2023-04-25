@@ -26,8 +26,19 @@ description: The pain revolution is here. Whether you're a health professional, 
       </div>
     </section>
     <div class="[ switcher12 ] [ g3 ]">
+      {% set posts = collections[locale + '_articles'] %}
       <section class="[ flow2 squeeze9 ]">
         <h2 class="[ h-fancy ]">For Patients</h2>
+        <div class="[ flow1/3 ]">
+          <h3>Articles</h3>
+          <ul class="[ flow1/3 ]">
+            {% for entry in posts %}
+            {% if entry.data.audience == 'patients' %}
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+              {% endif %}
+              {% endfor %}
+          </ul>
+        </div>
         <section class="[ flow1/3 ]">
           <h3>Pain 101</h3>
           <p class="[ fs-1 ]"><em>Have you ever wondered what pain is and how it works? In this 3-part series we'll introduce key concepts in pain science that you may find useful, no matter your situation.</em></p>
@@ -39,7 +50,6 @@ description: The pain revolution is here. Whether you're a health professional, 
         <section class="[ flow1/3 ]">
           <h3>Articles</h3>
           <ul class="[ flow1/3 ]">
-            {% set posts = collections[locale + '_articles'] %}
             {% for entry in posts %}
             {% if entry.data.audience == 'providers' %}
             <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
@@ -50,7 +60,7 @@ description: The pain revolution is here. Whether you're a health professional, 
         <section class="[ flow1/3 ]">
           <h3>Forms</h3>
           <ul>
-            <li><a href="/en/forms/oemsq-12/">ÖMSQ-12</a> - A practical screening questionnaire for musculoskeletal complaints, adapted from <i>Gabel et al. 2013.</i></li>
+            <li><a href="/en/forms/oemsq-12/">ÖMSQ-12</a> - A practical screening questionnaire for musculoskeletal complaints, adapted from <i>Gabel et al., 2013.</i></li>
           </ul>
         </section>
       </section>
@@ -58,12 +68,12 @@ description: The pain revolution is here. Whether you're a health professional, 
     <div class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Other Projects</h2>
       <div class="[ flow1/3 ]">
-        <h3>Journal Club</h3>
-        <p><a href="/en/club/">Click here</a> to view information about the USP CEU Faculty of Medicine journal club.</p>
-      </div>
-      <div class="[ flow1/3 ]">
         <h3>CSAW</h3>
         <p><a href="/csaw/">Click here</a> to view a webpage summary of the landmark CSAW trial for subacromial shoulder pain.</p>
+      </div>
+      <div class="[ flow1/3 ]">
+        <h3>Journal Club</h3>
+        <p><a href="/en/club/">Click here</a> to view information about the USP CEU Faculty of Medicine journal club.</p>
       </div>
     </div>
   </div>

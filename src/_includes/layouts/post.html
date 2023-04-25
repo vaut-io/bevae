@@ -4,12 +4,12 @@
 <main>
   <article class=" [ post ] [ squeeze12 stack ] [ cx g2 ]">
     <!-- Article header -->
-    <div class="stack g-3">
-      <div>
+    <div class="[ flow1 ]">
+      <div class="[ flow1/3 ]">
         <h1>{{ title }}</h1>
         {% if subtitle %}<p class="fs2">{{ subtitle | capitalize }}</p>{% endif %}
       </div>
-      <p class="fs-1"><em>{{ readtime }}{% if locale == 'en' %} minute read{% else %} minutos de lectura{% endif %}</em></p>
+      <p class="fs-1"><em>{{ readTime }}{% if locale == 'en' %} minute read{% else %} minutos de lectura{% endif %}</em></p>
     </div>
     <!-- Article body -->
     <div class="[ flow3/2 ]">
