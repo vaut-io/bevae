@@ -3,12 +3,12 @@ translationKey: article2
 title: Choosing a clinician
 subtitle: questions to know if your health is in good hands
 description: If you decide to seek professional help for a painful problem, it's important to ensure that you are receiving the best care possible.
-readTime: 10
+readTime: 20-30
 ---
 
 When you decide to seek professional help for a pain problem, finding a highly competent clinician is no straightforward task. Aside from the fact that many clinicians are unaware of modern pain science, what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
 
-While there are countless treatment modalities, there exist a few fundamental principles that every healthcare professional should follow. No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling apart the best from the rest.
+While there are countless treatment modalities, there exist a few fundamental principles that every healthcare professional should follow. No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
 
 Socioeconomic status and luck play an important role in determining the quality of care you receive. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to long-term success in the pursuit of total physical, mental, and social health.
 
@@ -18,7 +18,7 @@ It's my hope that you will find these questions useful to reflect on your own si
 
 Persistent pain has a way of creeping into all corners of life, eventually affecting everything from your mood to your relationships and identity. What you decide to do about it has the potential to lead you to the light at the end of the tunnel, but have you considered that it could just as well be keeping you stumbling around in the dark?
 
-It usually starts innocently enough. A new pain appears in your back, knee, wherever. You see your doctor, physical therapist, or chiropractor. After screening for "red flags" (signs of cancer, infection, fractures, etc.), they manipulate the area, prescribe you a mild painkiller, or tell you to put some heat on it and rest.
+It usually starts innocently enough. A new pain appears in your back, knee, wherever. You see your doctor, physical therapist, or chiropractor. After screening for red flags (signs of cancer, infection, fractures, etc.), they manipulate the area, prescribe you a mild painkiller, or tell you to put some heat on it and rest.
 
 But then it gets worse. Before you know it, it's time again for your weekly massage, manipulation, infrared, ultrasound, acupuncture, or whatever other therapy you signed up for. The pain diminishes for a short while, but it always comes back again (and this time, it's back with a vengeance). You may be stressing about an upcoming appointment with a surgeon, all while your ability to do the things that bring you happiness slowly withers away over the months and years.
 
@@ -28,27 +28,32 @@ Your clinician should be aggressively promoting your autonomy. This usually star
 
 To put it bluntly, your clinician's foremost goal should be to never see you again. Is there a financial incentive to bring you back recurrently? Is there any reason why they may be might not be actively encouraging your independence? The time it takes to develop autonomy and self-belief looks different for everyone, but it is at the center of all best-practice pain management programs.
 
-I want to make it very clear that for certain kinds of pain, surgery and continual medical management are indispensible. That's why it's crucial that you don't take what I say as personalized medical advice. Always ask your trusted healthcare professional when in doubt and if you aren't satisfied with the answer, seek out a second opinion.
+I want to make it very clear that for certain kinds of pain, surgery and/or continual medical management are indispensible. That's why it's so important that you don't interpret anything I'm saying here as personalized medical advice. Always ask your trusted healthcare professional when in doubt and if you aren't satisfied with the answer, seek out a second opinion.
 
 ## Is there a strong focus on active therapies?
 
-Simply put, active therapies are those where you play an active part. Some examples include strength training, graded exposure to feared movements, cognitive behavioral therapy, acceptance and commitment therapy, and pain neuroscience education.
+Simply put, active therapies are those where you play an active part. This includes anything from graded activity programs such as strength training to cognitive therapies like CBT, ACT, and pain neuroscience education.
 
-It should come as no surprise that passive therapies, predicated on the idea of *passively receiving treatment* as opposed to you *putting treatment into action,* are not something we should be spending too much time and energy on given that our primary objective is to escape the cycle of dependence.
+It should come as no surprise that passive therapies, predicated on the idea of *passively receiving treatment* as opposed to you *putting treatment into action,* are not something you should spend too much time and energy on given that your primary objective is to escape the cycle of dependence.
 
-The relief offered by passive therapies is short-lived. They simply cannot offer the stimulation you need to build physical and mental resilience, overcome fears, learn healthy coping strategies, regain control, and reduce pain sensitivity in the same way that active approaches to therapy do.
+The relief offered by passive therapies is short-lived. They just cannot offer the stimulation you need to build physical and mental resilience, overcome fears, learn healthy coping strategies, regain control, and reduce pain sensitivity in the same way that active approaches to therapy do.
 
-That's not to say manual therapy and "high-tech" treatments don't have their place. In some cases they can provide the springboard that you need to take a leap forward. Passive therapies are useful to the extent that they help you get more out of active therapies. The key is to not give them more importance than they deserve. As soon as they take priority over therapies where you are an active participant, you've lost the game.
+That's not to say manual therapy and "high-tech" treatments don't have their place. In some cases they can provide the springboard you need to take a leap forward. Passive therapies are useful to the extent that they help you get more out of active therapies, the key is to not give them more attention than they deserve. As soon as they take priority over therapies where you are an active participant, you've lost the game.
 
-Depending on your personal context and how deep in the cycle of dependence you are, it might take a long time to get back to doing valued activities pain-free. Some pains improve on their own with the passage of time no matter what you do, but if you want to have the highest chance of succeeding at your goals in the shortest timeframe possible, you first have to recognize that there is no passive therapy out there which will "cure" you. So-called "quick fixes" do not exist. Physical, mental, and social health is not something that just happens, it takes hard work applied consistently over time.
+Some pains improve on their own with the passage of time (no matter what you do), but if you want to have the highest chance of succeeding at your goals in the shortest timeframe possible, you first have to recognize that there is no pill, surgery, or laser beam out there which will "cure" you. So-called quick fixes do not exist, they're nothing more than marketing gimmicks. Physical, mental, and social health is not something that *just happens*, it takes hard work applied consistently over time.
 
-Your clinician should understand these concepts and communicate them to you clearly. They should be in favor of an active approach to therapy not just in name, they need to walk the walk. If you live with persistent pain and all your clinician does after treating you passively is give some vague recommendation about "staying active" at home, there is a *lot* of room for improvement, to say the least.
+Does your clinician offer a pick-and-choose passive therapy buffet with discounts if you buy more than one? Red flag! And if all they do after treating you passively is give some vague recommendation about "staying active" at home, there is a *lot* of room for improvement, to say the least. Your clinician should be firmly based in an active approach to therapy, not only in name - they need to walk the walk.
 
-If you are finding it difficult to integrate physical activity into your lifestyle (or perhaps you're struggling to dial it back in the face of severe pain) your clinician should be right there with you, coaching you through this process. They need to be able to help you navigate and surpass unhelpful beliefs and behaviors. If they can't (or won't), they should refer you to someone who can.
+They should work with you to implement sustainable lifestyle changes, taking into account your specific physical, mental, and social needs. For example, if you are finding it difficult to integrate more physical activity into your life (or perhaps you're struggling to dial it back in the face of severe pain) your clinician needs to be right there with you, coaching you through this process.
+
+Bottom line: your clinician must help you make sense of your pain, navigate barriers to recovery such as unhelpful beliefs, and modify behaviors and activities to the extent necessary to reduce your sensitivity to pain and facilitate your long-term health and independence. None of this is going to happen with a passive approach. If they can't (or won't) shift to an active-first mentality, it might be time to ask for a referral.
 
 ## Do they inspire trust, confidence, and safety?
 
-Health-related decisions are some of the biggest and most personally relevant decisions you will make in your life.
+Health-related decisions are some of the biggest and most personally relevant decisions you will make in your life. Your clinician will likely
+
+
+When it comes to, feeling safe is everything.
 
 Nonthreatening language
 
@@ -75,6 +80,13 @@ Self-efficacy (i.e., believing in your ability to accomplish a task) is a signif
 
 - Professional
 
+Be careful of "certificate hangers" and salesmen trying
+Overly obsesses "certificate hanger"
+
+
+Do they genuinely listen to your story?
+certifications-on-the-wall....
+
 
 Self-efficacy (self-belief). And while you might not always believe in yourself, they sure as hell should.
 
@@ -82,10 +94,7 @@ While you may not always believe in yourself, they sure as hell should.
 
  Remember, clinicians don't have magic hands, they should be your life coach.
 
-
-
-## Do they genuinely listen to your story?
-
+They lead by example
 
 Authenticity...
 
@@ -93,16 +102,9 @@ Pressed for time. But letting you tell your story is important. Do they REALLY l
 
 If you're in doubt
 
-They lead by example
-
-- Certifications-on-the-wall
-
-
-
-
-
 ## Do they set realistic goals and monitor progression?
 
+o
 Without progression, it's shooting in the dark
 
 Knowing what is "realistic" or not can be difficult.
@@ -130,6 +132,10 @@ Whether you're facing fears or simply trying to walk more, ...
 ## Are they afraid of saying<br>"I don't know?"
 
 When they don't know something, they should be able to direct you to someone who does.
+
+Informing you about the potential risks and benefits of each treatment...
+
+Do reseach on it, come back to you with the answer.
 
 
 Recognize, "I'm not the best to treat you"
