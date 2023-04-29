@@ -4,7 +4,7 @@ title: Lifestyle change
 subtitle: the adherence problem
 description: Help your patients make more sustainable behavior changes by learning about and applying a leading theory of motivation.
 readTime: 20–30
-audience: providers
+audience: clinicians
 ---
 
 Lifestyle plays a key role in the development and treatment of many conditions. Whether we're talking about nonspecific pain, cancers, cardiovascular diseases, or any other chronic (or even acute) illness, a sizable chunk of the condition's etiology and severity is often directly attributable to modifiable lifestyle factors. Both from a scientific as well as a common-sense perspective, the way a person lives their life is an important factor in determining their health outcomes.

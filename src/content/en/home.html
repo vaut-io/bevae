@@ -19,7 +19,7 @@ description: The pain revolution is here. Whether you're a health professional, 
           <img src="/assets/img/profile_me-res.jpg" alt="Frederik smiling at the camera">
         </div>
         <div class="[ flow1 main67% squeeze9 ]">
-          <p>Hey there! I'm Frederik, a physical therapy student at San Pablo University in Madrid, Spain. I love promoting health and helping people achieve their functional goals.</p>
+          <p>Hey there! I'm Frederik, a physical therapy student at San Pablo University in Madrid, Spain. I love promoting holistic health and empowering people to achieve their functional goals.</p>
           <p>For a large number of people in society, there's a very personal, often unpleasant sensation and emotion which intrudes on many aspects of their life: <strong>pain.</strong></p>
           <p>With a focus on pain as both a symptom and a condition in and of itself, my goal here is to develop a variety of free educational resources for clinicians, patients, and other curious people. I want to make it easy for everyone to make sense of this common yet misunderstood (and stigmatized) experience.</p>
         </div>
@@ -28,7 +28,7 @@ description: The pain revolution is here. Whether you're a health professional, 
     <div class="[ switcher12 ] [ g3 ]">
       {% set posts = collections[locale + '_articles'] %}
       <section class="[ flow2 squeeze9 ]">
-        <h2 class="[ h-fancy ]">For Patients</h2>
+        <h2 class="[ h-fancy ]">For patients</h2>
         <div class="[ flow1/3 ]">
           <h3>Articles</h3>
           <ul class="[ flow1/3 ]">
@@ -46,12 +46,12 @@ description: The pain revolution is here. Whether you're a health professional, 
         </section>
       </section>
       <section class="[ flow2 squeeze9 ]">
-        <h2 class="[ h-fancy ]">For Providers</h2>
+        <h2 class="[ h-fancy ]">For clinicians</h2>
         <section class="[ flow1/3 ]">
           <h3>Articles</h3>
           <ul class="[ flow1/3 ]">
             {% for entry in posts %}
-            {% if entry.data.audience == 'providers' %}
+            {% if entry.data.audience == 'clinicians' %}
             <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
             {% endif %}
             {% endfor %}
@@ -66,13 +66,13 @@ description: The pain revolution is here. Whether you're a health professional, 
       </section>
     </div>
     <div class="[ flow2 ]">
-      <h2 class="[ h-fancy ]">Other Projects</h2>
+      <h2 class="[ h-fancy ]">Other projects</h2>
       <div class="[ flow1/3 ]">
         <h3>CSAW</h3>
         <p><a href="/csaw/">Click here</a> to view a webpage summary of the landmark CSAW trial for subacromial shoulder pain.</p>
       </div>
       <div class="[ flow1/3 ]">
-        <h3>Journal Club</h3>
+        <h3>Journal club</h3>
         <p><a href="/en/club/">Click here</a> to view information about the USP CEU Faculty of Medicine journal club.</p>
       </div>
     </div>
