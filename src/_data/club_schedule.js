@@ -14,7 +14,7 @@ module.exports = [
         url: 'https://doi.org/10.1016/s0140-6736(18)31777-x',
       },
     ],
-    archived: false,
+    archived: true,
   },
   {
     topic: 'Reemplazo de cadera',
@@ -31,7 +31,7 @@ module.exports = [
         url: 'https://doi.org/10.1016/s0140-6736(18)31777-x',
       },
     ],
-    archived: false,
+    archived: true,
   },
   {
     topic: 'Coronary artery disease',
@@ -39,7 +39,7 @@ module.exports = [
     date: '08/03/22',
     time: '16:30–18:30',
     room: '1.5.10',
-    archived: false,
+    archived: true,
   },
   {
     topic: 'Arteriopatía coronaria',
@@ -47,30 +47,20 @@ module.exports = [
     date: '15/03/22',
     time: '16:30–18:30',
     room: '1.5.10',
-    archived: false,
-  },
-  {
-    topic: 'Migraine',
-    lang: 'en',
-    date: '04/22 (date pending)',
-    archived: false,
+    archived: true,
   },
   {
     topic: 'Migraña',
     lang: 'es',
-    date: '04/22 (fecha pendiente)',
-    archived: false,
-  },
-  {
-    topic: 'Achilles tendinopathy',
-    lang: 'en',
-    date: '05/22 (date pending)',
+    date: '04/05/23',
+    time: '10:30–12:30',
+    room: '1.6.4 (EPS)',
     archived: false,
   },
   {
     topic: 'Tendinopatía de Aquiles',
     lang: 'es',
-    date: '05/22 (fecha pendiente)',
+    date: 'Fecha pendiente...',
     archived: false,
   },
 ];

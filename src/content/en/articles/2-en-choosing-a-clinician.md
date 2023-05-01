@@ -8,9 +8,9 @@ readTime: 20-30
 
 When you decide to seek professional help for a pain problem, finding a highly competent clinician is no straightforward task. Aside from the fact that many clinicians are unaware of modern pain science, what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
 
-While there are countless treatment modalities, there exist a few fundamental principles that every healthcare professional should follow. No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
+While there are countless treatment modalities, there exist a few fundamental principles that every good clinician follows (or at least tries to). No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
 
-Socioeconomic status and luck play an important role in determining the quality of care you receive. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to long-term success in the pursuit of total physical, mental, and social health.
+Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to long-term success in the pursuit of total physical, mental, and social health.
 
 It's my hope that you will find these questions useful to reflect on your own situation. This article isn't perfect - it doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
 
@@ -22,13 +22,13 @@ It usually starts innocently enough. A new pain appears in your back, knee, wher
 
 But then it gets worse. Before you know it, it's time again for your weekly massage, manipulation, infrared, ultrasound, acupuncture, or whatever other therapy you signed up for. The pain diminishes for a short while, but it always comes back again (and this time, it's back with a vengeance). You may be stressing about an upcoming appointment with a surgeon, all while your ability to do the things that bring you happiness slowly withers away over the months and years.
 
-This is an example of the cycle of dependence. If you recognize yourself in this cycle, your number one priority should be to get out. If you don't, your chances of escaping the downward spiral of persistent pain are slim. Even if your pain has a good prognosis (i.e., prediction about how it's going to develop) it's something that you want to avoid at all costs.
+This is an example of the cycle of dependence. If you recognize yourself in this cycle, your number one priority should be to get out. Even if your pain has a good prognosis (i.e., prediction about how it will evolve) it's something you want to avoid at all costs.
 
-Your clinician must facilitate your autonomy. This usually starts with identifying any contributing factors to your pain. Your clinician should be able to explain your pain and/or medical condition in a way that makes sense to you and then equip you with the tools and confidence you need to self-manage.
+Your clinician must facilitate your autonomy. This usually starts with identifying any contributing factors to your pain. Your clinician should be able to explain your pain and/or medical condition in a way that makes sense to you and then equip you with the tools and confidence you need to self-manage. After all, you might only be in the clinic one hour per week... what about the other 167?
 
-To put it bluntly, your clinician's foremost goal should be to never see you again. Is there a financial incentive to bring you back recurrently? Is there any reason why they may be might not be actively encouraging your independence? The time it takes to develop autonomy and self-belief looks different for everyone, but it is at the center of all best-practice pain management programs.
+To put it bluntly, your clinician's foremost goal should be to never see you again. Is there a financial incentive to bring you back recurrently? Is there any reason why they may be might not be actively encouraging your autonomy? The time it takes to gain independence looks different for everyone, but it is the core of all best-practice pain management programs.
 
-I want to make it very clear that for certain kinds of pain, surgery and/or continual medical management are indispensible. That's why it's so important that you don't interpret anything I'm saying here as personalized medical advice. Always ask your trusted healthcare professional when in doubt and if you aren't satisfied with the answer, seek out a second opinion.
+I want to make it very clear that for certain kinds of pain, surgery and/or continual medical management are indispensible. That's why it is so important that you do not interpret this article as personalized medical advice. Ask a trusted health professional about your condition and don't be afraid to seek out second opinions.
 
 ## Do they place a strong emphasis on active therapies?
 
@@ -54,62 +54,61 @@ Your clinician must help you make sense of your pain, navigate barriers to recov
 
 ## Do they inspire trust, confidence, and safety?
 
-Health-related decisions are some of the biggest and most personally relevant decisions you will make in your life. Your clinician will likely
+When it comes to pain, safety is the name of the game. Pain is a protective response designed to keep us safe. This means that perceived threats in the environment affect your pain experience, your responses and behaviors, and ultimately the pain's evolution. The greater the perceived threat, the greater an effect it will likely have.
+
+Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you get through the most vulnerable periods of your life, and it's easy to see why the last thing you would ever want is for them to be perceived as a threat. Your clinician needs to be a reliable source of safety!
+
+Because of this, building a clinical relationship based on mutual trust is absolutely essential. Trust can take time to develop, but first impressions should not be underestimated. The feeling you walk away with after an initial consultation with a new clinician is invaluable information that you should take into account when deciding whether or not to continue the relationship.
+
+Your clinician should also inspire boundless confidence. It is well known that self-efficacy (i.e., self-belief) is one of the most important determinants of long term health outcomes. Finding confidence in your own body when it feels like it's failing you is exceedingly difficult. But while you might not always believe in your ability to overcome mountainous obstacles, your clinician sure as hell should.
 
 
-When it comes to, feeling safe is everything.
 
+The importance of trust has a number of interesting implications.
+The issue of trust bleeds into the decision making process
+
+Do they genuinely listen to your story?
+Pressed for time. But letting you tell your story is important. Do they REALLY listen?
+
+Authenticity and professionalism...
+certifications-on-the-wall.... doesn't mean shit.
+Be careful of "certificate hangers" and salesmen trying
+Overly obsesses "certificate hanger"
+
+Also
+
+The use of language... ()
 Nonthreatening language
+
+Fearmongering around pain and physical activity...
+
+They lead by example
 
 There is a lot of fearmongering around pain and physical activity. (confidence and trust)
 
 
-Even if your pain has a good prognosis (prediction about how it will develop with time),
-
-Healthcare professionals are there with you every step of the way. For that reason, trusting the person who shares these intimate an absolute necessity.
-
-Sometimes, trust comes with time, but everything about your clinician should fill you with a sense of safety, trust, and confidence.
-
-from the first impression
-
-Your clincician should support your need to feel competent. They should be giving you attainable goals.
 
 Self-efficacy (i.e., believing in your ability to accomplish a task) is a significant determinant of long-term health outcomes.
-
-- If you don't trust them, you won't get anywhere.
-- Sometimes, trust comes with time.
 
 - Tough balance. They should inspire confidence while always. Psychologically
 - Inspire you
 
-- Professional
-
-Be careful of "certificate hangers" and salesmen trying
-Overly obsesses "certificate hanger"
-
-
-Do they genuinely listen to your story?
-certifications-on-the-wall....
-
-
-Self-efficacy (self-belief). And while you might not always believe in yourself, they sure as hell should.
 
 While you may not always believe in yourself, they sure as hell should.
 
- Remember, clinicians don't have magic hands, they should be your life coach.
-
-They lead by example
+Remember, clinicians don't have magic hands, they should be your life coach.
 
 
-Authenticity...
 
-Pressed for time. But letting you tell your story is important. Do they REALLY listen?
-
-If you're in doubt
 
 ## Do they set realistic goals and monitor progression?
 
 - The most powerful effects happen in the 23 hours OUTSIDE of the clinic, if they aren't helping you with that, pff
+
+- Being a source of safety doesn't mean that they should not challenge you.
+
+
+Your clincician should support your need to feel competent. They should be giving you attainable goals. (ties in with confidence mentioned in previous section)
 
 o
 Without progression, it's shooting in the dark
