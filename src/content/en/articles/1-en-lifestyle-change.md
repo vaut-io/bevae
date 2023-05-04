@@ -217,7 +217,7 @@ We discovered that the question we posed at the beginning was actually loaded wi
 
 We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. We learned how to use a decision matrix to help patients strengthen their commitment.
 
-Thank you for reading this article! We hope that you find these principles useful for improving your clinical practice as well as your personal life.
+Thank you for reading this article! I hope that you find these principles useful for improving your clinical practice as well as your personal life.
 
 
 

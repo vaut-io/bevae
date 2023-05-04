@@ -12,9 +12,9 @@ When you decide to seek professional help for a pain problem, finding a highly c
 
 While there are countless treatment modalities and strategies, there exist a few fundamental principles that every good clinician should follow. No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
 
-Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to success in the pursuit of total physical, mental, and social health.
+Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to success in the pursuit of health, whatever that looks like for you.
 
-This article isn't perfect. It doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Still, it's our hope that you will find these questions useful to reflect on your own situation. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
+This article isn't perfect. It doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Still, it's my hope that you will find these questions useful to reflect on your own situation. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
 
 ## Are they perpetuating or breaking the cycle of dependence?
 
@@ -86,4 +86,4 @@ If your clinician never admits fault, it might be that their pride and arrogance
 
 As a rule of thumb, the more cautious a clinician is about giving absolute answers to your questions, the better. The correct answer almost always starts with, "...well, it depends on X, Y, and Z." To come full circle, pain (and health) is an infinitely nuanced field where the answers to many of your questions depend entirely on your unique context.
 
-We'd like to close off by thanking you for reading this article. We hope that we've created a useful resource that you can come back to when you feel the need to reflect. Keep on taking charge of your health, and we wish you lots of success in your journey!
+I'd like to close off by thanking you for reading this article. I hope that we've created a useful resource that you can come back to when you feel the need to reflect. Keep on taking charge of your health, and I wish you lots of success in your journey!

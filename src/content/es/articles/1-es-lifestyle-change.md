@@ -214,7 +214,7 @@ Descubrimos que la pregunta que planteamos al principio estaba cargada de suposi
 
 Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
 
-¡Gracias por leer esta entrada! Esperamos que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
+¡Gracias por leer esta entrada! Espero que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
 
 
 
