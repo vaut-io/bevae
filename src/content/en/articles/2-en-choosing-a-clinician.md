@@ -76,8 +76,15 @@ Instead of stressing about achieving a specific goal at a specific time (the res
 
 Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there is still a lot we don't know. There are many things that your clinician does not know.
 
-Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual discernment.
+Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual knowledge.
 
-The best clinicians set their ego aside in the clinic and put YOU at the center of care. They should not be trying to show off how great they are. A great way to assess this is simply by asking questions. If you ask questions, eventually you should get the response, "I don't know." If your clinician never says "I don't know," it might be that their pride and arrogance prevents them from admitting that they do not, in fact, know everything.
+The best clinicians set their ego aside in the clinic and put YOU at the center of care. They should not be trying to show off how great they are. One of the best ways to assess this is simply by asking questions. If you keep asking questions relevant to your condition, eventually you should get the response, "I don't know."
 
-Your clinician should then offer to research the topic for you and get back to you with an answer, or direct you to someone who does know. They should also be able to recognize if you would benefit from no treatment, or from beginning a clinical relationship with someone else.
+If your clinician never admits fault, it might be that their pride and arrogance prevents them from admitting that they do not, in fact, know everything there is to know about your condition. They should never simply dismiss your questions, either. If there is something your clinician does not know, they should offer to research the topic for you or direct you to someone who does know.
+
+As a rule of thumb, the more cautious a clinician is about giving absolute answers to your questions, the better. The correct answer almost always starts with, "...well, it depends on X, Y, and Z." Pain, and health in general, is an infinitely nuanced field where the answers to many of your questions depend entirely on your unique context.
+
+I'd like to close off by thanking you for reading this article. I hope I've created a useful resource that you can come back to when you feel the need to reflect on your relationship with your clinician. Thank you for taking charge of your health.
+
+
+
