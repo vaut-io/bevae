@@ -60,19 +60,21 @@ Does your clinician add to your anxiety? Does it seem like they aren't really in
 
 The unfortunate reality is that many clinicians do not practice intelligent goal setting. Goals give direction to pain management and rehabilitation. You and your clinician should collaborate to set realistic goals, taking into account your preferences, values, and other constraints.
 
-Once you and your clinician have worked together to identify overarching long-term goals, you must break them into *staged goals*. Staged goals are achievable in smaller timeframes and form the basis for planned progression, another crucial aspect of best-practice therapy which is often forgotten by clinicians outside of professional sports contexts.
+Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in smaller timeframes and form the basis for *planned progression*, another crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
 
-Planned progression means that when you reach a predetermined goal, you are going to progress in some way in order to work toward the next stage. Feeling safe and confident is paramount, but challenging yourself is equally as important! Gradually improving mental and physical resilience is one of the key ways the pain system desensitizes, but no meaningful progress will be made in this regard if the stimulus is not sufficient.
+Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge that's neither too easy nor too difficult.
 
-Pain management without goals and planned progression is like trying to hit a bullseye in darkness. Setting attainable goals and monitoring progress is like turning on the light, it's much easier to aim accurately when you know what you're aiming at and how close you are to the target!
+Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, but no meaningful progress will be made if the stress you are exposed to is not sufficient. When you consistently apply the right kind of stress, you adapt to it and your resilience improves. Now, a greater stimulus is needed to keep progressing.
 
-Goal setting and planning is vital, but you can't control the result of your actions. You and your clinician should therefore work on a *process oriented* mindset. Instead of stressing about achieving a specific goal at a specific time (the result), focus on what you can control (the process). What can you do in the here and now to raise your chances of succeeding in the future?
+Pain management without goal setting and planned progression is like throwing darts in a dark room. Setting attainable goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 
-And the future is incredibly unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, all plans must change. Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
+The future is inherently unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, flexibility should be baked into your action plan. Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
+
+Instead of stressing about achieving a specific goal at a specific time (the result), try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process oriented* mindset.
 
 ## Are they afraid of saying "I don't know?"
 
-Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions, but there is still a lot we don't know. There are also many things that your clinician does not know, whether they admit it or not.
+Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there is still a lot we don't know. There are many things that your clinician does not know.
 
 Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual discernment.
 
