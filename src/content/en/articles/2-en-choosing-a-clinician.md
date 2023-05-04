@@ -62,13 +62,13 @@ The unfortunate reality is that many clinicians do not practice intelligent goal
 
 Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in smaller timeframes and form the basis for *planned progression*, a crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
 
-Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge that's neither too easy nor too difficult.
+Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge - neither too easy nor too difficult.
 
-Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, but **no meaningful progress will be made if the stress you are exposed to is not sufficient.** When you consistently apply the right kind of stress, you adapt to it and your resilience improves. A greater stimulus is now needed to keep progressing.
+Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, but **meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
 
-Pain management without goal setting and planned progression is like throwing darts in a dark room. Setting attainable goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
+Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 
-The future is unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, **flexibility should be baked into your action plan.** Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
+The future is unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, **plans will inevitably need to change.** Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
 
 Instead of stressing about achieving a specific goal at a specific time (the result, something inherently out of your control), try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process oriented* mindset.
 
