@@ -3,6 +3,9 @@ translationKey: article1
 title: Cambio de estilo de vida
 subtitle: el problema de la adherencia
 description: Ayuda a tus pacientes a realizar cambios de comportamiento más sostenibles conociendo y aplicando una de las principales teorias de la motivación
+audience: clinicians
+author: Frederik Kehlet
+translator: Frederik Kehlet
 readTime: 20–30
 ---
 
@@ -197,8 +200,6 @@ Durante este proceso, eres un guía: apoya las necesidades psicológicas básica
 
 [Ver un ejemplo de una matriz de decisiones (PDF),](/assets/pdf/decisionalbalance.pdf) también dispuesto en [motivationalinterviewing.org.](https://motivationalinterviewing.org/sites/default/files/decisionalbalance.pdf)
 
-
-
 ## Resumen
 
 En esta entrada, exploramos una frustración clínica común:
@@ -213,7 +214,7 @@ Descubrimos que la pregunta que planteamos al principio estaba cargada de suposi
 
 Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
 
-¡Gracias por leer esta entrada! Me he divertido mucho escribiéndolo. Espero que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
+¡Gracias por leer esta entrada! Esperamos que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
 
 
 

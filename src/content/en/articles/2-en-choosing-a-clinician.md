@@ -2,8 +2,10 @@
 translationKey: article2
 title: Choosing a clinician
 subtitle: questions to know if your health is in good hands
-description: If you decide to seek professional help for a painful problem, it's important to ensure that you are receiving the best care possible.
-readTime: 20-30
+description: Discover whether or not your clinician is following best-practice pain management principles by reflecting on these key questions.
+author: Frederik Kehlet
+readTime: 15-20
+audience: patients
 ---
 
 When you decide to seek professional help for a pain problem, finding a highly competent clinician is no straightforward task. Aside from the fact that many clinicians remain blissfully unaware of modern developments in the research on pain, what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
@@ -12,7 +14,7 @@ While there are countless treatment modalities and strategies, there exist a few
 
 Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to success in the pursuit of total physical, mental, and social health.
 
-This article isn't perfect. It doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Still, it's my hope that you will find these questions useful to reflect on your own situation. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
+This article isn't perfect. It doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Still, it's our hope that you will find these questions useful to reflect on your own situation. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
 
 ## Are they perpetuating or breaking the cycle of dependence?
 
@@ -82,9 +84,6 @@ The best clinicians set their ego aside in the clinic and put YOU at the center 
 
 If your clinician never admits fault, it might be that their pride and arrogance prevents them from admitting that they do not, in fact, know everything there is to know about your condition. They should never simply dismiss your questions, either. If there is something your clinician does not know, they should offer to research the topic for you or direct you to someone who does know.
 
-As a rule of thumb, the more cautious a clinician is about giving absolute answers to your questions, the better. The correct answer almost always starts with, "...well, it depends on X, Y, and Z." Pain, and health in general, is an infinitely nuanced field where the answers to many of your questions depend entirely on your unique context.
+As a rule of thumb, the more cautious a clinician is about giving absolute answers to your questions, the better. The correct answer almost always starts with, "...well, it depends on X, Y, and Z." To come full circle, pain (and health) is an infinitely nuanced field where the answers to many of your questions depend entirely on your unique context.
 
-I'd like to close off by thanking you for reading this article. I hope I've created a useful resource that you can come back to when you feel the need to reflect on your relationship with your clinician. Thank you for taking charge of your health.
-
-
-
+We'd like to close off by thanking you for reading this article. We hope that we've created a useful resource that you can come back to when you feel the need to reflect. Keep on taking charge of your health, and we wish you lots of success in your journey!

@@ -12,40 +12,31 @@ description: The pain revolution is here. Whether you're a health professional, 
 {% include 'partials/header.html' %}
 <main>
   <div class="[ squeeze12 stack ] [ cx g4 ]">
-    <section class="[ squeeze11 stack ] [ g2 ]">
-      <h1>Welcome!</h1>
-      <div class="[ sidebar ] [ is g2 ]">
-        <div class="[ image ] [ frame1:1 side6 squeeze6 ]">
-          <img src="/assets/img/profile_me-res.jpg" alt="Frederik smiling at the camera">
+    <section class="[ sidebar ] [ g2 ]">
+      <div class="[ flow1 main67% ]">
+        <h1>Welcome!</h1>
+        <p>The International Association for the Study of Pain defines pain as "an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage."</p>
+        <p>Pain is a very personal experience. It's necessary for us to survive, but sometimes it can get out of hand and be very distressing and disabling.</p>
+        <p>Our mission is to develop high-quality pain education and rehabilitation resources for clinicians, patients, and the general public. We work collectively to make these resources freely available in different languages.</p>
+      </div>
+      <div class="[ side6 cluster ] [ g2 ]">
+        <div class="[ squeeze6 stack ] [ g-1 ]">
+          <div class="[ image ] [ frame1:1 ]">
+            <img src="/assets/img/profile-frederik.jpg" alt="Frederik smiling at the camera">
+          </div>
+          <p class="[ fs-1 ]"><i>Frederik Kehlet</i></p>
         </div>
-        <div class="[ flow1 main67% squeeze9 ]">
-          <p>Hey there! I'm Frederik, a physical therapy student at San Pablo University in Madrid, Spain. I love promoting holistic health and empowering people to achieve their functional goals.</p>
-          <p>For a large number of people in society, there's a very personal, often unpleasant sensation and emotion which intrudes on many aspects of their life: <strong>pain.</strong></p>
-          <p>With a focus on pain as both a symptom and a condition in and of itself, my goal here is to develop a variety of free educational resources for clinicians, patients, and other curious people. I want to make it easy for everyone to make sense of this common yet misunderstood (and stigmatized) experience.</p>
+        <div class="[ squeeze6 stack ] [ g-1 ]">
+          <div class="[ image ] [ frame1:1 ]">
+            <img src="/assets/img/profile-zeph.jpg" alt="Zeph with cool sunglasses">
+          </div>
+          <p class="[ fs-1 ]"><i>Zeph Scamps</i></p>
         </div>
       </div>
     </section>
-    <div class="[ switcher12 ] [ g3 ]">
+    <div class="[ switcher11 ] [ g3 ]">
       {% set posts = collections[locale + '_articles'] %}
-      <section class="[ flow2 squeeze9 ]">
-        <h2 class="[ h-fancy ]">For patients</h2>
-        <div class="[ flow1/3 ]">
-          <h3>Articles</h3>
-          <ul class="[ flow1/3 ]">
-            {% for entry in posts %}
-            {% if entry.data.audience == 'patients' %}
-            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
-              {% endif %}
-              {% endfor %}
-          </ul>
-        </div>
-        <section class="[ flow1/3 ]">
-          <h3>Pain 101</h3>
-          <p class="[ fs-1 ]"><em>Have you ever wondered what pain is and how it works? In this 3-part series we'll introduce key concepts in pain science that you may find useful, no matter your situation.</em></p>
-          <p><strong><em>Stay tuned for the articles!</em></strong></p>
-        </section>
-      </section>
-      <section class="[ flow2 squeeze9 ]">
+      <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">For clinicians</h2>
         <section class="[ flow1/3 ]">
           <h3>Articles</h3>
@@ -64,18 +55,35 @@ description: The pain revolution is here. Whether you're a health professional, 
           </ul>
         </section>
       </section>
+      <section class="[ flow2 ]">
+        <h2 class="[ h-fancy ]">For patients</h2>
+        <div class="[ flow1/3 ]">
+          <h3>Articles</h3>
+          <ul class="[ flow1/3 ]">
+            {% for entry in posts %}
+            {% if entry.data.audience == 'patients' %}
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+              {% endif %}
+              {% endfor %}
+          </ul>
+        </div>
+      </section>
     </div>
-    <div class="[ flow2 ]">
+    <section class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Other projects</h2>
       <div class="[ flow1/3 ]">
         <h3>CSAW</h3>
-        <p><a href="/csaw/">Click here</a> to view a webpage summary of the landmark CSAW trial for subacromial shoulder pain.</p>
+        <p><a href="/csaw/">Click here</a> to view a webpage summary of the landmark CSAW surgical trial for subacromial shoulder pain.</p>
+      </div>
+      <div class="[ flow1/3 ]">
+        <h3>Exercise database</h3>
+        <p><em>Check back soon!</em></p>
       </div>
       <div class="[ flow1/3 ]">
         <h3>Journal club</h3>
         <p><a href="/en/club/">Click here</a> to view information about the USP CEU Faculty of Medicine journal club.</p>
       </div>
-    </div>
+    </section>
   </div>
 </main>
 {% include 'partials/footer.html' %}

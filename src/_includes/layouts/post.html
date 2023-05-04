@@ -9,7 +9,21 @@
         <h1>{{ title }}</h1>
         {% if subtitle %}<p class="fs2">{{ subtitle | capitalize }}</p>{% endif %}
       </div>
-      <p class="fs-1"><em>{{ readTime }}{% if locale == 'en' %} minute read{% else %} minutos de lectura{% endif %}</em></p>
+      <div class="[ flow1/2 ] [ fs-1 ]">
+        {% if locale == 'en' %}
+        <p>Author: {{ author }}</p>{% if translator %}<p>Translator: {{ translator }}</p>{% endif %}
+        {% else %}
+        <p>Autor(a): {{ author }}</p>{% if translator %}<p>Traductor(a): {{ translator }}</p>{% endif %}
+        {% endif %}
+        <p>
+          {{ readTime }}
+          {% if locale == 'en' %} minute read
+          {% else %} minutos de lectura
+          {% endif %}
+        </p>
+        <p class="[ fs-1 ]">
+        </p>
+      </div>
     </div>
     <!-- Article body -->
     <div class="[ flow3/2 ]">
