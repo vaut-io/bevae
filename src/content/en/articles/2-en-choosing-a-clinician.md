@@ -24,30 +24,23 @@ But then it gets worse. Before you know it, it's time again for your weekly mass
 
 This is an example of the cycle of dependence. If you recognize yourself in this cycle, your number one priority should be to get out. Even if your pain has a good prognosis (i.e., prediction about how it will evolve) it's something you want to avoid at all costs.
 
-Your clinician must facilitate your autonomy. This usually starts with identifying any contributing factors to your pain. Your clinician should be able to explain your pain and/or medical condition in a way that makes sense to you and then equip you with the tools and confidence you need to self-manage. After all, you might only be in the clinic one hour per week... what about the other 167?
+Your clinician should facilitate your autonomy. Your clinician should be able to explain your condition in a way that makes sense to you and then equip you with the tools and confidence you need to self-manage. After all, you might only be in the clinic one hour per week... what about the other 167?
 
 To put it bluntly, your clinician's foremost goal should be to never see you again. Is there a financial incentive to bring you back recurrently? Is there any reason why they may be might not be actively encouraging your autonomy? The time it takes to gain independence looks different for everyone, but it is the core of all best-practice pain management programs.
 
-I want to make it very clear that for certain kinds of pain, surgery and/or continual medical management are indispensible. That's why it is so important that you do not interpret this article as personalized medical advice. Ask a trusted health professional about your condition and don't be afraid to seek out second opinions.
-
 ## Do they place a strong emphasis on active therapies?
 
-Simply put, active therapies are those where you play an active part. This includes anything from weightlifting to cognitive behavioral therapy. It should come as no surprise that passive therapies, predicated on the idea of *receiving treatment* as opposed to you *putting treatment in action,* are not something you should spend too much time on if your goal is to escape the cycle of dependence.
-
+Active therapies are those where you play an active part. This includes anything from weightlifting to cognitive behavioral therapy (CBT). It should come as no surprise that passive therapies, predicated on the idea of *receiving treatment* as opposed to you *putting treatment in action,* are not something you should spend too much time on if your goal is to escape the cycle of dependence.
 
 The relief offered by passive therapies is short-lived. They just cannot offer the stimulation you need to build physical and mental resilience, overcome fears, learn healthy coping strategies, regain control, and reduce pain sensitivity in the same way that active approaches to therapy do.
 
-Some pains improve on their own with the passage of time no matter what you do, but if you want to have the highest chance of succeeding at your long-term health goals, you first have to recognize that there is no pill, needle, scalpel, or laser beam which will "cure" you of your pain.
+Some pains improve on their own with the passage of time no matter what you do, but if you want to have the highest chance of succeeding at your long-term health goals, you must recognize that quick fixes do not exist. There is no pill, needle, scalpel, or laser beam which will "cure" you of your pain. Recovering health takes patience and persistence.
 
-Quick fixes do not exist. Physical, mental, and social health is not something that *just happens*, it takes hard work applied consistently over time. Passive therapies and invasive procedures may form part of a holistic pain management strategy that's right for you, but they can never replace the vital role that active therapies fulfill.
-
-That isn't to say manual therapy and high-tech treatments don't have their place. In some cases they can provide the springboard you need to take a leap forward. Passive therapies are useful to the extent that they help you get more out of active therapies - the key is to not give them more attention than they deserve. As soon as they take priority over therapies where you are an active participant, you've lost the game.
-
-Does your clinician offer a pick-and-choose passive therapy buffet with discounts if you come back for more? Red flag! If all they do after the umpteenth ultrasound session is give some vague recommendation about "staying active" at home... there is a *lot* of room for improvement, to say the least.
+Passive therapies, invasive procedures, and continual medical management may form part of a holistic pain treatment strategy that's right for you, but they can never replace the vital role that active therapies fulfill. The key is to not give them more attention than they deserve. As soon as they take priority over therapies where you are an active participant, you've lost the game.
 
 Your clinician should work with you to implement sustainable lifestyle changes, taking into account your physical, mental, and social needs. For example, if you're finding it difficult to integrate more physical activity into your life (or perhaps you're struggling to dial it back) they should be coaching you through this process.
 
-Not everyone needs intensive therapy to recover well, and some kinds of pain are actually best managed with a hands-off, "let's wait and keep an eye on it" approach. But if you're reading this and feel like you're struggling to cope with your pain, disability, and suffering, the bottom line is this:
+Does your clinician offer a pick-and-choose passive therapy buffet with discounts if you come back for more? Is their only exercise-related recommendation "staying active?" Red flag! Not everyone needs intensive therapy to recover well, and some kinds of pain are actually best managed with a hands-off, "let's wait and keep an eye on it" approach. But if you're reading this and feel like you're struggling to cope with your pain, disability, and suffering, the bottom line is this:
 
 Your clinician must help you make sense of your pain, navigate barriers to recovery such as unhelpful beliefs and expectations, and modify behaviors and activities to the extent necessary to reduce your sensitivity to pain and facilitate your long-term health and independence. None of this is going to happen with a passive approach. If they can not or will not shift to an active-first mentality, it might be time to ask for a referral.
 
@@ -71,49 +64,18 @@ Once you and your clinician have worked together to identify overarching long te
 
 Planned progression means that when you reach a predetermined goal, you are going to progress in some way in order to work toward the next stage. Feeling safe and confident is paramount, but challenging yourself is equally as important! Gradually improving mental and physical resilience is one of the key ways the pain system desensitizes, but no meaningful progress will be made in this regard if the stimulus is not sufficient.
 
-Pain management without goals and planned progression is like trying to hit a bullseye in darkness. Monitoring function and symptoms over time is like turning on the light, it's much easier to aim accurately when you can see what you're doing!
+Pain management without goals and planned progression is like trying to hit a bullseye in darkness. Setting attainable goals and monitoring progress is like turning on the light, it's much easier to aim accurately when you know what you're aiming at and how close you are to the target!
 
-You also need
-Good clinicians will also react to unexpected changesin response to any  have an Attention to detail (without becoming neurotic) is something any clinician worth their salt
+Goal setting and planning is vital, but you can't control the result of your actions. You and your clinician should therefore work on a *process oriented* mindset. Instead of stressing about achieving a specific goal at a specific time (the result), focus on what you can control (the process). What can you do in the here and now to raise your chances of succeeding in the future?
 
-Your clinician also needs to be able to be reactive and adapt youre goals and progression
-
-Setting realistic goals
-Though goal setting is important, it's
-- Be PROCESS oriented
-
-- Attention to detail
-
-They lead by example
-
-Your clincician should support your need to feel competent. They should be giving you attainable goals. (ties in with confidence mentioned in previous section)
-
-And without some sort of goal to anchor the process (preferably one based in your preferences and activities)
-
-
-- Disease progress
-- Progressing in difficulty (going along with challenged but confident)
-
-Tailoring treatment
-
-Adaptable if nothing change
+And the future is incredibly unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, all plans must change. Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
 
 ## Are they afraid of saying "I don't know?"
 
-Some people are really good at giving false impressions of authority and intelligence. One such archetype to watch out for is the "certificate collector." You know, the clinician who has a dozen diplomas hanging on their wall. This often says more about their desire to be *perceived* as knowledgeable than their actual abilities and wisdom.
+Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions, but there is still a lot we don't know. There are also many things that your clinician does not know, whether they admit it or not.
 
-Inflated egos are common in all areas of life, and this is no less true in the medical field. The best clinicians will put YOU at the center. What does this mean in practice? If you ask questions, eventually you should get the response, "I don't know."
+Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual discernment.
 
-When they don't know something, they should be able to direct you to someone who does.
+The best clinicians set their ego aside in the clinic and put YOU at the center of care. They should not be trying to show off how great they are. A great way to assess this is simply by asking questions. If you ask questions, eventually you should get the response, "I don't know." If your clinician never says "I don't know," it might be that their pride and arrogance prevents them from admitting that they do not, in fact, know everything.
 
-Informing you about the potential risks and benefits of each treatment...
-
-Do reseach on it, come back to you with the answer.
-
-Recognize, "I'm not the best to treat you"
-
-- Education
-- "Are they explaining the problem to me/ what is going on in my body?"
-- Do they help you identify contributing factors, and show you what you can do with this information
-- In a way that YOU can understand
-- Give you external sources of information
+Your clinician should then offer to research the topic for you and get back to you with an answer, or direct you to someone who does know. They should also be able to recognize if you would benefit from no treatment, or from beginning a clinical relationship with someone else.
