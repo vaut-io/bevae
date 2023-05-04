@@ -28,7 +28,7 @@ This is an example of the cycle of dependence. If you recognize yourself in this
 
 To break the cycle, your clinician should facilitate your autonomy and self-management. You might only be in the clinic one hour per week, what you do outside is where the real work lies. Your clinician should explain your condition in a way that makes sense to you, present different options for management going forward, and equip you with the tools and confidence you need to be more independent.
 
-Simply put, **your clinician's foremost goal should be to never see you again.** Is there a financial incentive to bring you back recurrently? Is there any reason why they might not be actively encouraging your autonomy? The time it takes to gain control, confidence, and independence looks different for everyone, but it is the core of what your clinician should be helping you achieve.
+**Your clinician's foremost goal should be to never see you again.** Is there a financial incentive to bring you back recurrently? Is there any reason why they might not be actively encouraging your autonomy? The time it takes to gain control, confidence, and independence looks different for everyone, but it is the core of what your clinician should be helping you achieve.
 
 ## Do they place a strong emphasis on active therapies?
 
@@ -36,31 +36,31 @@ Active therapies are those where you play an active part. This includes anything
 
 The relief offered by passive therapies such as massage, acupuncture, or ultrasound is short lived. They simply cannot offer the stimulation needed to build physical and mental resilience, overcome fears, learn healthy coping strategies, regain control, and reduce pain sensitivity in the same way that active approaches to therapy do.
 
-Some pains improve with the passage of time no matter what, but if you want to have the highest chance of succeeding at your long-term health goals, you must recognize that **quick fixes do not exist.** There is no pill, needle, scalpel, or laser beam which will "cure" you of pain and disability. Recovering health and function requires a combination of intelligent decision making, patience, and persistence.
+Some pains improve with the passage of time no matter what, but if you want to have the highest chance of succeeding at your long-term health goals, **you must recognize that there are no "quick fixes."** There is no pill, needle, scalpel, or laser beam which will "cure" you of your pain and disability. Recovering health and function requires a combination of intelligent decision making, patience, and persistence.
 
 Passive therapies, invasive procedures, and continual medical management may form part of a holistic pain treatment strategy that's right for you, but they can never replace the vital role that active therapies fulfill. The key is to not give them more attention than they deserve. As soon as they take priority over therapies where you are an active participant, you've "lost the game," so to speak.
 
 Does your clinician offer a pick-and-choose passive therapy buffet with discounts if you come back for more? Is their only activity-related recommendation some vague remark about "staying active?" **Red flag.** Not everyone needs intensive therapy to recover. But if you feel like you're struggling to cope with your pain, disability, and suffering, the bottom line is this:
 
-Your clinician must help you make sense of your pain, navigate barriers to recovery such as unhelpful beliefs and expectations, and modify behaviors and activities to the extent necessary to reduce your sensitivity to pain and promote your long-term health and independence. **None of this is going to happen with a passive approach.** If they can not or will not shift to an active-first mentality, it might be time to ask for a referral.
+Your clinician must help you make sense of your pain, navigate barriers to recovery such as unhelpful beliefs and expectations, and modify behaviors and activities to the extent necessary to reduce your sensitivity to pain and promote your long-term health and independence. **None of this is going to happen with a passive approach.** If they cannot or will not shift to an active-first mentality, it might be time to ask for a referral.
 
 ## Do they inspire trust, confidence, and safety?
 
-Pain is a protective response designed to keep your body safe from danger. This means that perceived threats in the environment, whether actually dangerous or not (both are equally "real" to the nervous system), profoundly affect your pain experience.
+Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and related behaviors. Whether the threat is *actually* dangerous or not doesn't matter, both are equally "real" to your pain system.
 
-Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you get through some of the most vulnerable periods of your life, and it's easy to see why **the last thing you want is for your clinician to be perceived as a threat.** Your clinician should be a source of safety.
+Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you when you're at your most vulnerable and it's easy to see why **the last thing you'd ever want is for your clinician to be perceived as a threat** by your pain system. Your clinician *needs* to be a source of safety.
 
 To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and inspired? Or depressed and anxious?
 
-**Your clinician should inspire boundless confidence.** It is well known that self-efficacy (i.e., self-belief) is one of the most important determinants of long-term health outcomes. Finding confidence in your own body when it feels like it's failing you is exceedingly difficult. But while you might not always believe in your ability to climb that mountain, your clinician sure as hell should.
+It is well known that self-efficacy (i.e., self-belief) is one of the most important determinants of long-term health outcomes. **Your clinician should inspire boundless confidence.** Finding confidence in your own body when it feels like it's failing you is *hard*. But while you might not always believe in your ability to climb that mountain, your clinician sure as hell should.
 
-Does your clinician add to your anxiety? Does it seem like they aren't really interested in listening to you? It goes without saying that a clinical environment characterized by disinterest, fearmongering, and pessimism poses a great hurdle to you evolving in a positive direction.
+Does your clinician pile on top of your worries? Does it feel like they aren't really listening to you? It goes without saying that a clinical environment characterized by disinterest, fearmongering, and pessimism poses a great hurdle to you evolving in a positive direction.
 
 ## Do they set goals and monitor progression?
 
 The unfortunate reality is that many clinicians do not practice intelligent goal setting. Goals give direction to pain management and rehabilitation. **You and your clinician should collaborate to set realistic goals,** taking into account your preferences, values, and other constraints.
 
-Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in smaller timeframes and form the basis for *planned progression*, another crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
+Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in smaller timeframes and form the basis for *planned progression*, a crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
 
 Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge that's neither too easy nor too difficult.
 
