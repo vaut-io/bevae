@@ -11,9 +11,9 @@
       </div>
       <div class="[ flow1/2 ] [ fs-1 ]">
         {% if locale == 'en' %}
-        <p>Author: {{ author }}</p>{% if translator %}<p>Translator: {{ translator }}</p>{% endif %}
+        <p>Author: {{ author }}</p>
         {% else %}
-        <p>Autor(a): {{ author }}</p>{% if translator %}<p>Traductor(a): {{ translator }}</p>{% endif %}
+        <p>Autor: {{ author }}</p>
         {% endif %}
         <p>
           {{ readTime }}

@@ -10,7 +10,7 @@ audience: patients
 
 When you decide to seek professional help for a pain problem, finding a highly competent clinician is no straightforward task. Aside from the fact that many clinicians remain blissfully unaware of modern developments in the research on pain, what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
 
-While there are countless treatment modalities and strategies, there exist a few fundamental principles that every good clinician should follow (or at least try). No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
+While there are countless treatment modalities and strategies, there exist a few fundamental principles that every good clinician should follow. No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
 
 Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to success in the pursuit of total physical, mental, and social health.
 
