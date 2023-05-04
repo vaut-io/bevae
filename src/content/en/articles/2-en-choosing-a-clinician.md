@@ -70,7 +70,7 @@ Pain management without goal setting and planned progression is like throwing da
 
 The future is unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, **flexibility should be baked into your action plan.** Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
 
-Instead of stressing about achieving a specific goal at a specific time (the result), something inherently is out of your control, try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process oriented* mindset.
+Instead of stressing about achieving a specific goal at a specific time (the result, something inherently out of your control), try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process oriented* mindset.
 
 ## Are they afraid of saying "I don't know?"
 
