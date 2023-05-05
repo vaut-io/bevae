@@ -40,7 +40,7 @@ Some pains improve with the passage of time no matter what, but if you want to h
 
 Passive therapies, invasive procedures, and continual medical management may form part of a holistic pain treatment strategy that's right for you, but they can never replace the vital role that active therapies fulfill. The key is to not give passive therapies more attention than they deserve. As soon as they take priority over therapies where you are an active participant, you've lost the game.
 
-Does your clinician offer a pick-and-choose passive therapy buffet with discounts if you come back for more? Is their only activity-related recommendation some vague remark about "staying active?" **Red flag.** Not everyone needs intensive therapy to recover. But if you feel like you're struggling to cope with your pain, disability, and suffering, the bottom line is this:
+Does your clinician offer a pick-and-choose passive therapy buffet with discounts if you come back for more? Is their only activity-related recommendation some vague remark about "staying active?" **Red flag.** Not everyone needs intensive therapy to recover, but if you feel like you're struggling to cope with your pain, disability, and suffering, the bottom line is this:
 
 Your clinician must help you make sense of your pain, navigate barriers to recovery such as unhelpful beliefs and expectations, and modify behaviors and activities to the extent necessary to reduce your sensitivity to pain and promote your long-term health and independence. **None of this is going to happen with a passive approach.** If they cannot or will not shift to an active-first mentality, it might be time to ask for a referral.
 
@@ -62,11 +62,11 @@ The unfortunate reality is that many clinicians do not practice intelligent goal
 
 Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in shorter timeframes and form the basis for *planned progression*, a crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
 
-Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress in the right amounts, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
+Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
 
-Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to always be providing an ideal dose of stress (neither too little nor too much) as your capacity steadily increases over time.
+*Planned progression* means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to always be providing an ideal dose of stress (neither too little nor too much) that keeps pace with your steadily increasing capacity.
 
-Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
+Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the lights. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 
 The future is unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, plans will inevitably need to change. Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
 
@@ -80,6 +80,6 @@ Some clinicians give false impressions of their knowledge and abilities. One arc
 
 The best clinicians set their ego aside and put YOU at the center of care. They should not be trying to show off how great they are. One of the best ways to assess this is by asking questions about your condition. If you keep asking relevant questions, eventually you should get the response, "I don't know."
 
-If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to an expert.
+If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to an expert who does.
 
-As a rule of thumb, the more cautious your clinician is about giving absolute answers to even the simplest of questions, the better. **The correct answer almost always starts with, "it depends on..."** Circling back to the very beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
+As a rule of thumb, the more cautious your clinician is about giving absolute answers to even the simplest of questions, the better. **The correct answer almost always starts with, "it depends on..."** Circling back to the beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
