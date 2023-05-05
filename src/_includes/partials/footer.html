@@ -20,7 +20,15 @@
       {% endif %}
 
       <!-- Creative Commons and Attribution -->
-      <a class="cc" href="https://creativecommons.org/licenses/by/4.0/" target="_blank">
+      <a class="cc" href="
+        {% if locale == 'en' %}
+        https://creativecommons.org/licenses/by/4.0/
+        {% elif locale == 'es' %}
+        https://creativecommons.org/licenses/by/4.0/deed.es
+        {% elif locale == 'fr' %}
+        https://creativecommons.org/licenses/by/4.0/deed.fr
+        {% endif %}
+        " target="_blank">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.0" id="Layer_1" x="0px" y="0px" viewBox="5.5 -3.5 64 64" enable-background="new 5.5 -3.5 64 64" xml:space="preserve">
           <g>
             <circle cx="37.785" cy="28.501" r="28.836"/>
