@@ -4,7 +4,7 @@ title: Choosing a clinician
 subtitle: 5 questions to know if your health is in good hands
 description: Discover whether or not your clinician is following best-practice pain management principles by reflecting on these key questions.
 author: Frederik Kehlet
-readTime: 15-20
+readTime: 10-15
 audience: patients
 ---
 
@@ -46,9 +46,9 @@ Your clinician must help you make sense of your pain, navigate barriers to recov
 
 ## 3. Do they inspire trust, confidence, and safety?
 
-Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and related behaviors. Whether the threat is *actually* dangerous or not doesn't matter, both are equally "real" to your pain system.
+Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and related behaviors. Whether the threat is *actually* dangerous or not doesn't matter - both are equally "real" to your pain system.
 
-Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you when you're at your most vulnerable and it's easy to see why **the last thing you'd ever want is for your clinician to be perceived as a threat by your pain system.** Your clinician *needs* to be a source of safety.
+Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you when you're at your most vulnerable, and it's easy to see why **the last thing you'd ever want is for your clinician to be perceived as a threat by your pain system.** Your clinician *needs* to be a source of safety.
 
 To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and inspired? Or depressed and anxious?
 
@@ -64,7 +64,7 @@ Once you have worked together to identify overarching goals, you must break them
 
 Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge - neither too easy nor too difficult.
 
-Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
+Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress in the right dose, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
 
 Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 
@@ -80,6 +80,6 @@ Some clinicians give false impressions of their knowledge and abilities. One arc
 
 The best clinicians set their ego aside and put YOU at the center of care. They should not be trying to show off how great they are. One of the best ways to assess this is by asking questions about your condition. If you keep asking relevant questions, eventually you should get the response, "I don't know."
 
-If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to someone who does know.
+If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to an expert.
 
-As a rule of thumb, the more cautious a clinician is about giving absolute answers to even "simple" questions, the better. **The correct answer almost always starts with, "it depends on X, Y, and Z."** Circling back to the very beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
+As a rule of thumb, the more cautious your clinician is about giving absolute answers to even the simplest of questions, the better. **The correct answer almost always starts with, "it depends on X, Y, and Z."** Circling back to the very beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
