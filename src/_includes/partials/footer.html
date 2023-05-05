@@ -38,7 +38,7 @@
       </a>
     </div>
     {% for language in site.languages %}
-    {% if loop.first %}<ul class="[ cluster ] [ is g0 ]">{% endif %}
+    {% if loop.first %}<ul class="[ cluster ] [ is g1 ]">{% endif %}
 
       {% set translationUrl = "/" + language.code + "/" %}
       {% set activeClass = "is-active" if language.code == locale else "" %}
