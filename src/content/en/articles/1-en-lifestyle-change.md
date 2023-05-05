@@ -215,11 +215,7 @@ Self-determination theory showed us that the reasons underpinning our behavior c
 
 We discovered that the question we posed at the beginning was actually loaded with unhelpful assumptions. Instead of telling people what to do, we should focus on creating an environment which is supportive of individuals' basic psychological needs for autonomy, competence, and relatedness.
 
-We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. We learned how to use a decision matrix to help patients strengthen their commitment.
-
-Thank you for reading this article! I hope that you find these principles useful for improving your clinical practice as well as your personal life.
-
-
+We briefly introduced motivational interviewing, a counseling technique designed to facilitate behavior change. Finally, we learned how to use a decision matrix to help patients strengthen their commitment.
 
 ## Further reading
 

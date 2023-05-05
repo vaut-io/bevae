@@ -212,10 +212,7 @@ La teoría de la autodeterminación nos mostró que las razones que sustentan nu
 
 Descubrimos que la pregunta que planteamos al principio estaba cargada de suposiciones contraproducentes. En lugar de decir a la gente lo que tiene que hacer, deberíamos centrarnos en crear un entorno que apoye las necesidades psicológicas básicas de autonomía, competencia y relación de los demás.
 
-Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
-
-¡Gracias por leer esta entrada! Espero que encuentres estos principios útiles para mejorar tu práctica clínica y tu vida personal.
-
+Presentamos brevemente la entrevista motivacional, una técnica de asesoramiento diseñada para facilitar el cambio de comportamiento. Por último, aprendimos a utilizar una matriz de decisiones para ayudar a los pacientes a reforzar su compromiso.
 
 
 ## Lectura adicional
