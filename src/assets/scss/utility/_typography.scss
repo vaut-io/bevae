@@ -24,6 +24,9 @@
 .lhbody { line-height: var(--linebody); }
 .lhhead { line-height: var(--linehead); }
 
+// Underline
+.u { text-decoration: underline; }
+
 // Standard colors
 .fc-n100 { color: hsl(var(--neutral100)); --fg: var(--neutral100); }
 .fc-n200 { color: hsl(var(--neutral200)); --fg: var(--neutral200); }
