@@ -8,7 +8,7 @@ readTime: 15-20
 audience: patients
 ---
 
-When you decide to seek professional help for a pain problem, finding a clinician that's right for you is no straightforward task. **Many clinicians remain blissfully unaware of modern developments in pain research,** and what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
+When you decide to seek professional help for a pain problem, **finding a clinician that's right for you is no straightforward task.** Many clinicians remain blissfully unaware of modern advancements in pain research, and what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
 
 While there are countless treatment modalities and strategies, **there exist a few fundamental principles that every highly competent clinician follows.** No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
 
@@ -60,7 +60,7 @@ Does your clinician pile on top of your worries? Does it feel like they aren't r
 
 The unfortunate reality is that many clinicians do not practice intelligent goal setting. Goals give direction to pain management and rehabilitation. **You and your clinician should collaborate to set realistic goals,** taking into account your preferences, values, and other constraints.
 
-Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in smaller timeframes and form the basis for *planned progression*, a crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
+Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in shorter timeframes and form the basis for *planned progression*, a crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
 
 Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge - neither too easy nor too difficult.
 
@@ -82,6 +82,4 @@ The best clinicians set their ego aside in the clinic and put YOU at the center 
 
 If your clinician never admits fault, it might be that their pride and arrogance prevents them from admitting that they do not, in fact, know everything there is to know about your condition. They should never simply dismiss your questions, either. If there is something your clinician does not know, they should offer to research the topic for you or direct you to someone who does know.
 
-As a rule of thumb, the more cautious a clinician is about giving absolute answers to your questions, the better. **The correct answer almost always starts with, "it depends on X, Y, and Z."** Pain (and health) is an infinitely nuanced field where the answers to many of your questions depend entirely on your unique context.
-
-I'd like to close off by thanking you for reading this article. I hope that this is useful resource that you can return to when you feel the need to reflect on your situation. Thank you for taking charge of your health, and I wish you lots of success in your journey!
+As a rule of thumb, the more cautious a clinician is about giving absolute answers to even "simple" questions, the better. **The correct answer almost always starts with, "it depends on X, Y, and Z."** Circling back to the very beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
