@@ -31,19 +31,6 @@ description: The pain revolution is here. Whether you're a health professional, 
           </ul>
         </div>
       </section>
-      <section class="[ flow2 ]">
-        <h2 class="[ h-fancy ]">Para pacientes</h2>
-        <div class="[ flow1/3 ]">
-          <h3>Entradas</h3>
-          <ul class="[ flow1/3 ]">
-            {% for entry in posts %}
-            {% if entry.data.audience == 'patients' %}
-            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
-            {% endif %}
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
     </div>
     <section class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Proyectos</h2>
