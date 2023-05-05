@@ -26,7 +26,7 @@ The pain diminishes for a short while, but it always comes back again, every tim
 
 This is an example of the cycle of dependence. **If you recognize yourself in this cycle, your number one priority should be to get out.** Even if your pain has a good prognosis (i.e., prediction about how it will evolve) this cycle is something you want to avoid at all costs.
 
-To break the cycle, your clinician should facilitate your autonomy and self-management. After all, you might only be in the clinic one hour per week - the real work lies in what you do in the other 167 hours. Your clinician should explain your condition in a way that makes sense to you, present your options going forward, and equip you with the tools and confidence you need to be more independent.
+To break the cycle, your clinician should facilitate your autonomy and self-management. After all, you might only be in the clinic one hour per week - the real work lies in what you do during the remaining 167 hours. Your clinician should explain your condition in a way that makes sense to you, present your options going forward, and equip you with the tools and confidence you need to be more independent.
 
 Simply put, your clinician's foremost goal should be to never see you again. Is there a financial incentive to bring you back recurrently? Is there any reason why they might not be actively encouraging your autonomy? The time it takes to gain control, confidence, and independence looks different for everyone, but it is the core of what your clinician should be helping you strive towards.
 
