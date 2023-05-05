@@ -64,7 +64,7 @@ Once you have worked together to identify overarching goals, you must break them
 
 Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress in the right amounts, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
 
-Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide an ever-increasing stimulus for adaptation through *optimal challenge* (i.e., just the right dose of stress, neither too little nor too much).
+Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to always be providing an ideal dose of stress (neither too little nor too much) as your capacity steadily improves over time.
 
 Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 
