@@ -2,7 +2,7 @@
 translationKey: article2
 title: Choosing a clinician
 subtitle: 5 questions to know if your health is in good hands
-description: Discover whether or not your clinician is following best-practice pain management principles by reflecting on these key questions.
+description: Discover whether or not your clinician is following best-practice pain management principles by reflecting on these 5 key questions.
 author: Frederik Kehlet
 readTime: 10-15
 audience: patients
@@ -12,7 +12,7 @@ When you decide to seek professional help for a pain problem, finding a clinicia
 
 While there are countless treatment modalities and strategies, there exist a few fundamental principles that every highly competent clinician follows. No matter which sort of pain problem you have, these "ground rules" serve as a litmus test for telling the best apart from the rest.
 
-Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to success in the pursuit of health, whatever that looks like for you.
+Socioeconomic status and luck play an important role in determining the quality of care that is available to you. Despite any obstacles you may be facing, having access to accurate information and asking the right questions will get you on the path to success in the pursuit of health - whatever that looks like for you.
 
 This article isn't perfect. It doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Still, it's my hope that you find these questions useful to reflect on your own situation. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
 
@@ -62,9 +62,9 @@ The unfortunate reality is that many clinicians do not practice intelligent goal
 
 Once you have worked together to identify overarching goals, you must break them into smaller chunks. *Staged goals* are achievable in shorter timeframes and form the basis for *planned progression*, a crucial aspect of best-practice therapy often forgotten outside of professional sports contexts.
 
-Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide a constant level of "optimal" challenge - neither too easy nor too difficult.
-
 Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress in the right amounts, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
+
+Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to provide an ever-increasing stimulus for adaptation through *optimal challenge* (i.e., just the right amount of stress, neither to little nor too much).
 
 Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the light. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 
