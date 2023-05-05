@@ -1,0 +1,23 @@
+---
+translationKey: home
+title: Home
+permalink: /fr/
+description: Pain is necessary for us to survive, but sometimes it can get out of hand and be very distressing and disabling. Our mission is to develop high-quality pain education and rehabilitation resources for clinicians, patients, and the general public.
+---
+{% extends 'base.html' %}
+{% block body %}
+{% include 'partials/header.html' %}
+<main>
+  <div class="[ squeeze12 stack ] [ cx g4 ]">
+    {% include 'partials/homeIntro.html' %}
+    <section class="[ flow2 ]">
+      <h2 class="[ h-fancy ]">Projets</h2>
+      <div class="[ flow1/3 ]">
+        <h3>CSAW</h3>
+        <p><a href="/csaw/">Click here</a> to view a webpage summary of the landmark CSAW surgical trial for subacromial shoulder pain.</p>
+      </div>
+    </section>
+  </div>
+</main>
+{% include 'partials/footer.html' %}
+{% endblock %}

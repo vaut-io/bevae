@@ -2,12 +2,11 @@
 translationKey: home
 title: Inicio
 permalink: /es/
-description: La revolución del dolor ya ha llegado. Si eres sanitario, o una persona con dolor o simplemente tienes curiosidad, BEVAE facilita el aprendizaje de la naturaleza del dolor y los principios modernos de su manejo.
+description: The pain revolution is here. Whether you're a health professional, a person with pain, or just curious, BEVAE makes it easy to learn about the nature of pain and modern pain management principles.
 ---
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
-
 <main>
   <div class="[ squeeze12 stack ] [ cx g4 ]">
     {% include 'partials/homeIntro.html' %}
@@ -15,7 +14,7 @@ description: La revolución del dolor ya ha llegado. Si eres sanitario, o una pe
       {% set posts = collections[locale + '_articles'] %}
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">Para clínic@s</h2>
-        <section class="[ flow1/3 ]">
+        <div class="[ flow1/3 ]">
           <h3>Entradas</h3>
           <ul class="[ flow1/3 ]">
             {% for entry in posts %}
@@ -24,13 +23,13 @@ description: La revolución del dolor ya ha llegado. Si eres sanitario, o una pe
             {% endif %}
             {% endfor %}
           </ul>
-        </section>
-        <section class="[ flow1/3 ]">
+        </div>
+        <div class="[ flow1/3 ]">
           <h3>Formularios</h3>
           <ul>
             <li><a href="/es/formularios/oemsq-12">ÖMSQ-12</a> - Un cuestionario práctico de cribaje en las dolencias musculoesqueléticas, adaptado y traducido de <i>Gabel et al. 2013.</i><strong> Aún no se ha validado en español.</strong></li>
           </ul>
-        </section>
+        </div>
       </section>
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">Para pacientes</h2>
@@ -47,7 +46,7 @@ description: La revolución del dolor ya ha llegado. Si eres sanitario, o una pe
       </section>
     </div>
     <section class="[ flow2 ]">
-      <h2 class="[ h-fancy ]">Otros proyectos</h2>
+      <h2 class="[ h-fancy ]">Proyectos</h2>
       <div class="[ flow1/3 ]">
         <h3>Club de investigación</h3>
         <p><a href="/es/club/">Haz clic aquí</a> para ver información sobre el club de investigación de la Facultad de Medicina de USP CEU.</p>

@@ -2,10 +2,9 @@
 translationKey: home
 title: Home
 permalink: /en/
-description: The pain revolution is here. Whether you're a health professional, a person with pain, or just curious, BEVAE makes it easy to learn about the nature of pain and modern pain management principles.
+description: Pain is necessary for us to survive, but sometimes it can get out of hand and be very distressing and disabling. Our mission is to develop high-quality pain education and rehabilitation resources for clinicians, patients, and the general public.
 ---
 {% extends 'base.html' %}
-
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
@@ -15,7 +14,7 @@ description: The pain revolution is here. Whether you're a health professional, 
       {% set posts = collections[locale + '_articles'] %}
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">For clinicians</h2>
-        <section class="[ flow1/3 ]">
+        <div class="[ flow1/3 ]">
           <h3>Articles</h3>
           <ul class="[ flow1/3 ]">
             {% for entry in posts %}
@@ -24,13 +23,13 @@ description: The pain revolution is here. Whether you're a health professional, 
             {% endif %}
             {% endfor %}
           </ul>
-        </section>
-        <section class="[ flow1/3 ]">
+        </div>
+        <div class="[ flow1/3 ]">
           <h3>Forms</h3>
           <ul>
             <li><a href="/en/forms/oemsq-12/">ÖMSQ-12</a> - A practical screening questionnaire for musculoskeletal complaints, adapted from <i>Gabel et al., 2013.</i></li>
           </ul>
-        </section>
+        </div>
       </section>
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">For patients</h2>
@@ -47,7 +46,7 @@ description: The pain revolution is here. Whether you're a health professional, 
       </section>
     </div>
     <section class="[ flow2 ]">
-      <h2 class="[ h-fancy ]">Other projects</h2>
+      <h2 class="[ h-fancy ]">Projects</h2>
       <div class="[ flow1/3 ]">
         <h3>CSAW</h3>
         <p><a href="/csaw/">Click here</a> to view a webpage summary of the landmark CSAW surgical trial for subacromial shoulder pain.</p>

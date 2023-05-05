@@ -1,16 +1,10 @@
-.logo {
-  border: none;
-  color: hsl(var(--primary500));
-  font-family: krona;
-  font-style: italic;
-  font-weight: var(--weight400);
-  letter-spacing: +.05ch;
-  &:hover {
-
+.nav {
+  &-logo {
+    border: none;
+    color: hsl(var(--primary500));
+    font-family: krona;
+    font-style: italic;
+    font-weight: var(--weight400);
+    letter-spacing: +.05ch;
   }
-}
-
-.nav-header {
-  padding: var(--space0) var(--space1) var(--space-3);
-  background: hsl(var(--primary050));
 }
