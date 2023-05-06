@@ -72,7 +72,7 @@ The future is unpredictable, especially when it comes to something as complex as
 
 Instead of stressing about achieving a specific goal at a specific time (the result, something inherently out of your control), try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process-oriented* mindset.
 
-## 5. Are they afraid of saying "I don't know?".
+## 5. Are they afraid of saying "I don't know?"
 
 Humility is a virtue - and nowhere more so than in medicine, where we've been getting things *awfully* wrong since the beginning of time. Humanity today collectively understands quite a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there are still many unknowns and "truths" which could turn out to be wrong.
 
