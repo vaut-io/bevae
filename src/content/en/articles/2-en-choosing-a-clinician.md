@@ -46,11 +46,11 @@ Your clinician must help you make sense of your pain, navigate barriers to recov
 
 ## 3. Do they inspire trust, confidence, and safety?
 
-Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and related behaviors. Whether the threat is *actually* dangerous or not doesn't matter - both are equally "real" to your pain system.
+Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and pain-related behaviors. It doesn't matter if the threat is *actually* dangerous or not - in either case, the danger is real as far as your pain system is concerned.
 
 Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you when you're at your most vulnerable, and it's easy to see why **the last thing you'd ever want is for your clinician to be perceived as a threat by your pain system.** Your clinician *needs* to be a source of safety.
 
-To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and inspired? Or depressed and anxious?
+To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and safe? Or depressed and anxious?
 
 It is well known that self-efficacy (i.e., self-belief) is one of the most important determinants of long-term health outcomes. Your clinician should be someone who inspires boundless confidence. Finding confidence in your own body when it feels like it's failing you is *hard*. But while you might not always believe in your ability to climb that mountain, your clinician sure as hell should.
 
@@ -70,7 +70,7 @@ Pain management without goal setting and progression is like throwing darts in a
 
 The future is unpredictable, especially when it comes to something as complex as pain. Be it stalled progress or a stressful setback, plans will inevitably need to change. Your clinician should know how to react to whatever comes up during the process and help you work through or around it.
 
-Instead of stressing about achieving a specific goal at a specific time (the result, something inherently out of your control), try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process oriented* mindset.
+Instead of stressing about achieving a specific goal at a specific time (the result, something inherently out of your control), try to focus on what you can do to move in a positive direction (the process). What do you presently have control over that will increase your chances of future success? You and your clinician should work on fostering a *process-oriented* mindset.
 
 ## 5. Are they afraid of saying "I don't know?"
 
@@ -80,6 +80,6 @@ Some clinicians give false impressions of their knowledge and abilities. One arc
 
 The best clinicians set their ego aside and put YOU at the center of care. They should not be trying to show off how great they are. One of the best ways to assess this is by asking questions about your condition. If you keep asking relevant questions, eventually you should get the response, "I don't know."
 
-If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to an expert who does.
+If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to a trustworthy source.
 
-As a rule of thumb, the more cautious your clinician is about giving absolute answers to even the simplest of questions, the better. **The correct answer almost always starts with, "it depends on..."** Circling back to the beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
+As a rule of thumb, the more cautious your clinician is about giving absolute answers to even the simplest of questions, the better. **The correct answer almost always starts with, "it depends on..."** Circling back to the very beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
