@@ -18,13 +18,13 @@ This article isn't perfect. It doesn't cover everything there is to talk about, 
 
 ## 1. Are they perpetuating or breaking the cycle of dependence?
 
-Pain, especially when it becomes persistent, has a way of creeping into all corners of life. It eventually affects anything and everything, from your mood to your relationships and identity. What you decide to do about it has the potential to lead you to the light at the end of the tunnel, but it could just as well be keeping you stumbling around in the dark.
+Pain, especially when it persists, has a way of creeping into all corners of life. It eventually affects anything and everything, from your mood to your relationships and identity. What you decide to do about it has the potential to lead you to the light at the end of the tunnel, but it could just as well be keeping you stumbling around in the dark.
 
 Persistent pain usually starts innocently enough. A new pain appears in a body part such as your back, knee, or shoulder. Your doctor prescribes a mild painkiller and tells you to put some heat on it and rest. But it doesn't get better. Before you know it, it's time again for your weekly massage, manipulation, infrared, acupuncture, or whatever other therapy you signed up for.
 
-The pain diminishes for a short while, but it always comes back again, every time a bit worse. You may be stressing about an upcoming appointment with a surgeon, all while your ability to do the things that bring you happiness slowly withers away over the months and years.
+The pain diminishes for a short while, but it always comes back again, each time a little bit worse. You may be stressing about an upcoming appointment with a surgeon, all while your ability to do the things that bring you happiness slowly withers away over the months and years.
 
-This is an example of the cycle of dependence. **If you recognize yourself in this cycle, your number one priority should be to get out.** Even if your pain has a good prognosis (i.e., prediction about how it will evolve) this cycle is something you want to avoid at all costs.
+This is an example of the cycle of dependence. **If you recognize yourself in this cycle, your number one priority should be to get out.** Even if your pain has a good prognosis (i.e., prediction about how it will evolve), getting trapped in this cycle is something you want to avoid at all costs.
 
 To break the cycle, your clinician should facilitate your autonomy and self-management. After all, you might only be in the clinic one hour per week - the real work lies in what you do during the remaining 167 hours. Your clinician should explain your condition in a way that makes sense to you, present your options going forward, and equip you with the tools and confidence you need to be more independent.
 
@@ -36,7 +36,7 @@ Active therapies are those where you play an active part. This includes anything
 
 The relief offered by passive therapies such as massage, acupuncture, or ultrasound is short lived. They just cannot offer the stimulation needed to build physical and mental resilience, overcome fears, learn healthy coping strategies, regain control, and reduce pain sensitivity in the same way that active approaches to therapy do.
 
-Some pains improve with the passage of time no matter what, but if you want to have the highest chance of succeeding at your long-term health goals, **you must recognize that there are no "quick fixes."** There is no pill, needle, scalpel, or laser beam which will "cure" you of your pain and disability. Recovering health and function requires a combination of intelligent decision making, patience, and persistence.
+Some pains improve with the passage of time no matter what, but if you want to have the highest chance of succeeding at your health goals, **you must recognize that there are no quick fixes.** There is no pill, needle, scalpel, or laser beam which will "cure" you of your pain and disability. Recovering health and function requires a combination of intelligent decision making, patience, and persistence.
 
 Passive therapies, invasive procedures, and continual medical management may form part of a holistic pain treatment strategy that's right for you, but they can never replace the vital role that active therapies fulfill. The key is to not give passive therapies more attention than they deserve. As soon as they take priority over therapies where you are an active participant, you've lost the game.
 
@@ -46,15 +46,15 @@ Your clinician must help you make sense of your pain, navigate barriers to recov
 
 ## 3. Do they inspire trust, confidence, and safety?
 
-Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and pain-related behaviors. It doesn't matter if the threat is *actually* dangerous or not - in either case, the danger is real as far as your pain system is concerned.
+Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and pain-related behaviors. It doesn't matter if the threat is *actually* dangerous or not - as far as your pain system is concerned, the danger is real.
 
 Health-related decisions are some of the most important and personally relevant decisions you will ever make. Add to this the fact that your clinician is intimately involved in helping you when you're at your most vulnerable, and it's easy to see why **the last thing you'd ever want is for your clinician to be perceived as a threat by your pain system.** Your clinician *needs* to be a source of safety.
 
-To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and safe? Or depressed and anxious?
+To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and cared for? Or depressed and anxious?
 
 It is well known that self-efficacy (i.e., self-belief) is one of the most important determinants of long-term health outcomes. Your clinician should be someone who inspires boundless confidence. Finding confidence in your own body when it feels like it's failing you is *hard*. But while you might not always believe in your ability to climb that mountain, your clinician sure as hell should.
 
-Does your clinician pile on top of your worries? Does it feel like they aren't really listening to you? It goes without saying that a clinical environment characterized by disinterest, fearmongering, and pessimism poses a great hurdle to you evolving in a positive direction.
+Does your clinician pile on top of your worries? Does it feel like they aren't really listening to you? It goes without saying that a clinical environment characterized by disinterest, fearmongering, and pessimism poses a significant hurdle to you evolving in a positive direction.
 
 ## 4. Do they set goals and monitor progression?
 
@@ -74,7 +74,7 @@ Instead of stressing about achieving a specific goal at a specific time (the res
 
 ## 5. Are they afraid of saying "I don't know?"
 
-Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there is still a lot we don't know. There are many things that your clinician does not know.
+Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there are still a *lot* of unknowns.
 
 Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual knowledge.
 
