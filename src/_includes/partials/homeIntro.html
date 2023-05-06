@@ -1,6 +1,7 @@
 <section class="[ flow1 ]">
   <h1>
-    {% if locale == 'en' %}The pain revolution is here.
+    {% if locale == 'da' %}Smerterevolutionen er ankommet.
+    {% elif locale == 'en' %}The pain revolution is here.
     {% elif locale == 'es' %}La revolución del dolor ha llegado.
     {% elif locale == 'fr' %}La révolution de la douleur est arrivée.
     {% endif %}
@@ -8,13 +9,18 @@
   <div class="[ sidebar ] [ ic g2 ]">
     <div class="[ flow1 main50% ]">
 
-      {% if locale == 'en' %}
+      {% if locale == 'da' %}
+      <p>Den Internationale Forening for Undersøgelse af Smerte definerer smerte som « en ubehagelig sensorisk og følelsesmæssig oplevelse, der er forbundet med, eller minder om den forbundet med, en faktisk eller potentiel vævsskade ».</p>
+      <p>Smerte er nødvendig for at overleve, men nogle gange kan det komme ud af kontrol og være meget foruroligende og invaliderende. Vores mission er at udvikle resourcer af høj kvalitet for smerteuddannelse og rehabilitering til klinikere, patienter og offentligheden.</p>
+      <p><i>BEVAE</i> er et samarbejde mellem Frederik Kehlet (til venstre) og Zeph Scamps (til højre), to fysioterapeutstuderende i Madrid. Vi arbejder sammen for at gøre alt frit tilgængeligt på forskellige sprog.</p>
+
+      {% elif locale == 'en' %}
       <p>The International Association for the Study of Pain defines pain as "an unpleasant sensory and emotional experience associated with, or resembling that associated with, actual or potential tissue damage."</p>
       <p>Pain is necessary for survival, but sometimes it can get out of hand and be very distressing and disabling. Our mission is to develop high-quality pain education and rehabilitation resources for clinicians, patients, and the general public.</p>
       <p><i>BEVAE</i> is a collaborative effort between Frederik Kehlet (left) and Zeph Scamps (right), two physical therapy students based in Madrid. We work together to make everything freely available in different languages.</p>
 
       {% elif locale == 'es' %}
-      <p>La Asociación Internacional para el Estudio del Dolor define el dolor como "una experiencia sensorial y emocional desagradable asociada o parecida a la asociada a un daño tisular real o potencial".</p>
+      <p>La Asociación Internacional para el Estudio del Dolor define el dolor como « una experiencia sensorial y emocional desagradable asociada o parecida a la asociada a un daño tisular real o potencial ».</p>
       <p>El dolor es necesario para sobrevivir, pero a veces se nos puede ir de las manos y resultar muy angustiante e incapacitante. Nuestra misión es desarrollar recursos de educación y rehabilitación de dolor de alta calidad para clínicos, pacientes y el público en general.</p>
       <p><i>BEVAE</i> es una colaboración entre Frederik Kehlet (izquierda) y Zeph Scamps (derecha), dos estudiantes de fisioterapia situados en Madrid. Trabajamos juntos para que todo esté disponible de forma gratuita en diferentes idiomas.</p>
 

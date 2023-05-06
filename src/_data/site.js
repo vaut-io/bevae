@@ -11,6 +11,11 @@ module.exports = {
       code: "en",
     },
     {
+      message: "Dansk",
+      label: "Dansk",
+      code: "da",
+    },
+    {
       message: "Español",
       label: "Español",
       code: "es",
