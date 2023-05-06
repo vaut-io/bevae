@@ -74,7 +74,7 @@ Instead of stressing about achieving a specific goal at a specific time (the res
 
 ## 5. Are they afraid of saying "I don't know?"
 
-Humility is a virtue - and nowhere more so than in medicine, where we've been getting things *awfully* wrong since the beginning of time. Humanity today collectively understands quite a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there are still *many* unknowns and "truths" which could be wrong.
+Humility is a virtue - and nowhere more so than in medicine, where we've been getting things *awfully* wrong since the beginning of time. Humanity today collectively understands quite a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there are still many unknowns and "truths" which could turn out to be wrong.
 
 Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual knowledge.
 
