@@ -1,7 +1,13 @@
 <footer class="[ px0 pt2 pb1 fs-1 ]">
   <div class="[ cluster squeeze12 ] [ cx ie g2 ]">
     <div class="[ flow1 ]">
-      {% if locale == 'en' %}
+      {% if locale == 'da' %}
+
+      <p>Vi bruger en cookie-fri webanalysetjeneste til at indsamle <em>ikke personligt identificerbare</em> statistikker.</p>
+      <p>Ønsker du at kontakte os? Send en e-mail til <a href="mailto:frederik@bevae.com" target="_blank">frederik@bevae.com</a></p>
+      <p><strong>Denne webside er kun beregnet til undervisningsformål. Vi giver ikke personlig medicinsk rådgivning, og vi tager intet ansvar for, hvad du gør med fremlagte oplysninger.</strong></p>
+
+      {% elif locale == 'en' %}
 
       <p>We use a cookie-free web analytics service to collect <em>non-personally identifiable</em> statistics.</p>
       <p>Wanna get in touch? Send an email to <a href="mailto:frederik@bevae.com" target="_blank">frederik@bevae.com</a></p>
@@ -21,7 +27,9 @@
 
       <!-- Creative Commons and Attribution -->
       <a class="cc" href="
-        {% if locale == 'en' %}
+        {% if locale == 'da' %}
+        https://creativecommons.org/licenses/by/4.0/deed.da
+        {% elif locale == 'en' %}
         https://creativecommons.org/licenses/by/4.0/
         {% elif locale == 'es' %}
         https://creativecommons.org/licenses/by/4.0/deed.es
