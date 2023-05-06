@@ -74,12 +74,12 @@ Instead of stressing about achieving a specific goal at a specific time (the res
 
 ## 5. Are they afraid of saying "I don't know?"
 
-Humility is a virtue, nowhere more so than in medicine. Humanity collectively understands a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there are still a *lot* of unknowns.
+Humility is a virtue - and nowhere more so than in medicine, where we've been getting things *awfully* wrong since the beginning of time. Humanity today collectively understands quite a lot about pain and painful conditions thanks to the hard work of countless scientists and philosophers, but there are still *many* unknowns and "truths" which could be wrong.
 
 Some clinicians give false impressions of their knowledge and abilities. One archetype to watch out for is the "certificate collector." You know, the person who has a dozen diplomas hanging on their wall from all the weekend courses they've attended. This says more about their desire to be *perceived* as wise than their actual knowledge.
 
 The best clinicians set their ego aside and put YOU at the center of care. They should not be trying to show off how great they are. One of the best ways to assess this is by asking questions about your condition. If you keep asking relevant questions, eventually you should get the response, "I don't know."
 
-If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know, they should offer to research the topic for you or direct you to a trustworthy source.
+If your clinician never admits fault, it might be that their pride and arrogance prevents them from conceding that they do not, in fact, know everything there is to know about your condition. Your clinician should never dismiss your questions, either. If there is something they do not know to which there is an answer, they should offer to research the topic for you or direct you to a trustworthy source.
 
 As a rule of thumb, the more cautious your clinician is about giving absolute answers to even the simplest of questions, the better. **The correct answer almost always starts with, "it depends on..."** Circling back to the very beginning, pain (and health) is an infinitely nuanced field where the answers to most questions depend entirely on your personal context.
