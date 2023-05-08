@@ -48,9 +48,9 @@ Votre clinicien doit vous aider à comprendre votre douleur, à surmonter les ob
 
 La douleur est une réponse protectrice conçue pour protéger votre corps du danger. Les menaces perçues dans l’environnement peuvent profondément affecter votre expérience et vos comportements liés à la douleur. Que la menace soit *réellement* dangereuse ou non importe peu, les deux sont également « réels » pour votre système de douleur.
 
-Les décisions liées à la santé sont parmi les plus importantes et les plus déterminantes que vous prendrez jamais. Si votre clinicien est intimement impliqué pour vous aider alors que vous êtes vulnérable, **il serait catastrophique qu'il soit perçu comme une menace par votre système de douleur. ("last thing you'd ever want... more emphasis")** Votre clinicien doit être une source de sécurité.
+Les décisions liées à la santé sont parmi les plus importantes et les plus déterminantes que vous prendrez jamais. Etant donné que votre clinicien est intimement impliqué pour vous aider alors que vous êtes vulnérable, **il serait catastrophique qu'il soit perçu comme une menace par votre système de douleur.** Votre clinicien doit être une source de sécurité.
 
-Pour assurer un sentiment de sécurité, il est essentiel de former une relation avec votre clinicien fondée sur la confiance mutuelle. La confiance peut prendre du temps à se développer, mais ne négligez pas les premières impressions. Portez une attention particulière au sentiment que vous ressentez après une première consultation avec un nouveau clinicien. Est-ce qu’ils vous laissent vous sentir responsabilisé et **SOIGNÉ** ? Ou déprimé et anxieux ?
+Pour assurer un sentiment de sécurité, il est essentiel de former une relation avec votre clinicien fondée sur la confiance mutuelle. La confiance peut prendre du temps à se développer, mais ne négligez pas les premières impressions. Portez une attention particulière au sentiment que vous ressentez après une première consultation avec un nouveau clinicien. Est-ce qu’ils vous laissent vous sentir responsabilisé et pris en charge ? Ou déprimé et anxieux ?
 
 Il est bien connu que *l’auto-efficacité* (c’est-à-dire la croyance en soi) est l’un des déterminants les plus importants des résultats à long terme pour la santé. Votre clinicien devrait inspirer une confiance illimitée. Il est difficile de trouver confiance en son propre corps lorsqu’on a l’impression qu’il vous fait défaut. Mais, même si vous ne croyez peut-être pas toujours en votre capacité à gravir cette montagne, votre clinicien devrait certainement être la personne qui doit vous aider à le faire.
 
@@ -61,7 +61,7 @@ Votre clinicien s’ajoute-t-il à vos inquiétudes ? Avez-vous l’impression q
 La triste réalité est que de nombreux cliniciens ne pratiquent pas l’établissement d’objectifs intelligents. Les objectifs orientent la gestion de la douleur et la réadaptation. Vous et votre clinicien devriez collaborer pour fixer des objectifs réalistes, en tenant compte de vos préférences, de vos valeurs et d’autres contraintes.
 
 Une fois que vous avez travaillé ensemble pour identifier les objectifs globaux, vous devez les diviser en petits morceaux. *Les objectifs échelonnés* sont réalisables dans des délais plus courts et constituent la base de *la progression planifiée*. Cet aspect crucial de l'utilisation de meilleures pratiques thérapeutiques est souvent oublié en dehors des contextes sportifs professionnels.
-Because if the person close to you
+
 L’amélioration progressive de la tolérance à la charge (mentale et physique) est l’une des principales façons pour que le système de douleur se désensibilise, **mais des progrès significatifs ne seront réalisés que si la charge a laquelle vous êtes exposé est suffisante.** Lorsque vous appliquez constamment le bon type de charge, vous vous y adaptez et votre résilience s’améliore. Un stimulus plus important est alors nécessaire pour continuer à progresser.
 
 La progression planifiée signifie que lorsque vous atteignez un objectif prédéterminé, vous progresserez d’une manière ou d’une autre vers un nouvel objectif auparavant inaccessible. L'IDÉE EST DE TOUJOURS FOURNIR UNE DOSE IDÉALE DE STRESS (NI TROP NI TROP PEU / PAS ASSEZ [??]) QUI CORRESPOND À L'AUGMENTATION CONSTANTE DE VOTRE CAPACITÉ.
@@ -76,7 +76,7 @@ Au lieu de mettre l’accent sur l’atteinte d’un objectif précis à un mome
 
 ## 5. A-t-il peur de dire : « Je ne sais pas »?
 
-L’humilité est une vertu - ET NULLE PART PLUS QU’EN MÉDECINE, AILLEURS PLUS QU'EN MÉDECINE, OÙ NOUS NOUS TROMPONS *LOURDEMENT* DEPUIS LA NUIT DES TEMPS. L’humanité comprend collectivement beaucoup de choses sur la douleur et les conditions douloureuses grâce au travail acharné d’innombrables scientifiques et philosophes, MAIS IL Y A ENCORE BEAUCOUP D'INCONNUES ET DE "VÉRITÉS" QUI POURRAIENT S'AVÉRER FAUSSES.
+L’humilité est une vertu - ET NULLE PART PLUS QU’EN MÉDECINE, AILLEURS PLUS QU'EN MÉDECINE, OÙ NOUS NOUS TROMPONS *LOURDEMENT* DEPUIS LA NUIT DES TEMPS. L’humanité comprend collectivement beaucoup de choses sur la douleur et les conditions douloureuses grâce au travail acharné d’innombrables scientifiques et philosophes, mais il y a encore beaucoup d'inconnues et de "vérités" qui pourraient s'avérer fausses.
 
 Certains cliniciens donnent de fausses impressions de leurs connaissances et de leurs capacités. Un archétype à surveiller est le « collecteur de certificats », la personne qui a une douzaine de diplômes sur son mur de tous les cours du week-end qu’il a fréquentés. Cela en dit plus sur son désir d’être perçu comme sage que sa connaissance réelle.
 
