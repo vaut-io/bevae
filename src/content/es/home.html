@@ -31,12 +31,25 @@ description: La revolución del dolor ha llegado. Nuestra misión es desarrollar
           </ul>
         </div>
       </section>
+      <!-- <section class="[ flow2 ]">
+        <h2 class="[ h-fancy ]">For patients</h2>
+        <div class="[ flow1/3 ]">
+          <h3>Articles</h3>
+          <ul class="[ flow1/3 ]">
+            {% for entry in posts %}
+            {% if entry.data.audience == 'patients' %}
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </section> -->
     </div>
     <section class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Proyectos</h2>
       <div class="[ flow1/3 ]">
         <h3>CSAW</h3>
-        <p>Los hallazgos plantean un verdadero desafío a la comprensión y el tratamiento tradicionales del dolor subacromial de hombro. <a href="/{{ locale }}/csaw/">Leer más</a></p>
+        <p>Los hallazgos de este ensayo clínico plantean un verdadero desafío a la comprensión y el tratamiento tradicionales del dolor subacromial de hombro. <a href="/{{ locale }}/csaw/">Leer más</a></p>
       </div>
       <div class="[ flow1/3 ]">
         <h3>Club de investigación</h3>

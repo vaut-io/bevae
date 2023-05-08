@@ -26,4 +26,16 @@ module.exports = {
       code: "fr",
     },
   ],
+  exerciseCategories: [
+    'squat',
+    'hinge',
+    'hpress',
+    'vpress',
+    'hpull',
+    'vpull',
+    'isoa',
+    'isot',
+    'isol',
+    'comp',
+  ],
 };

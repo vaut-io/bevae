@@ -1,0 +1,5 @@
+{
+  "layout": "layouts/exercise.html",
+  "permalink": "/{{ locale }}/exercises/{{ id }}/"
+}
+

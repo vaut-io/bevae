@@ -24,7 +24,7 @@ Persistent pain usually starts innocently enough. A new pain appears in a body p
 
 The pain diminishes for a short while, but it always comes back again, each time a little bit worse. You may be stressing about an upcoming appointment with a surgeon, all while your ability to do the things that bring you happiness slowly withers away over the months and years.
 
-This is an example of the cycle of dependence. **If you recognize yourself in this cycle, your number one priority should be to get out.** Even if your pain has a good prognosis (i.e., prediction about how it will evolve), getting trapped in this cycle is something you want to avoid at all costs.
+This is an example of the *cycle of dependence*. **If you recognize yourself in this cycle, your number one priority should be to get out.** Even if your pain has a good prognosis (i.e., prediction about how it will evolve), getting trapped in this cycle is something you want to avoid at all costs.
 
 To break the cycle, your clinician should facilitate your autonomy and self-management. After all, you might only be in the clinic one hour per week - the real work lies in what you do during the remaining 167 hours. Your clinician should explain your condition in a way that makes sense to you, present your options going forward, and equip you with the tools and confidence you need to be more independent.
 
