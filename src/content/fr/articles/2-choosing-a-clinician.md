@@ -32,7 +32,7 @@ L’objectif premier de votre clinicien devrait être de ne jamais vous revoir. 
 
 ## 2. Accorde-t-il beaucoup d’importance aux thérapies actives ?
 
-Les thérapies actives sont celles où vous jouez un rôle actif. Cela comprend ce qui va des programmes d’activité gradués (p. ex., haltérophilie) aux thérapies axées sur la cognition comme les thérapies comportementales et cognitives (TCC) et les thérapies d’acceptation et d’engagement (ACT). Les thérapies passives, fondées sur l’idée de *recevoir un traitement*, ne doivent pas être une chose à laquelle vous devriez consacrer trop de temps si votre but est d’échapper ou d’éviter le cycle de la dépendance.
+Les thérapies actives sont celles où vous jouez un rôle actif. Cela comprend ce qui va des programmes d’activité gradués (p. ex., haltérophilie) aux thérapies axées sur la cognition comme les thérapies comportementales et cognitives (TCC) et les thérapies d’acceptation et d’engagement (ACT). Il n'est pas surprenant que les thérapies passives, fondées sur l'idée de *recevoir un traitement* plutôt que de *le mettre en œuvre*, ne soient pas une activité à laquelle vous devriez consacrer trop de temps si votre objectif est de sortir du cycle de la dépendance ou de l'éviter.
 
 Le soulagement offert par les thérapies passives comme le massage, l’acupuncture ou les ultrasons est de courte durée. Elles ne peuvent tout simplement pas offrir la stimulation nécessaire pour renforcer la résilience physique et mentale, surmonter les peurs, apprendre des stratégies d’adaptation saines, reprendre le contrôle et réduire la sensibilité à la douleur. Au contraire des approches thérapeutiques actives.
 
@@ -42,13 +42,13 @@ Les thérapies passives, les procédures invasives et la gestion médicale conti
 
 Votre clinicien offre-t-il un buffet de thérapie passive à la carte avec des réductions ? Sa seule recommandation est-elle liée à l’activité ou une vague remarque comme « rester actif » ?, **Drapeau rouge.** Tout le monde n’a pas besoin d’une thérapie intensive pour se rétablir, mais si vous avez l’impression d’avoir de la difficulté à faire face à votre douleur, à votre handicap et à votre souffrance, l’essentiel est le suivant :
 
-Votre clinicien doit vous aider à comprendre votre douleur, à surmonter les obstacles au rétablissement (croyances et attentes), et à modifier les comportements et les activités afin de réduire votre sensibilité à la douleur et promouvoir votre santé et votre autonomie à long terme. Rien de tout cela ne se fera de façon passive, s’il ne peut ou ne veut pas passer à une mentalité active, il est peut-être temps de demander une nouvelle recommandation.
+Votre clinicien doit vous aider à comprendre votre douleur, à surmonter les obstacles au rétablissement (croyances et attentes), et à modifier les comportements et les activités afin de réduire votre sensibilité à la douleur et promouvoir votre santé et votre autonomie à long terme. **Rien de tout cela ne se fera de façon passive,** s’il ne peut ou ne veut pas passer à une mentalité active, il est peut-être temps de demander une nouvelle recommandation.
 
 ## 3. Inspire-t-il confiance et sécurité ?
 
 La douleur est une réponse protectrice conçue pour protéger votre corps du danger. Les menaces perçues dans l’environnement peuvent profondément affecter votre expérience et vos comportements liés à la douleur. Que la menace soit *réellement* dangereuse ou non importe peu, les deux sont également « réels » pour votre système de douleur.
 
-Les décisions liées à la santé sont parmi les plus importantes et les plus déterminantes que vous prendrez jamais. Etant donné que votre clinicien est intimement impliqué pour vous aider alors que vous êtes vulnérable, **il serait catastrophique qu'il soit perçu comme une menace par votre système de douleur.** Votre clinicien doit être une source de sécurité.
+Les décisions liées à la santé sont parmi les plus importantes et les plus déterminantes que vous prendrez jamais. Etant donné que votre clinicien est intimement impliqué pour vous aider alors que vous êtes vulnérable, **il serait catastrophique qu'il soit perçu comme une menace par votre système de douleur.** Votre clinicien *doit* être une source de sécurité.
 
 Pour assurer un sentiment de sécurité, il est essentiel de former une relation avec votre clinicien fondée sur la confiance mutuelle. La confiance peut prendre du temps à se développer, mais ne négligez pas les premières impressions. Portez une attention particulière au sentiment que vous ressentez après une première consultation avec un nouveau clinicien. Est-ce qu’ils vous laissent vous sentir responsabilisé et pris en charge ? Ou déprimé et anxieux ?
 
@@ -64,9 +64,7 @@ Une fois que vous avez travaillé ensemble pour identifier les objectifs globaux
 
 L’amélioration progressive de la tolérance à la charge (mentale et physique) est l’une des principales façons pour que le système de douleur se désensibilise, **mais des progrès significatifs ne seront réalisés que si la charge a laquelle vous êtes exposé est suffisante.** Lorsque vous appliquez constamment le bon type de charge, vous vous y adaptez et votre résilience s’améliore. Un stimulus plus important est alors nécessaire pour continuer à progresser.
 
-La progression planifiée signifie que lorsque vous atteignez un objectif prédéterminé, vous progresserez d’une manière ou d’une autre vers un nouvel objectif auparavant inaccessible. L'IDÉE EST DE TOUJOURS FOURNIR UNE DOSE IDÉALE DE STRESS (NI TROP NI TROP PEU / PAS ASSEZ [??]) QUI CORRESPOND À L'AUGMENTATION CONSTANTE DE VOTRE CAPACITÉ.
-
-"L'idée est de fournir une charge de travail idéale (ni trop ni pas assez) qui correspond à l'augmentation constante de vos capacités."
+La progression planifiée signifie que lorsque vous atteignez un objectif prédéterminé, vous progresserez d’une manière ou d’une autre vers un nouvel objectif auparavant inaccessible. L'idée est de toujours fournir une charge de travail idéale (ni trop, ni pas assez) qui correspond à l'augmentation constante de vos capacités.
 
 Gérer la douleur sans fixer d’objectifs et une progression, c’est comme lancer des fléchettes dans une pièce sombre et espérer frapper une cible. Fixer des objectifs réalistes et surveiller les progrès, c’est comme allumer la lumière. Il est beaucoup plus facile de frapper la marque quand vous savez où viser et à quel point vous êtes arrivé sur votre dernière tentative !
 
@@ -76,9 +74,9 @@ Au lieu de mettre l’accent sur l’atteinte d’un objectif précis à un mome
 
 ## 5. A-t-il peur de dire : « Je ne sais pas »?
 
-L’humilité est une vertu - ET NULLE PART PLUS QU’EN MÉDECINE, AILLEURS PLUS QU'EN MÉDECINE, OÙ NOUS NOUS TROMPONS *LOURDEMENT* DEPUIS LA NUIT DES TEMPS. L’humanité comprend collectivement beaucoup de choses sur la douleur et les conditions douloureuses grâce au travail acharné d’innombrables scientifiques et philosophes, mais il y a encore beaucoup d'inconnues et de "vérités" qui pourraient s'avérer fausses.
+L’humilité est une vertu - et nulle part ailleurs plus qu'en médecine, où nous nous trompons *terriblement* depuis la nuit des temps. L’humanité comprend collectivement beaucoup de choses sur la douleur et les conditions douloureuses grâce au travail acharné d’innombrables scientifiques et philosophes, mais il y a encore beaucoup d'inconnues et de « vérités » qui pourraient s'avérer fausses.
 
-Certains cliniciens donnent de fausses impressions de leurs connaissances et de leurs capacités. Un archétype à surveiller est le « collecteur de certificats », la personne qui a une douzaine de diplômes sur son mur de tous les cours du week-end qu’il a fréquentés. Cela en dit plus sur son désir d’être perçu comme sage que sa connaissance réelle.
+Certains cliniciens donnent de fausses impressions de leurs connaissances et de leurs capacités. Un archétype à surveiller est le « collecteur de certificats », la personne qui a une douzaine de diplômes sur son mur de tous les cours du week-end qu’il a fréquentés. Cela en dit plus sur son désir d’être *perçu* comme sage que sa connaissance réelle.
 
 Les meilleurs cliniciens mettent leur ego de côté dans la clinique et VOUS mettent au centre des soins. Ils ne devraient pas essayer de montrer à quel point ils sont grands. L’une des meilleures façons d’évaluer cela consiste à poser des questions sur votre état. si vous continuez à poser des questions pertinentes, vous devriez finir par obtenir la réponse, « je ne sais pas ».
 
