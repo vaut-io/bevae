@@ -12,15 +12,14 @@
       <div class="[ flow1/2 ] [ fs-1 ]">
         {% if locale == 'en' %}
         <p>Author: {{ author }}</p>
-        {% else %}
+        <p>{{ readTime }} minute read</p>
+        {% elif locale == 'es' %}
         <p>Autor: {{ author }}</p>
+        <p>{{ readTime }} minutos de lectura</p>
+        {% elif locale == 'fr' %}
+        <p>Auteur: {{ author }}</p>
+        <p>{{ readTime }} minutes de lecture</p>
         {% endif %}
-        <p>
-          {{ readTime }}
-          {% if locale == 'en' %} minute read
-          {% else %} minutos de lectura
-          {% endif %}
-        </p>
         <p class="[ fs-1 ]">
         </p>
       </div>
