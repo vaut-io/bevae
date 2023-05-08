@@ -28,10 +28,14 @@ module.exports = config => {
   /* config.addCollection('da', collectionApi => collectionApi.getFilteredByGlob('./src/content/da/*')); */
   config.addCollection('en', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/*'));
   config.addCollection('es', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/*'));
-  config.addCollection('en-articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/articles/*.md'));
-  config.addCollection('es-articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/articles/*.md'));
-  config.addCollection('fr-articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/fr/articles/*.md'));
-  config.addCollection('en-exercises', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/exercises/*.md'));
+  config.addCollection('enArticles', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/articles/*.md'));
+  config.addCollection('esArticles', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/articles/*.md'));
+  config.addCollection('frArticles', collectionApi => collectionApi.getFilteredByGlob('./src/content/fr/articles/*.md'));
+  config.addCollection('enExercises', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/exercises/*.md').sort((a, b) => {
+    if (a.data.title > b.data.title) return 1;
+    else if (a.data.title < b.data.title) return -1;
+    else return 0;
+  }));
 
   passthroughFiles.forEach(item => config.addPassthroughCopy(item));
 

@@ -8,9 +8,9 @@ readTime: 10-20
 audience: patients
 ---
 
-Lorsque vous décidez de demander de l’aide professionnelle pour un problème de douleur, trouver un clinicien qui vous convient n’est pas une tâche facile. En effet, de nombreux cliniciens demeurent parfaitement ignorants des avancées modernes dans la recherche sur la douleur, ET CE QUI constitue des soins « optimaux » car ces derniers dépendent entièrement de qui vous êtes. Après tout, votre biologie, votre psychologie et votre contexte socioculturel vous sont propres.
+Lorsque vous décidez de demander de l’aide professionnelle pour un problème de douleur, trouver un clinicien qui vous convient n’est pas une tâche facile. En effet, de nombreux cliniciens demeurent parfaitement ignorants des avancées modernes dans la recherche sur la douleur, et de ce qui constitue des soins « optimaux » car ces derniers dépendent entièrement de qui vous êtes. Après tout, votre biologie, votre psychologie et votre contexte socioculturel vous sont propres.
 
-NOUS POURRIONS PASSER D'INNOMBRABLES JOURS À DISCUTER DE TOUTES SORTES DE MODALITÉS ET DE STRATÉGIES DE TRAITEMENT DIFFÉRENTES, MAIS il existe des principes fondamentaux que chaque clinicien hautement compétent suit. Peu importe le type de problème de douleur que vous avez, ces « règles de base » sont une référence.
+Nous pourrions passer des jours à discuter de toutes sortes de modalités et de stratégies de traitement, mais il existe des principes fondamentaux que chaque clinicien hautement compétent suit. Peu importe le type de problème de douleur que vous avez, ces « règles de base » sont une référence.
 
 Le statut socioéconomique et la chance jouent un rôle important dans la détermination de la qualité des soins qui vous seront offerts. Malgré tous les obstacles auxquels vous pourriez être confrontés, avoir accès à des informations exactes et poser les bonnes questions vous permettra de vous engager sur la voie du succès pour recouvrer une meilleure santé.
 
@@ -22,7 +22,7 @@ La douleur, surtout quand elle devient persistante, se glisse partout. Elle fini
 
 La douleur persistante commence habituellement assez innocemment. Une nouvelle douleur apparaît dans une partie du corps : dos, genou, ou épaule. C'est à ce moment que vous vous décidez à aller chez le médecin. Après le dépistage de maladies graves, il peut vous prescrire un analgésique léger et vous dire de mettre un peu de chaleur sur la zone douloureuse tout en vous reposant. Mais la douleur peut s'aggraver et il est alors temps de penser à votre massage hebdomadaire, manipulation, infrarouge, acupuncture, etc.
 
-La douleur diminue pendant un court moment, mais elle revient toujours, CHAQUE FOIS UN PEU PLUS GRAVE. Vous pouvez être stressé au sujet d’un prochain rendez-vous avec un chirurgien ou douter en votre capacité à faire les choses qui vous apportent du bonheur, qui se fane lentement au fil des mois et des années.
+La douleur diminue pendant un court moment, mais elle revient toujours, chaque fois un peu plus grave. Vous pouvez être stressé au sujet d’un prochain rendez-vous avec un chirurgien ou douter en votre capacité à faire les choses qui vous apportent du bonheur, qui se fane lentement au fil des mois et des années.
 
 C’est un exemple de *cycle de dépendance*. **Si vous vous reconnaissez dans ce cycle, votre priorité numéro une devrait être d’en sortir.** Même si votre douleur a un bon pronostic (c.-à-d., prédiction sur la façon dont elle évoluera) ce cycle est quelque chose que vous devriez éviter à tout prix.
 
@@ -36,7 +36,7 @@ Les thérapies actives sont celles où vous jouez un rôle actif. Cela comprend 
 
 Le soulagement offert par les thérapies passives comme le massage, l’acupuncture ou les ultrasons est de courte durée. Elles ne peuvent tout simplement pas offrir la stimulation nécessaire pour renforcer la résilience physique et mentale, surmonter les peurs, apprendre des stratégies d’adaptation saines, reprendre le contrôle et réduire la sensibilité à la douleur. Au contraire des approches thérapeutiques actives.
 
-Certaines douleurs s’améliorent avec le passage du temps, mais si vous voulez avoir la plus grande chance d’atteindre vos objectifs de santé à long terme, **VOUS DEVEZ RECONNAÎTRE QU'IL N'Y A PAS DE SOLUTION MIRACLE.** Il n’y a pas de pilule, d’aiguille, de scalpel ou de rayon laser qui vous « guérira » de votre douleur et de votre handicap. Le rétablissement de votre santé et de vos fonctions exigent une prise de décisions combinant intelligence, patience et persévérance.
+Certaines douleurs s’améliorent avec le passage du temps, mais si vous voulez avoir la plus grande chance d’atteindre vos objectifs de santé à long terme, **vous devez reconnaître qu'il n'y a pas de solution miracle.** Il n’y a pas de pilule, d’aiguille, de scalpel ou de rayon laser qui vous « guérira » de votre douleur et de votre handicap. Le rétablissement de votre santé et de vos fonctions exigent une prise de décisions combinant intelligence, patience et persévérance.
 
 Les thérapies passives, les procédures invasives et la gestion médicale continue peuvent faire partie d’une stratégie holistique de traitement de la douleur qui vous convient, mais elles ne peuvent jamais remplacer le rôle vital que les thérapies actives remplissent. La clé est de ne pas leur accorder plus d’attention qu’elles ne le méritent. Dès qu’elles prennent la priorité sur les thérapies où vous êtes un participant actif, vous avez « perdu le jeu, » pour ainsi dire.
 
@@ -48,7 +48,7 @@ Votre clinicien doit vous aider à comprendre votre douleur, à surmonter les ob
 
 La douleur est une réponse protectrice conçue pour protéger votre corps du danger. Les menaces perçues dans l’environnement peuvent profondément affecter votre expérience et vos comportements liés à la douleur. Que la menace soit *réellement* dangereuse ou non importe peu, les deux sont également « réels » pour votre système de douleur.
 
-Les décisions liées à la santé sont parmi les plus importantes et les plus déterminantes que vous prendrez jamais. Si votre clinicien est intimement impliqué pour vous aider alors que vous êtes vulnérable **il serait dommage qu'il soit perçu comme une menace par votre système de douleur. ("last thing you'd ever want... more emphasis")** Votre clinicien doit être une source de sécurité.
+Les décisions liées à la santé sont parmi les plus importantes et les plus déterminantes que vous prendrez jamais. Si votre clinicien est intimement impliqué pour vous aider alors que vous êtes vulnérable, **il serait catastrophique qu'il soit perçu comme une menace par votre système de douleur. ("last thing you'd ever want... more emphasis")** Votre clinicien doit être une source de sécurité.
 
 Pour assurer un sentiment de sécurité, il est essentiel de former une relation avec votre clinicien fondée sur la confiance mutuelle. La confiance peut prendre du temps à se développer, mais ne négligez pas les premières impressions. Portez une attention particulière au sentiment que vous ressentez après une première consultation avec un nouveau clinicien. Est-ce qu’ils vous laissent vous sentir responsabilisé et **SOIGNÉ** ? Ou déprimé et anxieux ?
 
@@ -61,10 +61,12 @@ Votre clinicien s’ajoute-t-il à vos inquiétudes ? Avez-vous l’impression q
 La triste réalité est que de nombreux cliniciens ne pratiquent pas l’établissement d’objectifs intelligents. Les objectifs orientent la gestion de la douleur et la réadaptation. Vous et votre clinicien devriez collaborer pour fixer des objectifs réalistes, en tenant compte de vos préférences, de vos valeurs et d’autres contraintes.
 
 Une fois que vous avez travaillé ensemble pour identifier les objectifs globaux, vous devez les diviser en petits morceaux. *Les objectifs échelonnés* sont réalisables dans des délais plus courts et constituent la base de *la progression planifiée*. Cet aspect crucial de l'utilisation de meilleures pratiques thérapeutiques est souvent oublié en dehors des contextes sportifs professionnels.
-
-L’amélioration progressive de la tolérance à la charge (mentale et physique) est l’une des principales façons pour que le système de douleur se désensibilise, **mais des progrès significatifs ne seront réalisés que si la charge a laquelle vous êtes exposé est suffisante.** Lorsque vous appliquez constamment le bon type de charge, VOUS VOUS Y ADAPTEZ(??) et votre résilience s’améliore. Un stimulus plus important est alors nécessaire pour continuer à progresser.
+Because if the person close to you
+L’amélioration progressive de la tolérance à la charge (mentale et physique) est l’une des principales façons pour que le système de douleur se désensibilise, **mais des progrès significatifs ne seront réalisés que si la charge a laquelle vous êtes exposé est suffisante.** Lorsque vous appliquez constamment le bon type de charge, vous vous y adaptez et votre résilience s’améliore. Un stimulus plus important est alors nécessaire pour continuer à progresser.
 
 La progression planifiée signifie que lorsque vous atteignez un objectif prédéterminé, vous progresserez d’une manière ou d’une autre vers un nouvel objectif auparavant inaccessible. L'IDÉE EST DE TOUJOURS FOURNIR UNE DOSE IDÉALE DE STRESS (NI TROP NI TROP PEU / PAS ASSEZ [??]) QUI CORRESPOND À L'AUGMENTATION CONSTANTE DE VOTRE CAPACITÉ.
+
+"L'idée est de fournir une charge de travail idéale (ni trop ni pas assez) qui correspond à l'augmentation constante de vos capacités."
 
 Gérer la douleur sans fixer d’objectifs et une progression, c’est comme lancer des fléchettes dans une pièce sombre et espérer frapper une cible. Fixer des objectifs réalistes et surveiller les progrès, c’est comme allumer la lumière. Il est beaucoup plus facile de frapper la marque quand vous savez où viser et à quel point vous êtes arrivé sur votre dernière tentative !
 
@@ -78,8 +80,8 @@ L’humilité est une vertu - ET NULLE PART PLUS QU’EN MÉDECINE, AILLEURS PLU
 
 Certains cliniciens donnent de fausses impressions de leurs connaissances et de leurs capacités. Un archétype à surveiller est le « collecteur de certificats », la personne qui a une douzaine de diplômes sur son mur de tous les cours du week-end qu’il a fréquentés. Cela en dit plus sur son désir d’être perçu comme sage que sa connaissance réelle.
 
-Les meilleurs cliniciens mettent leur ego de côté dans la clinique et VOUS mettent au centre des soins. Ils ne devraient pas essayer de montrer à quel point ils sont grands. L’UNE DES MEILLEURES FAÇONS D’ÉVALUER CELA CONSISTE À POSER DES QUESTIONS SUR VOTRE ÉTAT. SI VOUS CONTINUEZ À POSER DES QUESTIONS PERTINENTES, VOUS DEVRIEZ FINIR PAR OBTENIR LA RÉPONSE, « jE NE SAIS PAS ».
+Les meilleurs cliniciens mettent leur ego de côté dans la clinique et VOUS mettent au centre des soins. Ils ne devraient pas essayer de montrer à quel point ils sont grands. L’une des meilleures façons d’évaluer cela consiste à poser des questions sur votre état. si vous continuez à poser des questions pertinentes, vous devriez finir par obtenir la réponse, « je ne sais pas ».
 
-Si votre clinicien n’admet jamais la faute, il se peut que sa fierté et son arrogance l’empêchent d’admettre qu’il ne sait pas tout ce qu’il y a à savoir sur votre état. Il ne devrait jamais rejeter vos questions. S’il y a quelque chose que votre clinicien ne sait pas ET POUR LEQUEL IL EXISTE UNE RÉPONSE, IL DEVRAIT VOUS PROPOSER DE FAIRE DES RECHERCHES SUR LE SUJET OU VOUS DIRIGER VERS UNE SOURCE FIABLE.
+Si votre clinicien n’admet jamais la faute, il se peut que sa fierté et son arrogance l’empêchent d’admettre qu’il ne sait pas tout ce qu’il y a à savoir sur votre état. Il ne devrait jamais rejeter vos questions. S’il y a quelque chose que votre clinicien ne sait pas et pour laquelle il existe une réponse, il devrait vous proposer de faire des recherches sur le sujet ou vous diriger vers une source fiable.
 
-En règle générale, plus un clinicien est prudent lorsqu’il donne des réponses absolues même aux questions les plus simples, mieux c’est. La bonne réponse commence presque toujours par « CELA DÉPEND DE... » En revenant au tout début, la douleur (et la santé) est un champ infiniment nuancé où les réponses à la plupart des questions dépendent entièrement de votre contexte personnel.
+En règle générale, plus un clinicien est prudent lorsqu’il donne des réponses absolues même aux questions les plus simples, mieux c’est. La bonne réponse commence presque toujours par « cela dépend de... » En revenant au tout début, la douleur (et la santé) est un champ infiniment nuancé où les réponses à la plupart des questions dépendent entièrement de votre contexte personnel.
