@@ -28,8 +28,10 @@ module.exports = config => {
   /* config.addCollection('da', collectionApi => collectionApi.getFilteredByGlob('./src/content/da/*')); */
   config.addCollection('en', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/*'));
   config.addCollection('es', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/*'));
-  config.addCollection('en_articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/articles/*'));
-  config.addCollection('es_articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/articles/*'));
+  config.addCollection('en-articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/articles/*.md'));
+  config.addCollection('es-articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/es/articles/*.md'));
+  config.addCollection('fr-articles', collectionApi => collectionApi.getFilteredByGlob('./src/content/fr/articles/*.md'));
+  config.addCollection('en-exercises', collectionApi => collectionApi.getFilteredByGlob('./src/content/en/exercises/*.md'));
 
   passthroughFiles.forEach(item => config.addPassthroughCopy(item));
 

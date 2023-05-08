@@ -1,0 +1,4 @@
+{
+  "layout": "layouts/article.html",
+  "permalink": "/{{ locale }}/articles/{{ title | slugify }}/"
+}

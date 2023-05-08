@@ -1,8 +1,10 @@
 ---
+translationKey: exercise1
 id: 1
-name: Front squat
-category: squat
-video: https://link.com
+title: Front squat
+category: Squat
+description: Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+video: https://link.com/
 ---
 
 ## How to perform
@@ -11,5 +13,8 @@ Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint 
 
 ## Helpful cues
 
+Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
+
 ## Watch out for
 
+Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.

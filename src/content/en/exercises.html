@@ -8,32 +8,22 @@ description: This is the BEVAE exercise database.
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
-  <div class="[ squeeze12 flow1 ] [ cx ]">
-    <h1>Exercises</h1>
+  <div class="[ squeeze12 stack ] [ cx g4 ]">
+    <h1>Exercise database</h1>
     <div class="[ grid8 ] [ gx3 gy4 ]">
-      {% set exercises = collections[locale + '_exercises'] %}
-      {% for category in site.exerciseCategories %}
+      {% for category in site.enExerciseCategories %}
       <div class="[ flow2 ]">
-        <h2 class="[ h-fancy ]">{{ exercise.name }}</h2>
+        <h2 class="[ h-fancy ]">{{ category }}</h2>
         <ul class="[ flow1/3 ]">
+          {% set exercises = collections['en-exercises'] %}
           {% for exercise in exercises %}
-          <li><a href="/{{ locale }}/exercises/{{ exercise.id }}">{{ exercise.id }}</a></li>
+          {% if exercise.data.category == category %}
+          <li><a href="{{ exercise.url }}">{{ exercise.data.title }}</a></li>
+          {% endif %}
           {% endfor %}
         </ul>
       </div>
       {% endfor %}
-
-
-      <!-- {% for category in exercises %}
-      <div class="[ flow2 ]">
-        <h2 class="[ h-fancy ]">{{ category.name }}</h2>
-        <ul class="[ flow1/3 ]">
-          {% for exercise in category.exercises %}
-          <li><a href="/{{ locale }}/exercises/{{ exercise.id }}">{{ exercise.name }}</a></li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endfor %} -->
     </div>
   </div>
 </main>

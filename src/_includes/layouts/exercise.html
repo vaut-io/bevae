@@ -1,6 +1,14 @@
 {% extends 'base.html' %}
 {% block body %}
+{% include 'partials/header.html' %}
 <main>
-  <h1>{{ name }}</h1>
+  <div class="[ squeeze12 stack ] [ cx g2 ]">
+    <h1>{{ title }}</h1>
+    <div class="[ image ] [ frame16:9 squeezebody ]"><video src="" alt=""></video></div>
+    <div class="[ flow1 ]">
+      {{ content | safe }}
+    </div>
+  </div>
 </main>
+{% include 'partials/footer.html' %}
 {% endblock %}

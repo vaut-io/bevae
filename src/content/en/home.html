@@ -11,7 +11,7 @@ description: The pain revolution is here. Our mission is to develop high-quality
   <div class="[ squeeze12 stack ] [ cx g4 ]">
     {% include 'partials/homeIntro.html' %}
     <div class="[ switcher11 ] [ g3 ]">
-      {% set articles = collections[locale + '_articles'] %}
+      {% set articles = collections[locale + '-articles'] %}
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">For clinicians</h2>
         <div class="[ flow1/3 ]">
@@ -38,7 +38,7 @@ description: The pain revolution is here. Our mission is to develop high-quality
           <ul class="[ flow1/3 ]">
             {% for entry in articles %}
             {% if entry.data.audience == 'patients' %}
-            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{% endif %}</li>
             {% endif %}
             {% endfor %}
           </ul>

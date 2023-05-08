@@ -11,15 +11,15 @@ description: La revolución del dolor ha llegado. Nuestra misión es desarrollar
   <div class="[ squeeze12 stack ] [ cx g4 ]">
     {% include 'partials/homeIntro.html' %}
     <div class="[ switcher11 ] [ g3 ]">
-      {% set posts = collections[locale + '_articles'] %}
+      {% set articles = collections[locale + '-articles'] %}
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">Para clínicos</h2>
         <div class="[ flow1/3 ]">
           <h3>Entradas</h3>
           <ul class="[ flow1/3 ]">
-            {% for entry in posts %}
+            {% for entry in articles %}
             {% if entry.data.audience == 'clinicians' %}
-            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
+            <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{% endif %}</li>
             {% endif %}
             {% endfor %}
           </ul>
@@ -36,7 +36,7 @@ description: La revolución del dolor ha llegado. Nuestra misión es desarrollar
         <div class="[ flow1/3 ]">
           <h3>Articles</h3>
           <ul class="[ flow1/3 ]">
-            {% for entry in posts %}
+            {% for entry in articles %}
             {% if entry.data.audience == 'patients' %}
             <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{%endif %}</li>
             {% endif %}

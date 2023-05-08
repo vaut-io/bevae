@@ -1,5 +1,6 @@
 {
   "layout": "layouts/exercise.html",
-  "permalink": "/{{ locale }}/exercises/{{ id }}/"
+  "permalink": "/{{ locale }}/exercises/{{ title | slugify }}/",
+  "description": "How to perform the {{ title | lowercase }}."
 }
 

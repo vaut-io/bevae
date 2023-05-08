@@ -4,7 +4,7 @@ title: Elegir un clínico
 subtitle: 5 preguntas para saber si tu salud está en buenas manos
 description: Discover whether or not your clinician is following best-practice pain management principles by reflecting on these 5 key questions.
 author: Frederik Kehlet
-readTime: 10-15
+readTime: 10-20
 audience: patients
 ---
 

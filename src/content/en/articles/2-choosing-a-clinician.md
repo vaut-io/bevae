@@ -4,7 +4,7 @@ title: Choosing a clinician
 subtitle: 5 questions to know if your health is in good hands
 description: Discover whether or not your clinician is following best-practice pain management principles by reflecting on these 5 key questions.
 author: Frederik Kehlet
-readTime: 10-15
+readTime: 10-20
 audience: patients
 ---
 

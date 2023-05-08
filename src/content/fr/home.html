@@ -10,6 +10,20 @@ description: La révolution de la douleur est arrivée. Notre mission est de dé
 <main>
   <div class="[ squeeze12 stack ] [ cx g4 ]">
     {% include 'partials/homeIntro.html' %}
+    {% set articles = collections[locale + '-articles'] %}
+    <section class="[ flow2 ]">
+      <h2 class="[ h-fancy ]">Pour les patients</h2>
+      <div class="[ flow1/3 ]">
+        <h3>Articles</h3>
+        <ul class="[ flow1/3 ]">
+          {% for entry in articles %}
+          {% if entry.data.audience == 'patients' %}
+          <li><a href="{{ entry.url }}">{{ entry.data.title }}{% if entry.data.subtitle %}: {{ entry.data.subtitle }}{% endif %}</a>{% if entry.data.description %} - {{ entry.data.description }}{% endif %}</li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
     <section class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Projets</h2>
       <div class="[ flow1/3 ]">
