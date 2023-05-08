@@ -2,20 +2,21 @@
 translationKey: exercises
 title: Exercises
 permalink: /{{ locale }}/exercises/
-description: This is the BEVAE exercise database.
+description: The BEVAE exercise compendium.
 ---
 {% extends 'base.html' %}
 {% block body %}
 {% include 'partials/header.html' %}
 <main>
   <div class="[ squeeze12 stack ] [ cx g4 ]">
-    <h1>Exercise database</h1>
+    <h1>Exercises</h1>
+    (Zeph) Hello! Welcome to the exercise compendium.
     <div class="[ grid8 ] [ gx3 gy4 ]">
-      {% for category in site.enExerciseCategories %}
+      {% for category in site[locale + 'ExerciseCategories'] %}
       <div class="[ flow2 ]">
         <h2 class="[ h-fancy ]">{{ category }}</h2>
-        <ul class="[ flow1/3 ]">
-          {% set exercises = collections['en-exercises'] %}
+        <ul class="[ flow1/2 ]">
+          {% set exercises = collections[locale + 'Exercises'] %}
           {% for exercise in exercises %}
           {% if exercise.data.category == category %}
           <li><a href="{{ exercise.url }}">{{ exercise.data.title }}</a></li>

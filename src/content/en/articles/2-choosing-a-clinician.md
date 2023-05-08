@@ -32,7 +32,7 @@ Simply put, your clinician's foremost goal should be to never see you again. Is 
 
 ## 2. Do they place a strong emphasis on active therapies?
 
-Active therapies are those where you play an active part. This includes anything from graded activity programs such as weightlifting to cognitive therapies like CBT and ACT. It should come as no surprise that passive therapies, predicated on the idea of *receiving treatment* as opposed to you *putting treatment in action,* are not something you should spend too much time on if your goal is to escape or avoid the cycle of dependence.
+Active therapies are those where you play an active part. This includes anything from graded activity programs such as weightlifting to cognitive therapies like cognitive behavioral therapy (CBT) and acceptance and commitment therapy (ACT). It should come as no surprise that passive therapies, predicated on the idea of *receiving treatment* as opposed to you *putting treatment in action,* are not something you should spend too much time on if your goal is to escape or avoid the cycle of dependence.
 
 The relief offered by passive therapies such as massage, acupuncture, or ultrasound is short lived. They just cannot offer the stimulation needed to build physical and mental resilience, overcome fears, learn healthy coping strategies, regain control, and reduce pain sensitivity in the same way that active approaches to therapy do.
 
@@ -52,7 +52,7 @@ Health-related decisions are some of the most important and personally relevant 
 
 To ensure a sense of safety, it is essential to form a relationship with your clinician based on mutual trust. Trust can take time to develop, but don't disregard first impressions. Pay close attention to the feeling you walk away with after an initial consultation with a new clinician. Do they leave you feeling empowered and cared for? Or depressed and anxious?
 
-It is well known that self-efficacy (i.e., self-belief) is one of the most important determinants of long-term health outcomes. Your clinician should be someone who inspires boundless confidence. Finding confidence in your own body when it feels like it's failing you is *hard*. But while you might not always believe in your ability to climb that mountain, your clinician sure as hell should.
+It is well known that *self-efficacy* (i.e., self-belief) is one of the most important determinants of long-term health outcomes. Your clinician should be someone who inspires boundless confidence. Finding confidence in your own body when it feels like it's failing you is *hard*. But while you might not always believe in your ability to climb that mountain, your clinician sure as hell should.
 
 Does your clinician pile on top of your worries? Does it feel like they aren't really listening to you? It goes without saying that a clinical environment characterized by disinterest, fearmongering, and pessimism poses a significant hurdle to you evolving in a positive direction.
 
@@ -64,7 +64,7 @@ Once you have worked together to identify overarching goals, you must break them
 
 Gradually improving stress tolerance (both mental and physical) is one of the key ways the pain system desensitizes, **but meaningful progress will only be made if the stress you are exposed to is sufficient.** When you consistently apply the right kind of stress, you adapt to it and your resilience improves. A greater stimulus is then needed to keep progressing.
 
-*Planned progression* means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to always be providing an ideal dose of stress (neither too little nor too much) that keeps pace with your steadily increasing capacity.
+Planned progression means that when you reach a predetermined goal, you will progress in some way to build toward a new, previously unreachable goal. The idea is to always be providing an ideal dose of stress (neither too little nor too much) that keeps pace with your steadily increasing capacity.
 
 Pain management without goal setting and progression is like throwing darts in a dark room and hoping to hit a bullseye. Setting realistic goals and monitoring progress is like turning on the lights. It's much easier to hit the mark when you know where to aim and how close you got on your last attempt!
 

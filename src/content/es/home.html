@@ -11,11 +11,11 @@ description: La revolución del dolor ha llegado. Nuestra misión es desarrollar
   <div class="[ squeeze12 stack ] [ cx g4 ]">
     {% include 'partials/homeIntro.html' %}
     <div class="[ switcher11 ] [ g3 ]">
-      {% set articles = collections[locale + '-articles'] %}
+      {% set articles = collections[locale + 'Articles'] %}
       <section class="[ flow2 ]">
         <h2 class="[ h-fancy ]">Para clínicos</h2>
         <div class="[ flow1/3 ]">
-          <h3>Entradas</h3>
+          <h3>Artículos</h3>
           <ul class="[ flow1/3 ]">
             {% for entry in articles %}
             {% if entry.data.audience == 'clinicians' %}

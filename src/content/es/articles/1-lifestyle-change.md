@@ -68,7 +68,7 @@ En principio, podemos dividir estas teorías en dos categorías: las teorías de
 
 ## Teoría de la Autodeterminación (TAD)
 
-En esta entrada vamos a centrarnos en una macroteoría (una teoría que engloba varias miniteorías) de la motivación, *la teoría de la autodeterminación*. Desde que los psicólogos Richard Ryan y Edward Deci formularon la primera versión de la TAD en los años 80, ha sido objeto de un intenso desarrollo e investigación.
+En este artículo vamos a centrarnos en una macroteoría (una teoría que engloba varias miniteorías) de la motivación, *la teoría de la autodeterminación*. Desde que los psicólogos Richard Ryan y Edward Deci formularon la primera versión de la TAD en los años 80, ha sido objeto de un intenso desarrollo e investigación.
 
 Hoy en día, la TAD es una de las teorías de la motivación más influyentes, si no la más influyente. Cuenta con un gran cuerpo de literatura que apoya su uso en un amplio espectro de contextos, desde el entrenamiento de atletas hasta la enseñanza en las escuelas, el asesoramiento en casos de trauma, el liderazgo en el ejército, y más allá. Si estás interesado en la literatura, [consulta el sitio web oficial,](https://selfdeterminationtheory.org) donde se recopila toda la investigación sobre la teoría hasta la fecha y se organiza por temas.
 
@@ -152,7 +152,7 @@ Analizar los comportamientos en función de las motivaciones que los componen e 
 
 ## Implicaciones para la práctica clínica
 
-Demos un paso atrás y retomemos la pregunta que nos hacíamos al principio de la entrada:
+Demos un paso atrás y retomemos la pregunta que nos hacíamos al principio de el artículo:
 
 **¿Por qué no nos hacen caso?**
 
@@ -188,7 +188,7 @@ No se puede exagerar lo esenciales que son la confianza y la empatía durante es
 
 *La entrevista motivacional* es una técnica terapéutica desarrollada específicamente para el asesoramiento sobre el cambio de comportamiento. La entrevista motivacional tiene sus raíces en el asesoramiento sobre adicciones, pero desde entonces se ha aplicado con éxito en muchos otros contextos, de forma similar a la TAD. Algunas personas que trabajan con la EM incluso han recurrido a la TAD para explicar por qué funciona.
 
-Aunque en esta entrada no exploraremos por completo cómo hacer la EM, ya hemos formado una base sólida para practicar la técnica. Formular preguntas abiertas y devolver las preguntas al paciente para ayudarle a llegar a conclusiones por sí mismo (apoyo a la autonomía), centrarse en los éxitos pasados para fomentar la autoeficacia (apoyo a la competencia) y escuchar de forma activa y empática (apoyo a la relación) son pilares fundamentales de la EM.
+Aunque en este artículo no exploraremos por completo cómo hacer la EM, ya hemos formado una base sólida para practicar la técnica. Formular preguntas abiertas y devolver las preguntas al paciente para ayudarle a llegar a conclusiones por sí mismo (apoyo a la autonomía), centrarse en los éxitos pasados para fomentar la autoeficacia (apoyo a la competencia) y escuchar de forma activa y empática (apoyo a la relación) son pilares fundamentales de la EM.
 
 #### La balanza decisiva
 
@@ -202,7 +202,7 @@ Durante este proceso, eres un guía: apoya las necesidades psicológicas básica
 
 ## Resumen
 
-En esta entrada, exploramos una frustración clínica común:
+En este artículo, exploramos una frustración clínica común:
 
  **"¿Por qué los pacientes no nos hacen caso?"**
 

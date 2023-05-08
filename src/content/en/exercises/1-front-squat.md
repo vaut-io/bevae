@@ -1,10 +1,8 @@
 ---
-translationKey: exercise1
+translationKey: frontSquat
 id: 1
 title: Front squat
 category: Squat
-description: Lorem ipsum dolor sit amet, qui minim labore adipisicing minim sint cillum sint consectetur cupidatat.
-video: https://link.com/
 ---
 
 ## How to perform
