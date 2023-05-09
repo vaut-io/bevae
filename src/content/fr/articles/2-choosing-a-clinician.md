@@ -10,7 +10,7 @@ audience: patients
 
 Lorsque vous décidez de demander de l’aide professionnelle pour un problème de douleur, trouver un clinicien qui vous convient n’est pas une tâche facile. En effet, de nombreux cliniciens demeurent parfaitement ignorants des avancées modernes dans la recherche sur la douleur, et de ce qui constitue des soins « optimaux » car ces derniers dépendent entièrement de qui vous êtes. Après tout, votre biologie, votre psychologie et votre contexte socioculturel vous sont propres.
 
-Nous pourrions passer des jours à discuter de toutes sortes de modalités et de stratégies de traitement, mais il existe des principes fondamentaux que chaque clinicien hautement compétent suit. Peu importe le type de problème de douleur que vous avez, ces « règles de base » sont une référence.
+Nous pourrions passer des jours à discuter de toutes sortes de modalités et de stratégies de traitement, mais il existe des principes fondamentaux que chaque clinicien hautement compétent suit. Peu importe le type de douleur que vous avez, ces « règles de base » sont une référence.
 
 Le statut socioéconomique et la chance jouent un rôle important dans la détermination de la qualité des soins qui vous seront offerts. Malgré tous les obstacles auxquels vous pourriez être confrontés, avoir accès à des informations exactes et poser les bonnes questions vous permettra de vous engager sur la voie du succès pour recouvrer une meilleure santé.
 
@@ -66,7 +66,7 @@ L’amélioration progressive de la tolérance à la charge (mentale et physique
 
 La progression planifiée signifie que lorsque vous atteignez un objectif prédéterminé, vous progresserez d’une manière ou d’une autre vers un nouvel objectif auparavant inaccessible. L'idée est de toujours fournir une charge de travail idéale (ni trop, ni pas assez) qui correspond à l'augmentation constante de vos capacités.
 
-Gérer la douleur sans fixer d’objectifs et une progression, c’est comme lancer des fléchettes dans une pièce sombre et espérer frapper une cible. Fixer des objectifs réalistes et surveiller les progrès, c’est comme allumer la lumière. Il est beaucoup plus facile de frapper la marque quand vous savez où viser et à quel point vous êtes arrivé sur votre dernière tentative !
+Gérer la douleur sans fixer d’objectifs et de progression, c’est comme lancer des fléchettes dans une pièce sombre et espérer frapper une cible. Fixer des objectifs réalistes et surveiller les progrès, c’est comme allumer la lumière. Il est beaucoup plus facile de frapper la marque quand vous savez où viser et à quel point vous y êtes arrivé sur votre dernière tentative !
 
 L’avenir est imprévisible, surtout quand il s’agit de quelque chose d’aussi complexe que la douleur. Qu’il s’agisse d’un retard ou d’un échec stressant, les plans devront inévitablement changer. Votre clinicien devrait savoir comment réagir à tout ce qui survient pendant le processus et vous aider à y faire face.
 
