@@ -142,7 +142,7 @@ El deseo de correr esta maratón y conseguir una medalla también podría estar 
 
 Te ves a ti mismo como una "persona en forma" y un "atleta competitivo". Correr maratones y vencer a la competencia constituye una parte de esta identidad (regulación integrada).
 
-Por último, corres y compites por gusto. No se trata de entrenar para dejar detrás a los zombis en el apocalipsis, sino que *simplemente se siente bien* correr largas distancias lo más rápido posible (motivación intrínseca).
+Por último, corres y compites por gusto. *Simplemente se siente bien* correr largas distancias lo más rápido posible (motivación intrínseca).
 
 Pregunta a los que te rodean en la línea de meta y cada participante señalará diferentes razones para justificar su decisión de participar. La decisión de algunas personas de participar puede haber estado dominada por la regulación externa e introyectada, mientras que otras están tan intrínsecamente motivadas por correr que se apuntaron sólo por diversión.
 

@@ -142,7 +142,7 @@ The desire to run this marathon and get a medal could also be tied to your perso
 
 You see yourself as an "fit person" and a "competitive athlete." Running marathons and beating the competition constitutes a part of this identity (integrated regulation).
 
-Finally, you run and race for the sake of it. It's not about training to outrun zombies in the apocalypse, it *just feels good* to run long distances as fast as you can (intrinsic motivation).
+Finally, you run and race for the sake of it. It *just feels good* to run long distances as fast as you can (intrinsic motivation).
 
 Ask those around you at the finish line and each participant will point to different reasons to justify their decision to participate. Some people's decision to participate may have been dominated by external and introjected regulation, while others are so intrinsically motivated by running that they signed up just for fun.
 
