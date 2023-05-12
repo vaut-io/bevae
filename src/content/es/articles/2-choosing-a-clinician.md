@@ -10,6 +10,14 @@ audience: patients
 
 Cuando uno decide buscar ayuda profesional para un problema de dolor, encontrar a un clínico adecuado para tí no es trabajo fácil. Muchos clínicos desconocen por completo los avances modernos en la investigación sobre el dolor, y lo que constituye una atención "óptima" depende totalmente de quién seas. Al fin y al cabo, tu biología, psicología y contexto sociocultural son únicos.
 
+Podríamos pasarnos incontables días hablando de todo tipo de modalidades y estrategias de tratamiento, pero existen unos cuantos principios fundamentales que todo clínico altamente competente debería seguir. Independientemente del tipo de problema de dolor que tengas, estas "reglas básicas" sirven como prueba de fuego para distinguir a los mejores del resto.
+
+El estatus socioeconómico y la suerte desempeñan un papel importante a la hora de determinar la calidad de la atención que tiene a su disposición. A pesar de los obstáculos a los que pueda enfrentarse, el acceso a información precisa y la formulación de las preguntas adecuadas le llevarán por la senda del éxito en la búsqueda de la salud, sea cual sea el aspecto que ésta tenga para usted.
+
+Este artículo no es perfecto. No cubre todo lo que hay que hablar, ¡ni podría esperarlo! La gente tampoco es perfecta y, como en la mayoría de las cosas de la vida, hay excepciones a las reglas. Aun así, espero que estas preguntas le resulten útiles para reflexionar sobre su propia situación. Tómate todo esto con una pizca de sal, ejerce el pensamiento crítico y no olvides abordar este tema desde la positividad y la amabilidad.
+
+
+
 
 When you decide to seek professional help for a pain problem, finding a clinician that's right for you is no straightforward task. Many clinicians remain blissfully unaware of modern advancements in pain research, and what constitutes "optimal" care depends entirely on who you are. After all, your biology, psychology, and sociocultural context are unique to you.
 
@@ -19,7 +27,22 @@ Socioeconomic status and luck play an important role in determining the quality 
 
 This article isn't perfect. It doesn't cover everything there is to talk about, nor could it ever hope to! People aren't perfect either, and as with most things in life there are exceptions to the rules. Still, it's my hope that you find these questions useful to reflect on your own situation. Take everything here with a pinch of salt, exercise critical thinking, and don't forget to approach this topic from a place of positivity and kindness!
 
-## 1. Are they perpetuating or breaking the cycle of dependence?
+## 1. ¿Perpetúa o rompe el ciclo de la dependencia?
+
+
+El dolor, sobre todo cuando persiste, tiene una forma de colarse en todos los rincones de la vida. Acaba afectándolo todo, desde el estado de ánimo hasta las relaciones y la identidad. Lo que decidas hacer al respecto tiene el potencial de llevarte a la luz al final del túnel, pero también podría hacerte dar tumbos en la oscuridad.
+
+El dolor persistente suele empezar de forma inocente. Aparece un nuevo dolor en una parte del cuerpo como la espalda, la rodilla o el hombro. El médico te receta un analgésico suave y te dice que te pongas calor y descanses. Pero no mejora. Antes de que te des cuenta, ha llegado otra vez la hora del masaje semanal, la manipulación, los infrarrojos, la acupuntura o cualquier otra terapia a la que te hayas apuntado.
+
+El dolor disminuye durante un rato, pero siempre vuelve, cada vez un poco peor. Puede que estés estresado por la próxima cita con el cirujano, mientras tu capacidad para hacer las cosas que te hacen feliz se va marchitando poco a poco con el paso de los meses y los años.
+
+Este es un ejemplo del *ciclo de la dependencia*. **Si te reconoces en este ciclo, tu prioridad número uno debería ser salir.** Incluso si tu dolor tiene un buen pronóstico (es decir, predicción sobre cómo evolucionará), quedarte atrapado en este ciclo es algo que quieres evitar a toda costa.
+
+Para romper el ciclo, tu clínico debe facilitar tu autonomía y autogestión. Al fin y al cabo, puede que sólo estés en la consulta una hora a la semana; el verdadero trabajo está en lo que hagas tú durante las 167 horas restantes. Su médico debe explicarle su enfermedad de forma que tenga sentido para usted, presentarle sus opciones para el futuro y dotarle de las herramientas y la confianza que necesita para ser más independiente.
+
+En pocas palabras, el principal objetivo de su clínico debería ser no volver a verle nunca más. ¿Existe algún incentivo económico para volver a verle? ¿Hay alguna razón por la que no estén fomentando activamente tu autonomía? El tiempo que se tarda en ganar control, confianza e independencia es diferente para cada persona, pero es el núcleo de lo que tu clínico debería ayudarte a conseguir.
+
+
 
 Pain, especially when it persists, has a way of creeping into all corners of life. It eventually affects anything and everything, from your mood to your relationships and identity. What you decide to do about it has the potential to lead you to the light at the end of the tunnel, but it could just as well be keeping you stumbling around in the dark.
 
@@ -33,7 +56,21 @@ To break the cycle, your clinician should facilitate your autonomy and self-mana
 
 Simply put, your clinician's foremost goal should be to never see you again. Is there a financial incentive to bring you back recurrently? Is there any reason why they might not be actively encouraging your autonomy? The time it takes to gain control, confidence, and independence looks different for everyone, but it is the core of what your clinician should be helping you strive towards.
 
-## 2. Do they place a strong emphasis on active therapies?
+## 2. ¿Hace mucho hincapié en las terapias activas?
+
+Las terapias activas son aquellas en las que el paciente participa activamente. Esto incluye desde programas de actividad gradual como el levantamiento de pesas hasta terapias cognitivas como la TCC y la ACT. No es de extrañar que las terapias pasivas, que se basan en la idea de *recibir tratamiento* y no en la de *poner el tratamiento en acción*, no sean algo a lo que debas dedicar demasiado tiempo si tu objetivo es escapar o evitar el ciclo de la dependencia.
+
+El alivio que ofrecen terapias pasivas como el masaje, la acupuntura o los ultrasonidos dura poco. No pueden ofrecer la estimulación necesaria para desarrollar la resiliencia física y mental, superar los miedos, aprender estrategias de afrontamiento saludables, recuperar el control y reducir la sensibilidad al dolor del mismo modo que lo hacen los enfoques activos de la terapia.
+
+Algunos dolores mejoran con el paso del tiempo pase lo que pase, pero si quiere tener las máximas probabilidades de alcanzar sus objetivos de salud, **debe reconocer que no hay soluciones rápidas.** No existe ninguna pastilla, aguja, bisturí o rayo láser que le "cure" de su dolor e incapacidad. Recuperar la salud y la funcionalidad requiere una combinación de toma de decisiones inteligente, paciencia y persistencia.
+
+Las terapias pasivas, los procedimientos invasivos y el control médico continuo pueden formar parte de una estrategia holística de tratamiento del dolor adecuada para usted, pero nunca pueden sustituir el papel vital que desempeñan las terapias activas. La clave está en no prestar a las terapias pasivas más atención de la que merecen. En cuanto tengan prioridad sobre las terapias en las que tú eres un participante activo, habrás perdido la partida.
+
+¿Ofrece tu médico un bufé de terapias pasivas a elegir con descuentos si vuelves a por más? ¿Su única recomendación relacionada con la actividad es algún comentario vago sobre "mantenerse activo"? **No todo el mundo necesita una terapia intensiva para recuperarse, pero si sientes que estás luchando para sobrellevar el dolor, la discapacidad y el sufrimiento, lo fundamental es lo siguiente:
+
+Tu médico debe ayudarte a entender tu dolor, a superar los obstáculos para la recuperación, como creencias y expectativas inútiles, y a modificar comportamientos y actividades en la medida necesaria para reducir tu sensibilidad al dolor y promover tu salud e independencia a largo plazo. **Si no puede o no quiere cambiar a una mentalidad activa, puede que sea el momento de pedir que le deriven a otro profesional.
+
+
 
 Active therapies are those where you play an active part. This includes anything from graded activity programs such as weightlifting to cognitive therapies like CBT and ACT. It should come as no surprise that passive therapies, predicated on the idea of *receiving treatment* as opposed to you *putting treatment in action,* are not something you should spend too much time on if your goal is to escape or avoid the cycle of dependence.
 
@@ -47,7 +84,20 @@ Does your clinician offer a pick-and-choose passive therapy buffet with discount
 
 Your clinician must help you make sense of your pain, navigate barriers to recovery such as unhelpful beliefs and expectations, and modify behaviors and activities to the extent necessary to reduce your sensitivity to pain and promote your long-term health and independence. **None of this is going to happen with a passive approach.** If they cannot or will not shift to an active-first mentality, it might be time to ask for a referral.
 
-## 3. Do they inspire trust, confidence, and safety?
+## 3. ¿Inspira fiabilidad, confianza y seguridad?
+
+El dolor es una respuesta protectora diseñada para mantener el cuerpo a salvo del peligro. Las amenazas percibidas en el entorno pueden afectar profundamente a la experiencia del dolor y a los comportamientos relacionados con él. No importa si la amenaza es *realmente* peligrosa o no: en lo que respecta a tu sistema del dolor, el peligro es real.
+
+Las decisiones relacionadas con la salud son algunas de las más importantes y personalmente relevantes que tomará en su vida. Si a esto añadimos el hecho de que el clínico está íntimamente implicado en ayudarte cuando te encuentras en tu momento más vulnerable, es fácil entender por qué **lo último que querrías es que tu sistema del dolor percibiera a tu clínico como una amenaza.** Tu clínico *necesita* ser una fuente de seguridad.
+
+Para garantizar esa sensación de seguridad, es esencial que establezcas con él una relación basada en la confianza mutua. La confianza puede tardar en desarrollarse, pero no haga caso omiso de las primeras impresiones. Preste mucha atención a la sensación con la que sale de la primera consulta con un nuevo médico. ¿Se siente fortalecido y atendido? ¿O deprimido y ansioso?
+
+Es bien sabido que la autoeficacia (es decir, la confianza en uno mismo) es uno de los determinantes más importantes de los resultados sanitarios a largo plazo. Su médico debe ser alguien que le inspire una confianza ilimitada. Confiar en tu propio cuerpo cuando sientes que te está fallando es *difícil*. Pero aunque usted no siempre crea en su capacidad para escalar esa montaña, su médico debería hacerlo.
+
+¿Se amontona tu médico encima de tus preocupaciones? ¿Te da la sensación de que no te escucha? Huelga decir que un entorno clínico caracterizado por el desinterés, el alarmismo y el pesimismo supone un obstáculo importante para que evoluciones en una dirección positiva.
+
+
+
 
 Pain is a protective response designed to keep your body safe from danger. Perceived threats in the environment can profoundly affect your pain experience and pain-related behaviors. It doesn't matter if the threat is *actually* dangerous or not - as far as your pain system is concerned, the danger is real.
 
