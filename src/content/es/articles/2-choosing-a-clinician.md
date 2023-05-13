@@ -8,9 +8,9 @@ readTime: 10-20
 audience: patients
 ---
 
-Cuando decides buscar ayuda profesional para un problema de dolor, encontrar a un clínico que adecúe a ti no es nada fácil. Muchos clínicos desconocen por completo los avances modernos en la investigación sobre el dolor, y lo que constituye una atención "óptima" depende totalmente de quién seas. Al fin y al cabo, tu biología, psicología y contexto sociocultural son únicos.
+Cuando decides buscar ayuda profesional para un problema de dolor, encontrar a un clínico que adecúe a ti no es nada fácil. Muchos clínicos desconocen por completo los avances modernos en la investigación sobre el dolor, y lo que constituye una atención « óptima » depende totalmente de quién seas. Al fin y al cabo, tu biología, psicología y contexto sociocultural son únicos.
 
-Podríamos pasarnos una eternidad hablando de todo tipo de modalidades y estrategias de tratamiento, pero existen algunos principios fundamentales que todo clínico competente debería seguir. Independientemente del tipo de problema de dolor que tengas, estas "reglas de referencia" sirven como prueba de fuego para distinguir a los mejores del resto.
+Podríamos pasarnos una eternidad hablando de todo tipo de modalidades y estrategias de tratamiento, pero existen algunos principios fundamentales que todo clínico competente debería seguir. Independientemente del tipo de problema de dolor que tengas, estas « reglas de referencia » sirven como prueba de fuego para distinguir a los mejores del resto.
 
 Tu estatus socioeconómico y la suerte desempeñan un papel importante a la hora de determinar la calidad de la atención que tienes a tu disposición. Aunque tengas que enfrentarte a obstáculos, el acceso a información fiable y la formulación de preguntas adecuadas te llevarán por la senda del éxito en la búsqueda de la salud - sea cual sea el significado que tenga la salud para ti.
 
@@ -36,11 +36,11 @@ Las terapias activas son aquellas en las que participas activamente. Esto incluy
 
 El alivio que ofrecen las terapias pasivas como el masaje, la acupuntura o los ultrasonidos dura poco. No pueden ofrecer la estimulación necesaria para desarrollar la resiliencia física y mental, superar los miedos, aprender estrategias de afrontamiento saludables, recuperar el control y reducir la sensibilidad al dolor del mismo modo que lo hacen los enfoques activos de la terapia.
 
-Algunos dolores mejoran con el paso del tiempo pase lo que pase, pero si quieres tener la máxima probabilidade de alcanzar tus objetivos de salud, **debes reconocer que no hay soluciones rápidas.** No existe ninguna pastilla, aguja, bisturí o rayo láser que te "cure" de tu dolor e incapacidad. Recuperar la salud y la funcionalidad requiere una combinación de decisiones inteligentes, paciencia y persistencia.
+Algunos dolores mejoran con el paso del tiempo pase lo que pase, pero si quieres tener la máxima probabilidade de alcanzar tus objetivos de salud, **debes reconocer que no hay soluciones rápidas.** No existe ninguna pastilla, aguja, bisturí o rayo láser que te « cure » de tu dolor e incapacidad. Recuperar la salud y la funcionalidad requiere una combinación de decisiones inteligentes, paciencia y persistencia.
 
 Las terapias pasivas, los procedimientos invasivos y el control médico continuo pueden formar parte de una estrategia holística de tratamiento del dolor adecuada para ti, pero nunca pueden sustituir el papel vital que desempeñan las terapias activas. La clave está en no prestar a las terapias pasivas más atención de la que merecen. En cuanto tengan prioridad sobre las terapias en las que tú eres un participante activo, habrás perdido la partida.
 
-¿Ofrece tu clínico un bufé de terapias pasivas a elegir con descuentos si vuelves a por más? ¿Su única recomendación relacionada con la actividad es algún comentario vago sobre "mantenerse activo"? **Mala señal.** No todo el mundo necesita una terapia intensiva para recuperarse, pero si sientes que estás luchando para sobrellevar tu dolor, tu discapacidad y tu sufrimiento, lo fundamental es lo siguiente:
+¿Ofrece tu clínico un bufé de terapias pasivas a elegir con descuentos si vuelves a por más? ¿Su única recomendación relacionada con la actividad es algún comentario vago sobre « mantenerse activo »? **Mala señal.** No todo el mundo necesita una terapia intensiva para recuperarse, pero si sientes que estás luchando para sobrellevar tu dolor, tu discapacidad y tu sufrimiento, lo fundamental es lo siguiente:
 
 Tu clínico debe ayudarte a entender tu dolor, a superar los obstáculos para la recuperación como creencias y expectativas contraproducentes, y a modificar comportamientos y actividades en la medida necesaria para reducir tu sensibilidad al dolor y promover tu salud e independencia a largo plazo. **Nada de esto va a pasar con una actitud pasiva.** Si no puede o no quiere cambiar a una mentalidad activa, puede que sea el momento de pedir que te deriven a otro profesional.
 
@@ -72,14 +72,14 @@ El futuro es impredecible, sobre todo cuando se trata de algo tan complejo como 
 
 En lugar de estresarte por alcanzar un objetivo concreto en un momento determinado (el resultado, algo que intrínsecamente está fuera de tu control), intenta centrarte en lo que puedes hacer para avanzar en una dirección positiva (el proceso). ¿Qué puedes controlar actualmente que aumente tus posibilidades de éxito en el futuro? Tú y tu clínico deberíais trabajar para fomentar una mentalidad *orientada al proceso*.
 
-## 5. ¿Tiene miedo de decir "no lo sé"?
+## 5. ¿Tiene miedo de decir « no lo sé »?
 
-La humildad es una virtud, y no más que en la medicina, donde nos hemos equivocado de forma *espantosa* desde el principio de los tiempos. Hoy en día, la humanidad comprende colectivamente muchas cosas sobre el dolor y las condiciones dolorosas gracias a la ardua labor de innumerables científicos y filósofos, pero sigue habiendo muchas incógnitas y "verdades" que podrían resultar erróneas.
+La humildad es una virtud, y no más que en la medicina, donde nos hemos equivocado de forma *espantosa* desde el principio de los tiempos. Hoy en día, la humanidad comprende colectivamente muchas cosas sobre el dolor y las condiciones dolorosas gracias a la ardua labor de innumerables científicos y filósofos, pero sigue habiendo muchas incógnitas y « verdades » que podrían resultar erróneas.
 
-Algunos clínicos dan falsas impresiones de sus conocimientos y capacidades. Un arquetipo con el que hay que tener cuidado es el "coleccionista de certificados". Ya sabes, la persona que tiene una docena de diplomas colgados en la pared de todos los cursos de fin de semana a los que ha asistido. Esto dice más de su deseo de ser *percibido* como sabio que de sus conocimientos reales.
+Algunos clínicos dan falsas impresiones de sus conocimientos y capacidades. Un arquetipo con el que hay que tener cuidado es el « coleccionista de certificados ». Ya sabes, la persona que tiene una docena de diplomas colgados en la pared de todos los cursos de fin de semana a los que ha asistido. Esto dice más de su deseo de ser *percibido* como sabio que de sus conocimientos reales.
 
-Los mejores clínicos dejan de lado su ego y te ponen a TI en el centro de la atención. No debería intentar presumir de lo bueno que es. Una de las mejores formas de evaluar esto es haciendo preguntas sobre tu condición. Si sigues haciendo preguntas relevantes, al final deberías obtener la respuesta "no lo sé".
+Los mejores clínicos dejan de lado su ego y te ponen a TI en el centro de la atención. No debería intentar presumir de lo bueno que es. Una de las mejores formas de evaluar esto es haciendo preguntas sobre tu condición. Si sigues haciendo preguntas relevantes, al final deberías obtener la respuesta « no lo sé ».
 
 Si tu clínico nunca admite un fallo, es posible que su orgullo y arrogancia le impidan reconocer que, en realidad, no sabe todo lo que hay que saber sobre tu condición. Tampoco debería desestimar nunca tus preguntas. Si hay algo que no sabe (y hay una respuesta clara), debe ofrecerse a investigar el tema por ti o remitirte a una fuente fiable.
 
-Como regla general, cuanto más cauteloso sea el clínico a la hora de dar respuestas absolutas incluso a las preguntas más sencillas, mejor. **La respuesta correcta casi siempre empieza por "depende de..."** Volviendo al principio, el dolor (y la salud) es un campo infinitamente matizado en el que las respuestas a la mayoría de tus preguntas dependen totalmente de tu contexto personal.
+Como regla general, cuanto más cauteloso sea el clínico a la hora de dar respuestas absolutas incluso a las preguntas más sencillas, mejor. **La respuesta correcta casi siempre empieza por « depende de... »** Volviendo al principio, el dolor (y la salud) es un campo infinitamente matizado en el que las respuestas a la mayoría de tus preguntas dependen totalmente de tu contexto personal.
