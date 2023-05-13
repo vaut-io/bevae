@@ -100,7 +100,7 @@ Los humanos somos animales sociales y tenemos un deseo muy arraigado de pertenen
 
 ### Motivación intrínseca y extrínseca
 
-La TAD fue pionera en la idea de que la motivación puede describirse no sólo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por el propio comportamiento. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en la propia actividad y el bienestar.
+La TAD fue pionera en la idea de que la motivación puede describirse no solo en términos de su cantidad, sino también de su calidad. **La motivación intrínseca** es el impulso natural de buscar retos. Se deriva del disfrute y el interés por el propio comportamiento. La motivación intrínseca está positivamente correlacionada con el desarrollo cognitivo y social, el rendimiento en la propia actividad y el bienestar.
 
 Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de **la motivación extrínseca.** La TAD amplía el concepto de motivación extrínseca marcando distintos subtipos, cada uno de ellos definido por el grado de *internalización* de la *regulación* de la conducta.
 
@@ -114,7 +114,7 @@ Cuando el objetivo de un comportamiento es algo distinto al propio, hablamos de 
 
 **La regulación identificada** es la etapa en la que la autodeterminación se afianza. El individuo comienza a valorar el comportamiento porque contribuye a un objetivo personalmente relevante; el locus de causalidad se vuelve hacia el interior.
 
-**La regulación integrada** es el tipo de motivación extrínseca más autónomo. El comportamiento no sólo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo interno. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
+**La regulación integrada** es el tipo de motivación extrínseca más autónomo. El comportamiento no solo se considera valioso en términos de otros resultados, sino que también se integra con otros aspectos del yo interno. Aunque la regulación integrada sigue siendo "extrínseca" porque el resultado deseado no es el propio comportamiento, puede presentar cualidades y beneficios similares a los de la motivación intrínseca.
 
 ### Un espectro de autodeterminación
 
@@ -144,7 +144,7 @@ Te ves a ti mismo como una "persona en forma" y un "atleta competitivo". Correr 
 
 Por último, corres y compites por gusto. *Simplemente se siente bien* correr largas distancias lo más rápido posible (motivación intrínseca).
 
-Pregunta a los que te rodean en la línea de meta y cada participante señalará diferentes razones para justificar su decisión de participar. La decisión de algunas personas de participar puede haber estado dominada por la regulación externa e introyectada, mientras que otras están tan intrínsecamente motivadas por correr que se apuntaron sólo por diversión.
+Pregunta a los que te rodean en la línea de meta y cada participante señalará diferentes razones para justificar su decisión de participar. La decisión de algunas personas de participar puede haber estado dominada por la regulación externa e introyectada, mientras que otras están tan intrínsecamente motivadas por correr que se apuntaron solo por diversión.
 
 Analizar los comportamientos en función de las motivaciones que los componen e identificar los tipos de regulación que dominan el "perfil de motivación" puede dar una idea de dónde centrar los esfuerzos si se quiere fomentar la persistencia, el compromiso y el bienestar.
 
