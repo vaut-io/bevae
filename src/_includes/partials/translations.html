@@ -1,5 +1,5 @@
 {% for language in site.languages %}
-{% if loop.first %}<ul class="[ cluster ] [ g1 fs-1 ]">{% endif %}
+{% if loop.first %}<ul class="[ cluster ] [ g0 fs-1 ]">{% endif %}
 
   {% set translationUrl = "/" + language.code + "/" %}
   {% set activeClass = "is-active" if language.code == locale else "" %}

@@ -2,9 +2,9 @@
   position: relative;
   overflow: visible;
   background: hsl(var(--primary050));
-  padding: var(--space-2) var(--space0);
+  padding: var(--border1) var(--space-1);
   border: none;
-  outline: var(--border-1) solid hsl(var(--primary500));
+  outline: var(--border-2) solid hsl(var(--primary500));
   font-style: normal;
   font-weight: var(--weight700);
   transition: transform .1s;
