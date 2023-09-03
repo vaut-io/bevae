@@ -16,7 +16,7 @@ description:
       <p>Inscríbete aquí: <a href="https://forms.office.com/e/w9e4uwSR02" target="_blank">https://forms.office.com/e/w9e4uwSR02</a></p>
     </div>
     <section class="[ flow2 ]">
-      <h2 class="[ h-fancy ]">Horario</h2>
+      <h2 class="[ h-fancy ]">Plan</h2>
       <ul class="[ flow2 ]">
         {% for event in club_schedule %}
         {% if event.lang == 'es' and not event.archived %}
@@ -46,7 +46,6 @@ description:
         {% endif %}
         {% endfor %}
       </ul>
-      <p>Para ver el horario inglés, <a href="/en/club/">visita la página inglesa</a></p>
     </section>
     <section class="[ flow2 ]">
       <h2 class="[ h-fancy ]">Info</h2>
