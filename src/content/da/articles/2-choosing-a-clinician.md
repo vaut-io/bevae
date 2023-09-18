@@ -1,5 +1,5 @@
 ---
-translationKey: article2
+translationKey:
 title: At vælge en kliniker
 subtitle: 5 spørgsmål for at vide, om dit helbred er i gode hænder
 description: Find ud af, om din kliniker følger best practice-principperne for smertebehandling ved at reflektere over disse 5 nøglespørgsmål.

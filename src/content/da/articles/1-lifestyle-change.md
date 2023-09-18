@@ -1,5 +1,5 @@
 ---
-translationKey: article1
+translationKey:
 title: Lifestyle change
 subtitle: the adherence problem
 description: Help your patients make more sustainable behavior changes by learning about and applying a leading theory of motivation.
