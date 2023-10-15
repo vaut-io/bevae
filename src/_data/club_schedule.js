@@ -63,6 +63,14 @@ module.exports = [
     date: '22/09/23',
     time: '10:30–12:30',
     room: '-1.1.1 (EPS, sótano)',
+    archived: true,
+  },
+  {
+    topic: 'Tema pendiente',
+    lang: 'es',
+    date: 'octubre 2023',
+    time: 'hora pendiente',
+    room: 'aula pendiente',
     archived: false,
   },
 ];
