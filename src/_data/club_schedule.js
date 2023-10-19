@@ -66,11 +66,11 @@ module.exports = [
     archived: true,
   },
   {
-    topic: 'Tema pendiente',
+    topic: 'Aprendizaje motor',
     lang: 'es',
-    date: 'octubre 2023',
-    time: 'hora pendiente',
-    room: 'aula pendiente',
+    date: '24/10/23',
+    time: '10:30-12:30',
+    room: '1.6.8 (EPS)',
     archived: false,
   },
 ];
