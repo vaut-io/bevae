@@ -71,6 +71,14 @@ module.exports = [
     date: '24/10/23',
     time: '10:30-12:30',
     room: '1.6.8 (EPS)',
+    archived: true,
+  },
+  {
+    topic: 'Síndrome del túnel carpiano',
+    lang: 'es',
+    date: '20/11/23',
+    time: '15:30-17:30',
+    room: '2.2.1 (EPS)',
     archived: false,
   },
 ];
