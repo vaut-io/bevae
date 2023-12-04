@@ -81,12 +81,12 @@ module.exports = [
     room: '2.2.1 (EPS)',
     archived: true,
   },
-    {
-      topic: 'Síndrome Metabólico',
-      lang: 'es',
-      date: '11/12/23',
-      time: '15:30-17:30',
-      room: '1.5.8 (EPS)',
-      archived: false,
-    },
+  {
+    topic: 'Síndrome Metabólico',
+    lang: 'es',
+    date: '11/12/23',
+    time: '15:30-17:30',
+    room: '1.5.8 (EPS)',
+    archived: false,
+  },
 ];
