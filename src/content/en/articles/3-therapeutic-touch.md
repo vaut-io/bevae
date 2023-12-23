@@ -1,7 +1,7 @@
 ---
 translationKey: article3
-title: Touch
-subtitle: The utility of a misunderstood clinical privilege
+title: Therapeutic touch
+subtitle: A widely misunderstood clinical privilege
 description: ...
 author: Frederik Kehlet
 readTime: 10-20
@@ -96,13 +96,24 @@ Manual therapy can be useful as an explanatory tool. It allows clinicians show p
 
 > manual therapy techniques are based on the physical Aproperties of the delivered stimulus (requiring M knowledge of anatomy, biomechanics and neurophysiology) as well as on the emotional properties that emerge from the sympathetic contact established with the patient. Manual therapists should develop relationship and communicative skills allowing this kind of touch to emerge. Recognition of the therapeutic value of C touch as one of the most qualifying professional acts of physiotherapists is needed and A guarantees patients of its best evidence-based delivering.
 
+
+
+## Frontiers paper
+
+> Touch in the clinical context forms part of a range of examination and therapeutic interventions such as manual therapy (Rondoni et al., 2017). It is also central to enhancing communication, patient compliance, cueing and assisting patients to reduce pain, and improving clinical outcomes. manual therapy techniques should be viewed as a vehicle to deliver touch effects, which can have a positive influence on the sense of “self,” wellbeing, and body image, as well as a profound calming and soothing influence on the individual.
+
+Two broad categories: discriminative (Abeta fibers) and affective touch (c-tactile afferents, slow touch system... "affective touch is associated with tactile stimuli with a hedonic and often emotional component, encompassing aspects of reward and significance in social communications" )
+
+primary function of the nervous system is to manage allostasis, i.e., predicting the physiological needs for survival
+
+> The TA is centred around the tripartite elements of a working alliance described by Bordin (1979), including the agreement on goals, agreement on a task, and the development of attachment bonds, which are the foundation for a successful TA.
+
+> A predictable and positive relationship between the HCP and a positive TA is considered more influential than individual attachment preferences, including any pre-existing anxieties when developing a new relationship with another individual (Taylor et al., 2015). In clinical practice, collaborative interpersonal relationships also contribute to patient control and self-efficacy by encouraging active participation and adherence to exercises (Babatunde et al., 2017; Kinney et al., 2018). Therefore, touch could help develop a successful collaborative and therapeutic relationship contributing to the good clinical benefits of a positive TA (Miciak et al., 2019)
+
+
 ## Further reading
 
 
 [Manual therapy: exploiting the role of human touch](https://doi.org/)
 
-[Reconceptualising manual therapy skills in contemporary practice](https://doi.org/)
-
 [Therapeutic Alliance as Active Inference: The Role of Therapeutic Touch and Biobehavioural Synchrony in Musculoskeletal Care](https://doi.org/)
-
-[Unraveling the Mechanisms of Manual Therapy: Modeling an Approach](https://doi.org/)
