@@ -8,8 +8,6 @@ readTime: 10-20
 audience: clinic
 ---
 
-## Introduction
-
 Touch is a sense, and it's a really important one. It is deeply intertwined with our evolutionary history as social primates. As such, the use of hands-on approaches to diagnosis and treatment of illnesses and ailments stretches very far back in time, likely long before recorded history began. But with the advent of modern medicine and its strong emphasis on scientific inquiry, the use of touch (more specifically, manual therapy) in the clinic has come under fire.
 
 Doctors are licensed to physically touch their patients but typically don't perform hands-on treatments, and to find a psychologist or psychotherapist that physically touches their patients is very difficult. However, a number of professions - including but not limited to osteopathy, chiropractic, and phyiotherapy (setting aside differences in scope of practice and regulation) - have historically been based almost entirely on manual therapy, with associated clinical reasoning frameworks and narratives justifying their existence.
@@ -30,7 +28,11 @@ First of all, touch can be analgesic. It modulates pain around the painful locat
 
 In therapeutic contexts, the person receiving care may be positively primed to be touched through expectations of receiving touch. Though this certainly doesn't hold true for every person, nor for every context, it should be kept in mind when deciding how you balance a hands-on vs. hands-off approach with the person in front of you. Being caressed (i.e., firm but gentle touch) may represent a rewarding and pleasant experience that can facilitate pain reduction.
 
+> Indeed, it has been suggested that the degree of empathy demonstrated during touch correlates with the level of analgesia experienced by the partner through the toucher’s tactile stimulus (Goldstein et al., 2016; Korisky et al., 2020). All reaffirm the integral role that empathy plays in the TA and the patient management in MSK care.
+
 ### Affective touch
+
+primary function of the nervous system is to manage allostasis, i.e., predicting the physiological needs for survival
 
 Touch also has a powerful affective component. We know that it's an important vector for conveying emotion and context. Touching the patient can encourage feelings of safety and relaxation and reduce stress, anxiety, and avoidance (once again, we see how it all comes back to threat vs. safety). The key here is the intention behind the touch, which must be non-threatening. Your intention plays a large part in determining whether or not this nonverbal information is communicated effectively.
 
@@ -75,7 +77,9 @@ Therefore, it would be appropriate to focus future research efforts on the physi
 
 #### Educators should be aware of the overall therapeutic possibilities of touch that span from the correct execution of manual techniques to the wider consideration of the connection to the patient’s body perception and emotions.
 
-This paradigm shift requires a continuous development of relation skills to establish an emotional communication with the patients. Teachers Pshould develop a formalization and a more comprehensive I science of the “affective touch”. To do this, students should be trained in manual techniques as well as in communication skills with a paradigm shift from the Suse of biomechanical and neurophysiological constructs alone, to the wider U consideration of the patient pain experience and emotional communication N as informative for technique design. These two aspects need special Aattention to establish an empathetic M contact with the patients that would ease the emergence of the affective touch. Knowledge of biomechanical and anatomical features maintains D nevertheless its importance to support the correct execution E of hands-on techniques to achieve the intended physical Tstimulus.
+This paradigm shift requires a continuous development of relation skills to establish an emotional communication with the patients. Teachers Pshould develop a formalization and a more comprehensive I science of the “affective touch”. To do this, students should be trained in manual techniques as well as in communication skills with a paradigm shift from the Suse of biomechanical and neurophysiological constructs alone, to the wider consideration of the patient pain experience and emotional communication N as informative for technique design.
+
+These two aspects need special Aattention to establish an empathetic contact with the patients that would ease the emergence of the affective touch. Knowledge of biomechanical and anatomical features maintains nevertheless its importance to support the correct execution of hands-on techniques to achieve the intended physical stimulus.
 
 #### Researchers should orient their investigations on two emerging areas: the “affective touch” and the reorganization of mental representation.
 
@@ -88,9 +92,25 @@ Through the latter, we may refine the modalities in which we already use hand-on
 
 #### Physiotherapy associations should promote the therapeutic role of hands-on techniques and claim their specificity, even though not exclusive, for the Physiotherapy profession.
 
-There is the need to state I firmly that touching a person is a therapeutic act per se, delivered according to precise theoretical constructs (e.g., neurophysiological, biomechanical, psychological) to insure Sits results. The relationship between the patient and the physiotherapist, unlike any other ones, represent a particular context in which the physiotherapist has the legitimate permission to have a close contact with Athe patient’s body. Considering M also the emotional component carried with the touch, only trained and registered healthcare providers should use this approach in clinical setting.
+There is the need to state firmly that touching a person is a therapeutic act per se, delivered according to precise theoretical constructs (e.g., neurophysiological, biomechanical, psychological) to insure its results. The relationship between the patient and the physiotherapist, unlike any other ones, represent a particular context in which the physiotherapist has the legitimate permission to have a close contact with the patient’s body. Considering also the emotional component carried with the touch, only trained and registered healthcare providers should use this approach in clinical setting.
 
-## Manual skills in the diagnostic reasoning process
+## Ways of using touch in the clinic
+
+> Touch in the clinical context forms part of a range of examination and therapeutic interventions such as manual therapy (Rondoni et al., 2017). It is also central to enhancing communication, patient compliance, cueing and assisting patients to reduce pain, and improving clinical outcomes. manual therapy techniques should be viewed as a vehicle to deliver touch effects, which can have a positive influence on the sense of “self,” wellbeing, and body image, as well as a profound calming and soothing influence on the individual.
+
+### "Comfort contact" and building the therapeutic alliance
+
+> "Comfort contact", as it can contribute to patients feeling more comfortable with their HCP, .... decrease stress through reassurance and achieving a secure attachment, a more vital relationship and a sense of safety that helps to regulate and accurately predict the physiological effects of stress and general health
+
+Effective reassurance includes affectionate interactions such as therapeutic relationship building and interpersonal skills, an individualized patient-centered approach, education and the provision of self-management strategies. It should be noted that some interactions that use pathoanatomic models led patients to misinterpret the information provided, this created feelings of fear.
+
+> A predictable and positive relationship between the HCP and a positive TA is considered more influential than individual attachment preferences, including any pre-existing anxieties when developing a new relationship with another individual (Taylor et al., 2015). In clinical practice, collaborative interpersonal relationships also contribute to patient control and self-efficacy by encouraging active participation and adherence to exercises (Babatunde et al., 2017; Kinney et al., 2018). Therefore, touch could help develop a successful collaborative and therapeutic relationship contributing to the good clinical benefits of a positive TA (Miciak et al., 2019)
+
+> The TA is centred around the tripartite elements of a working alliance described by Bordin (1979), including the agreement on goals, agreement on a task, and the development of attachment bonds, which are the foundation for a successful TA.
+
+### As a part of the diagnostic reasoning process
+
+> Health Care providers are in a unique position: it is often considered central and expected to clinically examine and therefore touch a wide area of the body, including the head and neck, generally reserved for more intimate or significant relationships (Geri et al., 2019). Additionally, it helps in the accuracy of HCP to infer the other individual’s emotions, detected through touch (Hertenstein et al., 2009; Geri et al., 2019).
 
 > Therefore, instead of considering manual examination findings only in terms of how they should “guide” manual therapy interventions (i.e. this motion segment is perceived as hypomobile by the clinician and/or painful by the patient, so mobilisation is indicated), we propose that interpretation of manual examination findings should be based upon a contemporary, multidimensional understanding of pain disorders , and viewed as just one, albeit important, part of the information gathered during an examination that considers N relative contributions from multiple dimensions to formulate an individualised treatment Aapproach. Indeed, rather than judging the merit of clinical tests solely on their reliability, consideration of the findings from clinical tests in an integrated manner within clinical reasoning processes has been previously D advocated, particularly in complex, changeable pain states.
 
@@ -108,8 +128,17 @@ It takes practice to be confident. Insecurity you feel will be transmitted throu
 
 Manual therapy can be useful as an explanatory tool. It allows clinicians show patients how their pain is malleable when they otherwise might think it isn't, and provides a perfect opportunity to explain how this works, namely by changing sensitivity, which may be used as a launching off point to discuss how other activities and therapies modulate pain through changing sensitivity.
 
-> manual therapy techniques are based on the physical Aproperties of the delivered stimulus (requiring knowledge of anatomy, biomechanics and neurophysiology) as well as on the emotional properties that emerge from the sympathetic contact established with the patient. Manual therapists should develop relationship and communicative skills allowing this kind of touch to emerge. Recognition of the therapeutic value of C touch as one of the most qualifying professional acts of physiotherapists is needed and guarantees patients of its best evidence-based delivering.
+> manual therapy techniques are based on the physical properties of the delivered stimulus (requiring knowledge of anatomy, biomechanics and neurophysiology) as well as on the emotional properties that emerge from the sympathetic contact established with the patient. Manual therapists should develop relationship and communicative skills allowing this kind of touch to emerge. Recognition of the therapeutic value of C touch as one of the most qualifying professional acts of physiotherapists is needed and guarantees patients of its best evidence-based delivering.
 
+### Manual therapy
+
+Touch extends far beyond just providing a mobilization on a treatment table. But this wouldn't be a complete article without addressing the elephant in the room: manual therapy.
+
+> As an opportunity, it has increased the awareness of the value of this treatment solution as effective to improve pain, function and to facilitate pain-free movement without ‘fixing’ or ‘cure’ any structural deficits. As a pitfall, it has left a sense of loss among clinicians and teachers involved in orthopaedic manual therapy, thus considering the possibility to Pdecrease the effort of teaching them or to abandon the techniques from their therapeutic toolbox in favour of active and psychological strategies
+
+> Even though we are mature enough to accept a transformation of our heritage as a sign of professional development, we have to recognize that hands-on techniques are a core element of physiotherapy identity (Nicholls and AHolmes, 2012) appreciated and expected by patients in the context of a therapeutic ritual historically founded on the use of touch. During the clinical encounter, physiotherapists use their hands to: offer care, obtain information E about the patient’s complaints during the physical examination, prepare the patient for treatment, and deliver a therapeutic intervention (Roger E et al., 2002). In clinical practice the ‘hands-on’ ritual highlights the technical competence of the professional (e.g., skills for soft tissues C palpation or joint mobilization); express humanization of the healthcare experience (e.g., communicate compassion and support beyond spoken words); and define physical, personal and professional boundaries (e.g., create a safe space where the therapy can be delivered) (Kelly et al., 2018).
+
+> I use manual therapy to prove to patients that their pain is about sensitivity. Manual therapy isn’t about correcting anything, although it may help in the short run. It’s about changing what they feel and helping to believe in their adaptive potential. I often fake manual therapy. For example, I might “correct” the scapula with a scapular assistance test and then have the patient lift their arm – and it hurts less. After 1-2 repetitions, instead of pushing the scapula, I just twist the skin – still less pain. Then, I twist the skin in another direction - still less pain. Then, as they keep lifting, I stop “correcting” completely – still less pain! I explain that there is no way I’ve corrected their scapular motion. Rather, I’ve changed how they feel - their sensitivity. Perhaps they became more confident, less fearful. Perhaps something happened in the brain (likely, but I don’t always get into it). I use that change as a learning tool and then use exercises to reinforce the new perception (a nice discussion can be found
 
 ## Caveats
 
@@ -125,55 +154,13 @@ Generally, it's important to maintain open communication with your patients. Whe
 
 Properly used, touch has the potential to transform the practice of medicine. Touch deprivation increases depression and aggression. Touching patients with Alzheimer’s disease can have huge effects on getting them to relax, make emotional connections with others, and reduce their symptoms of depression.
 
-> As an opportunity, it has increased the awareness of the value of this treatment solution as effective to improve pain, function and to facilitate pain-free movement without ‘fixing’ or ‘cure’ any structural deficits (Lewis and O’Sullivan, 2018). As a pitfall, it has left a sense of loss among clinicians and teachers involved in orthopaedic manual therapy, thus considering the possibility to Pdecrease the effort of teaching them or to abandon the techniques from their therapeutic toolbox in favour of active and psychological strategies
-
-> Even though we are mature enough to accept a transformation of our heritage as a sign of professional development, we have to recognize that hands-on techniques are a core element of physiotherapy identity (Nicholls and AHolmes, 2012) appreciated and M  expected by patients in the context of a therapeutic ritual historically founded on the use of touch. During the clinical encounter, physiotherapists use their hands to: offer care, obtain information E about the patient’s complaints during the physical examination, prepare the patient for treatment, and deliver a therapeutic intervention (Roger E et al., 2002). In clinical practice the ‘hands-on’ ritual highlights the technical competence of the professional (e.g., skills for soft tissues C palpation or joint mobilization); express humanization of the healthcare experience (e.g., communicate compassion and support beyond spoken words); and define physical, personal and professional boundaries (e.g., create a safe space where the therapy can be delivered) (Kelly et al., 2018).
-
 ## Beyond touch
 
-Invitation to think about how we use all of our senses.
-
-I think we need to have more touch in the school system. I know private schools, they’re allowed to touch kids, but in a lot of public schools there’s a mandate against touching, and I think that has to change. And it’s only going to change if parent-teacher associations are encouraging teachers to touch the kids. I would say we can have kids giving each other back rubs. That’s happening in Europe in preschools, for example, kids are taught that.
-
-...
-
-Touch extends far beyond just providing a mobilization on a treatment table.
-
-> I use manual therapy to prove to patients that their pain is about sensitivity. Manual therapy isn’t about correcting anything, although it may help in the short run. It’s about changing what they feel and helping to believe in their adaptive potential. I often fake manual therapy. For example, I might “correct” the scapula with a scapular assistance test and then have the patient lift their arm – and it hurts less. After 1-2 repetitions, instead of pushing the scapula, I just twist the skin – still less pain. Then, I twist the skin in another direction - still less pain. Then, as they keep lifting, I stop “correcting” completely – still less pain! I explain that there is no way I’ve corrected their scapular motion. Rather, I’ve changed how they feel - their sensitivity. Perhaps they became more confident, less fearful. Perhaps something happened in the brain (likely, but I don’t always get into it). I use that change as a learning tool and then use exercises to reinforce the new perception (a nice discussion can be found
-
-
-## Frontiers paper
-
-> Touch in the clinical context forms part of a range of examination and therapeutic interventions such as manual therapy (Rondoni et al., 2017). It is also central to enhancing communication, patient compliance, cueing and assisting patients to reduce pain, and improving clinical outcomes. manual therapy techniques should be viewed as a vehicle to deliver touch effects, which can have a positive influence on the sense of “self,” wellbeing, and body image, as well as a profound calming and soothing influence on the individual.
-
-primary function of the nervous system is to manage allostasis, i.e., predicting the physiological needs for survival
-
-> The TA is centred around the tripartite elements of a working alliance described by Bordin (1979), including the agreement on goals, agreement on a task, and the development of attachment bonds, which are the foundation for a successful TA.
-
-> A predictable and positive relationship between the HCP and a positive TA is considered more influential than individual attachment preferences, including any pre-existing anxieties when developing a new relationship with another individual (Taylor et al., 2015). In clinical practice, collaborative interpersonal relationships also contribute to patient control and self-efficacy by encouraging active participation and adherence to exercises (Babatunde et al., 2017; Kinney et al., 2018). Therefore, touch could help develop a successful collaborative and therapeutic relationship contributing to the good clinical benefits of a positive TA (Miciak et al., 2019)
-
-
-> Health Care providers are in a unique position: it is often considered central and expected to clinically examine and therefore touch a wide area of the body, including the head and neck, generally reserved for more intimate or significant relationships (Geri et al., 2019). Additionally, it helps in the accuracy of HCP to infer the other individual’s emotions, detected through touch (Hertenstein et al., 2009; Geri et al., 2019).
-
-As a method to explore and gain expertise.
-
-> "Comfort contact", as it can contribute to patients feeling more comfortable with their HCP, .... decrease stress through reassurance and achieving a secure attachment, a more vital relationship and a sense of safety that helps to regulate and accurately predict the physiological effects of stress and general health
-
-> Indeed, it has been suggested that the degree of empathy demonstrated during touch correlates with the level of analgesia experienced by the partner through the toucher’s tactile stimulus (Goldstein et al., 2016; Korisky et al., 2020). All reaffirm the integral role that empathy plays in the TA and the patient management in MSK care.
-
-
-
-
-
-SHORT TERM EFFECTS
-
-## Looking beyond touch
+I'd like to conclude this article with an invitation to think about how we use all of our senses.
 
 Eye gaze is important as well! Think about how you're using your senses
 
-Effective reassurance includes affectionate interactions such as therapeutic relationship building and interpersonal skills, an individualized patient-centered approach, education and the provision of self-management strategies. It should be noted that some interactions that use pathoanatomic models led patients to misinterpret the information provided, this created feelings of fear.
-
-
+I think we need to have more touch in the school system. I know private schools, they’re allowed to touch kids, but in a lot of public schools there’s a mandate against touching, and I think that has to change. And it’s only going to change if parent-teacher associations are encouraging teachers to touch the kids. I would say we can have kids giving each other back rubs. That’s happening in Europe in preschools, for example, kids are taught that.
 
 ## Further reading
 
